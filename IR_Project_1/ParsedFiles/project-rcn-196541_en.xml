@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196541</rcn>
+  <acronym>SDN-Polygraph</acronym>
+  <objective>Today, enterprises depend on the Internet and computer networks. Costs associated to network malfunctions are huge, estimated around 30K€/hour; companies average 175 hours of downtime per year, which yields losses above 5 M€/year per company. To avoid these huge costs, network administrators require network visibility: the ability to understand what happens in a network. Thus, companies are investing in visibility tools; the market of Network Performance Monitoring (NPM) is currently estimated at $2.4Bn, growing at &gt;11% yearly.
+
+However, enterprises today are still not investing as much as they should in network visibility, because of (1) deployment complexity, which requires expert technicians and planned interventions, and (2) high upfront costs of both hardware and software-based solutions.
+
+A revolution in the networking world called SDN is currently undergoing. This new technology allows software components to alter the network, which becomes almost “programmable”. This opens a window of opportunity to create a SDN visibility product that removes both barriers: it can be deployed with one click, offered cheaply from the cloud at scale, and billed on a subscription basis. The market of SDN is currently $3.5Bn and will grow 10x until 2018. We believe that by combining SDN and network visibility we can at least double the market of our segment, increasing it by $2.4Bn.
+
+The objective of this project is to refine our current Business Plan and reduce the uncertainties in the project. By reducing risk, we will consolidate it and open it to further investment. In particular, we will seek an early adopter and refine the value proposition of our first version of the product.
+
+We are a company that commercializes network visibility solutions; our product (unrelated to SDN) is currently in commercialization stage, with many large-scale deployments. We therefore have the technical and business expertise to build and commercialize a novel network visibility product.</objective>
+  <title>Cloud-based Visibility Service for Software Defined Networks</title>
+<identifier>H2020SMEINST12014</identifier>
+</project>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194687</rcn>
+  <acronym>SWaM</acronym>
+  <objective>The problem:  water reservoir and water wells are fragmentarily managed. This causes high energy inefficiency of water pumping and provision operations and depletion of aquifers.
+
+The solution: the Smart Water Manager - SWAM is a system composed by a set of sensors and actuators interfaced through a remote data logger to a  data mining, analytics and actuation expert system. 
+
+Value Proposition: the SWAM is able to control and optimise the water pumping and the aquifer exploitation,  increasing the overall energy efficiency and reducing maintenance cost of entire grids of water wells.  
+
+Business Model:  Main revenue streams are  the royalties on the energy savings achieved by water managers trough the SWAM system (ESCO model).
+
+Users/Clients: Water Management Companies and Public Autorithies
+
+Market: 20M revenues at the 3rd year after commercialization.
+
+Competition: Specific competitors dealing with SCADA/DCS automation systems for water plants and aqueduct monitoring and innovative solution for optimising the performance of drinking water networks
+
+Revenue Streams: royalties on the energy savings achieved by water managers trough the SWAM (ESCO model).
+
+Team: Edillio Srl, Hydroingea Srl
+
+Required funding: 1,5M€</objective>
+  <title>Smart Water Manager SCADA system for entire grid of water wells management.</title>
+<identifier>H2020SMEINST12014</identifier>
+</project>

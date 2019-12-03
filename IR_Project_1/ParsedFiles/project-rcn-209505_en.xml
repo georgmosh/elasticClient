@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>209505</rcn>
+  <acronym>NI2D</acronym>
+  <objective>Nonlinear vibrations are a frequent occurrence in engineering structures and can originate from friction, contact, material laws and large displacements. Nonlinear phenomena are most often ignored or avoided in industry, because practitioners lack both a methodology and a software for properly addressing them.
+
+The objective of this ERC PoC is to provide companies active in aerospace, automotive and mechanical engineering with a solution for the analysis of nonlinear vibrations. Specifically, we aim to bring the Nonlinear Identification to Design (NI2D) software to the market. NI2D, developed based on the outcomes of the NOVIB ERC Starting Grant, is the first software that can accurately quantify the impact of nonlinear vibrations on engineering structures. NI2D’s unique feature is that it can embrace both measured time series and finite element models, allowing to progress from experimental data to design.
+
+The NI2D software and related services will help (i) shorten test campaigns through proper handling of nonlinear phenomena, (ii) decrease time-to-market by providing an improved correlation between measurements and numerical predictions and (iii) enlarge the design space thanks to the richness of nonlinear behaviors.</objective>
+  <title>NI2D: Software for nonlinear vibration analysis: From identification to design.</title>
+<identifier>ERC2016PoC</identifier>
+</project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207199</rcn>
+  <acronym>ANASTACIA</acronym>
+  <objective>The main objective of the ANASTACIA is to address the constant discovery of vulnerabilities in ICT components providing assurance that ICT systems are secure and trustworthy by design. 
+To this end, ANASTACIA will research and develop a holistic security framework, which will address all the phases of the ICT Systems Development Lifecycle and will be able to take autonomous decisions using new networking technologies (SDN/NFV), and dynamic security enforcement and monitoring methodologies and tools.
+The ANASTACIA framework will include a comprehensive suite of tools and enablers:
+- A security development paradigm based on the compliance to security best practices and the use of the security components and enablers.
+- A suite of distributed trust and security components and enablers, able to dynamically orchestrate and deploy user security policies and actions within complex and dynamic CPS and IoT architectures. 
+- Online monitoring and testing techniques that will allow more automated adaptation of the system to mitigate new and unexpected security vulnerabilities.
+- A holistic Dynamic Security and Privacy Seal, combining security and privacy standards and real time monitoring and online testing. This will provide quantitative and qualitative run-time evaluation of privacy risks and security levels, which can be easily understood and controlled by the final users.
+ANASTACIA results will be driven and demonstrated in three high impact Use Cases: Mobile Edge Computing, Smart Building and IoT networks.
+Bringing together leading partners with wide-ranging expertise, the ANASTACIA Consortium will combine the philosophy and business models of communication technologies with inherently integrated security and privacy solutions, creating a security framework where the end users will be able to control their security and privacy policies enforcement, and application developers, in particular SMEs, will find an open and sustainable ecosystem for secure SLCD.</objective>
+  <title>Advanced Networked Agents for Security and Trust Assessment in CPS/IOT Architectures</title>
+<identifier>H2020DSLEIT2016</identifier>
+</project>

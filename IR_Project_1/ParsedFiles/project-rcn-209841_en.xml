@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>209841</rcn>
+  <acronym>Neuronal MRI</acronym>
+  <objective>Functional MRI (fMRI) is currently the leading noninvasive modality to assess brain function in vivo. However, it relies on a surrogate marker for neural activity –the hemodynamic responses following activity– which makes fMRI nonspecific and difficult to interpret. Here, we propose to advance the state-of-the-art by developing and evaluating a methodology we term neuronal fMRI (nMRI) which would enable a direct measurement of neuronal activity and its fast dynamics.
+Achieving this arduous goal calls for a truly interdisciplinary effort, borrowing concepts from Chemistry (Chemical Exchange Saturation Transfer (CEST) of a neuronal-selective metabolite to impart specificity, restricted diffusion to probe cell sizes), Physics and Engineering (advanced MRI and reconstruction methods). Our general approach consists of a development-validation-application design, thus our main objectives are:
+1. Harnessing the hitherto unexplored downfield resonance of N-Acetylaspartate (NAA) –a metabolite confined solely to neurons– in CEST MRI experiments, thus imparting specificity towards the neuronal population; combining this specificity enhancement with diffusion MRI sequences that are extraordinarily sensitive to cellular sizes, and hence are able to sense subtle cell-swellings arising upon neuronal firing. This new method, which we term neuronal-MRI (nMRI) will thus report on neuronal swellings, and as such reflect activity directly.
+2. Implementing ultra-fast imaging techniques based on data multiplexing and the latest compressed sensing frameworks to nMRI, such that the 50 ms timescale can be reached with full brain coverage. This will allow the measurement of fast neuronal activity dynamics in the brain.
+3. Applying nMRI to study the auditory circuit as a model system in-vivo.
+In summary, we posit that nMRI –upon successful implementation and rigorous testing– will be highly impactful in many disciplines, and pave the way to study the neuronal population in health and disease.</objective>
+  <title>Neuronal MRI: Harnessing chemical exchange between N-Acetylaspartate and water for functional imaging of neural activity</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

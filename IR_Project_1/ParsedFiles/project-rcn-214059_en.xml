@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>214059</rcn>
+  <acronym>POLYPHEM</acronym>
+  <objective>The main objective of POLYPHEM is to improve the flexibility and the performance of small-scale Concentrated Solar Power plants. The outcomes of the project will allow in the short term to reinforce the competitiveness of this new low carbon energy technology and therefore to favour its integration in the European energy mix.
+The technology consists of a solar-driven micro gas-turbine as top cycle and an Organic Rankine Cycle as bottom cycle. There is no water requirement for cooling. A thermal energy storage is integrated between both cycles. The resulting power block is a solar power generation system able to meet the requirements of a local variable demand of energy with a high average conversion efficiency of 18% and a low environmental profile with an investment cost target below 5 €/W. Besides electricity generation, other applications will be considered for future developments, such as heating/cooling of multi-family buildings or water desalination for small communities.
+The project will build a 60 kW prototype plant with a 2 MWh thermal storage unit and will validate this innovative power cycle in a relevant environment (TRL 5), assess its technical, economic and environmental performances and establish the guidelines for its commercial deployment. POLYPHEM will lead to a supply price of electricity of 21 c€/kWh under DNI of 2050 kWh/m2/year, thus meeting for small scale CSP plants the 40% cost reduction of the SET Plan. 
+POLYPHEM will be carried out by 4 research centers and 5 private  companies. The project makes a step forward beyond the state-of-the-art of thermodynamic cycles in CSP plants. The micro gas-turbine will be solarized to integrate solar energy in the cycle. A novel pressurized air solar receiver with 80% efficiency and 0.4 €/W will be developed from a technology of solar absorber currently patented by CEA and CNRS. A thermocline storage at 28 €/kWh will be developed with thermal oil and a filler material in a concrete tank.</objective>
+  <title>Small-Scale Solar Thermal Combined Cycle</title>
+<identifier>H2020LCE2017RESRIATwoStage</identifier>
+</project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211221</rcn>
+  <acronym>INTERSTELLAR</acronym>
+  <objective>When and how did the first galaxies form across Cosmic History? Were they different from present-day ones? This is only a small subset of key cosmological questions that the combination of deep galaxy observations, theoretical modeling, and powerful simulations envisaged here will allow us to answer for the first time. 
+
+Deep galaxy surveys have provided a first valuable characterization of early galaxies in the Epoch of Reionization (redshift z &gt; 6), mostly in terms of their stellar content. However, almost nothing is known about their internal structure and Interstellar Medium (ISM). This is in striking contrast with galaxies at z &lt; 2, for which ISM observations have enabled a much more complete physical description. Hence, a substantial progress in the study of early galaxies must be based on techniques able to probe their ISM. Conversely, ISM studies will help completing the “stellar” picture.  
+
+Interstellar will bridge this gap. Its main aim is to understand the internal structure and interstellar medium of galaxies in the Epoch of Reionization by performing theoretical modeling and high fidelity simulations. By post-processing the simulations and calibrating them with local analogs, we will produce mock images/spectra used to (i) interpret available high-redshift observations and (ii) plan breakthrough experiments with ALMA, JWST and E-ELT.   
+
+The advent of ALMA, JWST, E-ELT and advances in Computational Cosmology make the study of high-z ISM one of the most promising areas of development in Cosmology. 
+
+The aim will be achieved through 5 objectives distributed among 3 Work Packages (WPs). WP1 is concerned with theoretical work, a preparatory phase for the cosmological simulations performed in WP2. WP2 represents the production phase of the project and will deliver cutting-edge zoom simulations of a sample of high-z galaxies and their ISM. Finally, WP3 is concerned with the exploitation of the numerical results and their integration with observations.</objective>
+  <title>The Interstellar Medium of High Redshift Galaxies</title>
+<identifier>ERC2016ADG</identifier>
+</project>

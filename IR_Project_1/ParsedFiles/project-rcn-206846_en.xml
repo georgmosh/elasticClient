@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206846</rcn>
+  <acronym>PJ03a SUMO</acronym>
+  <objective>The project PJ.03a is part of the SESAR 2020 Multi Annual Program for the period 2016-2019. It is allocated to the Industrial Research &amp; Validation phase, developed under the SJU Private Public Partnership and will contribute to the key feature High Performing Airport Operations. The future European ATM system relies on full integration of airports as nodes into the network. In this context, PJ.03a is intended to identify and validate operational and technological solutions aiming at enhancing airport operations. 
+One of the main objectives is to improve the predictability of ground operations in all weather conditions. The implementation of collaborative decision making process involving all relevant stakeholders will ensure an optimization of airport resources allocation. This feature will rely on enhanced integration between aircraft and ground systems which is expected to be achieved through the full implementation of the SWIM concept. 
+It is also important to increase the efficiency and safety of airport operations by improving the current infrastructures and CNS systems. The availability of more accurate navigation information through the use of GNSS (augmented) systems, an automated switching of taxiway lights and (virtual) stop bars according to the AGL service, data link information exchange between controllers and pilots/vehicle and the on-board availability of advanced vision systems will result in an increased situational awareness with an impact on safety. 
+PJ.03a will also focus on the integration of RPAS surface operations into airport operations to ensure, to the maximum extent possible, their compliance with the existing rules and regulations defined for an environment dominated by manned aviation. 
+All those aspects will be assessed through ad hoc validation activities (both FTS and RTS) in different airport environments with different validation platforms to increase the significance of the results based on a broad range of representative layouts.</objective>
+  <title>Integrated Surface Management</title>
+<identifier>H2020SESAR20152</identifier>
+</project>

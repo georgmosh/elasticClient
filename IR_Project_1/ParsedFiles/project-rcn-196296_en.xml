@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196296</rcn>
+  <acronym>MED1C</acronym>
+  <objective>Med1c goal is to solve needs of video usage within medical community. Video is increasingly being the basis for medical interventions and clinical story of patients. While some medical specialties use it more than others, video usage is experiencing a growing tendency in all of them.
+Med1c main features include a user friendly interface, fixing the complexity of having many video formats, allowing to tag and label actions within an intervention, reducing reports and video storage solely to relevant parts, allowing video mining for best case solutions across data bases, and offering a cooperative solution while reducing costs, among others. 
+At the moment, generic solutions or standards to cope with video usage needs are non-existent within medical environment. In the same way images were fixed with PACS some years ago, now is time for video application. Even there are some few proprietary solutions made by Medical HW manufacturers, they are expensive in terms of acquisition and maintenance, and do not allow integration in open platforms like Windows, which Med1c is based on, not to mention their very limited functionality.
+The target market is the health sector, being doctors and health professionals its main potential users. Therefore, in order to adapt the Med1c tool to every individual purpose and medical speciality, 1d3a already has cooperation agreements with some hospitals such as the ALTHAIA Foundation (ES).
+Med1c software solution has a solid foundation, since it is based in Er1c, launched 7 years ago by the SME 1d3a to cope with similar needs within the sector of Elite competition in sports. Some of their main customers are FC Barcelona, Aspire (QA), CSKA (RU) and FIBA.
+The objective of Med1C in the Phase 1 of the SME Instrument is to complete a feasibility study for all relevant medical cases including at least two EU countries. Moreover, the proof of concept for three applications (bronchoscopie, gynecology and oncology committees) will be developed.</objective>
+  <title>MED1C : Video Management in Medical practice</title>
+<identifier>H2020SMEINST12014</identifier>
+</project>

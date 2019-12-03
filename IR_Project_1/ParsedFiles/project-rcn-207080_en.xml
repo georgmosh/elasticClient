@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207080</rcn>
+  <acronym>PVCLOUD</acronym>
+  <objective>Since 2009, POLYTEDA’s ICT product addresses the Physical Verification (PV) stage of semiconductor design before the actual manufacturing of a microchip at the fab (Fabrication Plant). The layout view of a microchip has to be verified by identifying and fixing any design errors. This requires sophisticated software known as Design Rules Checking (DRC) tool. An overlooked error may cause multi-million dollar losses and time to market delays.
+
+Today’s PV tools may take up to several days to make just one iteration on modern increasingly complex, dense (often billions of transistors)
+microchips. The proposed disruptive ICT PV workflow along with an innovative cloud-based business model will set new rules and ultimately
+disrupt the market. It will increase the competitiveness of European semiconductor microelectronics industry and advance enabling and industrial technologies.
+
+This project will allow POLYTEDA CLOUD to further develop its product, increase revenues, generate jobs and seize the PV market, currently
+estimated at 1,6bn $.
+
+POLYTEDA CLOUD concept intends to:
+-Move PV software and services from an outdated and ineffective CAPEX model using (dedicated expensive hardware and software) to a more cost-efficient OPEX model (pay-per-use of shared cloud-based resources).
+-Lower the entry barrier for smaller design companies by using a high quality, cloud-ready PV workflow. This innovative solution and business
+model for PV of semiconductor design optimize the manufacturing process with resulting cost-effectiveness.
+
+Benefits for fabs include the higher quality of tape-outs, winning new clients and increasing sales of the fabs proprietary IP.
+
+European industry will pioneer the PV cloud-based services and consequently become less dependent on the dominating US EDA tool vendors.
+
+The market entry threshold would be lowered for smaller design companies due to a more affordable and easier to use innovative PV workflow.</objective>
+  <title>Innovative Cloud-Based PV Workflow for Semiconductor Foundries</title>
+<identifier>H2020SMEINST220162017</identifier>
+</project>

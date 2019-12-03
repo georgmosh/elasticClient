@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206362</rcn>
+  <acronym>ACTiCLOUD</acronym>
+  <objective>Despite their proliferation as a dominant computing paradigm, cloud computing systems lack effective mechanisms to manage their vast amounts of resources efficiently, leading to severe resource waste and ultimately limiting their applicability to large classes of critical applications that pose non-moderate resource demands. This creates a significant need to lift existing technological barriers of actual fluidity and scalability of cloud resources towards promoting cloud computing as a critical cornerstone for digital economy.
+
+ACTiCLOUD proposes a novel cloud computing architecture for drastically improved management of cloud resources, targeting 1.5x increase in resource efficiency and more than 10x in scalability. By utilizing modest investments on hardware intelligence that enables true resource disaggregation between multiple servers, we will progress current state-of-the-art in hypervisors and cloud management systems promoting holistic resource management at the rack scale and across distributed cloud sites. On top of this, we will evolve the ecosystem around in-memory databases, a core component for extremely demanding and highly critical classes of applications that up to now have faced severe difficulties in matching their resource requirements with state-of-the-art cloud offerings, with a final goal to provide cost-efficient and highly performant DataBase-as-a-Service (DBaaS) cloud platforms.
+
+ACTiCLOUD builds on top of cutting-edge European technologies for cloud servers brought into the project by Numascale and Kaleao, and extends OnApp's MicroVisor, an innovative hypervisor to virtualize resources at the rack-scale. Furthermore it joins the forces of highly acclaimed academic institutions to address key research challenges and extend the capabilities of OpenStack and JVM. Finally, it applies the foreseen innovation to MonetDB, the column-store database pioneer, and Neo4j, the world-leader in graph databases.</objective>
+  <title>ACTivating resource efficiency and large databases in the CLOUD</title>
+<identifier>H2020ICT20161</identifier>
+</project>

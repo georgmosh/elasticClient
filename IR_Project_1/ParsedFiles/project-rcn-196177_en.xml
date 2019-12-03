@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196177</rcn>
+  <acronym>climote</acronym>
+  <objective>Climote is a multi-award winning remote controlled home heating hub. With Climote, you can control your home heating from anywhere using our full suite of remote services. 
+
+We want to create an advanced demand and management tool for domestic heating and cooling. This tool, based upon Climote’s home heating hub, will help delivers Europe’s goal of a low carbon economy by allowing advanced demand management of heating and cooling to help prevent curtailment of European wind farms. Using the hub we can collect information about the household’s energy usage and create a profile for that household. This profile shows what energy is used for and when. We can then schedule certain regular and predictable tasks to happen automatically. By removing the need for manual control, not only do we make people’s lives more convenient, but we also remove human error from the equation, resulting in less energy wastage, Furthermore these tasks can be scheduled to take place at certain times, such as during off peak hours when the cost of energy is lower and there is excess renewable energy on the grid. This has both the advantage of reducing energy waste, and of shifting consumption to renewable sources. 
+Domestic homes account for about 27% of Europe’s total energy consumption. Of this the majority is made up of space and water heating and cooling which is responsible for over 80% of domestic household emissions. By networking the households together into a single central scheduling structure, we can significantly reduce the CO2 emissions across Europe. All this can be provided free of cost to the end users thanks to our business model which makes use of reselling energy credits.</objective>
+  <title>climote Advanced Demand Management of Heating and Cooling</title>
+<identifier>H2020SMEINST12014</identifier>
+</project>

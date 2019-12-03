@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204781</rcn>
+  <acronym>REFERENCE</acronym>
+  <objective>The REFERENCE project aims to leverage a European leading edge Radio Frequency (RF) ecosystem based on RF Silicon On Insulator (SOI) disruptive technology, perceived as the most promising to address performance, cost and integration needs for RF Front End Modules (FEMs)s.
+The project targets to develop over the next 3 years, innovative solutions from material, engineered substrates, process, design, metrology to system integration capable to address the unresolved 4G+ requirements for RF FEMs (data rate &gt;1Gb/s) and pave the way to 5G.
+The R&amp;D and demonstration actions include:
+• Development of innovative RFSOI substrates for 4G+ / 5G. 
+• Move to 300 mm diameter.
+• Development of 4G+ / 5G RF-SOI devices with 2 major European foundries : analog in 200 mm 130nm technology, RF digital by combining RFSOI and FDSOI in 300 mm at 22nm.
+• Innovative design for 4G+ /5G (analog and RF digital).
+• Integration of several 4G+ FEM components on the same chip and demonstration System in Package Technology (SiP).
+3 applications are investigated:
+• Cellular / Iot : 4G+ RFSOI FEM demonstrator at SiP device level.
+• Automotive : 4G+ RF-SOI demonstrator at SiP device level.
+• Aviation: RF-SOI high data rate wireless communication module at system level; targeting a new frequency band for aeronautic.
+
+The project is executed within 5 European countries, by on a strong and complementary and well balanced consortium, 6 large industrial companies (world leaders in material, foundries, aeronautics), 4 SMEs and a network of world class level and major European public research institutes and academics. It clearly aims to develop industrial solutions enabling European leadership and production. 
+Through this technology disruption, REFERENCE project addresses major thrusts for smart mobility, smart society, semiconductor processes, equipments, design technology and smart systems implementation, and support the societal challenges of smart transport, as well as secure and innovative society.</objective>
+  <title>Rf Engineered substrates to FostER fEm performaNCE</title>
+<identifier>H2020ECSEL20151RIAtwostage</identifier>
+</project>

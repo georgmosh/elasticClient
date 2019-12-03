@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210836</rcn>
+  <acronym>NARSIS</acronym>
+  <objective>Probabilistic Safety Assessment (PSA) procedures allow to better understand and estimate the likelihood of the most causes prone to initiate nuclear accidents and to identify the most critical elements of the systems. However, despite of the remarkable reliability of current procedures, the 2011 Fukushima Daiichi accident highlighted a number of challenging issues with respect to their application and validity of their results. From this nuclear disaster the upgrading of the current methodological framework appeared to be necessary in areas such as cascading/conjunct events characterization, fragility analyses and uncertainties treatment. New developments in those areas would even enable the extension of their use in accident management.
+Based on recent theoretical progresses, the NARSIS project aims at making significant scientific updates of some elements required for the PSA, focusing on external natural events (earthquake, tsunami, flooding, high speed winds...). These improvements mainly concern: 
+• Natural hazards characterization, considering concomitant external (simultaneous-yet-independent or cascading) events, and the correlation in intra-event intensity parameters; 
+• Fragility and functionality assessment of main critical NPPs' elements, accounting for conjunct effects (including ageing effects) and interdependencies under single or multiple external aggressions;
+• Risk integration combined with uncertainty characterization and quantification, to allow efficient risks comparison and account for all possible interactions and cascade effects; 
+• Better processing/integration of expert-based information within PSA, through modern uncertainty theories both to represent in flexible manner experts’ judgments and to aggregate them to be used in a comprehensive manner.
+The proposed improvements will be tested and validated on simplified and real NPP case studies. Demonstration supporting tools for operational &amp; severe accident management will be also provided.</objective>
+  <title>New Approach to Reactor Safety ImprovementS</title>
+<identifier>NFRP201620171</identifier>
+</project>

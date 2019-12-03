@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199289</rcn>
+  <acronym>RNAREG</acronym>
+  <objective>Gene expression is a highly dynamic and inherently variable process. Yet, it needs to be tightly regulated, especially during the cell cycle, when continuous large-scale changes occur to the proteome. Even small deviations in the expression levels of a single protein in individual cells can de-regulate cell cycle entry and promote tumorigenesis. Here, I will develop new technology to study gene expression dynamics in single cells to uncover how active regulation and stochastic variability shape the expression of key cell cycle genes and ensure reliable cell cycle-entry decisions.
+I recently developed a protein multimerization system, called SunTag, which allows very bright fluorescence imaging, as well as manipulation of transcription. To understand how accurate expression levels of a core set of cell cycle proteins are achieved, I will combine single-cell RNA sequencing with SunTag fluorescence imaging technology to visualize, with single molecule sensitivity, the rates of transcription, translation and mRNA degradation. These analyses will identify the contribution of each type of regulation to accurate gene expression, and will reveal how active regulation ensures correct cell cycle decisions in the presence of stochastic expression variability. Furthermore, I will develop new methodology to specifically perturb the different types of gene expression control during defined cell cycle stages. This will enable an unprecedented ability to interrogate the function of gene expression control for cell cycle entry, and will identify the genes for which tight control of expression is critical for correct cell cycle decisions. Together, this approach will:
+
+1) Uncover how individual regulatory mechanisms (e.g. regulation of transcription, translation or mRNA degradation) contribute to accurate cell cycle entry through gene expression control of key cell cycle proteins
+
+2) Examine how stochastic variability in gene expression influences the decision to enter the cell cycle</objective>
+  <title>Single molecule observation and manipulation of gene expression dynamics to dissect mechanisms of cell cycle entry</title>
+<identifier>ERC2015STG</identifier>
+</project>

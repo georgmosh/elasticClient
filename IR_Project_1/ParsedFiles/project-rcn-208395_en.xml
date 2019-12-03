@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208395</rcn>
+  <acronym>InsiliCardio</acronym>
+  <objective>Advances in medical imaging have enabled unprecedented ability to image
+cardiac anatomy and function. So far these technologies have had relatively
+modest clinical impact as the analysis of such rich multi-modal
+datasets has proven challenging.
+In silico models hold vast potential to better harness such datasets
+by enabling their integration into quantitative frameworks that can aid
+in gaining better mechanistic insight into cardiac function in health and disease,
+and thus paving the way towards optimal therapeutic strategies.
+
+Our objective is to develop the most advanced biophysically detailed
+in-silico model of total electro-mechano-fluidic function of the heart.
+This model will be parametrized, verified and used to study cause-effect
+relationships between flow and pressure and their impact upon pumping performance.
+A novel set of features such as combined models of both heart and attached
+outflow vessels and the computational efficiency will provide a unique
+platform for translational research.
+
+This ambitious endeavor is feasible only by combining the expertise
+of the applicant in modeling soft tissue mechanics and his supervisors
+in modeling electrophysiology (Gernot Plank, MUG) and blood flow
+(Shawn Shadden, UC Berkeley).
+Clinical input and datasets for model parametrization and validation
+are provided by Titus Kühne (DHZ Berlin) and by clinical
+collaborators of Prof. Shadden at UCSF.
+During the return-phase, the applicant will use the infrastructure
+of Prof. Plank’s lab and the large network of academic and industrial
+collaborations as an incubator for building up his own research group
+in computational hemodynamics. This is ideal in many regards,
+as the expertise of the applicant's group will be entirely orthogonal
+to the expertise in Prof. Plank's lab, thus promoting a fast pathway
+towards full indepence, and core expertise necessary
+for further developing and maintaining a highly complex computing
+environment is synergistically shared between the labs.</objective>
+  <title>Image-based High-resolution In-silico Modeling of Total Cardiac Function</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

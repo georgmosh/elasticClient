@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194934</rcn>
+  <acronym>SoNDe</acronym>
+  <objective>The Solid-State Neutron Detector – SoNDe – project aims to develop a high-resolution neutron detector technique that will enable the construction of position-sensitive neutron detectors for high-flux sources, such as the upcoming European Spallation Source (ESS). Moreover, by avoiding the use of 3He in this detector the 3He-shortage, which might otherwise impede the construction of such large-scale facilities, can be alleviated. The main features of the envisioned detector technique are:
+
+• High-flux capacity, capable of handling the peak-flux of up-to-date spallation sources.
+• High-resolution down to 3 mm by direct imaging technique, higher resolutions available by interpolation.
+• No beam stop necessary, thus enabling investigations with direct beam intensity.
+• Independence of 3He.
+• Modularity, improving maintenance characteristics of today’s neutron detectors.
+
+Detectors of these kind will be capable of usage in a wide array of neutron instruments at facilities which use neutrons to conduct there research, among them the Institute Laue-Langevin (ILL) in France, the Maier-Leibnitz-Zentrum (MLZ, former FRMII) in Germany, Laboratoire Leon Brillion (LLB) in France and ISIS in the United Kingdom which are in operation at the moment and the upcoming ESS. At these facilities neutrons are used as a probe in a wide array of fields, ranging from material science to develop new and smart materials, chemical and biological science to develop new drugs for improved treatment of a wide range of medical conditions, magnetic studies for the development of future information storage technology to archeology, probing historical artifacts without physically destroying them. All these fields nowadays rely heavily on neutrons scattering facilities in their research and thus are in need of a reliable, high-quality neutron detection technique, which will be able to perform well at the new high-flux facilities such as ESS and simultaneously avoid the problem of 3He shortage.</objective>
+  <title>Solid-State Neutron Detector - A new Neutron Detector for High-Flux Applications</title>
+<identifier>H2020INFRADEV120141</identifier>
+</project>

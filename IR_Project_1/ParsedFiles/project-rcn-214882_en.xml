@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>214882</rcn>
+  <acronym>Interfaces</acronym>
+  <objective>In this project we will leverage developments in acoustic meta-materials to build interactive systems that manipulate sound to create experiences with the same ease and fidelity as we are so accustomed to doing with light. This involves designing and evaluating new acoustic meta-materials AND building interactive systems that create novel interaction experiences that were hitherto impossible to achieve.
+
+We will use acoustic metamaterials technology to build a Spatial Sound Modulator (SSM) that aims to be a software controlled device that transforms an input acoustic wave into a time-variable, user-defined acoustic field. SSM comprises of a surface made of electronically adjustable acoustic metamaterial bricks. Each brick in the surface can individually vary the phase of an incident acoustic field, to shape the complex output field. 
+
+Our objectives are: 
+1.	Design, implement and evaluate dynamically reconfigurable metamaterial unit-cells and surfaces using transmissive modes of operation. We will explore narrow-band devices for air-borne operation at low ultrasonic frequencies (e.g. 40 kHz).  
+2.	Design SSMs from a spatial distribution of metamaterial unit cells. Specifically, we will identify discretization strategies, digital control mechanisms and develop concepts that are efficient and reduce field reconstruction errors while at the same time constructing the SSM from a small set of reconfigurable metamaterial unit-cells. 
+3. 	Create multiple application-specific prototypes of the SUM and identify context specific design constraints and trade-offs.</objective>
+  <title>Manipulating Acoustic wavefronts using metamaterials for novel user interfaces</title>
+<identifier>ERC2017ADG</identifier>
+</project>

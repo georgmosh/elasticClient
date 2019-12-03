@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207131</rcn>
+  <acronym>Force Servo</acronym>
+  <objective>Servo drives are small devices that have an output shaft, which can be positioned to specific angular positions by sending the servo a coded signal. Development of autonomous vehicles, drones, advanced robotic manipulators, camera stabilizers and other innovations require servo drives that are able to react and imitate the force of a living being. Absence of such solution creates a market gap in these industries and stagnate revolution of autonomous devices.
+Currently, there are no commercially available servo drives on the market that can fulfil the performance requirements needed for development of new generation autonomous devices.
+Force Servo (TRL 7), developed and patented by My Research is a new type of servo drive with controllable action force. The value of force is proportionate to the control signal and does not depend on the position of the arm, while the force is controlled with a force sensor. Force Servo improves technical characteristics of many autonomous devices, by providing simplicity, accuracy, lightness, energy efficiency, and replicating the force of a living being.
+To demonstrate advantages of Force Servo, the company will first commercialize a video camera stabilizer integrated with Force Servo drives. Such stabilizer is smaller, lighter and better performing than any alternative on the market. In the future, My Research will standardize and commercialize Force Servo drives in all relevant market segments – video stabilization, robotics, bionics, remote controlled vehicles, interactive interface, etc.
+To ensure successful commercialization, in Phase 1 of SME Instrument, Nord Robos Holding intends to develop an elaborate feasibility study for My Research Force Servo drive commercialization that would include: identification and contacting target users, verification of technological and economic viability, redesign of the product, and a business plan with an extensive financial, pricing, and IPR strategy.</objective>
+  <title>Force Servo</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

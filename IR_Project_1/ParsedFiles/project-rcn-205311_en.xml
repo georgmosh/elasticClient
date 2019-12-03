@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205311</rcn>
+  <acronym>LoC</acronym>
+  <objective>“The human imagination remains one of the last uncharted territories of the mind”  
+- Ruth Byrne, The Rational Imagination
+
+Our mind represents non-actual scenarios to extract information from them. We cannot experience beforehand which situations are or will be actual. So we explore them in our imagination, leaving our perceptions offline: ‘What would happen if...?’. The cognitive importance of this activity is hardly overestimated.
+
+But what is its *logic*? The orthodox logical treatment of representational mental states comes from modal logic’s possible worlds semantics: the modal analysis of knowledge, belief, information, was taken up by philosophy, linguistics, and Artificial Intelligence. However, the approach faces major problems. By systematically addressing them, the Logic of Conceivability (LoC) project will yield a paradigm shift in our understanding of the logic of human imagination.
+
+One major purely logical problem is that mainstream epistemic logics model cognitive agents as logically omniscient, thus as disconnected from the reality of human, fallible minds. One major philosophical problem concerns the entailment from conceivability to so-called absolute possibility in ‘thought experiments’ of theoretical philosophy: how does conceiving a scenario give evidence of its possibility? LoC will address such issues via the techniques of non-classical logics with non-normal worlds semantics. It will make logically precise the distinction, taken from cognitive science, between Fast Thinking (associative, context-sensitive) and Slow Thinking (rule-based, analytic). It will show how omniscience is avoided, and evidence of absolute possibility is achieved, in different manners in the Fast and Slow Way.
+
+Based at the Institute for Logic, Language and Computation, and advised by a Board of researchers from Europe, the US, and Australia, LoC will deliver high-impact outputs in top journals, a book, and knowledge dissemination results for non-specialists.</objective>
+  <title>The Logic of Conceivability: Modelling Rational Imagination with Non-Normal Modal Logics</title>
+<identifier>ERC2015CoG</identifier>
+</project>

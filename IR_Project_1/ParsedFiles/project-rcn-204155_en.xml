@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204155</rcn>
+  <acronym>FONT</acronym>
+  <objective>The currently available neuroimaging tools, such as functional magnetic resonance imaging (fMRI) and optical microscopy, are not adequate for deep tissue volumetric visualization of brain activity in real time. The need for such solutions underlies the large scale multi-year European Human Brain Project as well as the BRAIN initiative promoted by the US government. Under the currently funded ERC-StG project, we have pioneered the so-called five-dimensional optoacoustic imaging method that can simultaneously render spectrally and temporally resolved volumetric images deep from highly scattering tissues. Taking this achievement one step further, in this PoC grant we propose to prototype and validate a functional optoacoustic neuro-tomography (FONT) scanner specifically tailored for fully noninvasive volumetric observations of activity in whole brains of rodents. In combination with optoacoustics' well-established capacity for resolving vascular anatomy and multiple hemodynamic parameters deep in scattering tissues, this solution will open new vistas in the study of brain activity and development of novel therapies targeting neurological and neuropsychiatric disorders.</objective>
+  <title>Functional Optoacoustic Neuro-Tomography</title>
+<identifier>ERC2015PoC</identifier>
+</project>

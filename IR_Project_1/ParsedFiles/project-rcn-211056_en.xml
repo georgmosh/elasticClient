@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211056</rcn>
+  <acronym>WORTECS</acronym>
+  <objective>5G promises increased connectivity, high data rates, and ultimately new services. The first 5G release standard in 3GPP will be available by June 2018 with pre-commercial deployment in Korea soon after. Whilst 5G will meet current demand, the exponential rise in demand for wireless connectivity will ultimately require Tbps connectivity in indoor spaces. The future network will use an all optical fibre core, and an ultra-high data rate wireless ‘bridge’ to the User.
+
+WORTECS focuses on the goal of ultra-high data rate wireless. High-frequency mm-wave (in the band above 90 GHz) radio communications will be combined with optical wireless communications in the infrared and visible regions of the optical spectrum, using novel heterogeneous networking concepts. A compelling virtual reality application will be used to showcase the capability of the WORTECS network. The project will deliver two Proof-of-Concept demonstrations. An ultra-high density LiFi/Radio network providing multi-Gbps to virtual reality terminals will be developed, and an ultra-high data rate Proof-of-Concept capable of Tbps networking will also be targeted.
+
+WORTECS brings together innovative, world leading LiFi SMEs Oledcomm (France) and PureLiFi (UK), Global telecommunications operator Orange (France) and research institutes BCOM (France) and IHP (Germany). These are joined by university research leaders in optical wireless communications from the University of Oxford (UK) and the University of Las Palmas (Spain). The consortium has the dual ambition of proposing new scientific solutions beyond 5G while transferring these technologies from research labs to industrial world. A successful project will both showcase technologies required to alleviate the radio spectrum crunch, and provide substantial benefits to EU citizens through the exploitation of results by WORTECS commercial partners.</objective>
+  <title>Wireless Optical/Radio TErabit Communications</title>
+<identifier>H2020ICT20162</identifier>
+</project>

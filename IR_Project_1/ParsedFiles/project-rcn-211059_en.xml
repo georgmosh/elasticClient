@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211059</rcn>
+  <acronym>DREAM</acronym>
+  <objective>Nowadays there is a shared vision among industry, operators and academy that beyond 5G wireless networks will have to provide wideband wireless access and ubiquitous computing anywhere and at any time. The human life of the majority of the EU citizen will be surrounded by intelligent wireless sensors, which will bring radical changes to the way we live and do things. Supporting this scenario is a challenge for network operators and wireless network infrastructures and it will demand a tremendous performance improvement of medium range wireless infrastructure. This challenge needs to be addressed by a convergence of advanced semiconductor nanotechnology and a robust wireless infrastructure meshed network with seamless fiber performances.
+
+The DREAM project, through the exploitation of the radio spectrum in D-band (130-174.8 GHz) with beam steering functionality, will enable wireless links with data rate exceeding current V-band and E-band wireless backhaul solutions by at least a factor of 10 and thus, it will bring wireless systems to the speed of optical systems. The DREAM project vision and objectives rely on a power efficient and silicon based BiCMOS transceiver analog front end, operating in D-band and enabling cost efficient deployment of meshed networks with seamless fiber performance. A beam steering integrated antenna array using an intelligent low-cost packaging technology prototype will be developed for the implementation of the beyond 5G network proof of concept in a realistic environment.
+
+The DREAM consortium has a well-balanced and complementary known-how in the relevant areas for designing and demonstrating the feasibility of a small cell cellular network architecture based on meshed D-band backhaul links. DREAM will therefore secure Europe’s industrial leadership and pave the way towards the beyond 5G telecommunications networks.</objective>
+  <title>D-Band Radio solution Enabling up to 100 Gbps reconfigurable Approach for Meshed beyond 5G networks</title>
+<identifier>H2020ICT20162</identifier>
+</project>

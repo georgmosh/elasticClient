@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>215528</rcn>
+  <acronym>MoMenT</acronym>
+  <objective>The MoMent-project aims to develop a reliable instrument for quantitative evaluation of thermal phenomena in metal cutting, extending an original scientific approach already developed by the Experienced Researcher, which will advance both the fundamental knowledge in this field and the application side of cutting tool products and respective R&amp;D solutions. 
+This approach is based on a coupled measurement and modelling algorithm where cutting temperature and related phenomena are reconstructed by solving an inverse problem of thermal physics. A layered architecture is developed where the parental framework model is strengthened by dedicated satellite modules covering every aspect of heat balance in tooling. The advanced algorithms are supported by experimental setups to convert the research modules into innovative solutions with direct application in the R&amp;D practice of the host: SECO Tools – global market-leading manufacturer of tools and tooling systems for advanced industrial metal cutting applications. To enable the intended innovations, access to and use of world class facilities during 2 secondments at Lund University are foreseen.
+MoMenT has two workpackages: WP1 is focusing on the development of sensors for off-line and real time measurement of temperature and temperature distribution in a cutting tool. These outcomes have high potential for commercialization by SECO Tools as products for its customers. WP2 is focusing on development of modules designed to support R&amp;D actions related to material and coating development and to solutions for the efficient choice and use of machining coolants. This will contribute to SECO Tools’ “secret know-how” and hence provide a competitive edge.
+With MoMenT, I hope to develop from a stand-alone researcher that is destined to join activities of others, to a leader of a department bridging the areas of Software Development and Manufacturing Engineering, leading to a professorship position within 3 years after project end.</objective>
+  <title>Modelling and Measurement of Thermal Phenomena in Metal Cutting</title>
+<identifier>H2020MSCAIF2017</identifier>
+</project>

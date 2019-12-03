@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193510</rcn>
+  <acronym>MaMMoTH-Up</acronym>
+  <objective>Today, the amount of telemetry data from the sensors in the upper stages of a launch vehicle is very restricted, due to limited on-board-computing capacities combined with limited data bandwidth to ground. As a result, no detailed information about the various phases of the flight is available.
+
+Massively extended Modular Monitoring for Upper Stages (MaMMoTH-Up) will improve the amount of monitored data by a factor of more than 2500 by integrating four key objectives, which are 
+1. a self-configuring monitoring framework that will selectively observe, pre-process, and compress sensor data,
+2. Components off the Shelf (COTS) that provide improved computing performance on a launcher,
+3. design solutions guaranteeing the required levels of dependability, even when using relatively unreliable COTS components, and
+4. a tight coupling with advanced dependability analysis.
+Achieving these 4 goals is scientifically and practically highly relevant. A demonstrator at TRL 6 will show the advantages of the new monitoring infrastructure and a virtual prototype proves the advanced dependability enhancements. Thus, MaMMoTH-Up will provide a framework and a proof-of-concept for next-generation avionics solutions for a launcher based on COTS. Moreover, the work plan provides the path to realization, potentially including a demo-flight at the end of the project. The proposed technology is complementary with on-going launcher developments. The usage of COTS will represent a direct advantage over competitors; this will decrease time-to-market and decrease the European dependence on external suppliers.
+
+MaMMoTH-Up directly addresses the call COMPET-2-2014 by providing an innovative avionics solution for safer and more reliable launch operations for conventional launching systems. The solution developed within MaMMoTH-Up strengthens competitiveness and cost-efficiency having an immediate commercial potential.</objective>
+  <title>Massively extended Modular Monitoring for Upper Stages</title>
+<identifier>H2020COMPET2014</identifier>
+</project>

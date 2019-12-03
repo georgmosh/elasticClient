@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204280</rcn>
+  <acronym>Giantleap</acronym>
+  <objective>Fuel-Cell Electric Buses (FCEBs) have been deployed in multiple demonstrations in Europe, Canada and the USA, but they still suffer from high costs and low availability.
+Oddly enough, the low availability has almost always been due to control issues and hybridisation strategies rather than problems in the fuel cells themselves.
+
+Giantleap aims to increase the availability and reduce the total cost of ownership of FCEBs by increasing the lifetime and reliability of the fuel cell system; this will be achieved with advanced online diagnostics of the fuel cells and the balance-of-plant components of the system, coupled with prognostics methods to calculate the system's residual useful life, and advanced control algorithms able to exploit this information to maximise the system's life.
+The same control system will also be engineered for robustness, in order to increase availability to the level of diesel buses or better.
+
+Giantleap will improve the understanding of degradation in fuel-cell systems with extensive experimentation and analysis; diagnostic and prognostic methods will focus on exploitation of current sensors to make the novel control approach cost-effective.
+Giantleap includes the demonstration of a prototype in relevant environment, allowing the project to reach technology readiness level 6.
+
+The prototype will be a trailer-mounted fuel-cell based range extender meant for battery city buses. The ability to swap out the range extender in case of malfunctions greatly increases the availability of the bus, while the large battery capacity allows the bus to complete its route should malfunctions occur during usage.
+Furthermore, the large battery capacity will give the control system ample opportunity to optimise fuel-cell usage via hybridisation management strategies.</objective>
+  <title>Giantleap Improves Automation of Non-polluting Transportation with Lifetime Extension of Automotive PEM fuel cells</title>
+<identifier>H2020JTIFCH20151</identifier>
+</project>

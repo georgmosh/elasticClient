@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206481</rcn>
+  <acronym>DustPrints</acronym>
+  <objective>With close to 2000 detected planets, it is striking that we still do not
+understand how planets form. Their building blocks form in gas disks
+around young stars, where colliding dust grains form ever-larger
+aggregates. But this growth is not without limits: larger particles
+quickly drift towards the star and collide at speeds that shatter them
+to pieces, long before gravity can bind them together. The mechanisms
+involved in the assembly and transport of these building blocks remain
+some of the biggest mysteries of planet formation.
+
+Solids in protoplanetary disks evolve differently than the gas, but not
+independent of it. Observations allow us to directly probe particle
+growth – the first stage of planet formation. But the gas-solids
+coupling also enables us to probe the gas disk structure indirectly –
+just like we cannot see the wind, but we see leaves being moved by it.
+With this proposal I want to answer some of the key questions of planet
+formation: (1) What mechanisms drive disk evolution? (2) What role do
+solids play in the transport of volatiles and the pre-biotic building
+blocks of life? We will for the first time couple detailed models of the
+evolution of solids in protoplanetary disks with chemical models on the
+one side and with hydrodynamical simulations on the other. We aim to
+derive the unique observable fingerprints of these processes and link
+those predictions to upcoming observations.
+
+With the advent of the ALMA observatory, the prospects of finding these
+fingerprints are excellent. ALMA will allow us to test our predictions
+through a wide range of observables at unprecedented sensitivity and
+resolution, including dust continuum emission, chemical abundance
+patterns, and isotopic ratios in disks, comets, and our solar system.
+With our work designed to interpret these observations, we will set the
+stage for a future understanding of protoplanetary disks and planet
+formation.</objective>
+  <title>Dusting for the Fingerprints of Planet Formation</title>
+<identifier>ERC2016STG</identifier>
+</project>

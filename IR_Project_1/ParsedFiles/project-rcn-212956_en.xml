@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212956</rcn>
+  <acronym>ESBO DS</acronym>
+  <objective>Following the findings of the H2020-funded ORISON project, we propose the design and development of a new European astronomical research infrastructure for stratospheric balloon-based telescopes. Our approach is to provide a versatile community-accessible observatory capable of covering unserved scientific needs, including those of star- and planet formation studies and exoplanet research. These are particularly associated with requirements for high spatial and spectral resolution far-infrared (FIR) observations, high sensitivity UV observations, and highly accurate visible light photometry. To a certain extent, these needs could also be addressed by space missions. A balloon infrastructure, however, will offer a more cost-efficient and flexible approach, allowing instruments more adaptable to evolving needs (exchangeable and less risk-adverse), longer overall observation times (possibility to refill cooling fluids), and larger mirror sizes (less severe launcher restrictions). So far, stratospheric telescopes, with the exception of SOFIA, have mostly served a single purpose and did not fly more than a few times. The proposed infrastructure, in contrast, will provide regular flights, allowing it to operate as a true observatory.
+The infrastructure will be prepared in two parts within the project:
+1) Conceptualization of the full distributed infrastructure with several flight platforms, including a suitable governance and operating structure for long-term operations and development. These will build upon a highly sensitive UV platform and lead to a next-generation FIR platform with unprecedented spatial resolution. A development roadmap will summarize the necessary development steps and funding needs.
+2) Technical demonstration of the manageability and safe recovery of a versatile high-performance astronomical balloon mission via a prototype carrying a next-generation UV-detector and a visible light camera for photometric tests.</objective>
+  <title>European Stratospheric Balloon Observatory Design Study</title>
+<identifier>H2020INFRADEV20171</identifier>
+</project>

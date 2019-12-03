@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194151</rcn>
+  <acronym>ECOMODE</acronym>
+  <objective>The visually impaired and the elderly, often suffering from mild speech and/or motor disabilities, are experiencing a significant and increasing barrier in accessing ICT technology and services. Yet, in order to be able to participate in a modern, interconnected society that relies on ICT technologies for handling everyday issues, there is clear need also for these user groups to have access to ICT, in particular to mobile platforms such as tablet computers or smart-phones. 
+The proposed project aims at developing and exploiting the recently matured and quickly advancing biologically-inspired technology of event-driven, compressive sensing (EDC) of audio-visual information, to realize a new generation of low-power multi-modal human-computer interface for mobile devices. 
+The project is based on two main technology pillars: (A) an air gesture control set, and (B) a vision-assisted speech recognition set. (A) exploits EDC vision for low and high level hand and finger gesture recognition and subsequent command execution; (B) combines temporal dynamics from lip and chin motion acquired using EDC vision sensors with the auditory sensor input to gain robustness and background noise immunity of spoken command recognition and speech-to-text input. 
+In contrast to state-of-the-art technologies, both proposed human-computer communication channels will be designed to work reliably under uncontrolled conditions. Particularly, mobile devices equipped with the proposed interface technology will facilitate unrestricted outdoor use under uncontrolled lighting and background noise conditions. Furthermore, due to the sparse nature of information encoding, EDC excels conventional approaches in energy efficiency, yielding an ideal solution for mobile, battery-powered devices.
+ECOMODE is committed to pave the way for industrialization of commercial products by demonstrating the availability of the required hardware and software components and their integrability into a mobile platform.</objective>
+  <title>Event-Driven Compressive Vision for Multimodal Interaction with Mobile Devices</title>
+<identifier>H2020ICT20141</identifier>
+</project>

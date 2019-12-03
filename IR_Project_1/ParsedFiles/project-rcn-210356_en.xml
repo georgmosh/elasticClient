@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210356</rcn>
+  <acronym>AdaSmartRes</acronym>
+  <objective>The proposal refers to a patented adapter that can transform a commercial grade digital camera or the camera in a smart phone into a depth resolved imaging instrument. Several adapters will be assembled, making use of optical coherence tomography (OCT) technology protected by some other of PI’s patents. The activity takes advantage of recent progress in commercial grade cameras in terms of their modes of operation as well as in terms of parameters of their devices, such as sensitivity and speed of their photodetector arrays.
+Three versions of low cost functional OCT systems will be assembled as proof of concepts responding to needs of three possible markets that can be addressed by such an adapter: 1. En-face depth resolved, high transversal resolution microscope; 2. Fast cross sectioning imager. 3. Swept source volumetric analyser.
+Industrial input comes from a company involved in professional eye imaging systems, a company already selling adapters for smart phones to perform medical imaging, a company specialised in digital photographic equipment and a company efficient in prototyping photonics equipment and handling medical images. Clinical input is provided by two specialists in the two highest potential medical imaging markets of the adapter serving ophthalmology and ear, nose and throat speciality.</objective>
+  <title>Adapter for a commercial grade camera or a smart phone to perform depth resolved imaging</title>
+<identifier>ERC2016PoC</identifier>
+</project>

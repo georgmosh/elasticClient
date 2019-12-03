@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>198161</rcn>
+  <acronym>BNYQ</acronym>
+  <objective>Digital signal processing (DSP) is a revolutionary paradigm shift enabling processing of physical data in the digital domain where design and implementation are considerably simplified. However, state-of-the-art analog-to-digital convertors (ADCs) preclude high-rate wideband sampling and processing with low cost and energy consumption, presenting a major bottleneck. This is mostly due to a traditional assumption that sampling must be performed at the Nyquist rate, that is, twice the signal bandwidth. Modern applications including communications, medical imaging, radar and more use signals with high bandwidth, resulting in prohibitively large Nyquist rates.
+Our ambitious goal is to introduce a paradigm shift in ADC design that will enable systems capable of low-rate, wideband sensing and low-rate DSP.
+While DSP has a rich history in exploiting structure to reduce dimensionality and perform efficient parameter extraction, current ADCs do not exploit such knowledge.
+We challenge current practice that separates the sampling stage from the processing stage and exploit structure in analog signals already in the ADC, to drastically reduce the sampling and processing rates.
+Our preliminary data shows that this allows substantial savings in sampling and processing rates --- we show rate reduction of 1/28 in ultrasound imaging, and 1/30 in radar detection.
+
+To achieve our overreaching goal we focus on three interconnected objectives -- developing the 1) theory 2) hardware and 3) applications of sub-Nyquist sampling.
+Our methodology ties together two areas on the frontier of signal processing: compressed sensing (CS), focused on finite length vectors, and analog sampling. Our research plan also inherently relies on advances in several other important areas within signal processing and combines multi-disciplinary research at the intersection of signal processing, information theory, optimization, estimation theory and hardware design.</objective>
+  <title>Breaking the Nyquist Barrier: A New Paradigm in Data Conversion and Transmission</title>
+<identifier>ERC2014CoG</identifier>
+</project>

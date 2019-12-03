@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205481</rcn>
+  <acronym>CONNECTA</acronym>
+  <objective>CONNECTA aims at contributing to the S2R’s next generation of TCMS architectures and components with wireless capabilities as well as to the next generation of electronic braking systems. CONNECTA will conduct research into new technological concepts, standard specifications and architectures for train control and monitoring, with specific applications in train-to-ground communications and high safety electronic control of brakes.
+
+The specific actions to be undertaken within the scope of CONNECTA contributing to the S2R Multi-Annual Action Plan on TD1.2 and TD1.5 are:
+
+· To develop the general specifications of next generation TCMS and to generate the corresponding high level system architecture;
+· To incorporate wireless technologies to train communication network solutions;
+· To provide a train-wide communication network for full TCMS support including the replacement of train lines, connecting safety functions up to SIL4 and support of “fail-safe” and “fail-tolerant” principles, to provide an optimal train network for TCMS &amp; OMTS (Onboard Multimedia and Telematic Services) as well as communication mean for non-TCMS functions;
+· To standardise functional interfaces of functions and sub systems as well as to define a generic functional architecture for the next TCMS generation;
+· To facilitate the coupling of two or more consists supplied by different manufacturers and which could have different train functions;
+· To develop a simulation framework in which all subsystems of the train can be simulated, allowing remote and distributed testing including hardware in-the-loop through heterogeneous communication networks;
+· To achieve a performance improvement in safety relevant braking functions resulting in optimisation of the braking distances in safety braking;
+· To optimise onboard systems by reducing the number of sophisticated pneumatic components and improving the overall LCC;
+· To validate non-railway EN standards for use in safety-related railway applications.</objective>
+  <title>CONtributing to Shift2Rail's NExt generation of high Capable and safe TCMS and brAkes. Phase 1.</title>
+<identifier>H2020S2RJUCFM2016011</identifier>
+</project>

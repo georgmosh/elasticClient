@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>198669</rcn>
+  <acronym>SeNaTe</acronym>
+  <objective>The SeNaTe project is the next in a chain of thematically connected ENIAC JU KET pilot line projects which are associated with 450mm/300mm development for the 12nm and 10nm technology nodes. The main objective is the demonstration of the 7nm IC technology integration in line with the industry needs and the ITRS roadmap on real devices in the Advanced Patterning Center at imec using innovative device architecture and comprising demonstration of a lithographic platform for EUV and immersion technology, advanced process and holistic metrology platforms, new materials and mask infrastructure.
+A lithography scanner will be developed based on EUV technology to achieve the 7nm module patterning specification. Metrology platforms need to be qualified for N7’s 1D, 2D and 3D geometries with the appropriate precision and accuracy. For the 7nm technology modules a large number of new materials will need to be introduced. The introduction of these new materials brings challenges for all involved processes and the related equipment set. Next to new deposition processes also the interaction of the involved materials with subsequent etch, clean and planarization steps will be studied. Major European stakeholders in EUV mask development will collaboratively work together on a number of key remaining EUV mask issues.
+The first two years of the project will be dedicated to find the best options for patterning, device performance, and integration. In the last year a full N7 integration with electrical measurements will be performed to enable the validation of the 7nm process options for a High Volume Manufacturing.
+The SeNaTe project relates to the ECSEL work program topic Process technologies – More Moore. It addresses and targets as set out in the MASP at the discovery of new Semiconductor Process, Equipment and Materials solutions for advanced CMOS processes that enable the nano-structuring of electronic devices with 7nm resolution in high-volume manufacturing and fast prototyping.</objective>
+  <title>Seven Nanometer Technology</title>
+<identifier>ECSEL20142</identifier>
+</project>

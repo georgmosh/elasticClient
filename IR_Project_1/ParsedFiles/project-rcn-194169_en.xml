@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194169</rcn>
+  <acronym>GEAGAM</acronym>
+  <objective>The main objective of this Marie Curie RISE action is to improve and exchange interdisciplinary knowledge on applied mathematics, high performance computing, and geophysics to be able to better simulate and understand the materials composing the Earth's subsurface. This is essential for a variety of applications such as CO2 storage, hydrocarbon extraction, mining, and geothermal energy production, among others. All these problems have in common the need to obtain an accurate characterization of the Earth's subsurface, and to achieve this goal, several complementary areas will be studied, including the mathematical foundations of various high-order Galerkin multiphysics simulation methods, the efficient computer implementation of these methods in large parallel machines and GPUs, and some crucial geophysical aspects such as the design of measurement acquisition systems in different scenarios. 
+Results will be widely disseminated through publications, workshops, post-graduate courses to train new researchers, a dedicated webpage, and visits to companies working in the area. In that way, we will perform an important role in technology transfer between the most advanced numerical methods and mathematics of the moment and the area of applied geophysics.</objective>
+  <title>Geophysical Exploration using Advanced GAlerkin Methods</title>
+<identifier>H2020MSCARISE2014</identifier>
+</project>

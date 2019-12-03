@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208855</rcn>
+  <acronym>SUPERSPIN</acronym>
+  <objective>The dissipation of heat in traditional silicon (CMOS) based electronics is a major source of inefficiency and environmental impact. Superconductors are, by nature, dissipationless. Computing via logic circuits based on Josephson junctions is also faster, but the largest remaining problem is the lagging development of low-temperature memory. To achieve the promised efficiency increases of these computers requires a new type of low-temperature memory architecture.
+Traditionally considered competing phenomena, when artificially juxtaposed a wealth of physics at the interface between superconductors and ferromagnets emerges. Spin-polarised Cooper pairs are capable of surviving inside a ferromagnet over much longer distances than the regular (spin-singlet, anti-parallel) pairs. This new type of Cooper pair is the building block for super-spintronics; leading to a dissipationless spin-current combined with spintronic devices.
+Europe risks being left behind by large US research efforts such as the IARPA C3 programme. SUPERSPIN will take advantage of spin-polarised Cooper pairs for the promising application of cryogenic memory, where information can be stored by either the state of the system (superconducting or normal), or in the phase difference between superconductors across a Josephson junction. The outgoing host Prof. Birge is the world leading expert in ferromagnetic Josephson junction devices for cryogenic memory application. The fellow will be fully integrated in his IARPA C3 funded laboratories and through the SUPERSPIN programme, of exploring candidate materials systems and developing prototypical devices, will acquire all the skills and knowledge necessary to develop these exciting advances to application the E.U. during the return phase of the project.
+Through SUPERSPIN, the fellow will broaden his scientific background, develop complementary knowledge in new areas, bring new knowledge from the TC host to the E.U. and increase his chances of success in academia</objective>
+  <title>Superconducting Spintronics for Highly Energery Efficient Cryogenic Memory Applications</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

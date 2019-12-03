@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>197355</rcn>
+  <acronym>METIS-II</acronym>
+  <objective>Key objectives of METIS-II are to develop the overall 5G radio access network design and to provide the technical enablers needed for an efficient integration and use of the various 5G technologies and components currently developed. The innovation pillars that will allow METIS-II to achieve this goal are 
+• a holistic spectrum management architecture addressing the spectrum crunch, 
+• an air interface harmonisation framework enabling an efficient integration of new and legacy air interfaces, 
+• an agile Resource Management (RM) framework providing the dynamics required to efficiently adapt the integrated 5G air interfaces and radio concepts to the varying traffic demand and service requirements,  
+• a cross-layer and cross-air-interface system access and mobility framework ensuring an ubiquitous access continuum,
+• and a common control and user plane framework providing the means for an efficient support of the broad versatility of services expected for 5G as well as a future-proof and cost-efficient implementation of the 5G integration.
+On the strategic level, METIS-II will provide the 5G collaboration framework within 5G-PPP for a common evaluation of 5G radio access network concepts and prepare concerted action towards regulatory and standardisation bodies. 
+Based on its very strong and international consortium with partners from all regions with strong 5G R&amp;D initiatives (EU, US, China, Japan, Korea) with most of the major international vendors, major operators, and key researchers, METIS-II will have the unique capability to drive consensus building globally, to consolidate a full picture of the needs of mobile as well as vertical industries, and to disseminate the results towards the relevant bodies, forums, and standardisation groups in all regions.
+The METIS-II proposal addresses the Strand “Radio network architecture and technologies” in the ICT14-2014 call in the H2020 program. METIS-II is committed to actively drive the collaboration with the 5G-PPP.</objective>
+  <title>Mobile and wireless communications Enablers for Twenty-twenty (2020) Information Society-II</title>
+<identifier>H2020ICT20142</identifier>
+</project>

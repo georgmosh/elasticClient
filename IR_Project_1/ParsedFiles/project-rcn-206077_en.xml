@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206077</rcn>
+  <acronym>AQUARIUS</acronym>
+  <objective>AQUARIUS proposes disruptive improvements in laser based water sensing employing MIR quantum cascade lasers (QCLs). It is motivated by
+i) the EC Water Framework Directive (2000/60/EC) where hydrocarbons are identified as priority hazardous substances,
+ii) the industrial and regulatory need for fast and continuous detection of contaminants and 
+iii) the current state-of-the-art of measuring these substances using QCLs as defined by project partner QuantaRed Technologies and described in ASTM D7678.
+AQUARIUS will improve this offline method by developing pervasive online and inline sensing strategies based on advanced photonic structures. For improved specificity a broadly (200 cm-1) tunable MOEMS based µEC-QCL source will be developed into a core spectrometer. High power, mode-hop free operation and unprecedentedly fast data acquisition (1000 spectra/s) will assure high S/N-ratios and thus high sensitivity. The system for online sensing (LOD: 1ppm) is based on automated liquid-liquid extraction and will be validated by project partner OMV for process and waste water monitoring. It will also be tested for identifying different sources of contaminations by project partner KWR in their water treatment and purification facilities. The system for inline sensing will be based on integrated optical circuits (IOC) including waveguides for evanescent wave sensing. Switching between individual waveguides of the IOC will enable quasi-simultaneous sample and background measurement and thus assure excellent long-term stability. By enrichment of analytes in polymer layers LODs as required for drinking (0.5ppb) and groundwater (50ppb) will be reached. 
+AQUARIUS covers the supply chain from research institutes to system integrator and end users. It will push the online system from TRL 3 to 7 and the inline system from TRL 2 to 4 and thus reinforce the industrial leadership of the project partners regarding QCL based liquid sensing and photonic components (source, detector and IOCs).</objective>
+  <title>BROADBAND TUNABLE QCL BASED SENSOR FOR ONLINE AND INLINE DETECTION OF CONTAMINANTS IN WATER</title>
+<identifier>H2020ICT20161</identifier>
+</project>

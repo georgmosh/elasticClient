@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199396</rcn>
+  <acronym>SMARTDIAGNOS</acronym>
+  <objective>Sepsis is a potentially fatal condition that arises when the body’s response to an infection damages its own tissues and organs. It is mainly caused by bacteria and fungi, which spread through the blood circulation. It is one of the biggest public health issue in the EU and worldwide due to its high incidence, mortality, human and economic cost. Early diagnosis is crucial to the management of sepsis, as every hour of delay of appropriate antibiotic therapy increases mortality by 5-10%. 
+Unfortunately, sepsis diagnosis remains one of the greatest clinical challenges in critical care. Current diagnostic methods, including blood culture and different nucleic acid based multiplex technologies, are impaired by the significant time-delay of 1-2 days and/or low sensitivity of 30-50%. Hence there is an urgent need to develop new diagnostic tools that can provide more accurate and earlier sepsis diagnosis, so that patients with sepsis can be administered with rapid and correct initial antimicrobial treatment. 
+The SMARTDIAGNOS project will advance sepsis diagnosis by simplifying clinical sample analysis methods and integrating the currently required numerous steps into a single streamlined device. This will be achieved by combining a number of innovative technologies: 1) 3-dimentional sample concentration to process large amount of raw sample; 2) direct PCR in the 3D microstructure to circumvent DNA extraction step; 3) solid-phase PCR to achieve unlimited multiplexing capability; 4) supercritical angle fluorescence (SAF) microlens array for enhanced fluorescence detection and precise quantification of sepsis-related pathogens. 
+The SMARTDIAGNOS system will go beyond the state of the art for shorter time (1-3 h), higher sensitivity (95%), higher selectivity (99%), multiplexing capability, antimicrobial resistance profiling, and automation. Fast and correct sepsis diagnosis will improve patient outcome, shorten intensive care stay and thus reduce health costs.</objective>
+  <title>Next generation sepsis diagnosis</title>
+<identifier>H2020ICT2015</identifier>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200782</rcn>
+  <acronym>TERAMAG</acronym>
+  <objective>In order to fully exploit the electron spin as a signal carrier in future information processing, spins need to be transported and flipped as fast as possible. Spintronics research aims at implementing these operations by electric fields in circuitry, but has so far been limited to frequencies below ~10 GHz. The much faster complementary femtomagnetism approach employs femtosecond laser pulses (carrier frequency ~400 THz), but is not compatible with microelectronics technology.
+
+In the TERAMAG project, I will apply intense terahertz (THz) electromagnetic pulses to solids to realize 1) ultrafast transport of spins and magnons, and 2) ultrafast control over magnetic order. Our strategy relies on extending concepts from the fields of spintronics (electronics) and femtomagnetism (optics) to the elusive THz frequency gap (0.3 to 30 THz), thereby combining the benefits of both worlds.
+
+To realize spin operations and open up new pathways to their implementation, it is essential to understand the underlying microscopic processes. THz radiation is an ideal tool for this task as it directly and uniquely interacts with many fundamental modes and couplings of solids at their natural frequencies. For example, by using ultrashort THz pulses, we will obtain unprecedented insights into the energetic structure of spin-orbit coupling of equilibrium and nonequilibrium conduction electrons (e.g. in metals and two-dimensional semiconductors) and into the unexplored but highly relevant interaction of optical phonons with spins, including magnons. Novel measurement schemes (e.g. of the spin Hall effect from ~0.3 to 30 THz) and applications (such as spintronic THz emitters and detectors) will emerge.</objective>
+  <title>Ultrafast spin transport and magnetic order controlled by terahertz electromagnetic pulses</title>
+<identifier>ERC2015CoG</identifier>
+</project>

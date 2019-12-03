@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>214475</rcn>
+  <acronym>CUPRES</acronym>
+  <objective>This project aims to advance our understanding of the electronic structure of high Tc cuprate superconductors. In particular,
+we will use the unique combination of high pressure and high magnetic fields to study the evolution of two phases which
+exist alongside the superconducting state, namely the so-called pseudogap state and a charge ordered state. Both of these
+states have end points which approximately coincide with the point on the doping-temperature phase diagram where the
+superconducting transition temperature is maximal and it has been suggested that fluctuations in the order parameter of one
+or both of these phases could be responsible for the electron pairing that leads to high temperature superconductivity. Most
+studies to date of these phase, and indeed the cuprates in general, have used chemical doping to tune the materials across
+their phase diagram. Instead we plan to use pressure, which is a complementary tuning parameter which we expect to split
+the accidental phase degeneracies which complicate the interpretation of the doping dependent studies. Our experimental
+programme includes studies of Hall co-efficient, quantum oscillations and magnetic penetration depth to elucidate the
+changes in electronic structure. We will also perform x-ray studies under uniaxial stress to correlate changes in electronic
+structure to structural changes caused by the charge order.</objective>
+  <title>High pressure study of pairing or competing orders in high Tc cuprates</title>
+<identifier>H2020MSCAIF2017</identifier>
+</project>

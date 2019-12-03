@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212365</rcn>
+  <acronym>SCARBO</acronym>
+  <objective>In October 2015, a group of scientific and technical experts released a report to help the Commission implement a strategy “Towards a European operational observing system to monitor fossil CO2 emissions” [Ciais et al.]. Along the lines of the recommendations of this report, the SCARBO project is tackling the challenge of anthropogenic GHG monitoring by investigating a new concept based on innovative technologies. The project, coordinated by Airbus Defence and Space, is handled by a consortium of 10 European organisations, including scientific institutes, SMEs and industry.
+From the technological development of a miniaturised static spectrometer to an innovative mission concept based on a constellation of small satellites for the future operational GHG monitoring system, SCARBO will offer unprecedented measurement repetitiveness over the entire globe for the price of two mid-sized satellites.
+The challenge of the project is to remove the technological and economic roadblocks and solve the difficulties of current GHG missions (uncertainties due to aerosols, provision of both high accuracy measurements and high temporal frequency of measurements within a reasonable cost envelope).
+SCARBO consists in the detailed design, analysis and modelling of the miniaturised NanoCarb CO2 instrument concept, based on user need requirements and supported by performance simulations of the science data retrieval chain. NanoCarb is complemented by collocated ultra-compact aerosol sensor and CO2 reference instruments in order to deliver high accuracy measurements. The overall measurement concept is experimentally validated through a dedicated airborne campaign featuring instrument prototypes. The adequacy of the proposed concept is further assessed through the analysis of CO2/CH4 related real-life use cases.
+SCARBO will pave the way for Europe to trace anthropogenic CO2 and CH4 emissions with both a high accuracy and an unprecedented temporal resolution, at an affordable cost.</objective>
+  <title>Space CARBon Observatory</title>
+<identifier>H2020COMPET2017</identifier>
+</project>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>201025</rcn>
+  <acronym>FLATOPS</acronym>
+  <objective>Flat bands allow to increase the critical temperature of the superconducting transition thanks
+to their high density of states. However a characterization of the flat bands that support a finite
+supercurrent is open. In some cases a nonzero Chern number, a topological invariant of the band
+structure, ensures a finite superfluid mass density. This tantalizing relation between topology and
+superfluidity is novel and unexplored. My aim is to characterize superfluidity in lattice systems with flat
+bands that have different symmetries, lattice structures, dimensionality, interparticle interactions
+and possess different topological invariants, in order to provide a general picture of which ones
+are potentially useful as a superconductor with high critical temperature. Whereas mean-field (BCS)
+theory can provide an essential qualitative understanding and a transparent link to topological properties,
+I plan to use more reliable methods such as Density Matrix Renormalization Group (DMRG)
+in 1D and Dynamical Mean Field Theory (DMFT) in 2D and 3D. The ideal platform to test the
+theoretical predictions are ultracold gases, but I expect to provide useful results also for multiband
+superconductors, topological media, carbon-based superconductors, Quantum Hall systems
+and high-Tc superconductors.</objective>
+  <title>Flat bands and topology in superconductive materials</title>
+<identifier>H2020MSCAIF2015</identifier>
+</project>

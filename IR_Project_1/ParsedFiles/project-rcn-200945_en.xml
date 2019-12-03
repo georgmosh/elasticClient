@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200945</rcn>
+  <acronym>SocialBrain</acronym>
+  <objective>Growing and maintaining a large brain entails substantial energetic costs. A large brain can evolve if costs are compensated by benefits from associated cognitive abilities. Leading hypotheses for brain evolution consider benefits arising from the solution of ecological and social problems. However, progress has been hindered by the unavailability of mathematical theory generating testable hypotheses from known causes.
+
+I will develop testable mathematical models that yield quantitative predictions for brain mass through ontogeny when individuals evolve under social pressures. The goal is to assess the relative role of the social and ecological hypotheses in brain evolution, particularly in humans. I will formulate the models using elements of metabolic theory and life history theory, and the analysis will require methods from optimal control and differential game theory.
+
+This is a strongly interdisciplinary research project, and I will ensure its success by working with leaders in the respective fields of social evolution theory (Dr Andy Gardner, St Andrews), cognition (the world-class multi-departmental team at St Andrews), and differential game theory (Prof Maurizio Falcone, Sapienza). This work thus brings together a diversity of state-of-the-art elements and proposes an innovative, challenging, and important project, to produce a novel and readily usable tool to study brain evolution.</objective>
+  <title>Brain growth under social pressure: mathematical modelling of brain growth when individuals face social challenges</title>
+<identifier>H2020MSCAIF2015</identifier>
+</project>

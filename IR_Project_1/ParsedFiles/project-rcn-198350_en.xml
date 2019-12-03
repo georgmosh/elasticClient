@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>198350</rcn>
+  <acronym>MOTOR</acronym>
+  <objective>The MOTOR project focuses on ICT-enabled design optimization technologies for fluid energy machines (FEMs) that transfer mechanical energy to and from the fluid, in particular for aircraft engines, ship propellers, water turbines, and screw machines. The performance of these machines essentially depends on the shape of their geometry, which is described by functional free-form surfaces. Even small modifications have significant impact on the performance; hence the design process requires a very accurate representation of the geometry.
+Our vision is to link all computational tools involved in the chain of design, simulation and optimization to the same representation of the geometry, thereby reducing the number of approximate conversion steps between different representations. The improved accuracy and reliability of numerical simulations enables the design of more efficient FEMs by effective design optimization methods. MOTOR also exploits the synergies between the design optimization technologies for the different types of FEMs that have so far been developed independently. 
+
+MOTOR adopts a modular approach for developing novel methodologies and computational tools and integrating them into real process chains, contributing
+• a volumetric mesh generator with exact interface matching for multi-domain geometries enabling high-order multi-physics simulations with enhanced accuracy, 
+• an isogeometric analysis simulation toolbox for CFD, CSM, and FSI problems and advanced interactive visualization toolkit for high-order solutions, and 
+• automatic shape optimization based on a multi-level approach in the parameterization enabling different levels of shape variety to combine design space exploration with local searches. 
+
+The effectiveness of our approach in terms of reduced time to production and increased efficiency of the optimally designed product will be validated by developing four proof-of-concept demonstrators with the modernized process chains.</objective>
+  <title>Multi-ObjecTive design Optimization of fluid eneRgy machines</title>
+<identifier>H2020FoF2015</identifier>
+</project>

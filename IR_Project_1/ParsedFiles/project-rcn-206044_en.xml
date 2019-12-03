@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206044</rcn>
+  <acronym>Resummation4PS</acronym>
+  <objective>Full exploitation of the LHC data, notably for Higgs precision measurements, traditional standard-model studies and certain BSM searches, relies on high-precision theoretical calculations. The most widely used kind of theoretical prediction is the parton-shower Monte Carlo approach (PSMC). This accounts for logarithmically enhanced contributions to all order in the coupling. While there has been much progress in the past decade in combining PSMC and fixed-order calculations, the logarithmic accuracy of the underlying parton shower has received much less attention.
+This project will start by developing the technology to describe the structure of the perturbative calculations at next-to-next-to-leading logarithmic (NNLL) accuracy for processes that involve QCD radiation both off the initial and the final state particles. That understanding will provide the foundations to extend for the first time the accuracy of parton showers to NNLL accuracy for a broad class of observables. 
+Given recent developments in matching and merging of PSMCs with fixed order predictions, this will be of benefit not just for the intrinsic logarithmic accuracy of the shower but also facilitate future improvements in matching and merging, with resulting further improvements in LHC data extraction and interpretation.</objective>
+  <title>Advances in higher-order resummation and Parton Shower</title>
+<identifier>H2020MSCAIF2015</identifier>
+</project>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>209759</rcn>
+  <acronym>MAWAMOSCA</acronym>
+  <objective>"Mass-waste events not only cause geomorphological changes on our planet but they are often natural hazards, causing significant economic impact or seriously endangering human lives. Sufficiently understanding and predicting them is an important task both for the scientific community as well as to the decision-making bodies and community leaders all around the world. The importance of the topic is also emphasized in the EU Horizon 2020 third pillar ""Societal Challenges"".
+ The aim of the current project is to design and develop a discrete element method (DiEM) based software package (called MWDiEM), that is able to model a number of dry (or with negligible fluid content) mass-waste events on the particle level. The code will handle cohesionless polyhedral and spherical particles and will be equipped with a number of features (e.g. GIS implementation, basal entrainment, GPU acceleration) that will allow for  it to be used for real-life event simulations  as well. By connecting MWDiEM to the already existing large scale two-phase continuum landslide model, r.avaflow,  comparing the DiEM results to experiments and field observations  and by using the DiEM code to understand the effect of shape and time-dependent size segregation on mass-flow, we hope to get a deeper understanding on mass-waste events, yielding better predictions in the future and bringing geoscientists and granular scientists together on the way."</objective>
+  <title>Mass-waste modelling across scales</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

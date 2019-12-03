@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204413</rcn>
+  <acronym>SmartRAIN</acronym>
+  <objective>SmartRAIN is our patented image-processing technology for measuring rainfall intensity from images shot during rain events. It is the core of an integrated IoT system which transforms imaging devices, like surveillance IP cameras (SmartRAIN Nodes) and smartphones (SmartRAIN Sentinels), into “eyes” for seeing, gauging and communicating rain intensity in real-time. 
+
+SmartRAIN Nodes are non-dedicated, existing video cameras, typically owned by public agencies. A plugin developed by WaterView for the cameras of the main manufacturers is installed on the devices, giving them the pre-processing functionalities and connecting them to the cloud-based engine of SmartRAIN.
+
+SmartRAIN Sentinel is a mobile app which involves citizens in rainstorm sensing by simply sharing photos shot with their devices. The app also provides personalized alerts via push notifications, based on the current position of the user and the flow of real time rain data coming from other Sentinels, Nodes and traditional rain gauging systems.
+
+A balanced mix of Sentinels and Nodes provides our customers (public bodies in charge of civil protection duties, entities that own or manage transport infrastructures, agencies that own or manage rain gauging networks, managers of urban drainage systems, etc.) with a real-time rain gauging service which achieves spatial resolutions up to ten times greater than traditional rain gauging networks, at a comparable cost. 
+
+Increasing the density of traditional rain gauging networks would importantly enhance the quality of real-time representations of rain events; feed forecasting models with better data; enable the implementation of optimal stormwater management strategies; improve the safety of urban and transport infrastructures; reduce the costs of unmanaged events.
+
+The project aims at outlining the technical features of SmartRAIN and defining effective marketing strategies, based on the outcomes of market surveys and customer/user analyses.</objective>
+  <title>SmartRAIN: an IoT-based solution for real time rain mapping</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

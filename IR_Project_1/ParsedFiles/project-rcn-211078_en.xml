@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211078</rcn>
+  <acronym>TERRANOVA</acronym>
+  <objective>To provide reliable connectivity of extremely high data rates in the Tbit/s regime and almost ‘zero-latency’ in networks beyond 5G, TERRANOVA proposes to extend the fibre-optic systems Quality of Experience and performance reliability to wireless, by exploiting frequencies above 275GHz for access and backhaul links. To this end, TERRANOVA will take advantage of breakthrough novel technology concepts, namely the design of baseband signal processing for the complete optical and wireless link, the development of  H-band (&gt;275GHz) RF front ends, as well as THz network information theory framework, channel and interference modelling in the THz regime, waveforms and high-order modulation schemes, pencil beam antenna arrays and multiple-access schemes and cashing techniques tailored to the particularities of the THz regime and the associated extremely large bandwidth. 
+
+Sustaining a flexible and ubiquitously available Tbit/s access network in systems beyond 5G will require rethinking of design principles and architectures, mainly replacing the notion of joint optimisation with that of ‘co-design’, e.g. optical and wireless, backhaul and access, channel models and waveforms, signals and coding, beam-patterns and medium access schemes and so on. 
+Most importantly, TERRANOVA will identify, assess and address the critical technology gaps and devise the appropriate enablers, expected to catalyse the road to beyond 5G. TERRANOVA innovations and technologies will be demonstrated by means of a Proof-of-Concept experimental platforms, validating and assessing the feasibility and performance of the THz wireless transceiver, the pencil beam based tracking and the co-design of fibre-optical and wireless principles.
+
+To realise this vision, TERRANOVA consortium brings together various stakeholders viewpoints and roadmaps from across Europe, an impressive record on research excellence and impact, technology innovation and transfer, implementation and demonstration expertise.</objective>
+  <title>Terabit/s Wireless Connectivity by TeraHertz innovative technologies to deliver Optical Network Quality of Experience in Systems beyond 5G</title>
+<identifier>H2020ICT20162</identifier>
+</project>

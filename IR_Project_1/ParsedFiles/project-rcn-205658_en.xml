@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205658</rcn>
+  <acronym>CANOBLE</acronym>
+  <objective>CANOBLE aims to develop and validate innovative engineering methods and tools up to TRL5 to study, in design phase, the noise generated inside the cockpit and cabin by the external turbulent boundary layer.
+A unique experimental and numerical data base will be created for the benefit of the European noise community and the European aeronautic industry. 
+A full scale mock-up of a cockpit including a cabin section will be manufactured, instrumented, and tested in a large aeroacoustics Wind Tunnel. To bypass the TBL measurement limitation, an innovative ultra-thin pressure surface array instrumentation will be developed. The array will allow for an accurate measurement thanks to a high density of pressure sensors and the possibility to analysis the acoustic and the aerodynamic contributions of the excitation using a signal separation strategy. In parallel to the test activities, a complete aero/vibro-acoustic modelling strategy will be implemented including a TBL wall-pressure fluctuations model including adverse pressure gradients with the possibility to account for detailed TBL indicators extracted from steady-state computational fluid dynamics analysis. Finally a virtual prototype will be developed, tuned and compared with the WTT results and extended to flight cruising conditions to deliver recommendations for design purpose to the Topic Manager.
+CANOBLE will be executed by three organisations and will last 36 months.</objective>
+  <title>CAbin NOise from Boundary Layer Excitation</title>
+<identifier>H2020CS2CFP02201501</identifier>
+</project>

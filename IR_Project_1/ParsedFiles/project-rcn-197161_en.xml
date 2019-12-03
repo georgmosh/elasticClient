@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>197161</rcn>
+  <acronym>EcoMultiCloud</acronym>
+  <objective>The problem: ICT sector consume up to 3% of all global electricity production and 2% of total worldwide footprint consumption and these values expected to double every 5 years. In 2020 Data centers will contribute with the 18% of total ICT electricity production and footprint.
+The solution: The consortium offers a software platform (EcoMultiCloud) which minimizes the energy consumption of distributed virtualized data centers by dynamically consolidating Virtual Machines (VMs) on the minimum number of physical resources. The implementation of energy-efficient technologies and optimized HW/SW operations however allows energy, cost and carbon emission reductions of up to 60%. 
+Value Proposition: We help our customers to improve the economics of their distributed virtualized data centers by using an intelligent software platform reducing energy consumption and increasing efficiency. 
+Business Model: The consortium prices its software platform according to the customer's expected annual energy savings, which will vary based on a number of factors (e.g., class of servers, workload profiles, type of VMs/applications). This can be as much as 50% of the annual energy savings.
+Users/Clients: Companies across all industries, segments and geographies which build/own/run highly-virtualized data centers.
+Market: Small to Large sized Data Centers
+Competition: VMWare, TSO Logic, Power Assure
+Revenue Streams: Customer's expected annual energy savings
+Team: Eco4Cloud, E Way Solutions
+Required funding: 700k €</objective>
+  <title>Hierarchical Approach for Green Workload Management in Distributed Data Centers reducing energy bill and carbon footprint</title>
+<identifier>H2020SMEINST12014</identifier>
+</project>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>198158</rcn>
+  <acronym>HomeoBalanceExcInh</acronym>
+  <objective>Balanced excitation and inhibition is a fundamental principle of neural circuit function, and perturbed excitation/inhibition (E/I) balance has been linked to diseases such as epilepsy, autism and schizophrenia. Maintaining E/I balance within normal bounds depends in part on homeostatic plasticity, in which neurons compensate for deviations in activity levels by adjusting their responsiveness to excitation and inhibition. Yet despite recent progress in elucidating molecular mechanisms underlying homeostatic plasticity in reduced preparations, little is known about such mechanisms in the intact brain.
+
+I propose to address this gap using a simple and genetically tractable neural circuit that I recently characterized. In Drosophila, Kenyon cells (KCs), the neurons underlying olfactory associative memory, receive excitation from projection neurons (PNs) as well as feedback inhibition from a single identified neuron (‘APL’). The balance between these two forces maintains sparse odour coding in KCs, which enhances the odour-specificity of associative memory by reducing overlap between odour representations. 
+
+Preliminary evidence indicates that KCs adapt to prolonged disruption of E/I balance, providing a ground-breaking opportunity to use the powerful genetic tools of Drosophila to uncover the molecular mechanisms underlying homeostatic balancing of excitation and inhibition in vivo in a defined circuit that mediates a sophisticated behaviour.
+
+Specific aims:
+1. Characterize homeostatic plasticity in the PN-KC-APL circuit.
+2. Identify genes up- and down-regulated in response to perturbations of E/I balance.
+3. Determine role of candidate genes and cellular mechanisms in homeostatic plasticity. 
+
+Establishing the PN-KC-APL circuit as a novel model system for homeostatic plasticity will reveal for the first time the molecular mechanisms underlying homeostatic balancing of excitation and inhibition in the intact brain.</objective>
+  <title>Homeostatic balancing of excitation and inhibition in vivo</title>
+<identifier>ERC2014STG</identifier>
+</project>

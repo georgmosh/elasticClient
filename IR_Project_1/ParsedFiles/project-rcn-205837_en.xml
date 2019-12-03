@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205837</rcn>
+  <acronym>PACMAN</acronym>
+  <objective>Aircraft System Prognostic solutions integrated into an airline E2E maintenance operational context.
+
+The key objective of the proposal is to demonstrate benefits of aircraft system prognostics solutions integrated into an airline E2E maintenance operational context. This will be achieved by development of following innovative components:
+• A novel prognostic architecture that includes both on-board and ground elements shall be demonstrated using a large passenger aircraft selected Aircraft System.
+• Specific prognostics capabilities such as data collection, data processing, symptom generation, failure mode identification and predictive trending shall be demonstrated within an advanced Integrated Health Monitoring and Management (IHMM) system.
+• A revolutionary augmented reality (AR) mobile tools as gesture recognition, speech recognition and near-to-eye (NTE) displays that aids maintenance execution by bringing the necessary information directly to the engineer at remote repair sites shall be developed and demonstrated.
+
+The primary impact of the proposed work shall be to maximize aircraft utilization and achievement of reduction in operational interrupts. We will achieve this by developing a framework allowing Airlines, MROs, OEMs, and Suppliers to share a common understanding of the diagnostic and prognostic health of the aircraft. This program leverages some of ongoing Honeywell work in the area of predictive analytics, connected aircraft architectures, and computer aided maintenance to achieve Large Passenger Aircraft IADP Platform work package 3.6 goals.</objective>
+  <title>Prognostics And Computer Aided Maintenance</title>
+<identifier>H2020CS2CFP01201401</identifier>
+</project>

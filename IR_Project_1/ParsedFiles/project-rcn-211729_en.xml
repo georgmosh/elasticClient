@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211729</rcn>
+  <acronym>PreCoM</acronym>
+  <objective>Cheaper and more powerful sensors, together with big data analytics, offer an unprecedented opportunity to track machine-tool performance and health condition. However, manufacturers only spend 15% of their total maintenance costs on predictive (vs reactive or preventative) maintenance.
+The project will deploy and test a predictive cognitive maintenance decision-support system able to identify and localize damage, assess damage severity, predict damage evolution, assess remaining asset life, reduce the probability of false alarms, provide more accurate failure detection, issue notices to conduct preventive maintenance actions and ultimately increase in-service efficiency of machines by at least 10%.
+The platform includes 4 modules: 1) a data acquisition module leveraging external sensors as well as sensors directly embedded in the machine tool components, 2) an artificial intelligence module combining physical models, statistical models and machine-learning algorithms able to track individual health condition and supporting a large range of assets and dynamic operating conditions, 3) a secure integration module connecting the platform to production planning and maintenance systems via a private cloud and providing additional safety, self-healing and self-learning capabilities and 4) a human interface module including production dashboards and augmented reality interfaces for facilitating maintenance tasks.
+The consortium includes 3 end-user factories, 3 machine-tool suppliers, 1 leading component supplier, 4 innovative SMEs, 3 research organizations and 3 academic institutions. Together, we will validate the platform in a broad spectrum of real-life industrial scenarios (low volume, high volume and continuous manufacturing). We will also demonstrate the direct impact of the platform on maintainability, availability, work safety and costs in order to document the results in detailed business cases for widespread industry dissemination and exploitation.</objective>
+  <title>Predictive Cognitive Maintenance Decision Support System</title>
+<identifier>H2020FOF2017</identifier>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205089</rcn>
+  <acronym>ERYTHROAG</acronym>
+  <objective>Stroke is the most frequent cause of long-term disability in Europe, mainly in middle-aged and elderly people. Stroke imposes a huge health care economic burden: &gt;5B€/year in France.  RHEOFAST is developing a smart ICT-based decision support tool to assist health professionals in the efficient management of patients with acute stroke. RHEO-01 information management includes three aspects: 
+  1- High quality data input from a connected point-of-care device that measure a patient’s inflammatory profile in 30s. The optically measured erythrocyte aggregation kinetics (EA) varies with inflammation. This information is contextualized by the patient’s clinical characteristics provided by physicians. 
+  2-Remote smart data is managed with EA kinetics mathematical modelling, comparison with proprietary dataset and dataset enrichment with high quality data, 
+  3- Physician-friendly output is displayed on the POC device to help physicians make treatment decisions. The whole process from standard blood collection to results takes less than 5 minutes. 
+Acute ischemic stroke triggers inflammation, which in turn alters EA kinetics. Hemorrhagic stroke doesn’t initially trigger inflammation. By helping physicians to quickly differentiate patients with acute ischemic stroke from patients with hemorrhagic stroke, RHEO-01 will improve the percentage of patients receiving timely life-saving thrombolytic therapy. A 1% increase in thrombolytic treatment translates to a 440K€ decrease in cost (France). Furthermore, RHEO-01 can quickly identify inflammatory profiles in patients with other emergency conditions. Based on the French situation RHEOFAST forecasts a rapid growing turnover starting in 2018 with up to 13 M€ after 5 years. We need to have a European approach to update our forecast and propose our solution to health professionals all across Europe. This is the objective of the ERYTHROAG project, which includes technical risk analysis, market research and freedom to operate study.</objective>
+  <title>A new ICT-based device (RHEO-01) for fast point-of-care analysis of acute ischemic stroke and other emergency situations.</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

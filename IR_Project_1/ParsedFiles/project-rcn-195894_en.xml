@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>195894</rcn>
+  <acronym>SAC_EarlyEmbryo</acronym>
+  <objective>Meiotic divisions in the oocyte have been shown to be surprisingly error-prone compared to the reliable chromosome segregation that takes place in dividing somatic cells. The high frequency of chromosomal abnormalities found in pre-implantation embryos in mammals coupled with the fact that the first divisions of the embryo resembles meiosis in several aspects suggests that the mechanisms controlling chromosome segregation, most importantly the spindle assembly checkpoint (SAC), only become fully operational after the transition from meiosis to mitosis during early development. 
+Despite the importance for early embryonic development, the sensitivity of mammalian embryos to light and the absence of a functional reporter of the SAC in mice have precluded real-time imaging of chromosome segregation and its control in the first embryonic divisions. Recent advances in light sheet microscopy in the Ellenberg lab now allow me to study chromosome segregation. In addition, in collaboration with the EMBL Transgenic Facility I will be able to rapidly generate the first SAC reporter mice that will permit me to test the checkpoint functionality up to the blastocyst stage.
+Taking advantage of this unique opportunity to combine new technology with a novel reporter animal model, I plan to study how the SAC changes from meiosis to the first embryonic divisions of blastocysts. To this end, I will analyze SAC signalling and dynamics and assess whether the robustness of the SAC increases with development. My project aims to improve our understanding of chromosome segregation during mammalian pre-implantation development, and therefore the results of my research will be important to shed light on the molecular causes of aneuploidy in the early embryo, fundamental for our understanding of infertility and to improve the process of in vitro fertilization.</objective>
+  <title>SAC robustness in the transition from meiosis to mitosis</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

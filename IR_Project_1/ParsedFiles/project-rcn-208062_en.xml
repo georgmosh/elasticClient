@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208062</rcn>
+  <acronym>RODEO</acronym>
+  <objective>The main objective of the RODEO project is to propose a lightweight robotized orbital drilling equipment, and associated operating conditions and tools, to enable the drilling of tightly spaced small diameter holes in aluminium with the control of induced residual stresses. This will be accomplished by:
+-	 modelling the phenomena involved in orbital drilling that impact residual stresses
+-	developing a combined drilling and burnishing tool and associated operating conditions to attain required residual stresses
+-	pursuing the development of a high-speed orbital drilling unit (existing in the consortium) capable to drive the tool in the prescribed conditions
+-	integrating the developed orbital drilling unit on a lightweight industrial robot
+-	defining the operating conditions of the lightweight robot to be used to ensure the drilling operation
+To reach this objective, numerical simulation tools (already developed in the consortium) will be used to pursue the study and determine the mechanisms modifying the properties of the material during orbital drilling, and the impact on fatigue life (including the influence of a fastener). As a result, solutions to increase residual stresses in aluminium holes will be suggested in terms of cutting conditions, tool geometry and holemaking strategy (including burnishing). From this, an innovative orbital drilling tool, combining cutting and burnishing active parts will be developed and associated operating conditions will be proposed. To drive this tool along the expected trajectory with the required speeds, the development of a high-speed orbital drilling unit (provided by PRECISE) will be pursued. This will require the adaptation of the equipment to allow burnishing, and the integration of monitoring devices for cutting forces, spindle speed, feed speeds measurements. The orbital drilling unit will be handled by a lightweight industrial robot that will permit to drill holes without the need of a drill jig, allowing the drilli</objective>
+  <title>Robotized Orbital Drilling Equipment and Optimized residual stresses</title>
+<identifier>H2020CS2CFP03201601</identifier>
+</project>

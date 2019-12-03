@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205898</rcn>
+  <acronym>ELE</acronym>
+  <objective>The ELE project will study the foundational principles of programming  language evolution and develop practical tools and technologies for supporting the evolution of complete ecosystems. If successful, ELE will drastically decrease the cost of evolution and avoid the need to invent completely new languages every time there is a shift in hardware trends or in programming methodology. Instead, ELE will allow evolution of languages  and will support migration of code and knowledge bases.  The project proceeds along two major axes.  The first axis is language dynamics where new features and new capabilities are added to a preexisting language. This requires changing, at the same time, the language's specification, it's semantics, and the language's implementation, the compiler and interpreter that runs code written in the language as well the runtime libraries that provide basic capabilities. The second axis for evolution is language statics where new rules are added to enforce novel programming disciplines and where existing code artifacts are adapted to new semantics. These axes are not entirely disjoint, as static restrictions, such as a new type system, can feedback into the implementation by providing behavioral information that can be exploited by a compiler.</objective>
+  <title>Evolving Language Ecosystems</title>
+<identifier>ERC2015AdG</identifier>
+</project>

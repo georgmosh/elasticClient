@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200296</rcn>
+  <acronym>LOGIMATIC</acronym>
+  <objective>Annual volume at global container terminals will rise by a 5.6% rate during the next 5 years and reach 840 million TEU by 2018.The usual way for ports to deal with the increasing demand of sea transport and compete against competitors is to expand the port in the original site. There is scarcity of land available for port expansion in densely populated urban areas where most of European ports are situated. This fact is causing that many container terminals are coping with congestion and capacity problems. Therefore, port managers are searching for more efficient and cost-effective means in the handling of containers while still trying to introduce innovative technical solutions. Container handling equipment automation is an innovative technological solution that contributes not only to improve the utilization rate of equipment and reduce operating costs, but also greatly improve efficiency of terminals.
+LOGIMATIC proposes an ad-hoc advanced location and navigation solution to enable the automation of existing port vehicles with a significantly lower cost which will allow short-medium term investments until the whole port fleet is renewed with totally autonomous vehicles in the long term. The project will develop and demonstrate an innovative location and navigation solution for the automation of the operations of straddle carriers in container terminals.
+Objectives:
+● To develop an advanced automated navigation solution based on the integration of Global Navigation Satellite Systems (GNSS) and sensors onboard the SC vehicles.
+● To implement a GIS-based control module compatible with existing Terminal Operating Systems (TOS) for optimized global (yard level) route planning and fleet management.
+● To implement security mechanism in order to detect and avoid spoofing and/or jamming attacks
+● To assess the impact of application of such automated approach at large scale through simulation
+● To integrate, validate and demonstrate the proposed solution in a real port yard.</objective>
+  <title>Tight integration of EGNSS and on-board sensors for port vehicle automation</title>
+<identifier>H2020Galileo20151</identifier>
+</project>

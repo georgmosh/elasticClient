@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210978</rcn>
+  <acronym>4-TOPS</acronym>
+  <objective>Topological materials have developed rapidly in recent years, with my previous ERC-AG project 3-TOP playing a major role in this development. While so far no bulk topological superconductor has been unambiguously demonstrated, their properties can be studied in a very flexible manner by inducing superconductivity through the proximity effect into the surface or edge states of a topological insulator. In 4-TOPS we will explore the possibilities of this approach in full, and conduct a thorough study of induced superconductivity in both two and three dimensional HgTe based topological insulators. The 4 avenues we will follow are:
+
+-SQUID based devices to investigate full phase dependent spectroscopy of the gapless Andreev bound state by studying their Josephson radiation and current-phase relationships.
+-Experiments aimed at providing unambiguous proof of localized Majorana states in TI junctions by studying tunnelling transport into such states.  
+-Attempts to induce superconductivity in Quantum Hall states with the aim of creating a chiral topological superconductor. These chiral superconductors host Majorana fermions at their edges, which, at least in the case of a single QH edge mode, follow non-Abelian statistics and are therefore promising for explorations in topological quantum computing.
+-Studies of induced superconductivity in Weyl semimetals, a completely unexplored state of matter.
+
+Taken together, these four sets of experiments will greatly enhance our understanding of topological superconductivity, which is not only a subject of great academic interest as it constitutes the study of new phases of matter, but also has potential application in the field of quantum information processing.</objective>
+  <title>Four experiments in Topological Superconductivity.</title>
+<identifier>ERC2016ADG</identifier>
+</project>

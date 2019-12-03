@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200462</rcn>
+  <acronym>F-ATPase</acronym>
+  <objective>The FOF1-ATPase is a complex nanomotor that synthesizes nearly 90% of the ATP made during cellular respiration. It consists of two coupled rotary motors: an integral membrane complex driven by proton flow across lipid bilayers (FO) and an enzymatic complex that converts ADP and inorganic phosphate to ATP (F1). The rotational portion of these motors acts as a camshaft, inducing conformational changes that lead to ATP synthesis in the F1 motor’s three functional catalytic sites. The F1 motor can perform ATP synthesis in the absence of FO, and it can also work in reverse, hydrolyzing ATP to pump protons against an established gradient. Over the last 30 years many important aspects of this motor’s function have been elucidated by careful biochemical work and further understood by clever biophysical experiments. However, there is still not a complete, quantitative description of the whole thermodynamic cycle—one that fully describes the interactions between all three separate catalytic sites and accounts for the need to exchange ATP (found abundantly) for the relatively sparse ADP.</objective>
+  <title>Towards a Complete Quantitative Model of the FOF1 ATP Synthase</title>
+<identifier>H2020MSCAIF2015</identifier>
+</project>

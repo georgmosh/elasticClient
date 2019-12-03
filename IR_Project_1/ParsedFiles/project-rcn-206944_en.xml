@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206944</rcn>
+  <acronym>TRADENET</acronym>
+  <objective>This project analyzes the propagation of shocks through international trade. The microeconomic structure of trade networks is argued to favor the propagation and amplification of shocks with an end-effect on the dynamics and volatility of aggregate trade. The exploitation of highly disaggregated firm-to-firm trade data offers a unique opportunity to analyze these questions into details.
+
+The first part of the proposal studies the determinants of trade networks. I build a search-and-matching framework to explain the formation of bilateral trade relationships as a matching process between individual exporters in one country and individual buyers located in another country. This framework allows explaining the structure of trade networks observed in the data, both in the cross-section and over time. The model is also used to revisit several puzzles of the international economic literature, including the question of welfare gains from trade and the convergence to the law of one price. 
+
+The second part of the proposal studies the consequences of the structure of trade networks for the volatility of trade and its resilience to relative price shocks. I study how the observed connections between individual firms help propagate individual and aggregate shocks, with an end-effect on the volatility of aggregate trade and the comovement of GDPs across countries. The high concentration of trade networks and the strength of production linkages, within and across countries, help amplify the aggregate effect of individual shocks. I also analyze how the structure of trade networks shapes the response of aggregate trade to relative price shocks. The nature and history of firm-to-firm relationships is argued to have implications for the aggregate elasticity of trade.</objective>
+  <title>Firm-to-Firm Trade Networks</title>
+<identifier>ERC2016STG</identifier>
+</project>

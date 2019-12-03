@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204958</rcn>
+  <acronym>Sniper-ARM</acronym>
+  <objective>The goal of this project is to extend the Sniper architectural simulator, previously developed at Ghent University, towards ARM-based systems. Sniper is shown to be fast, accurate and low-complexity for x86 multicore systems; and it is widely used in academia, as well as in industry for high-performance computing processor systems. This project will enhance Sniper to support ARM-based systems and will explore innovation opportunities in the embedded and mobile markets.</objective>
+  <title>High-Speed Architectural Simulation of ARM-based Systems</title>
+<identifier>ERC2015PoC</identifier>
+</project>

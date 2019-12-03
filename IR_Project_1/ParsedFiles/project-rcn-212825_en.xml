@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212825</rcn>
+  <acronym>M3DLoC</acronym>
+  <objective>MEDLOC aims at the employment of multi-material 3D printing technologies for the large-scale fabrication of microfluidic MEMS for lab-on-a-chip and sensing applications. The concept is based on the combination of multimaterial direct-ink-writing method and an extrusion-based 3D printing pilot line, in order to fabricate microstructured detection devices with the ability to perform all steps of chemical analysis in an automated fashion. The functionality of these devices will be evaluated based on their ability to streamline all steps needed to obtain mobility and binding-based identity information in one continuous biochemical detection system. Optimum in-line control systems will be incorporated in various stages of the fabrication process, to achieve precise control and repeatability. Microfluidic MEMS are increasingly recognized as a unique technology field for the development of biomedical devices (BioMEMS), due to their functional performance on the microscale, at the dimensions of which most physiological processes are operative. Applications near micro- and nanoscale are promising in the field of intelligent biosensors, where it enables the monolithic integration of sensing devices with intelligent functions like molecular detection, signal analysis, electrical stimulation, data transmission, etc., in a single microchip.</objective>
+  <title>Additive Manufacturing of 3D Microfluidic MEMS for Lab-on-a-Chip applications</title>
+<identifier>H2020NMBPPILOTS2017</identifier>
+</project>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>201115</rcn>
+  <acronym>OFBioSens-MIP</acronym>
+  <objective>This project aims to design and test a low-cost, highly sensitive and selective optical fibre sensor for testosterone, based on testosterone-recognising molecularly imprinted polymers (MIPs) combined with lossy mode resonance (LMR) structures.
+Optical fibre (OF) sensing has attracted great attention in the last years due to the benefits that it offers compared to traditional electronic sensors. Some of these benefits are small size, biocompatibility and immunity to electromagnetic fields. Among all OF sensors topologies, those based on spectral techniques are the most sensitive and robust. Specifically, OF sensors based on electromagnetic resonances - i. e., surface plasmon resonance (SPR) or LMR - have become a standard in the last years due to their high performance.
+The exciting potential of LMR-based sensors is combined in this proposal with bio-mimetic polymer technology in order to develop a new generation of sensors with defined chemical specificity. With this aim, the following specific objectives have been established:
+- To design and optimise the MIP formulations for the binding of testosterone while supporting and enhancing LMRs.
+- To characterise the properties of the MIPs regarding their structure, orientation and physical and chemical stability.
+- To study and optimise different deposition methods to coat the OF device with the selected polymer in order to obtain a testosterone sensor.
+- To model the OF sensor in order to predict its features and the optimum configuration.
+- To study the sensors’ response to different concentrations of testosterone in samples, evaluating its sensitivity, stability and selectivity.
+- To develop a small, light and low-cost system for the sensor in order to explore its commercial potential.
+The methodology and results obtained from this multidisciplinary project represents a generic strategy and will allow the future development of a range of new OF sensors for the detection of other substances of interest.</objective>
+  <title>Optical fibre biomimetic sensors based on Lossy Mode Resonances with Molecularly Imprinted Polymers</title>
+<identifier>H2020MSCAIF2015</identifier>
+</project>

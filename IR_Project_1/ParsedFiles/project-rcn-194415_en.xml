@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194415</rcn>
+  <acronym>ELSA</acronym>
+  <objective>Integration of distributed small/medium size storage systems can allow operating distribution grids much more flexibly, thus realizing smart grid features like local demand-supply balancing, congestion relief, peak shaving and effective RES integration. 
+
+However, few technologically mature decentralized storage systems are commercially available today at affordable prices, while both viable business models and the underlying legal and regulatory framework are lagging behind. 
+
+As an answer ELSA will implement and demonstrate an innovative solution integrating low-cost second-life Li-ion batteries and other direct and indirect storage options, including heat storage, demand-side management, as well as use of intermittent RES.
+
+The core idea is to consider Storage as a Service towards building and district managers for local energy management optimization, and towards DSO for enhanced network operations. ELSA will adapt, build upon, and integrate close-to-mature (TRL&gt;=5) storage technologies and related ICT-based energy management systems for the management and control of local loads, generation and single or aggregated real or virtual storage resources, including demand response, in buildings, districts and distribution grids. 
+
+Data models ensuring interoperability among building, districts and DSOs and novel business models enabled by energy storage “as-a-service” will be developed.
+
+Different configurations will be demonstrated along six test sites, where a set of different storage technologies will be integrated. Safety issues and social acceptance will be dealt with by communication and product reliability demonstration.
+A technical, economic and environmental validation, involving relevant stakeholders, will be carried out to nurture the European-wide replication of the ELSA concept, prepare the ground for a concrete roll out of the resulting TRL9 technologies and provide input for regulatory framework adaptation.</objective>
+  <title>Energy Local Storage Advanced system (ELSA)</title>
+<identifier>H2020LCE20143</identifier>
+</project>

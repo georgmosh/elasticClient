@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205495</rcn>
+  <acronym>ES-Cat</acronym>
+  <objective>ES-Cat will use directed evolution as a tool to reproduce Nature's remarkable ability to generate molecular machines - in particular enzymes – that perform at levels near perfection. Instead of seeing rational and combinatorial approaches as alternatives, we combine them in this network to achieve a ‘smarter’ and more efficient exploration of protein
+sequence space. By harnessing the forces of Darwinian evolution and design in the laboratory we want to (i) screen large and diverse libraries for proteins with improved and useful functions, (ii) optimize existing proteins for applications in medicine or biotechnology and (iii) provide a better understanding of how existing enzymes evolved and how
+enzyme mechanisms can be manipulated. This Network brings together leading academic and industrial groups with diverse and complementary skills. The range of methodologies represented in ES-Cat allows an integrated approach combining in silico structural and sequence analysis with experimental high-throughput screening selection methods (phage-, ribozyme and SNAP display, robotic liquid handling, lab-on-a-chip/microfluidics) with subsequent systematic kinetic and biophysical
+analysis. This integration of methods and disciplines will improve the likelihood of success of directed evolution campaigns, shorten biocatalyst development times, and make protein engineering applicable to a wider range of industrial targets. It will also train the next generation of creative researchers ready to fill roles in tailoring enzymes and other proteins for industrial application in synthetic biology efforts to move towards a bio-based economy, rivaling advances that are being made in the US and allowing the EU economy to harvest its evident socio-economic benefits.</objective>
+  <title>Directed Protein Evolution for Synthetic Biology and Biocatalysis</title>
+<identifier>H2020MSCAITN2016</identifier>
+</project>

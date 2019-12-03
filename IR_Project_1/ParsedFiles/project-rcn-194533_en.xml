@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194533</rcn>
+  <acronym>TIAMO</acronym>
+  <objective>Isolating ions and atoms from the environment is essential in experiments on a quantum level. For decades, this has been achieved by trapping ions with radiofrequency (rf) fields and neutral particles with optical fields. Our group demonstrated the trapping of ions by interaction with light. We see these results and our proposal as starting point for finally combining the advantages of optical trapping and ions. In particular, ions provide individual addressability, high fidelities of operations and long-range Coulomb interaction, significantly larger compared to those of atoms and molecules
+The aim of this proposal is to (i) study and establish optically trapping of ions and atoms in general, to (ii) demonstrate the substantial improvement of our approach in the context of interaction and reaction at ultra-low temperatures and to (iii) explore further perspectives by adapting methodology of quantum optics to gain control and state-sensitive detection on the level of individual quanta within the merged ion-atom system. 
+The field of ultra cold chemistry is perfectly suited as a showcase for this purpose. We will embed optically trapped ions into quantum degenerate gases to reach temperatures, 4-5 orders of magnitude below the current state of the art. Our approach circumvents the currently inevitable excess kinetic energy in hybrid traps, where ions are kept but also driven by rf-fields. It permits to enter the temperature regime where quantum effects are predicted to dominate, (i) in many-body physics, including the potential formation and dynamics of mesoscopic clusters of atoms of a Bose-Einstein-Condensate, binding to the “impurity ion”, as well as (ii) the subsequent two-particle s-wave collisions, the ultimate limit in ultra-cold chemistry.
+
+Further development of our novel and generic tools for “quantum engineering can be expected to propel several other striving fields of research, such as, experimental quantum simulations</objective>
+  <title>Trapping Ions in Atoms and Molecules Optically</title>
+<identifier>ERC2014CoG</identifier>
+</project>

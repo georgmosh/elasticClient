@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200860</rcn>
+  <acronym>SALSA</acronym>
+  <objective>SALSA is an exploratory research project relating to multi-source ADS-B system.
+
+A multi-source ADS-B system that combines the benefit of all possible type of relays (space, maritime, air or ground based) of ADS-B messages could provide a global surveillance system to overcome the prevailing continuous surveillance constraints in the non-radar airspace (NRA).  
+
+By bringing Space based ADS-B with other sources of surveillance based on ground, air and oceanic relays, a system of system architecture is conceived; upon its benefits, new separation standards are validated through analysis using theoretical modelling for separation standard and airspace capacity, in the context of NRA.   Reduction in separation minimum and in the number of standards will bring significant benefits to ATC/ATM operations with improved aircraft surveillance and airspace management.   
+
+These two aspects, namely, a  system-of-system concept for multi-source ADS-B architecture  and analytical modelling for enhanced separation minima and airspace capacity in the context of NRA define the scope of SALSA. The analysis will also consider different scenarios of separation minima Vs. ADS-B message update rate.
+
+The study will assess the impact of performance of such a system of systems approach in the context of separation standards; it will provide an assessment of the procedural impact and impact to flight safety due to the revised minima and the system configuration.
+
+A set of recommendations to SESAR JU and other stake-holders and industry partners will be provided in order to purse the outcome of the study towards higher technology readiness level (TRL) and eventual implementation.</objective>
+  <title>SATELLITE-BASED ADS-B FOR LOWER SEPARATION-MINIMA APPLICATION (SALSA)</title>
+<identifier>H2020SESAR20151</identifier>
+</project>

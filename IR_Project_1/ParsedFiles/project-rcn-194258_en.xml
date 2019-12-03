@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194258</rcn>
+  <acronym>POPART</acronym>
+  <objective>European film makers are well-known for their creative innovation in selecting themes, their original way of storytelling and their art of cinematography. Like elsewhere in the world, they use computer-generated visual effects to achieve the intended visual experience and quality.
+
+To achieve the best interaction between the creative team on set and the post-production team, it is important to achieve the best common understanding between the team filming real scenes and the team working on visual effects. For this, previz has been developed. Previz today contributes to film making from the planning stage to filming with actors on set, where the final composition of mixed reality scenes can be reviewed during and right after the shoot.
+
+Large film studios that produce films with the highest budgets take the final step and integrate previz with the final post-production. For this, they develop in-house tools or cooperate with a company that is dedicated to the previz concept. This integration remains unavailable to most film makers and provides a strong competitive advantage. Without the integration, a gap remains between the team filming real scenes and the team working on visual effects in post-production.
+
+POPART will introduce an affordable and highly customizable solution that will disrupt the market and overcome this lack of competition. It will democratize the access to a complete previz solution integrated into the pipeline from shooting preparation to post-production, that doesn’t exist on the market. In contrast to the market lock-in solutions, all core elements required for real-time previz will be released in open source and will be based on open standards to provide an highly customizable solution.
+
+The product released by POPART will comprise hard- and software components. It will be available at an affordable price, help improve the processes for creative teams in Europe directly, and will stimulate research by providing core libraries in open source.</objective>
+  <title>Previz for On-set Production - Adaptive Realtime Tracking</title>
+<identifier>H2020ICT20141</identifier>
+</project>

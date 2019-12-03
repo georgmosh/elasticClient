@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193914</rcn>
+  <acronym>AdapTT</acronym>
+  <objective>AdapTT will unlock the potential for development of a real time adaptive therapy planning tool for thermal treatment in prostate oncology. Highly specialized and cost effective state-of-the-art scientific solutions can only be developed when complimentary partners of different sectors work synergistically. The intersectoral nature of the European Industrial Doctorates (EID) framework, between industry and academia, is a key requirement for success of the proposed PhD projects. Specific application knowledge on clinical software platforms development, imaging systems and therapy modalities of the industrial partner, has to be combined with fundamental biophysical knowledge and clinical need insights of the clinical academic partner. This combination of European based expertise is unique and being able to be exposed to these different research climates will strongly enhance the employability and career prospects of the early stage researchers (ESR’s), participating in the program. 
+
+The objectives of AdapTT are: 
+1. To train and to deliver a cohort of young researchers experienced in transcending traditional research boundaries to deliver deeper insight into energy dose delivery of thermal therapy modalities such as high intensity focused ultrasound (HIFU), microwave, laser and radiofrequency (RF) in soft tissue; 
+2. To discover and leverage deep understanding of the molecular, cellular and biophysical impact of temperature on tumour cell behaviour and healthy soft tissue properties;
+3. To develop a therapy planning tool, based on a combination of pre-clinically validated 3D energy dose delivery biophysics models and mathematical algorithms to enable real time energy monitoring and real time energy delivery adaptation;
+4. To significantly impact EU competitiveness by bringing leading science- and technology experts together to work on basic- and translational problems from both academic and industrial viewpoint.</objective>
+  <title>Real time therapy planning for Thermal based therapy modalities in oncology care.</title>
+<identifier>H2020MSCAITN2014</identifier>
+</project>

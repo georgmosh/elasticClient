@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193333</rcn>
+  <acronym>DexROV</acronym>
+  <objective>Underwater operations (e.g. oil industry) are demanding and costly activities for which ROV based setups are often deployed in addition to deep divers – contributing to operations risks and costs cutting.
+However the operation of a ROV requires significant off-shore dedicated manpower – such a setup typically requires a crew consisting of: (1) an intendant, (2) an operator, and (3) a navigator. This is a baseline, and extra staffing is often provisioned. Furthermore, customers representatives often wish to be physically present at the off-shore location in order to advise on, or to observe the course of the operations. Associated costs are high.
+In order to reduce the burden of operations, DexROV will work out more cost effective and time efficient ROV operations, where manned support is in a large extent delocalized onshore (i.e. from a ROV control center), possibly at a large distance from the actual operations - thus with latencies in the communication. As a main strategy to mitigate them, DexROV will develop a real time simulation environment to accommodate operators’ requests on the onshore side with no delays. The simulated environment will exploit cm accuracy 3D models of the environment built online by the ROV, using data acquired with underwater sensors (3D sonar and vision based). A dedicated cognitive engine will analyse user’s control requests as done in the simulated environment, and will turn them into primitives that the ROV can execute autonomously in the real environment, despite the communication latencies.
+Effective user interfaces will be developed for dexterous manipulation, including a double advanced arm and hand force feedback exoskeleton. The ROV will be equipped with a pair of new force sensing capable manipulators and dexterous end-effectors: they will be integrated within a modular skid.
+The outcomes of the project will be integrated and evaluated in a series of tests and evaluation campaigns, culminating with a realistic offshore trial.</objective>
+  <title>Dexterous ROV: effective dexterous ROV operations in presence of communication latencies.</title>
+<identifier>H2020BG20142</identifier>
+</project>

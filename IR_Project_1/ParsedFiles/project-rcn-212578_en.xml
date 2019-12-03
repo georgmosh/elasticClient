@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212578</rcn>
+  <acronym>TotalControl</acronym>
+  <objective>Cost of energy (COE) is the most important single factor in deployment of renewables in the energy system. Reduction of COE is, among other things, directly related to operational control of Wind Power Plants (WPP) as a whole and the individual wind turbines (WT) within them. In the Total Control project the COE reduction will be pursued by developing and validating advanced integrated WPP/WT control schemes, where all essential interactions between the WPP WT’s are accounted for including both production and load aspects.
+Optimal WPP control is traditionally formulated as a one-parameter optimization problem focusing on the WPP production only. However, ultimately the optimal WPP performance should result from a multi objective optimization problem, where the optimal economic performance of a WPP is pursued over the WPP life time, conditioned on external grid demands. This is what Total Control is about.
+The suggested integrated WPP/WT control approach seeks the optimal economical WPP revenue – i.e. the optimal economic balance between WPP power production and WPP operational costs. This is done by developing hierarchically coupled WPP and WT control schemes conditioned on a set of superior grid operator demands. 
+In the WPP control design phase information is only fed from the WPP controller to the individual WT controllers, whereas in on-line operational control available WT and WPP flow field information will be assimilated into the WPP control for optimal system performance. Furthermore, the WPP controller will also make use of current market information (e.g. energy price, demand for ancillary services etc.) as well as information about the state of individual turbines (e.g. current operational state, maintenance requirements and component lifetime consumption) to allow COE objectives to be optimised dynamically.</objective>
+  <title>Advanced integrated supervisory and wind turbine control for optimal operation of large Wind Power Plants</title>
+<identifier>H2020LCE2016RESCCSRIA</identifier>
+</project>

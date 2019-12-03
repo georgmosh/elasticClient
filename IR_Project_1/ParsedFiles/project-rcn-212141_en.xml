@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212141</rcn>
+  <acronym>eTRANSAFE</acronym>
+  <objective>Drug safety assessment is a knowledge-intensive process that demands advancement in data handling methods and tools for facilitating data sharing, mining, analysis and predictive modelling. This need is not restricted to any specific type of data and real advancement requires integrating information of different types and from different sources (e.g. publicly available biomedical knowledge, proprietary preclinical and clinical data, evidence from post-marketing studies) for addressing drug safety assessment from a holistic perspective.
+
+The eTRANSAFE project will address these needs by developing a powerful data integration infrastructure (Knowledge Hub) and a collection of computational tools (exploitation modules) for making optimal use of these data. The proposed system will be a flexible and expandable framework, built on previous experience and applying state-of-the-art methods and technologies for providing the most advanced solutions for data sharing, interoperability and exploitation. An experienced honest broker will guarantee the confidentiality of any proprietary data. The project will develop in silico tools for data mining, visualisation, and prediction of potential toxicity, with specific attention to the assessment of the preclinical to clinical predictivity and the discovery of safety biomarkers. The CDISC-SEND format will be supported, facilitating the preparation of regulatory-compliant documentation. This infrastructure will be underpinned by development of open standards and guidelines recognised by regulatory agencies and international organisations.
+
+The eTRANSAFE consortium brings together 13 organizations that mobilize an unprecedented capacity and resources, uniquely placed to leverage the experience of eTOX and other EU projects and initiatives. The project partners are six prestigious academic institutions, six highly skilled small-medium enterprises (SME) and one European infrastructure (ELIXIR), bringing in this way a perfect balance.</objective>
+  <title>Enhacing TRANslational SAFEty Assessment through Integrative Knowledge Management</title>
+<identifier>H2020JTIIMI2201609twostage</identifier>
+</project>

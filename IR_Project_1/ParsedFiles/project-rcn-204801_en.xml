@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204801</rcn>
+  <acronym>OMIP</acronym>
+  <objective>Over-The-Counter (OTC) trading is trading done directly between two parties, without supervision of an exchange. Traders in OTC markets face several types of counterparty risk (Default, Replacement, Settlement and  Liquidity). The technology developed by the PI's ERC-funded research will be applied to solve two basic problems: 
+
+How to preserve the privacy and anonymity of traders involved in decentralized OTC trading, while improving accountability and transparency. 
+
+The objective is the creation of a decentralized peer to peer network in which asset ownership can be settled cryptographically with little cost and latency. The system will allow traders to (1) prove ownership of assets, (2) transfer ownership between two trading parties in an efficient, secure, and timely manner. Achieving this will help traders comply with new financial regulations (such as the Dodd-Frank Act) regarding OTC markets, and reduce (1) market inefficiencies, (2) counterparty risk, and (3) settlement and clearing latencies and costs.</objective>
+  <title>Improved Over-The-Counter (OTC) Market Integrity and Privacy via cryptographic proofs of computational integrity</title>
+<identifier>ERC2015PoC</identifier>
+</project>

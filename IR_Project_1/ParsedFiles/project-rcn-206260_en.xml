@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206260</rcn>
+  <acronym>HEMPT-NG</acronym>
+  <objective>HEMPT-NG addresses the topic COMPET-3-2016-a on Incremental Technologies part of the SRC electrical propulsion in line with the EPIC roadmap “to increase the competitiveness of EP systems developed in Europe” by developing an integrated solution based on HEMPT (Highly Efficient Multistage Plasma Thruster) , the fluidic management system, and the power processing unit.
+The proposed development will raise the performance of all components beyond current state-of-the-art. The results will offer an ideal EPS system for LEO application up to 700 W and for Telecom/Navigation application up 5 kW.
+The HEMPT technology offers unique innovative features compared to other EP technologies and makes HEMP a key candidate to overcome all the currently identified deficiencies: 
+1. No discharge channel erosion leading to higher lifetimes of the thruster, 
+2. Acceleration voltages enabling a high specific Impulse (ISP) leading to a drastic reduction of propellant consumption, 
+3. Unique large range of thrust offer enormous flexibility, 
+4. Minimal complexity of concept providing an excellent basis for economic competitiveness.
+The HEMPT-NG consortium is led by TES (Thales Electronic System GmbH), subsidiary of the Thales Group, worldwide leader in the development and production of space products, responsible for thruster equipment and integrated EPS. European industrial partners are: Thales, OHB, Airbus and Aerospazio, who bring their expertise in spacecraft mission studies, equipment development and testing capacities. The University of Greifswald will provide plasma simulation to support the thrusters developed. These eight partners in five European member-states (Germany, France, UK, Belgium, Italy) will develop an economical and well-performing HEMPT LEO and GEO EPS to guarantee European leadership and competitiveness, as well as the non-dependence of European capabilities in electric propulsion. 
+This proposal falls under the CONFIDENTIALITY rules described in Section 5.</objective>
+  <title>High Efficiency Multistage Plasma Thruster – Next Generation</title>
+<identifier>H2020COMPET2016</identifier>
+</project>

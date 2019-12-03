@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193786</rcn>
+  <acronym>UNMOVED</acronym>
+  <objective>Information in the nervous system is typically represented in activity patterns distributed across large populations of neurons in three dimensions, and there is a lot of current interest in the development of systems that can volumetrically image these patterns (or other distributed processes) in real-time. During our work towards imaging responses to artificial retinal stimulation we have developed a solution for remotely manipulating the illumination plane during temporal-focusing multiphoton imaging (a powerful bio-microscopy and photo-manipulation modality). This technique and its variations could provide unprecedented access into rapid 3D imaging at an exciting time for the neuroimaging field, where major initiatives for high-resolution brain activity mapping have been launched, and could potentially also be applied towards innovative approaches to micro-endoscopy and other applications.</objective>
+  <title>Simultaneous three dimensional multiphoton microscopy without mechanical depth scanning</title>
+<identifier>ERC2014PoC</identifier>
+</project>

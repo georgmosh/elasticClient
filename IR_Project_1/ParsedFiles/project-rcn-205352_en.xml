@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205352</rcn>
+  <acronym>INTERCOGAM</acronym>
+  <objective>INTERCOGAM’s goal is to develop and use information theory based intrinsic motivation formalisms to evaluate
+automatically generated game mechanics. Content generation is one of the production bottlenecks of professional game
+design, which has begun to be addressed by procedural content generation. In this field, search based procedural content
+generation uses the idea of evolutionary algorithms to represent, modify and adapt games and game content to maximise
+fun and engagement with the game. One major challenge here is the identification of widely applicable fitness functions,
+which capture the different aspects of what makes a game fun, such as challenge level, complexity, pacing, etc.
+INTERCOGAM will relate psychological and game design concepts of game experience to either existing formalisms for
+intrinsic motivation or develop new ones, where appropriate. Human play testers will then play procedurally generated
+games and evaluate their own experience, allowing us to verify whether our formalism captures the actual human motivation,
+and whether humans indeed act according to certain intrinsic motivations. INTERCOGAM will yield both, a tool to generate
+new and engaging game ideas, aiding better and faster game design, and provide new insights into how the human mind
+engages with different worlds where there is no external reward present.</objective>
+  <title>Information Theoretic Evaluation of Random Content Generation in Games</title>
+<identifier>H2020MSCAIF2015</identifier>
+</project>

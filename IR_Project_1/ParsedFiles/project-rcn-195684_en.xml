@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>195684</rcn>
+  <acronym>Cosmo Plasmas</acronym>
+  <objective>Merging galaxy clusters are among the most energetic events in the Universe. Their interaction generates shocks and turbulence in the ionised cluster medium, driving the amplification of magnetic fields and the acceleration of relativistic particles. This leads to the formation of large diffuse radio sources in some clusters. The next generation of radio telescopes, including the European LOFAR  observatory, will revolutionize the field, unveiling a complex picture of  these non-thermal processes in clusters. However we still lack numerical simulations to match the capabilities of these instruments. This roots in the complexity of models for MHD-turbulence and cosmic-rays poses challenging demands to simulators. Only recent advances in implementations at the outgoing host and by the applicant make these simulations now feasible.
+Hence this project aims to simulate non-thermal radio sources in galaxy clusters with unprecedented detail. The applicant will run the first Eulerian cosmological MHD simulation that resolves the MHD dynamo in clusters including a self-consistent treatment of cosmic-rays in the intra-cluster-medium.
+During the outgoing-phase, he will interact with leading experts in the simulation of cosmic ray acceleration and magnetic field amplification at the University of Minnesota. He will be trained in the optimization of grid methods for MHD simulations and algorithms at Cray Inc, a leading vendor of super-computers.
+Upon return, the applicant will work with leading theorists and observers at the host to fully exploit his simulations. The comparison with LOFAR data and complementary  observations will allow a leap forward in the understanding of the complex mechannisms opeating in the cluster medium.
+The project will establish the applicant as a leading numerical researcher in non-thermal cluster physics and a key figure in the interpretation of radio data. Moreover, the results will directly  benefit the European radio astronomical community.</objective>
+  <title>Cosmological simulations of radio bright plasmas</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>197029</rcn>
+  <acronym>HTMD</acronym>
+  <objective>The pharmaceutical industry’s increasing spending on R&amp;D is not translating into new and better drugs at the pace required to maintain competitiveness. In-silico computational methods are beginning to gain traction in the progress towards more rational drug discovery workflows. Among the methods available, molecular dynamics (MD) provides the most accurate and useful description of molecular interactions, but the current state of the art has both a high degree of unnecessary technical complexity, and is computationally expensive. 
+Together, these two factors have produced a high barrier to entry that substantially limits research productivity.Acellera looks to address these issues by proposing a cloud application platform for high-throughput MD (HTMD) simulations.  This computational platform combines proprietary simulation technology - optimized for speed and simulation throughput – and user-friendly interfaces in a cloud environment to provide a novel resource for drug candidate identification.  HTMD, which allows understanding with an unprecedented degree of resolution and accuracy how drugs interact with their biological targets, can significantly reduce the cost of pre-clinical research (PCR) by virtualizing key steps. 
+ It is currently estimated that pharmaceutical companies invest approximately 1000M Euro per approved drug.  As a global leader in the development of technology for high-throughput molecular dynamics, Acellera is uniquely positioned to bring this disruptive computational technology to the market. The HTMD platform is ready for prototyping in an operational environment (TRL 6).  
+Acellera proposes a Phase 1 SME Instrument to support the execution of a feasibility study into the market viability of the HTMD solution for pre-clinical research. Results of the study will be used to inform preparations for a larger-scale demonstration in Phase 2 and for the subsequent market launch.</objective>
+  <title>Feasibility assessment of a cloud application platform for rational drug design using high throughput molecular dynamics</title>
+<identifier>H2020SMEINST12014</identifier>
+</project>

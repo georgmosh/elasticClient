@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205803</rcn>
+  <acronym>AtmoHealth</acronym>
+  <objective>Healthcare data analysis has become an integral part of public health policy making, medical research, the development of
+new treatments and medical innovation. Governments, pharmaceutical industries, insurance companies, medical research
+groups and hospitals increasingly use population-based healthcare data as a critical support to research and decisionmaking.
+
+Citizens are also increasingly keen to learn about the distribution and outcome of conditions which they may be
+suffering from. However, an affordable, user-friendly platform that brings together population health and research data from
+multiple sources and enables it to be easily presented and ‘mined’ for this wide range of purposes does not currently exist.
+iMoHEALTH will meet this need. The completed iMoHEALTH SMEI Phase 1 feasibility study enabled developers, FACE
+Recording and Measurement Systems Ltd, to conduct a number of research and development activities to build a detailed
+business plan. This, combined with the exceptionally enthusiastic response of both prospective users and potential
+commercial partners, confirmed that the product meets a clear market need and will have major perceived benefits to
+healthcare stakeholders across Europe. Indeed, the level of response suggested that the need is even greater and more
+keenly felt than had been previously anticipated. 
+
+To build on the current TRL6, this project sets out to refine and improve the iMoHEALTH platform by both evolution of the back-end architecture and additional front-end functionality to reach TRL9, as well as performance verification in a broader range of healthcare contexts. FACE has over 20 years of experience in the health and social care sectors, developing solutions that meet the collective needs of practitioners, patients/service users and their carers, managers, policymakers and researchers. FACE has a national reputation for delivering high quality solutions, producing nationally accredited and awarding winning products.</objective>
+  <title>A pan-national collaborative analytics platform for the exploration and improvement of population health</title>
+<identifier>H2020SMEINST220162017</identifier>
+</project>

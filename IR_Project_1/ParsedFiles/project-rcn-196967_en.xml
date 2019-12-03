@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196967</rcn>
+  <acronym>INCEPTION</acronym>
+  <objective>INCEPTION realises innovation in 3D modelling of cultural heritage through an inclusive approach for time-dynamic 3D reconstruction of artefacts, built and social environments. It enriches the European identity through understanding of how European cultural heritage continuously evolves over long periods of time. INCEPTION’s Inclusive approach comprises: time dynamics of 3D reconstruction (‘forever’); addresses scientists, engineers, authorities and citizens (‘for everybody’); and provides methods and tools applicable across Europe (‘from everywhere’).
+INCEPTION solves the shortcomings of state-of-the-art 3D reconstruction by significantly enhancing the functionalities, capabilities and cost-effectiveness of instruments and deployment procedures for 3D laser survey, data acquisition and processing. It solves the accuracy and efficiency of 3D capturing by integrating Geospatial Information, Global and Indoor Positioning Systems (GIS, GPS, IPS) both through hardware interfaces as well as software algorithms.
+INCEPTION methods and tools will result in 3D models that are easily accessible for all user groups and interoperable for use by different hardware and software. It develops an open-standard Semantic Web platform for Building Information Models for Cultural Heritage (HBIM) to be implemented in user-friendly Augmented Reality (VR and AR) operable on mobile devices.
+INCEPTION collaborative research and demonstration involves all disciplines (both social and technical sciences), technologies and sectors essential for creation and use of 3D models of cultural heritage. SMEs are the thrust of INCEPTION consortium that will bring the innovation into creative industries of design, manufacturing and ICT. The Consortium is fully supported by a Stakeholder Panel that represents an international organisation (UNESCO), European and national public institutions, and NGOs in all fields of cultural heritage.</objective>
+  <title>Inclusive Cultural Heritage in Europe through 3D semantic modelling</title>
+<identifier>H2020REFLECTIVE72014</identifier>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199487</rcn>
+  <acronym>ARCFIRE</acronym>
+  <objective>ARCFIRE will bring RINA from labs into the real-world. RINA, the Recursive InterNetwork Architecture, is an innovative “back-to-basics” network architecture that solves current limitations and facilitates full integration between distributed computing and networking. RINA addresses the challenges that drive the communications industry in moving from dedicated hardware to almost completely virtualised infrastructure. The next shift, 5G, on the horizon for 2020, will change the communication industry even more significantly. Now is the right time for ARCFIRE to provide experimental evidence of RINA’s benefits, at large scale, in compelling and realistic business cases, thus motivating RINA adoption. 
+
+ARCFIRE will experimentally demonstrate RINA’s key benefits integrating current EC investment in advanced networks (IRATI, PRISTINE) and Future Internet testbeds (FIRE+) focusing on 5 goals: 1) Facilitate comparison of converged operator networks using RINA to operator’s current network designs; 2) Produce a robust RINA software suite ready for Europe to engage in large-scale deployments and long-living experiments; 3) Provide relevant experimental evidence of RINA benefits to network operators, their equipment vendors, application developers and end-users; 4) Build on the current EU Future Internet community and raise the number of organisations involved in RINA development and deployment; 5) Enhance the FIRE+ infrastructure with ready to use RINA software. 
+
+ARCFIRE will have long-term sustainable impact on how we build infrastructure for the Networked Society. ARCFIRE’s deployed software suite will enable equipment vendors to shorten their innovation life cycle, network operators to run advanced networks addressing their needs in a future-proof fashion, European SME’s to find and exploit specialised markets and application developers to explore unseen opportunities. 
+
+ARCFIRE’s consortium has the experience and resources to achieve these goals and provide this impact.</objective>
+  <title>Large-scale RINA benchmark on FIRE</title>
+<identifier>H2020ICT2015</identifier>
+</project>

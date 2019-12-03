@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193516</rcn>
+  <acronym>BLOC</acronym>
+  <objective>Boundary layer theory is a large component of fluid dynamics. It is ubiquitous in Oceanography, where boundary layer currents, such as the Gulf Stream, play an important role in the global circulation. Comprehending the underlying mechanisms in the formation of boundary layers is therefore crucial for applications. However, the  treatment of boundary layers in ocean dynamics  remains poorly understood at a theoretical level, due to the variety and complexity of the forces at stake. 
+
+The goal of this project is to develop several  tools to bridge the gap between the mathematical state of the art and the physical reality of oceanic motion. There are four points on which we will mainly focus: degeneracy issues, including the treatment Stewartson boundary layers near the equator; rough boundaries (meaning boundaries with small amplitude and high frequency variations); the inclusion of the advection term in the construction of stationary boundary layers; and the linear and nonlinear stability of the boundary layers. We will address separately  Ekman layers and western boundary layers, since they are ruled by equations whose mathematical behaviour is very different. 
+
+This project will allow us to have a better understanding of small scale phenomena in fluid mechanics, and in particular of the inviscid limit of incompressible fluids. 
+
+The team will be composed of the PI, two PhD students and three two-year postdocs over the whole period. We will also rely on the historical expertise of the host institution on fluid mechanics and asymptotic methods.</objective>
+  <title>Mathematical study of Boundary Layers in Oceanic Motions</title>
+<identifier>ERC2014STG</identifier>
+</project>

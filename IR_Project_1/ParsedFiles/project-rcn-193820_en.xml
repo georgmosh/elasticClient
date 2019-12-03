@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193820</rcn>
+  <acronym>spyGLASS</acronym>
+  <objective>This proposal brings forward a passive bistatic radar (PBR) based on Galileo transmissions for maritime surveillance. The exploitation of existing transmissions for PBR applications is becoming increasingly attractive due to their low costs, covert operation, and reduced environmental pollution. Galileo is particularly suited for the proposed task since it comprises a satellite constellation, ensuring that any point on Earth is permanently illuminated by a number of satellites. This feature potentially enables surveillance both in coastal areas and the open sea. In this proposal a ground based receiver is considered for coastal monitoring while the receiver is placed on mobile platforms to assure open sea surveillance. The feasibility of such a system will be evaluated and the required techniques will be studied and developed in order to propose an original and innovative solution to solve a major European problem using European technology.</objective>
+  <title>GALILEO-BASED PASSIVE RADAR SYSTEM FOR MARITIME SURVEILLANCE</title>
+<identifier>H2020Galileo20141</identifier>
+</project>

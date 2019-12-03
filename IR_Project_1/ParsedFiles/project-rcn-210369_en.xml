@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210369</rcn>
+  <acronym>DREAMS</acronym>
+  <objective>The DREAMS project aims at contributing to the definition of the European UTM  Aeronautical Information Management operational concept by exploring need for and feasibility of new processes, services and solutions for the drone aeronautical information management within the new UTM concept. The UTM is seen as the key enabling concept for safe integration of drones within VLL  airspace, tailored on the needs of UAS operations. 
+The study put together the knowledge of mission needs and operational requirements of drones commercial operators that want to make their operations safer and cost effective (BVLOS) with the knowledge of operating modes and procedures currently adopted by airlines and aircrew, general aviation associations and pilots, leisure/sport aeronautical activity associations and pilots, accessed information services, required data quality, resolution, temporality and services costs. 
+The study will be focused not only to the needs of drones operators but will addressed the aeronautical information sharing requirements coming from the several stakeholders involved for different purposes in the drones VLL operation concept. 
+The DREAMS study and its methodology are based on a deep competence in systems and technologies, currently used in the management of all types of air traffics, for flight planning, static and dynamic aeronautical Information and for airspace design and management. 
+Operational and technical aspects, environmental scenarios, technologies, safety and security impact will be analysed in order to identify possible UTM data service providers (e.g. airspace structure, terrain, obstacles and weather,..) and facilities and the way this data service need to be tailored for UTM management service provision in order to allow quality and resilient information and airspace services.</objective>
+  <title>DRone European AIM Study</title>
+<identifier>H2020SESAR20161</identifier>
+</project>

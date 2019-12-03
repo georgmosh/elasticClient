@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>195268</rcn>
+  <acronym>FIRSTBHs</acronym>
+  <objective>Supermassive black holes (BHs) of more than a billion solar masses have been observed at z &gt; 6 when the Universe was less than a billion years old. Forming such objects is highly challenging, as high accretion rates need to be maintained over very long time scales. Seed BHs with masses of 10^4 -10^6 solar masses, as predicted by the “direct collapse” scenario, provide a promising pathway to explain their presence. During this project, I will derive the mass distribution of the BHs to provide constraints on their masses and growth mechanisms which can tested with upcoming missions such as JWST and ATHENA. To achieve this goal, I will build up a statistical sample of high-resolution adaptive mesh refinement (AMR) simulations of massive primordial halos, following the dynamics of the gas from cosmological scales down to scales comparable to the solar system. The gravitational collapse initially forms a rapidly accreting protostar, which subsequently moves to the main sequence providing ultra-violet (UV) feedback and finally collapses to a massive BH. In the first part of the project, I will compute the impact of stellar feedback from the supermassive star and follow the time evolution of the mass accretion rates. Subsequently, the simulations will be extended by incorporating the X-ray feedback from the BH itself. Finally, scaling relations between the properties of the host halos and BH masses will be derived. This work will provide the first detailed assessment of the mass distribution of seed BHs, and their observational properties. This
+is a substantial step forward to understand the origin of high-redshift BHs.</objective>
+  <title>The formation of supermassive black holes in the early universe</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

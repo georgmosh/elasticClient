@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>198768</rcn>
+  <acronym>DigiRead</acronym>
+  <objective>This project will serve to evaluate market opportunities of a newly invented technology for digital detection of reporter DNA
+strands in protein analysis.
+The purpose of my ongoing ERC project ProteinSeq is to develop technology and reagents for parallel, sensitive and
+specific targeted protein analyses in plasma samples, lysates, etc. An important limiting factor for the broader adoption of
+our technology is the cost and throughput of next generation sequencing and realtime PCR to read out the identities and
+levels of reporter DNA strands that reflect the amounts of proteins in a sample.
+In the course of the ERC project we have invented and patented a technique to greatly enhance each of the reporter
+strands to prominent DNA objects that can be easily detected, identified and counted by fluorescence microscopy with
+automated image analysis or through flow cytometry. We refer to this highly specific technique as super rolling circle
+amplification or sRCA, and it involves two generations of RCA and combinatorial fluorescence detection of the large
+products, each composed of hundreds of thousand repeats of specific tag DNA sequences.
+In the proposed PoC project we will position our new technology against other readout techniques such as next gen
+sequencing, realtime PCR and microarrays by identifying Needs, Approach, Benefits, Competition for sRCA. Potential end
+users will be contacted to establish customer requirements, and we will evaluate freedom to operate and the extent of
+monopoly for our invention. We will also specifically investigate means to distinguish many sRCA products by combinatorial
+labeling schemes.</objective>
+  <title>Digital readout of protein detection via super rolling circle amplification of DNA tags</title>
+<identifier>ERC2015PoC</identifier>
+</project>

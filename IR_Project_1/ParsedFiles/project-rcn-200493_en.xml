@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200493</rcn>
+  <acronym>InInVi</acronym>
+  <objective>InInVi originates from augmented reality (AR) research within the ERC project VarCity. Our findings from VarCity of highly robust plane tracking combined with state-of-the-art object recognition enables very robust and qualitatively very high augmentations. In this PoC project, we transfer these findings into commercial applications in the live TV production business. Here, mechanical, inflexible solutions dominate to create overlays or AR animations, for instance step sensors to measure the field of view of a camera. As the purely visually operating proof-of-concept technology allows to overcome many of their limitations, e.g. high set-up costs or the assumption of a fixed camera location, it provides new opportunities in video-on-demand, live TV and live streaming.</objective>
+  <title>Automatically Interactivised and Individualised Videos</title>
+<identifier>ERC2015PoC</identifier>
+</project>

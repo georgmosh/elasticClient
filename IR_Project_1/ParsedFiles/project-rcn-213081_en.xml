@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213081</rcn>
+  <acronym>BigDataStack</acronym>
+  <objective>The new data-driven industrial revolution highlights the need for big data technologies to unlock the potential in various application domains. To this end, BigDataStack delivers a complete high-performant stack of technologies addressing the emerging needs of data operations and applications. The stack is based on a frontrunner infrastructure management system that drives decisions according to data aspects thus being fully scalable, runtime adaptable and performant for big data operations and data-intensive applications.
+BigDataStack promotes automation and quality and ensures that the provided data are meaningful, of value and fit-for-purpose through its Data as a Service offering that addresses the complete data path with approaches for data cleaning, modelling, semantic interoperability, and distributed storage. 
+BigDataStack introduces a pioneering technique for seamless analytics which analyses data in a holistic fashion across multiple data stores and locations, handling analytics on both data in flight and at rest. Complemented with an innovative CEP running in federated environments for real-time cross-stream processing, predictive algorithms and process mining, BigDataStack offers a complete suite for big data analytics. 
+BigDataStack holistic solution incorporates approaches for data-focused application analysis and dimensioning, and process modelling towards increased performance, agility and efficiency. A toolkit allowing the specification of analytics tasks in a declarative way, their integration in the data path, as well as an adaptive visualization environment, realize BigDataStack’s vision of openness and extensibility.
+With an emphasis on standardisation and open source contributions targeting high impact, BigDataStack will enable data operations and data-intensive applications to take full advantage of the developed technologies, exhibiting their applicability through three commercial use cases from the maritime, market and financing domains.</objective>
+  <title>High-performance data-centric stack for big data applications and operations</title>
+<identifier>H2020ICT20171</identifier>
+</project>

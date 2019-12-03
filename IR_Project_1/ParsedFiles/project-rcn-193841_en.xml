@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193841</rcn>
+  <acronym>PARADISE</acronym>
+  <objective>Precise and Robust Navigation enabling Applications in Disturbed Signal Environments (PARADISE).
+Enabling precise and robust satellite navigation not only under open sky conditions but also under disturbed GNSS signal conditions (typically in forest and in urban canyon environments) is the last open challenge for precise satellite navigation in outdoor.
+Concerning accuracy, the current existing 'state-of-the-art' professional GNSS receivers are enabling precise GNSS positioning solutions with an accuracy better than 0,5 m. These receivers are only working under open sky (strong signal without major multipath effects) conditions. There are many GNSS receiver working under disturbed signal conditions (mass market receivers), but these are typically providing accuracies of 10-30 meters in disturbed environments and are therefore not suited for applications requiring high accuracy in disturbed signal environments.
+Concerning robustness, often an integration with medium performance inertial sensor is done to overcome short periods of disturbance. However if working in a generally disturbed environment is the nominal case, this approach doesn't help any further. Another drawback of existing IMU integration solutions is the high costs related with the need of ahigh quality IMU sensor (from 1.000 to 10.000 EUR). 
+To overcome these limitations, IFEN is working since many years on this problem. With projects finalized in February 2013, a first receiver bread-board is existing, confirming the viability of the proposed technical concept (called micro-trajectory augmented with MEMS sensors) at a TRL3.
+Extending the current concept towards multi-frequency (GPS L1/L5 and Galileo E1 and E5) and inserting a low-cost MEMS (below 100 EUR) will further increase accuracy and robustness, making it suited to be transfered towards a marketable technology. 
+The marketable prototype receiver (TRL7) will be demonstrated in typical precise applications in forest and urban environments.</objective>
+  <title>Precise and Robust Navigation enabling Applications in Disturbed Signal Environments</title>
+<identifier>H2020Galileo20141</identifier>
+</project>

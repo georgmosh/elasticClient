@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213463</rcn>
+  <acronym>StabCondEn</acronym>
+  <objective>I will introduce new techniques to address two big open questions in the theory of derived/triangulated categories and their many applications in algebraic geometry.
+
+The first one concerns the theory of Bridgeland stability conditions, which provides a notion of stability for complexes in the derived category. The problem of showing that the space parametrizing stability conditions is non-empty is one of the most difficult and challenging ones. Once we know that such stability conditions exist, it remains to prove that the corresponding moduli spaces of stable objects have an interesting geometry (e.g. they are projective varieties). This is a deep and intricate problem.
+
+On the more foundational side, the most successful approach to avoid the many problematic aspects of the theory of triangulated categories consisted in considering higher categorical enhancements of triangulated categories. On the one side, a big open question concerns the uniqueness and canonicity of these enhancements. On the other side, this approach does not give a solution to the problem of describing all exact functors, leaving this as a completely open question. We need a completely new and comprehensive approach to these fundamental questions.
+
+I intend to address these two sets of problems in the following innovative long-term projects:
+
+1. Develop a theory of stability conditions for semiorthogonal decompositions and its applications to moduli problems. The main applications concern cubic fourfolds, Calabi-Yau threefolds and Calabi-Yau categories.
+
+2. Apply these new results to the study of moduli spaces of rational normal curves on cubic fourfolds and their deep relations to hyperkaehler geometry.
+
+3. Investigate the uniqueness of dg enhancements for the category of perfect complexes and, most prominently, of admissible subcategories of derived categories.
+
+4. Develop a new theory for an effective description of exact functors in order to prove some related conjectures.</objective>
+  <title>Stability Conditions, Moduli Spaces and Enhancements</title>
+<identifier>ERC2017COG</identifier>
+</project>

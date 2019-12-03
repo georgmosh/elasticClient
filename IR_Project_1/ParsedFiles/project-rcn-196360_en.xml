@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196360</rcn>
+  <acronym>FLOVISP</acronym>
+  <objective>The ERC-FLOVIST project has focused on advancing Tomographic Particle Image Velocimetry (PIV) towards a versatile technique for the non-intrusive diagnostics of aero-acoustic problems. 
+One of the milestones has been the use of Tomo-PIV to infer the instantaneous three dimensional pressure field from the velocity measurement. The use of this laser-based technique for the detection of pressure fluctuations both around and on the surface of aerodynamic models offers the advantage that surface pressure transducers do not need to be installed, along with connecting cables for power supply and data transfer.
+The technique has demonstrated high scalability and pressure fluctuations were detected from low-speed up to the supersonic flows. This is an important headway from standard technologies (surface pressure transducers and microphone arrays) favouring a broader utilization of PIV in aero-acoustics, flow-induced vibrations and bio-fluid mechanics. 
+The potential of this innovative approach has been recognized in science. However, the industry lags behind with a more conservative position, partly justified by system complexity and the high skills required to perform experiments. Instead, when correctly implemented this method can lead to important economical benefits with saving of costs for the integration of instrumentation. The targeted industrial areas are: aeronautics (aircraft aerodynamics and propulsion), energy systems (turbo machinery and wind energy). In wind-energy, the study of unsteady loads may lead to designs that reduce fatigue loads and increase system durability. Also, growing interest in noise emissions from wind turbines requires increased capabilities for their aero-acoustic analysis.
+The proposal intends to move forward these capabilities from research labs to industrial facilities. The main task is bringing together the current advances of the Tomo-PIV technique to make it broadly usable by research centres and for industrial innovation.</objective>
+  <title>Flow Visualization Based Pressure</title>
+<identifier>ERC2014PoC</identifier>
+</project>

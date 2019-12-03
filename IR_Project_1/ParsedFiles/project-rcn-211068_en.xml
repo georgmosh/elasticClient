@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211068</rcn>
+  <acronym>5GCAR</acronym>
+  <objective>There are two ongoing industrial trends, one in the mobile communications industry and one in the automotive industry, which are becoming interwoven and will jointly provide new capabilities and functionality for upcoming intelligent transport systems and future driving.
+
+The automotive industry is on a path where vehicles are continuously becoming more aware of their environment, due to a permanent increase in various types of integrated sensors; at the same time the amount of automation in vehicles increases, which – with some intermediate steps – will eventually culminate in fully-automated driving without human intervention. Along this path, the amount of interactions increases, both in-between vehicles, as well as between vehicles and an increasingly intelligent road infrastructure. As a consequence, the significance and reliance on capable communication systems for vehicle-to-anything (V2X) communication is becoming a key asset that combined with sensor-based technologies will enhance the performance of automated driving and increase further traffic safety.
+
+On the other hand, the mobile communications industry has over the last 25 years connected more than 5 billion people and mobile phones have become part of our daily living. The next step in wireless connectivity is to connect all kinds of devices that can benefit from being connected, with a total of 28 billion connected devices predicted until 2021. It will support the transformation of industries on their journey of digitization. In this step, mobile communications has the ambition to explicitly target the communication needs of vertical industry with corresponding requirements being set for the standardization of 5G until 2020.
+
+5GCAR brings together a strong consortium from the automotive industry and the mobile communications industry, to develop innovation at the intersection of those industrial sectors in order to support a fast, and successful path towards safer and more efficient future driving.</objective>
+  <title>Fifth Generation Communication Automotive Research and innovation</title>
+<identifier>H2020ICT20162</identifier>
+</project>

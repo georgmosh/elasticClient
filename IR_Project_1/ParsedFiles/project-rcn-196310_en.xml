@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196310</rcn>
+  <acronym>GOLFTRACKER</acronym>
+  <objective>The overall objective of GOLFTRACKER is to offer golfers a product to automatically track of golf shots during the game, collecting and combining data from GNSS receivers, wearable motion sensors and Earth Observation mapping.
+ 
+The resulting product, will be based on a general wearable device implemented on top of existing COTS hardware (e.g. Samsung GEAR, Apple Watch) and a specific tracking device for golfing using a sensor fusion approach. The product will allow golfers to improve their game, providing statistics for post analysis, peer benchmarking tools and training recommendations. The proposed innovation is aimed at equipment segment and training segment (golf lessons) with estimated revenues of 3300 Million euros in Europe.
+ 
+This phase1 project focus on exploring the business opportunity related to the automatic tracking, by developing a innovation strategy supported EGNOS/Galileo and Sentinels that will lead to patent registration. The activity aims also to assure user’s involvement, collecting the feedback from early adopters and promote the product's features to reach a wider community. A business survey will be performed, consolidating the results on the product business plan.
+ 
+The work to be performed is led by BLUECOVER with the participation of third-parties.</objective>
+  <title>Automatic tracking of golf games for improvement and training purposes, using GNSS receivers, wearable sensors and Earth Observation information</title>
+<identifier>H2020SMEINST12014</identifier>
+</project>

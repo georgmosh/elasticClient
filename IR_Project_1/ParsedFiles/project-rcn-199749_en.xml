@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199749</rcn>
+  <acronym>IDentIFY</acronym>
+  <objective>Many diseases are inadequately diagnosed, or not diagnosed early enough by current imaging methods. Examples of unmet clinical needs arise in thromboembolic disease, osteoarthritis, cancer, sarcopenia, and many more areas. Our solution, Fast Field-Cycling (FFC) MRI, can measure quantitative information that is invisible to standard MRI. FFC scanners switch magnetic field while scanning the patient, obtaining new diagnostic information. FFC-MRI has been demonstrated by us, but many challenges must be solved before clinical adoption.
+Objectives:
+Understand the mechanisms determining FFC signals in tissues;
+Create technology to measure and correct for environmental magnetic fields, enabling FFC at ultra-low fields;
+Investigate contrast agents for FFC, to increase sensitivity and to allow molecular imaging;
+Improve FFC technology, in order to extend its range of clinical applications;
+Test FFC-MRI on tissue samples and on patients.
+Achieved by:
+Developing the theory of relaxation in tissue at ultra-low fields, leading to models and biomarkers;
+Developing magnetometers for FFC-MRI, and environmental-field correction;
+Creating and in vitro testing of new FFC contrast agents; studying existing clinical agents for FFC-MRI sensitivity;
+Improving technology to monitor and stabilise magnetic fields in FFC; improving magnet power supply stability; investigating better radiofrequency coils and acquisition pulse sequences;
+Testing FFC methods on tissue samples from surgery and tissue banks; proof-of-principle scans on patients.
+FFC-MRI is a paradigm-shifting technology which will generate new, quantitative disease biomarkers, directly informing and improving clinical diagnosis, treatment decisions and treatment monitoring. Its lower cost contributes to healthcare sustainability. The proposal consolidates the EU lead in FFC technology and uses new concepts from world-leading teams to deliver solutions based on innovations in theory, modelling, physics, chemistry and engineering.</objective>
+  <title>Improving Diagnosis by Fast Field-Cycling MRI</title>
+<identifier>H2020PHC2015twostage</identifier>
+</project>

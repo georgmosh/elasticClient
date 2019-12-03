@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206727</rcn>
+  <acronym>DeepLight</acronym>
+  <objective>Microscopy enabled the birth of modern neuroscience, by allowing Ramón y Cajal to formulate the neuron doctrine. Since then, remarkable advances in optical resolution, speed and probe development allowed scientists to study the function of neuronal circuits with ever increasing detail – with one critical limitation: No conventional microscope can focus light deeper into intact tissue than a fraction of a mm. This leaves 90% of the intact rodent brain and over 99% of the intact primate brain inaccessible. As a result, the deepest layers of the neocortex and nearly all subcortical structures are currently outside the reach of non-invasive microscopy, representing a fundamental barrier towards further progress in understanding the brain.
+Existing fluorescence microscopy techniques, such as confocal and two-photon microscopy, attempt to image deeper by rejecting scattered light or by selecting non-scattered (ballistic) photons for focusing. However, beyond depths of several hundred µm this approach becomes futile because hardly any ballistic photons remain.
+We recently achieved two breakthroughs by turning this strategy upside down and focusing with scattered photons: First, we developed a new approach for fluorescence microscopy that uses a process called optical time reversal, with which we achieved an unprecedented imaging depth of 2.5 mm in ex vivo tissue. Second, we discovered a correlational structure of scattered light, which can be exploited for deep tissue imaging.
+Still, fundamental challenges remain for in vivo imaging. The goal of this proposal is to break the depth barrier of microscopy and investigate previously unreachable areas of the live brain, by harnessing optical time reversal and scattering correlations. We will demonstrate the power of this approach in layer 6b, the deepest and least understood layer of the mammalian neocortex. This project will thus enable functional imaging of neuronal circuitry at depths that have until now been inaccessible.</objective>
+  <title>Deep imaging with time-reversed light</title>
+<identifier>ERC2016STG</identifier>
+</project>

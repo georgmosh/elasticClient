@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194820</rcn>
+  <acronym>FIBERSTAR</acronym>
+  <objective>FIBERSTAR is a multidisciplinary project aimed at the development of point-of-care optical fiber sensors to support non-invasive radiofrequency thermal ablation (RFTA) of tumors.
+
+RFTA is an interventional medical procedure that brings tumor cells to mortality by generating a spatially selective high-temperature field, localized within the tumor, using a percutaneous ablation device. RFTA provides ablation up to 5 cm size in hard tissues (kidney, lung), while ablation size is limited to 3 cm in liver; on the other hand, the miniature ablation device ensures a non-invasive outpatient treatment.
+
+In clinical procedures, RFTA is an image-guided procedure, which limits its efficiency. The possibility to install miniature, biocompatible, and quasi-distributed fiber-optic sensors on RFTA device, returning real-time biophysical data, can disrupt RFTA procedure. The applicant has carried out significant groundwork in the application of optical fiber sensors to ex-vivo thermal ablation on porcine liver phantoms.
+
+Building on groundwork, FIBERSTAR aims at the development of innovative fiber-optic sensors that aim at solving the main limitations of RFTA. Research addresses the development of (1) a sensor embedding pressure and distributed temperature on a single fiber, to be installed on the RFTA device, (2) a sensor for positioning RFTA device in tumor, (3) miniature quasi-distributed temperature sensors to detect the approaching of the ablation.
+
+FIBERSTAR aims at building four-fold impact:
+1) Implement and demonstrate smart-RFTA, whereas real-time sensors data are used to drive the RFTA treatment in close-loop complementing imaging data.
+2) Extend RFTA to safe treatment of prostatic and pancreatic tumors, using sensors to protect key organs from ablation.
+3) Provide disruptive improvement of treatment of encapsulated tumors, implementing pressure detection.
+4) Provide a quantified improvement of RFTA outcome in terms of reduction of failure rate and predictability.</objective>
+  <title>FIBER-optic sensors for Smart Thermal Ablation at Radiofrequency</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

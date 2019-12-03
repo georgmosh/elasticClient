@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211085</rcn>
+  <acronym>5G-PHOS</acronym>
+  <objective>5G-PHOS aims to architect and evaluate 5G broadband wireless networks for dense, ultra-dense and Hot-Spot area use cases drawing from recent results in the area of optical technologies towards producing and exploiting a powerful
+photonic integrated circuit technology toolkit. It aims to streamline advances in multi-format and multi-bitrate optical communications, in InP transceiver, in Triplex optical beamformers and in integrated optical add/drop multiplexers in
+order to migrate from CPRI-based towards integrated Fiber-Wireless (FiWi) packetized C-RAN fronthaul supporting massive mmWave MIMO communications.It will deliver: a) a set of SDN-programmable units, called FlexBox and
+FlexBox-Pro, that will be compatible with the emerging 25Gb/s PON access networks and can deliver FiWi traffic ranging between 25-400Gb/s, b) a set of three different 64x64 MIMO Remote Radio Head configurations exploiting
+analog optical beamforming and producing 25Gb/s,100Gb/s and 400Gb/s wireless data-rates, c) an integrated FiWi packetized fronthaul for supporting Medium-Transparent Dynamic Bandwidth Allocation mechanisms and
+cooperative radio-optical beamforming, d) a converged FiWi SDN control plane for optimally orchestrating both the optical and the wireless resources. These blocks will be integrated towards architecting 5G networks for 3 use cases,
+evaluating their performance in lab-scale and field-trial experiments: 
+
+a. 25Gb/s peak data rate PON-overlaid 5G FiWi network for dense areas, capable to offer densities up to 1.7 Tb/s/km2 , to be demonstrated also in field-trial experiments at the deployed network of Greek operator COSMOTE.
+b. 400Gb/s peak data-rate SDM-enabled 5G FiWi network targeted for ultra-dense environments and being capable of offering densities up to 28 Tb/s/km2 with &lt;1msec latency.
+c.100Gb/s peak data-rate WDM-enabled 5G FiWi network targeted for Hot-Spot areas and being evaluated in field-trial experiments at the stadium of P.A.O.K. F.C. in Thessaloniki, Greece.</objective>
+  <title>5G integrated Fiber-Wireless networks exploiting existing photonic technologies for high-density SDN-programmable network architectures</title>
+<identifier>H2020ICT20162</identifier>
+</project>

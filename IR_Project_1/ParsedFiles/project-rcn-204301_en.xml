@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204301</rcn>
+  <acronym>SET - Chronic Pain</acronym>
+  <objective>SET solution for chronic pain.  
+
+100 million EU sufferers, €300 billion, Age related.  
+
+Current solutions do not look at data, biomarkers, or take into consideration the individual differences between patients.  With real data from large groups of patients, for the first time we can characterize the autonomic nervous system, which is depreciated in chronic pain patients, and use it to fight chronic pain.  With the therapy, we attack the underlying psychological cause for the pain.  The SET device allows us to do this efficiently.  Using ICT data, we will be able to a real progress on this large social problem.  By iterating, continuing to add data, measuring results, and adjusting approaches, we can attack chronic pain and make people pain free.
+
+SET was tested at the University of Marburg with 120 patients that included 2 sham protocols.  Of the non-control participants, 100% of fibromyalgia patients became pain free for six months, and 82% at the 12-month follow-up.
+
+The data, which includes all the EKG and blood pressure data from each patient session as well as the patients' initial interview and progress data from the E-learning system, will be uploaded to a MySQL database hosted on a medical grade cloud server.  Data mining and analytics software will only have read access and only anonymized access will be available, so that it will not be possible to identify any individual patient.
+
+Patent protection, a highly experienced team, a clear strongly motivated market will make the company successful.  In the process many therapy based SMEs will be formed and enhanced.
+
+A real solution for a debilitating social problem which invloves ICT, big data, and job creation.</objective>
+  <title>SET – The defibrillator for Chronic Pain</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

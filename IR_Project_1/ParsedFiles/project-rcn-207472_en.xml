@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207472</rcn>
+  <acronym>TRANSPIRE</acronym>
+  <objective>Current and future technological and societal demands  require the transfer of vast amounts of data at speeds currently not available due to a lack of technology operating in the terahertz (THz) gap. TRANSPIRE will develop nano-scale THz-oscillators based on a new class of magnetic materials, which will function in this exact range and meet these demands. This will enable new functionalities with high societal impact, such as enabling remote hospitals, personal and substance security screening, medical spectrometry and imaging, geophysical and atmospheric research.
+
+Given the tuneability of their anisotropy, damping and magnetisation, newly discovered low-moment, ultra-high anisotropy field, highly spin-polarised ferrimagnets can enable terahertz technologies by exploiting magnetic resonance. Ferrimagnetic resonance will be excited by spin-transfer torque (STT) acting on the sub-lattice magnetisation, and detected via magnetoresistive effects. STT, so far only demonstrated in ferromagnetic systems, is the basis of all recent scalable magnetic random access memory designs. TRANSPIRE will optimize the materials, tuning their resonant properties and advancing the fundamental understanding of STT in two-sub-lattice systems. 
+
+The breakthrough objective of a low-cost, compact, reliable, room-temperature terahertz technology has a huge potential, including on-chip and chip-to-chip data links. The natural outcome of the foundational work of TRANSPIRE will be to empower a number of high-potential actors to judge on the viability of spintronic terahertz technology and to be at the forefront of research, thus ensuring future industrial European leadership on the world stage. TRANSPIRE relies on coordinated interdisciplinary research in physics, chemistry, materials science, terahertz design and device engineering to ensure the success of this inherently high-risk endeavour, which can underpin the next wave of the Big Data revolution.</objective>
+  <title>Terahertz RAdio communication using high ANistropy SPIn torque REsonators</title>
+<identifier>H2020FETOPEN120162017</identifier>
+</project>

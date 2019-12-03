@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199161</rcn>
+  <acronym>HERCULES</acronym>
+  <objective>The advent of commercial-of-the-shelf (COTS) heterogeneous multi-core platforms is opening up a series of opportunities in the embedded computing market. Integrating multiple computing element running at smaller frequencies allows obtaining impressive performance capabilities at a reduced power consumption. At the same time, new applications are being proposed integrating more and more functionalities in the objects commonly used for our daily activities, imposing a number of additional requirements to embedded systems designers:
+- Higher computing workloads, elaborating and fusing multiple sensor data;
+- Reduced power consumption, allowing smaller batteries and renewable power sources;
+- Quicker interaction with the environment, requiring a prompt elaboration of sensor data;
+- Higher criticality, replacing safety-critical human activities.
+
+These converging needs call for “real-time embedded super-computing platforms” that are able to predictably provide real-time guarantees to applications running on top of next generation embedded platforms. These applications do not only require high performance at low power. They also need to provide predictable guarantees. Having impressive average performances with no guaranteed bounds on the response times of the critical computing activities is of little if no use to these applications.
+Project HERCULES will provide the required technological infrastructure to obtain an order-of-magnitude improvement in the cost and power consumption of next generation real-time applications. It will develop an integrated framework to allow achieving predictable performance on top of cutting-edge heterogeneous CTOS multi-core platforms, implementing real-time scheduling techniques and execution models recently proposed in the research community. The framework will be applied to two innovative industrial use cases: a pioneering autonomous driving system for the automotive domain, and a visual recognition system for the avionic domain.</objective>
+  <title>High-Performance Real-time Architectures for Low-Power Embedded Systems</title>
+<identifier>H2020ICT2015</identifier>
+</project>

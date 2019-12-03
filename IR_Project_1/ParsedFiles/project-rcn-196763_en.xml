@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196763</rcn>
+  <acronym>iBack</acronym>
+  <objective>Chronic back pain is a major burden and source of disability worldwide. It is primarily attributed to biomechanical factors. In elderly patients, osteoporosis complicates the biomechanical scenario. Surgery is often required to treat instability-related pain and to restore the balance of the spine. However, when and how to perform surgery remains a highly subjective decision based on the surgeon’s experience, with 2/3 of patients experiencing prolonged pain.
+We recently established objective, image-based criteria for surgery outcome prediction. As an example, we were able to develop tools for routine density and fracture assessment and demonstrate that screw loosening occurs in &gt;85% of patients with bone mineral density &lt;92 mg/ccm. This directly influences the surgical approach in all spine surgery patients at our institution. Additionally, we improved the prediction of bone strength by advanced image post processing such as scaling indices, finite element and finite cell models.
+The high-level objective of iBack is to individualize therapy planning in back pain patients. We will improve in-vivo imaging and image analysis to compute individualized biomechanical models that reveal the underlying pathophysiologic process and allow personalized treatment planning and outcome prediction after spine surgery or conservative treatment.
+The main objectives of iBack are: (1) improving computed tomography (CT) and magnetic resonance imaging (MRI) of the spine; (2) combining sagittal balance radiographs, CT and MRI of the spine in one biomechanical multi-body simulation (MBS); (3) creating a statistical model that includes both clinical and biomechanical information to reveal interactions between the two and to predict individual treatment success probability.
+The results of iBack will help to better understand instability-related pain and develop personalized surgical strategies which will have major impacts on patients.</objective>
+  <title>Individualized treatment planning in chronic back pain patients by advanced imaging and multi-parametric biomechanical models</title>
+<identifier>ERC2014STG</identifier>
+</project>

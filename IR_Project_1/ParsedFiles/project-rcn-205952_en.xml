@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205952</rcn>
+  <acronym>SMART</acronym>
+  <objective>SMART main goal is to increase the quality of rail freight, as well as its effectiveness and capacity, through the contribution to automation of railway cargo haul at European railways.
+In order to achieve the main goal, SMART will deliver the following measurable objectives:
+• complete, safe and reliable prototype solution for obstacle detection and initiation of long distance forward-looking braking, 
+• short distance wagon recognition for shunting onto buffers which can be integrated into planned Autonomous Train Operation (ATO) module,
+• development of a real-time marshalling yard management system integrated into IT platform available at the market.
+The SMART prototype solution for obstacle detection will provide prototype hardware and software algorithms for obstacle detection, as well as standardised interfaces for integration into ATO module. The system will combine two night vision technologies - thermal camera and image intensifier with multi-stereo vision system and laser scanner in order to create fusion system for short (up to 20 m) and long range ( up to 1000 m) obstacle detection during day and night operation, as well as operation during impaired visibility. By this planned fusion of sensors, the system will be capable, beside reliable detection of obstacle up to 1000 m, to provide short range (&lt; 200 m) wagon recognition for shunting operations with a +/- 5 cm distance estimation tolerance. 
+The real-time marshalling yard management system will provide optimization of available resources and planning of marshalling operations in order to decrease overall transport time and costs associated with cargo handling. The yard management system will provide real time data about resources available over open and TAF/TSI standard  data formats for connection to external network systems and shared usage of marshalling yards between different service providers.</objective>
+  <title>Smart Automation of Rail Transport</title>
+<identifier>H2020S2RJUOC2015012</identifier>
+</project>

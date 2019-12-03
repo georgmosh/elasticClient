@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208471</rcn>
+  <acronym>ZIPgeting</acronym>
+  <objective>In the recent years a number of protein systems have been identified that recognize long (tens of base pairs) DNA sequences and allow flexible programmability of their target specificity. This promoted an enormous range of applications in genome engineering and synthetic biology. This project aims to decipher the mechanisms by which these proteins recognize their DNA targets in order to develop quantitative models/predictors for target recognition and to avoid off-target effects.
+To obtain detailed insight into the targeting mechanisms of different programmable systems in a “bottom-up manner”, cutting-edge single-molecule experiments, such as mechanical DNA twisting combined with single-molecule fluorescence detection will be employed. This will provide a fully quantitative characterization of the targeting process and insight into the mechanisms of allosteric regulation coupled to targeting. The quantitative data will allow to develop physics-based models of the target recognition process. In particular, we will focus on recognition through non-equilibrium, directional zipping along the target sequence – as recently revealed for CRISPR-Cas enzymes – as a promising unifying mechanism. To obtain precise targeting predictors our first-principle models will be tested and refined using high-throughput measurements on many different targets in parallel. Finally, the predictions will be used in order to understand target selection in live cells using single-molecule imaging.
+Within the project the following goals are defined: 
+Goal 1:	Quantitative understanding of target binding/degradation for CRISPR-Cas systems
+Goal 2:	Detailed mechanistic insight into the target recognition process by TALEs  
+Goal 3:	Development of highly parallelized measurements on different target sequences down to the single-molecule level
+Goal 4:	Target identification in the complex environment of live cells</objective>
+  <title>Quantitative understanding of target recognition on DNA based on directional zipping processes</title>
+<identifier>ERC2016COG</identifier>
+</project>

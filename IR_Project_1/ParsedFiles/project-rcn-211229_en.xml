@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211229</rcn>
+  <acronym>LASER4SURF</acronym>
+  <objective>The main goal of the LASER4SURF project is to develop a laser based solution for the functionalization of metallic surfaces with textures ~1µm or less on mass production. This solution will be based on surface functionalization with ultrashort pulses via Laser Induced Periodic Surface Structures (LIPSS).
+The LASER4SURF project will develop a Laser Texturing Prototype to overcome the current barriers for the LIPSS technique to reach mass production, achieving a production rate of 0.1 min/cm2:
+• High process time for large 3D pieces.
+• Need of inline inspection methods.
+• Need of modelling tools for parameter selection.
+The development will be focused on the three main steps of the Laser texturing value chain:
+• Laser technology/equipment. To generate LIPSS of different pattern sizes with multiple orientations, LASER4SURF will develop an easy to integrate and control, compact and low cost optical module.
+• In-line inspection tool. A whole optical measurement system based on diffractometry technology will be integrate with the laser equipment including hardware and software in order to be able to monitor all different nano properties from the functionalised surfaces.
+• Simulation tool that will show automatically the process parameters required to obtain the desired functionality for a specific material. The simulation tool will automatically transfer the optimum laser parameters to the LIPSS equipment in order to configure it for the desired pattern.
+The project will combine the developments in an all in one solution, that will be validated by three different use case products that represent a broad range of the main industries, metal alloys used and required functionalities.
+
+The LASER4SURF project will be developed by a well-balanced consortium that brings together 8 partners: 3 technology developers (CEIT, MULTITELL and VISUM), an integrator of the solutions (LASEA), three industrial partners (FAGOR, RESCOLL and CIC) and a dissemination partner (ESCI)</objective>
+  <title>LASER FOR MASS PRODUCTION OF FUNCTIONALISED METALLIC SURFACES</title>
+<identifier>H2020FOF2017</identifier>
+</project>

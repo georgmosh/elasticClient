@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213804</rcn>
+  <acronym>AMuLET</acronym>
+  <objective>The morphing wing concept can be inserted between the major trends and improvements in modern aircrafts. Indeed, a wing that can change its shape is much more efficient, safer and silent than the actual design with moving surfaces.
+The current project is inserted in the framework of the morphing leading edge high lift surfaces which can replace common slats, obtaining:
+● Reduction of acoustic emissions
+● Actuation Efficiency Improvement
+● Overall Drag Reduction
+A lot of effort has already been invested into the research of morphing, but designing and manufacturing a functional morphing wing is still a challenge in present day. The AMuLET project addresses the problem of designing a control unit mainly capable of managing electric power to actuators, acquired stress data for leading edge current shape reconstruction and actuation of the electric motors responsible for the leading edge deformation. Therefore, the Electronic Control Unit (ECU) shall be able to:
+● Drive and Control LE Actuators
+○ Control Multiple Actuators in speed, position and current
+○ Control multiple actuators brakes (if applicable to TM’s EMAs)
+○ Control the current leading edge shape
+○ Reconstruct the leading edge shape by elaborating received set of data representing the strains from several measurement points of the leading edge
+○ Command the correct displacement of the actuators
+● Manage the power supplied to the various actuators
+● Monitor the health status of:
+○ Actuators’ Motors
+○ Leading edge morphing structure
+○ ECU itself
+The outcome of AMULET project is the development, the manufacturing and the test of the integrated control device for actuators and sub-units in a morphing structure. In fact, the ECU will be sized to fit in a ground based demonstrator for wind tunnel tests and will be designed for reduced power consumption.</objective>
+  <title>Advanced Control Unit for Morphing Leading Edge Management</title>
+<identifier>H2020CS2CFP06201701</identifier>
+</project>

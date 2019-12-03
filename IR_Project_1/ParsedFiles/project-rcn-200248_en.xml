@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200248</rcn>
+  <acronym>TeSeR</acronym>
+  <objective>Orbital space is getting increasingly crowded and a few collision events could jeopardize activities in important orbits and
+cause significant damage to the infrastructure in space. As a preventive measure to be included in future S/C, TeSeR
+proposes a universal post mission disposal module to be carried into orbit by any S/C to ensure its proper disposal after
+ending its service lifetime, be it planned or unscheduled due to S/C failure. This module shall be independent of the S/C.
+Principal aims of TeSeR are to
+1. develop a removal module beginning with the exploration of concepts, going for a functional design with the aim to
+manufacture and test an on-ground prototype module which demonstrates the main functions
+2. perform a thorough qualitative and quantitative mission analysis of existing removal concepts
+3. develop a ground breaking new semi-controlled removal concept based on a passive removal concept which ensures the
+deorbit of a large S/C (&gt;1 t) into the Pacific Ocean without a propulsion system but with an accuracy of a fraction of one orbit
+4. advance and manufacture removal subsystems prototypes, for controlled, semi-controlled and uncontrolled disposal,
+based on already existing technology with the focus on scalability and standardized implementation to the removal module via a common interface
+5. analyse the feasibility and potential advantages of multi-purpose concepts of the module and its removal subsystems (e.g.
+shielding by deployable structures)
+6. perform a market study and define a business case for TeSeR
+7. use TeSeR as leverage to propose changes in legal aspects and advanced state of the art licensing standard for
+spacecraft including the improvement of international debris mitigation guidelines and standards</objective>
+  <title>Technology for Self Removal of Spacecraft</title>
+<identifier>H2020PROTEC2015</identifier>
+</project>

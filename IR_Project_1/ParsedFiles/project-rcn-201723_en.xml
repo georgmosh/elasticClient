@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>201723</rcn>
+  <acronym>COPCAR</acronym>
+  <objective>Cardiovascular diseases (CVDs) are the main cause of death in Europe according the European Heart Network. The reaction time when first symptoms are detected is crucial to ensure the survival probability of the patient. In fact, delays in attending people who is suffering a  ardiovascular accident may cause death or irreparable sequels. The first two hours are critical to avoid that, and many times, people take too much time in asking for help because they don’t clearly identify they are suffering a cardiovascular accident, mainly if is the first time for the patient.
+We have identified the following needs affecting patients with chronical heart diseases:
+- Need of prompt intervention in risk crisis to avoid deaths.
+- Need of monitoring patients at risk to detect early symptoms of cardiovascular accidents.
+And we have developed COPCAR, an intelligent system that solves them.
+Moreover, COPCAR:
+- is interconnected with the emergency services (1-1-2 number, via FRESS 112), reducing response time up to 80%,
+- distinguishes between event that should be taken into account, urgency event and emergency event depending on the gravity,
+- doesn’t need patient intervention.</objective>
+  <title>Heart monitoring and early assistance in high risk crisis without patient intervention (COPCAR)</title>
+<identifier>H2020SMEINST12015</identifier>
+</project>

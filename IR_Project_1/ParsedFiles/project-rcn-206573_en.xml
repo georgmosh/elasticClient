@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206573</rcn>
+  <acronym>CHALLENGE</acronym>
+  <objective>Silicon carbide presents a high breakdown field (2-4 MV/cm) and a high energy band gap (2.3–3.2 eV), largely higher than for silicon. Within this frame, the cubic polytype of SiC (3C-SiC) is the only one that can be grown on a host substrate with the huge opportunity to grow only the silicon carbide thickness required for the targeted application. The possible growth on silicon substrate has remained for long period a real advantage in terms of scalability regarding the reduced diameter of hexagonal SiC wafer commercially available. Even the relatively narrow band-gap of 3C-SiC (2.3eV), which is often regarded as detrimental in comparison with other polytypes, can in fact be an advantage. The lowering of the conduction band minimum brings about a reduced density of states at the SiO2/3C-SiC interface and MOSFET on 3C-SiC has demonstrated the highest channel mobility of above 300 cm2/(Vxs) ever achieved on SiC crystals, prompting a remarkable reduction in the power consumption of these power switching devices.
+The electrical activity of extended defects in 3C SiC is a major concern for electronic device functioning. To achieve viable commercial yields the mechanisms of defects must be understood and methods for their reduction developed..
+In this project new approaches for the reduction of defects will be used, working on new compliance substrates that can help to reduce the stress and the defect density at the same time.  This growth process will be driven by numerical simulations of the growth and simulations of the stress reduction. 
+The structure of the final devices will be simulated using the appropriated numerical tools where new numerical model will be introduced to take into account the properties of the new material. Thanks to these simulations tools and the new material with low defect density, several devices that can work at high power and with low power consumption will be realized inside the project.</objective>
+  <title>3C-SiC Hetero-epitaxiALLy grown on silicon compliancE substrates and 3C-SiC substrates for sustaiNable wide-band-Gap powEr devices</title>
+<identifier>H2020NMBP2016twostage</identifier>
+</project>

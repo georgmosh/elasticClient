@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199027</rcn>
+  <acronym>SUPERTWIN</acronym>
+  <objective>The goal of the project is to develop the technology foundation for an advanced optical microscope imaging at a resolution beyond the Rayleigh limit, which is set by the photon wavelength. The proposed microscope technique is based on super-twinning photon states (N-partite entangled states) with the de Broglie wavelength equal to a fraction of the photon wavelength. Such microscopy technique will comprise building blocks for object illumination, capturing of scattered twinning photons and data processing. Based on advanced group-III nitride and III-V alloy epitaxial growths and wafer processing techniques we will build the first solid-state emitter of highly entangled photon states, utilizing the cooperative effect of Dicke superradiance (super-fluorescence) emission. Single-photon avalanche detector arrays with data pre-processing capabilities sufficient for capturing high-order field correlation functions of scattered twinning photons will be developed. A dedicated data processing algorithm for extracting the image of an illuminated object from the statistics of scattered twinning photons will complement the hardware. The project goal is to demonstrate imaging at 42 nm spatial resolution using 5-partite entangled photons at 420 nm wavelength.  This quantum imaging technology will open the way for compact, portable, super-resolution microscope techniques, with no moving parts and no requirements to the optical properties of the sample.</objective>
+  <title>All Solid-State Super-Twinning Photon Microscope</title>
+<identifier>H2020FETOPEN20142015RIA</identifier>
+</project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207500</rcn>
+  <acronym>EOSCpilot</acronym>
+  <objective>The EOSCpilot project will support the first phase in the development of the European Open Science Cloud (EOSC) as described in the EC Communication on European Cloud Initiatives [2016]. 
+      • It will establish the governance framework for the EOSC and contribute to the development of European open science policy and best practice;
+      • It will develop a number of pilots that integrate services and infrastructures to demonstrate interoperability in a number of scientific domains; and 
+      • It will engage with a broad range of stakeholders, crossing borders and communities, to build the trust and skills required for adoption of an open approach to scientific research . 
+These actions will build on and leverage already available resources and capabilities from research infrastructure and e-infrastructure organisations to maximise their use across the research community.
+The EOSCpilot project will address some of the key reasons why European research is not yet fully tapping into the potential of data.  In particular, it will:
+       • reduce fragmentation between data infrastructures by working across scientific and economic domains, countries and governance models, and
+       • improve interoperability between data infrastructures by demonstrating how data and resources can be shared even when they are large and complex and in varied formats,
+In this way, the EOSC pilot project will improve the ability to reuse data resources and provide an important step towards building a dependable open-data research environment where data from publicly funded research is always open and there are clear incentives and rewards for the sharing of data and resources.</objective>
+  <title>The European Open Science Cloud for Research Pilot Project.</title>
+<identifier>H2020INFRADEV20162</identifier>
+</project>

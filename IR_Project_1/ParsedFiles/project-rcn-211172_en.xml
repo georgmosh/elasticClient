@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211172</rcn>
+  <acronym>BlockchainKYC</acronym>
+  <objective>Authenteq has developed a smartphone-based 100% automated and tamper-proof online identity verification service (Authenteq ID) that uses multifactor biometric authentication, fitting the needs of online/mobile marketplaces, as well as other websites that require or benefit from ID verification such as betting, gaming or dating sites. This system aims to eliminate user anonymity in online transactions (and therefore drastically reduce identify fraud), while maintaining the highest level of privacy for consumers. Authenteq ID uniquely combines [1] a smartphone app, where the end-user creates its certified ID by scanning its passport and taking a selfie, [2] backend proprietary services that perform face match recognition, image analysis of ID security elements and third-party security checks, and [3] Blockchain data storage for validation
+purposes (impossible to reverse-engineer and hack). Personal details and images are hashed and files deleted from the server and app.
+The biometric enrolment and verification processes - with several tamper-evident analyses - proves that the person requesting an Authenteq ID is unequivocally who s/he says s/he is, meeting ‘Know Your Customer’ and ‘Anti-Money Laundering’ regulations. After registration, the app will only be accessible to the rightful owner, through multifactor
+authentication. In the app, the user will be able to seamlessly grant personal data verification access to the marketplaces where it plans to conduct business, by linking its marketplace user profile with the Authenteq ID stored on the blockchain (data is verified, not sent to marketplaces).
+Our system has the capacity to eliminate identity fraud in linked profiles, and these marketplaces no longer need to collect passport scans and manually verify user IDs.
+To fully develop the Authenteq ID system, we aim to conduct a feasibility study (BlockchainKYC, Phase 1) and a large-scale system demonstration in operational environment (Phase 2).</objective>
+  <title>Blockchain-based, 100% automated KYC (Know Your Customer) service</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205267</rcn>
+  <acronym>Trapview</acronym>
+  <objective>Trapview is our automated pest monitoring solution which allows growers to remotely monitor pest insects caught in their pheromone traps. Growers are no longer required to visit their traps in the fields (reduce personnel and travel expenses). They are also alerted in real-time when the high number of pest insects calls for insecticide spraying. This allows growers to optimize the use of insecticides and consequently grow healthier crops with less insecticide residues. The society benefits by eating healthier food and reducing the chance of pest insects being resistant to insecticides. We have existing revenues from having sold 1000+ of such traps.
+
+During this project we will (1) finish developing additional features that will even further reduce the need for field visits and make the computer vision automatic insect detection more accurate, (2) allocate a dense network (1000+) of these improved traps to growers of tomatoes in South Europe to monitor the pest insect Helicoverpa armigera, (3) use machine learning to develop statistical models that will aggregate data from this network of traps and allow for monitoring and predicting the occurrences of pest insects on a larger geographical scale, (4) commercialize the developed solution with new business models to existing and new customers. After the project, we will be able to move from a product-selling to an information-selling and extend our business models to cover also agriculture advising and multinational agrochemical companies.
+
+By 2022, this would allow us to grow our revenues from €600k/y to €8M/y and number of employees from 15 to 46. With the funding and successful execution of the proposed plan, EFOS Ltd. would become the most important high-tech eco-innovative provider of automated pest monitoring solutions worldwide.</objective>
+  <title>Trapview - Automated pest-monitoring system for sustainable growing with optimal insecticide use</title>
+<identifier>H2020SMEINST220162017</identifier>
+</project>

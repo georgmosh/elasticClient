@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>215117</rcn>
+  <acronym>TropicalModuli</acronym>
+  <objective>Tropical geometry is the geometry of the combinatorial objects associated to degenerations and compactifications of algebraic (or analytic) varieties. As in algebraic geometry, the tropical geometry of moduli spaces is one of the richest and most fundamental parts of this field, with many of the features of tropical geometry only being visible through the prism of moduli spaces. 
+
+The experienced researcher proposes to extend the foundations of tropical moduli theory, building on his prior work on tropical moduli stacks, and to explore new applications of these combinatorial techniques to classical problem in arithmetic and algebraic geometry. 
+
+During the fellowship the experienced researcher will focus on the
+following three types of moduli spaces:
+
+- The universal Picard variety, with applications to Brill-Noether theory (universally over the moduli space of curves), as well as to theta-characteristics, spin curves, and Prym varieties. 
+
+- Moduli of (higher) differentials, with applications to Eliashberg's problem on the compactification of the double ramification locus and the compactification of strata of abelian and quadratic differentials. 
+
+- Moduli of G-admissible covers with the goal of developing a tropical approach to the regular inverse Galois problem.</objective>
+  <title>Foundations and applications of tropical moduli theory</title>
+<identifier>H2020MSCAIF2017</identifier>
+</project>

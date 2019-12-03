@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199394</rcn>
+  <acronym>QDLight</acronym>
+  <objective>In optical microscopy low-cost solid state LEDs and lasers have replaced traditional light sources. Major drawbacks of such, typically fiber-coupled light sources are poor flexibility, low modularity and high cost. Since a complete separate system is needed for every excitation color, the size of the economical investment is hindering the adoption of the technology directly contributing to improved research quality in multiple disciplines.
+This PoC project derives from SINSLIM ERC Starting grant project, which developed new light sources for sub-diffraction limited imaging. The PoC project demonstrates an inexpensive and versatile fiber-coupled incoherent light source. The light source is based on polymer fibers incorporating luminescent nanocrystals, which are essentially light-absorbing and light-emitting threads. The nanocrystal properties in the fiber enable flexible tuning of the emitted light color. The brightness of the novel light source will exceed the current state-of-the-art fiber-coupled LED brightness by nearly an order of magnitude. 
+The demonstrated light source can play an important role in optical imaging and therapy applications due to the ability to achieve high fluxes in small area fibers, replacing costly and cumbersome halogen lamps. The innovation can also be applied in new specific light emitting and light harvesting applications as it delivers powerful multi-wavelength light and also collects it through small areas. 
+The PoC project combines the earlier scientific SINSLIM discoveries with state-of-the-art industry manufacturing knowledge paving the way for creating practical, cost-efficient, bright and tunable future light-source applications. The disciplines directly benefiting from the PoC results comprise Biomedical imaging, highly growing Optogenetics, Photodynamic Therapy, Biolight therapy and completely new industry segments addressing the $100B lighting markets.</objective>
+  <title>Quantum-dot doped polymer fibers for cheap and bright light sources.</title>
+<identifier>ERC2015PoC</identifier>
+</project>

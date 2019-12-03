@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>195026</rcn>
+  <acronym>GUIDES</acronym>
+  <objective>Healthcare based on the best available clinical evidence can lead to better quality of care. Evidence-based guidelines are potentially important instruments, but clinicians often do not adhere to them.
+A computerised decision support system (CDSS) is a technology that uses patient-specific data to provide relevant medical knowledge at the point-of-care. It is considered to be an important quality improvement intervention and EU member states are recommended to prioritise investment in it. However, the significant investments do not consistently result in value for money due to content and implementation issues.This project aims to improve the impact of CDSS through better content wise development and optimised implementation. Our objectives are to (1) investigate the factors that determine successful CDSS implementation, (2) develop tools to address these factors and (3) validate the utility of these tools through the development of a tailored CDSS intervention. We also (4) develop a protocol for a cluster randomised controlled trial on the effectiveness of the tailored CDSS intervention. We selected the conservative management of knee osteoarthritis as a prototype condition for the pilot. Ultimately, the better implementation of CDSS may lead to better informed decisions and improved care and patient outcomes for a wide range of conditions.
+This project integrates expertise from multiple scientific domains and builds upon the leading expertise from the consortium in major projects (GRADE, DECIDE, TICD). The planned research and training will lead the fellow to an essential new specialist role for the successful implementation of CDSS and will be the start of an international multidisciplinary career.
+The project is a response to the Horizon 2020 health priorities on transferring knowledge to clinical practice, individual empowerment for self-management of health, scalable innovation actions, better use of health data, treating chronic diseases, and active ageing.</objective>
+  <title>GUideline Implementation with DEcision Support systems</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

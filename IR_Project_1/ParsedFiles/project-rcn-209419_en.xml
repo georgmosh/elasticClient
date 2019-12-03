@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>209419</rcn>
+  <acronym>ENTIMENT</acronym>
+  <objective>ENTIMENT aims to assess, deploy and commercialize a novel Temporal Cognition Toolbox (TCT) that greatly facilitates the development of time-aware robots, capable to engage in prolonged, symbiotic interaction with humans. In doing so, it significantly capitalizes on the successful research and development activities on artificial time perception, pursued within the FET-funded project TimeStorm, which aims at equipping robots with a human-like sense of temporality and the ability to perceive the temporal aspects of the world. The already available and tested robotic temporal cognition modules implemented in TimeStorm by partner FORTH, will be refined and integrated into the TCT, that will further be released as an open source ROS node for robotic developers. 
+TCT will furnish robots with the ability to perceive the inherent temporal dimension that is inevitably present in human-machine confluence. The latter will have a major impact in mainstream sectors of robotic applications, including service robots, companions, entertainment platforms, etc. ENTIMENT has already compiled a Focus Group of companies interested in the exploitation of TCT in contemporary and future commercial robotic systems under a licensed agreement. 
+Temporal cognition is certainly not an optional extra but a necessity towards the development of truly autonomous and intelligent machines that are seamlessly and actively integrated into human societies. The implementation of highly competitive, temporal-cognition enabled robots will enhance the innovation potential of FET projects, contributing at the same time in the market and economic growth of Europe.</objective>
+  <title>Industrial Exploitation and Market Uptake of a Temporal Cognition Toolbox for Commercial Robots</title>
+<identifier>H2020FETOPEN420162017</identifier>
+</project>

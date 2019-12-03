@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211035</rcn>
+  <acronym>DynaCOMP</acronym>
+  <objective>Cancer is a major clinical, societal and economic burden worldwide and development of novel anti-cancer therapies constitutes a major investment of public and private funds. Despite intense research over decades however, which has led to a much improved understanding of cancer biology, cancer treatment remains a challenge. This is to a large extent due to the genetic heterogeneity of cancer and the ability of cancer cells to escape treatment by constantly undergoing further genetic alterations. During our ERC funded work, we have shown that aberrations in the DNA replication licensing pathway may contribute to the genome plasticity of cancer cells, and appear a common feature of cancer cells. They may however also constitute an Achilles foot, as cancer cells appear more dependent on negative regulators of the licensing system for survival. Cancer cells may therefore be more sensitive than normal cells to compounds targeting this control (inhibition of untimely licensing). We have identified compounds which target the DNA replication licensing inhibitor Geminin. The proposed PoC study will enable us to:
+-	assess the efficacy and specificity of the identified compounds in cells and preclinical models and study their mechanism of action.
+-	investigate the potential use of these compounds for studying cell cycle processes. 
+-	assess whether the functional imaging approaches developed under the mother ERC project, which quantify protein-protein interactions within living cells, may constitute a powerful tool for in-cell analysis of novel lead compounds. 
+The project thus aims to characterize, protect and commercialize novel putative anti-tumor agents as well as the in-cell methods developed for their characterization.</objective>
+  <title>Assessing compounds targeting DNA replication licensing complexes as anti-tumor agents</title>
+<identifier>ERC2016PoC</identifier>
+</project>

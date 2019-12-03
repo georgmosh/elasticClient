@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213513</rcn>
+  <acronym>QML</acronym>
+  <objective>Large and diverse property data sets of relaxed molecules and crystals, resulting from computationally demanding quantum calculations, have recently been used to train machine learning models of various energetic and electronic properties. We propose to advance these techniques to a level where they can also describe reaction profiles, i.e. reactive non-equilibrium processes which traditionally would require quantum chemistry treatment. The resulting quantum machine learning (QML) models will provide reaction profiles for new reactants in real-time and with quantum accuracy. The overall goal is to develop a predictive computational tool which allows chemists to easily optimize reaction conditions, develop new catalysts, or even plan new synthetic pathways.</objective>
+  <title>Quantum Machine Learning: Chemical Reactions with Unprecedented Speed and Accuracy</title>
+<identifier>ERC2017COG</identifier>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>209771</rcn>
+  <acronym>CAD WALK</acronym>
+  <objective>Dynamic plantar pressure imaging (PPI) refers to the measuring, across time, of pressure fields between the foot and the ground. PPI is used, in part, to diagnose foot problems such as metatarsalgia and plantar fasciitis. Despite the widespread clinical use of PPI, its diagnostic potential has not been fully exploited. PPI creates large and dynamic datasets that cannot be easily analysed and interpreted by the human brain. As a result, PPI images are subsampled before being clinically examined, which discards potentially valuable information.
+
+The objective for this action is to improve the diagnostic value of PPI through the introduction of a computer-aided diagnosis (CAD) system called CAD WALK. Using concepts from my previous CAD research (STEAM), CAD WALK will build a statistical model of PPI images from a healthy population. To test a new patient, their PPI image will be aligned to the model and compared to that healthy population using statistical tests. Outliers from these statistical tests will then be highlighted to help guide a clinician’s examination of the full PPI image. As a novel addition, metric learning will be introduced to create a statistical model that is more specific to the test subject.
+
+A key goal of this action is the deployment of CAD WALK as a supported software product. To do so, we propose a Triple ‘i’ (international, intersectoral, interdisciplinary) initiative that partners me with industry (rs scan®) and clinical end users (Sint Maartenskliniek, NL) to translate my CAD research into practical use. Through this process, and a secondment with industry partner rs scan®, I expect to deepen my knowledge of industrial product development (i.e. intellectual property rights, industry regulations, customer constraints) and improve my management skills. By addressing these two gaps in my career experience, I expect to move one step closer to fulfilling my ambition of leading my own research translation lab.</objective>
+  <title>CAD WALK: Enabling Computer Aided Diagnosis of Foot Pathologies through the use of Metric Learning</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

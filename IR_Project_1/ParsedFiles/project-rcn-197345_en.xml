@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>197345</rcn>
+  <acronym>CogNet</acronym>
+  <objective>5G will realise a true Internet of Things, a network capable of supporting potentially trillions of wireless connected devices and with overall bandwidth one thousand times higher that today’s wireless networks. Current 4G technology is approaching the limits of what is possible with this generation of radio technology and to address this, one of the key requirements of 5G will be to create a network that is highly optimised to make maximum use of available radio spectrum and bandwidth for QoS, and because of the network size and number of devices connected, it will be necessary for it to largely manage itself and deal with organisation, configuration, security, and optimisation issues. Virtualisation will also play an important role as the network will need to provision itself dynamically to meet changing demands for resources and Network Function Virtualisation (NFV), the virtualising of network nodes functions and links, will be the key technology for this.
+
+We believe that Autonomic Network Management based on Machine Learning will be a key technology enabling an (almost) self administering and self managing network. Network software will be capable of forecasting resource demand requirements through usage prediction, recognising error conditions, security conditions, outlier events such as fraud, and responding and taking corrective actions. Energy efficiency will also be a key requirement with the possibility to reconfigure the NFV to for example avail of cheaper or greener energy when it is available and suitable. Again this is directly related to usage prediction both at a macro level, across an entire network, and at a micro level within specific cells.
+
+The Cognet proposal will focus on applying Machine Learning research to these domains to enable  the level of Network Management technology required to fulfil the 5G vision.</objective>
+  <title>Building an Intelligent System of Insights and Action for 5G Network Management</title>
+<identifier>H2020ICT20142</identifier>
+</project>

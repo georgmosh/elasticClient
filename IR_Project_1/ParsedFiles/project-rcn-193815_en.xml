@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193815</rcn>
+  <acronym>GEO VISION</acronym>
+  <objective>GEO-VISION is an user-driven project developing interactive mission-critical visual communications software solution. The focus is operationally relevant visual content from photos and video, based on GNSS, for reducing financial and humanitarian impacts of disasters. GNSS will provide trust in the data and in the communications. Networks may have low and unknown capacity.  
+
+A common operational picture is achieved via a web portal, live mapping and fusion with other data. It has broad applicability, for field users, operations centers and headquarters of different organizations, and is far beyond state of the art.  Relevant data can be shared between collaborating organizations. Customers can purchase the software or subscribe as a service. 
+
+Technical innovations are related to how GNSS is used for providing trust and confidentiality into data and communications. The concept of interactive mission-critical visual communications is fundamentally different from traditional approaches. GEO-VISION allows users to focus on relevant and trusted operational content. Bandwidth savings compared to sending full resolution is in the order of 100-1000 times, yet still keeping access to full resolution. 
+
+Trust includes location, Galileo signal authentication, spoofing and jamming countermeasures. Integration with satcom, earth observation space elements and UAVs highlight the innovation. United Nations, EU Civil Protection, World Bank and insurance business provide user requirements and testing.
+
+GEO-VISION will develop pilot-level software. Analysis shows a ROI at 10X over net 7 years.  GEO-VISION targets fundamental challenges, markets are global and SW deliveries scalable.</objective>
+  <title>GNSS driven EO and Verifiable Image and Sensor Integration for mission-critical Operational Networks</title>
+<identifier>H2020Galileo20141</identifier>
+</project>

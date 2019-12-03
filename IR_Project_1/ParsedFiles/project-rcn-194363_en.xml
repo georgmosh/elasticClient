@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194363</rcn>
+  <acronym>STEER</acronym>
+  <objective>To meet the greenhouse gas reduction targets set by the European Commission and to reduce the reliance on imported energy sources from not-EU countries, the energy efficiency sector vitally needs basic analytical and decision support tools. This is especially true for large scale energy-consumer plants (for ex. foundries) but also for medical centres which typically (1) use large amounts of energy, (2) run a wide number of energy consuming machinery with different electrical profiles, (3) serve a weak population that may be heavily affected by energy shortages, (4) have a continuous level of service with special periodicity and peak times, and (5) have to abide to all sorts of strict  regulations (for ex. special air quality requirements). 
+The aim of this project is to create a tool that will provide medical centres and any other large institution involved in their energy efficiency programmes (governmental institutions, utilities providers, lending establishments, independent auditors, managers and technical staff), with information on the medical centre’s ideal energy consumption in different scenarios and on the most appropriate energy reduction plan for the medium-long term. 
+The project’s primary proposal is to identity the main variables that are responsible for the energy consumption in medical centres and give to each of them a weight. A novel mathematical model will be produced which will reproduce energy consumption in given scenarios.
+On the basis of the above model, the project will proceed to build a scenario-based assessment and a prediction tool. It will be used by energy managers and decision makers to evaluate and compare future investments and actions to reduce energy consumption, also on the basis of their economic return. The acquired knowledge and expertise will be embedded in a software prototype (E3s) that will be used as a decision support tool. 
+The product of each phase will be tested in the four medical centres that support the project</objective>
+  <title>Support Tool for Energy Efficiency pRogrammes in medical centres</title>
+<identifier>H2020MSCARISE2014</identifier>
+</project>

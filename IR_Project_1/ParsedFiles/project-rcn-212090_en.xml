@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212090</rcn>
+  <acronym>NanoVirus</acronym>
+  <objective>Viruses are a major class of pathogens that infect a variety of organisms. Infection is a multistep process that involves the concerted action of both virus and host cell machineries. The first steps of virus infection include cell binding, cell entry and release of the viral genetic material. Entry pathways are largely defined by the preliminary interactions between viruses and their receptors at the cell surface. Those interactions determine the mechanisms of virus attachment, uptake, and, ultimately, penetration into the cytosol. Elucidating the complex interplay between viruses and their receptors at the cell surface is an essential step towards establishing a full picture of the infection process. 
+
+Currently, a crucial challenge in virology is to develop a quantitative method to decipher the entry pathways of a virus, thus allowing the probing of the kinetics and energetic parameters of the interactions established between the virus and the cell surface. While current methods successfully describe the entry pathways, they fail in identifying in a quantitative manner the key steps such as energy intensive and high-affinity steps. To overcome this limitation, the ambition of this ERC proposal is to combine the latest generations of atomic force microscopes (AFM) with confocal laser scanning microscopes (CLSM). This will allow us to investigate and quantitatively characterize the early steps of single virus entry directly on living cells. At the frontiers of nanotechnology, biophysics and biology, this project aims at pushing the limits of AFM to enable us to better understand the molecular mechanisms of virus entry. 
+
+This project will have strong scientific and medical impacts. In virology, it will significantly improve the understanding of the mechanisms of virus infection. In medicine, the new method will help us and other researchers to screen new compounds that are targeting viral infection.</objective>
+  <title>Deciphering virus-host interactions using correlated confocal-atomic force microscopy</title>
+<identifier>ERC2017STG</identifier>
+</project>

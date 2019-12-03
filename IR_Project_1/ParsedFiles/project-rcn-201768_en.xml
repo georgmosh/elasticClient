@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>201768</rcn>
+  <acronym>iTractor</acronym>
+  <objective>"Our aim is production start-up and market uptake of our “Hybrid smart robotized electric universal compact tractor- iTractor”. Trademark iTractor®.
+It is designed to work inside the farmyard or livestock farm. "Hybrid" is its navigation – it has two separate systems:
+-a manual-for the farmer;
+-a programmable autopilot.
+Targeted users -the weekend farmers  and the owners of organic farms.
+The problem address:
+- The types of activities in the small farms are the same as in the big ones, but their volume does not allow specialization of the workers resulting in low labor productivity;
+- Process automation in agriculture is currently available only for large farms;
+- the number of agricultural workers in 2014 fell down with 3% from 2013
+Business opportunities related to a successful market introduction of ITractor®  
+- Since 2014 the new EU Common Agriculture Policy is greener!Over 100 billion euro will be invested in the agro sector 2014 – 2020.
+- The new regulations on exhaust emissions of compact agricultural tractors on sale after 1st of October 2017.
+The novelty of iTractor® : 
+- iTractor® combines adaptive navigation with visual localization and cloud application for remote control;
+- The navigation technology of iTractor® is equipped with new sensors and visual vSLAM technology. It is a part of new navigation system with visual localization that allows iTractor to create a precise map of its own limited environment (for now!!) - farm yard;
+- Using the map, iTractor® works without interruption for four hours or till the completion of its task. Then it drives itself to the charging station for recharging and if necessary it restarts the workflow;
+- iTractor® plows, lawns or cleans the farm or yard by moving in parallel lines. At the same time it uses the model of adaptive sensors to avoid obstacles;
+- The smartphone application "Farm App" provides updates on the process of work, advice to farmers and direct connection to the technical support center;"</objective>
+  <title>Smart farmer’s assistant - iTractor ®</title>
+<identifier>H2020SMEINST12015</identifier>
+</project>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211731</rcn>
+  <acronym>PUMP-HEAT</acronym>
+  <objective>Natural gas fired Combined Cycle (CC) power plants are currently the backbone of EU electrical grid, providing most of regulation services necessary to increase the share of non-programmable renewable sources into the electrical grid. As a consequence, Original Equipment Manufacturers (OEMs) and Utilities are investigating new strategies and technologies for power flexibility. On the other hand, existing cogenerative CCs are usually constrained by thermal user demand, hence can provide limited services to the grid. At the same time, CHP plants are highly promoted for their high rate of energy efficiency (&gt; 90%) and combined with district heating network are a pillar of the EU energy strategy.
+To un-tap such unexploited reserve of flexibility, and to further enhance turn-down ratio and power ramp capabilities of power oriented CCs, this project proposes the demonstration of an innovative concept based on the coupling of a fast-cycling highly efficient heat pump (HP) with CCs. The integrated system features thermal storage and advanced control concept for smart scheduling. The HP will include an innovative expander to increase the overall efficiency of the HP. In such an integrated concept, the following advantages are obtained: 
+- the HP is controlled to modulate power in order to cope with the CC primary reserve market constraints;
+- the high temperature heat can be exploited in the district heating network, when available; low temperature cooling power can be used for gas turbine inlet cooling or for steam condenser cooling, thus reducing the water consumption;
+- in both options, the original CC operational envelope is significantly expanded and additional power flexibility is achieved.
+In general, the CC integration with a HP and a cold/hot thermal storage brings to a reduction of the Minimum Environmental Load (MEL) and to an increase in power ramp rates, while enabling power augmentation at full load and increasing electrical grid resilience and flexibility.</objective>
+  <title>Performance Untapped Modulation for Power and Heat via Energy Accumulation Technologies</title>
+<identifier>H2020LCE2017RESCCSRIA</identifier>
+</project>

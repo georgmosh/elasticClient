@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213033</rcn>
+  <acronym>Smart-Trust</acronym>
+  <objective>Smart-Trust introduces a new technological enabler for Mobile ID which drastically increases the reliability and trust levels of identity verification at European borders, thus increasing the security of member states. The platform is compatible with a seamless self-service experience based on biometrics on the move which provides freedom of movements to citizens while ensuring their privacy safeguarded according to Privacy by Design principles.
+Smart-Trust will simultaneously address the business needs of governments, airports, airlines and border police in major pilots in the international airports of Lisbon and Schiphol. After establishing requirements sought by the various stakeholders, and integrating the Smart-Trust platform into the airport and border control infrastructure, we will define KPIs for assessing the business cases and design experiments to measure them.
+Smart-Trust will be implemented by delivering an agile, highly configurable, modular and open architecture platform with the following robust, versatile and scalable core components:
+• Mobile ID services and app, mobile identity enrolment and verification services.
+• TrustChain, a blockchain-based infra-structure to assert citizen transactions in a distributed and self-regulatory fashion.
+• Workflow Orchestration, a workflow management component which caters for stakeholder-driven business rules.
+• Analytics and Risk-Assessment, an industrial-strength real time analytics platform able to deliver professional customized monitoring dashboards as well as detecting passenger trends and anomalies.
+These components will be developed as part of Vision-Box’s overarching Services Platform and hence compatible with standard Vision-Box services such as Automated Border Control, including Advance Passenger Information Systems (APIS) and Entry-Exit System (EES), and Happy Flow, the first 100% self-service passenger processing system allowing passengers to go from curb to boarding by simple presenting their face.</objective>
+  <title>Smart Trust: Secure Mobile ID for Trusted Smart Borders</title>
+<identifier>H2020SMEINST220162017</identifier>
+</project>

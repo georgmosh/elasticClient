@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212010</rcn>
+  <acronym>ETALON</acronym>
+  <objective>The ETALON project focus is the adaptation of energy harvesting methodologies for trackside and on-board signaling and communication devices. The project scope is divided into two work-streams. The first is the development of competitive solutions for enhancing train integrity functionalities, including provision of suitable energy supply for on board train integrity devices. This is particularly targeted at cases where trains (especially freight trains) do not have any power supply available on the wagons, emphasis is also placed on considering the proposition of a robust communication system that will overcome on-board communication issues within the rail environment. The second work-stream focuses on the development of competitive energy harvesting solutions for enhancing trackside object controller deployment, with the vision to minimizing trackside infrastructure, especially cabling.
+
+Specifically relevant to the S2R, the ETALON project Technical Objectives are to:
+1: Identify, adapt and validate effective solutions for on-board Train Integrity radio communication systems (including antennas suitable to be installed in the queue of a very long train);
+2: Identify, adapt and validate effective energy generation solutions for feeding on-board Train Integrity systems;
+3: Identify the most suitable energy harvesting solution for new trackside Object Controllers, considering both a technical and economic point of view;
+4: Demonstrate the efficiency of proposed energy harvesting solutions for trackside Object Controllers, ensuring appropriate safety considerations;
+
+As a result of these activities, ETALON will specify and develop energy harvesting solutions to support on-board train integrity and trackside object controllers which are economically viable and suitable for application, particularly considering modern radio communication requirements and safety critical aspects. The prototypes will be tested and validated in controlled as well as real environments.</objective>
+  <title>Energy harvesTing for signAlLing and cOmmunicatioN systems</title>
+<identifier>H2020S2RJUOC2017</identifier>
+</project>

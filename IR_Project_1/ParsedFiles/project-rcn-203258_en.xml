@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>203258</rcn>
+  <acronym>S3NET</acronym>
+  <objective>The implementation of the S3NET concept as proposed by this consortium, will significantly advance the knowledge and decision-making capabilities for the space community in general and mission planners in particular. Through the enhancement and efficient use of on-board resources (computing power, communications and fuel) the improvements in performance of Earth observations (EO) using fractionated or single sensors aboard « swarms » of satellites will be shown.  
+The project will develop two benchmarking systems which will result in the TRL3 demonstration of these performance improvements using the most relevant fragmented and distributed EO optic (high-resolution optical and hyperspectral) and radar mission scenarios. Expected impacts of these results include: improved quality of service, mission scalability, increased incremental deployment, cost savings for satellite missions through extended satellite operations/life-time, restructuring of the space imaging value chain and lastly, further independence from ITAR restricted products.
+The S3NET consortium is comprised of end users and mission planning representatives, satellite formation flying experts and specialists in radar and optical sensor technology,  on-board computing, high-performance processor and hardware design, acceleration of software applications, and satellite telecommunications. The project will last 30 months.</objective>
+  <title>Satellite Swarm Sensor NETwork</title>
+<identifier>H2020EO2015</identifier>
+</project>

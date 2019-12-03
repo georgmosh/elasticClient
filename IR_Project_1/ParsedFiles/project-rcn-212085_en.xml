@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212085</rcn>
+  <acronym>4D-GenEx</acronym>
+  <objective>This project investigates the two-way relationship between spatio-temporal genome organization and coordinated gene regulation, through an approach at the interface between physics, computer science and biology.
+
+In the nucleus, preferred positions are observed from chromosomes to single genes, in relation to normal and pathological cellular states. Evidence indicates a complex spatio-temporal coupling between co-regulated genes: e.g. certain genes cluster spatially when responding to similar factors and transcriptional noise patterns suggest domain-wide mechanisms. Yet, no individual experiment allows probing transcriptional coordination in 4 dimensions (FISH, live locus tracking, Hi-C...). Interpreting such data also critically requires theory (stochastic processes, statistical physics…). A lack of appropriate experimental/analytical approaches is impairing our understanding of the 4D genome.
+
+Our proposal combines cutting-edge single-molecule imaging, signal-theory data analysis and physical modeling to study how genes coordinate in space and time in a single nucleus. Our objectives are to understand (a) competition/recycling of shared resources between genes within subnuclear compartments, (b) how enhancers communicate with genes domain-wide, and (c) the role of local conformational dynamics and supercoiling in gene co-regulation. Our organizing hypothesis is that, by acting on their microenvironment, genes shape their co-expression with other genes.
+
+Building upon my expertise, we will use dual-color MS2/PP7 RNA labeling to visualize for the first time transcription and motion of pairs of hormone-responsive genes in real time. With our innovative signal analysis tools, we will extract spatio-temporal signatures of underlying processes, which we will investigate with stochastic modeling and validate through experimental perturbations. We expect to uncover how the functional organization of the linear genome relates to its physical properties and dynamics in 4D.</objective>
+  <title>Spatio-temporal Organization and Expression of the Genome</title>
+<identifier>ERC2017STG</identifier>
+</project>

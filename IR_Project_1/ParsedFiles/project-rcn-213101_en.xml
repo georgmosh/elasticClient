@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213101</rcn>
+  <acronym>COVR</acronym>
+  <objective>Increasing demand from the growing and aging population can be assuaged by ever closer safe human-robot collaboration (HRI): to improve productivity, reduce health limitations and provide services. HRI and safety are both major topics in the Work Programme. Safety regulations will be a barrier to cobot deployment unless they are easy to access, understand and apply. COVR collates existing safety regulations relating to cobots in e.g. manufacturing and fills in regulatory gaps for newer cobot fields e.g. rehabilitation to present detailed safety assessment instructions to coboteers. Making the safety assessment process clearer allows cobots to be used with more confidence in more situations, increasing the variety of cobots on the market and the variety of services cobots can offer to the general population.
+TRYG provides a one-stop shop which uses a common approach to safety assessment and is valid across all fields and applications. TRYG will provide clear and simple online access to best-practice safety testing protocols via a user-friendly decision tree, guided by questions about the cobot and its intended behaviours. Resulting application-specific testing protocols specify how to assess safety and document compliance with regulations. 
+We support coboteers by providing safety-relevant services based in well-equipped facilities at each partner site. TRYG services cover all stages of cobot development from design through final system sign-off to safety in use and maintenance, provided through consultancy, risk analysis, actual testing, workshops, courses, demonstrations, etc. – all designed to inspire people to increase cobot safety.
+All TRYG elements will be beta-tested by external cobot developers etc. financed by FSTP. By using project elements  “live”, these FSTP beneficiaries not only develop their cobots further towards market, but also contribute their knowledge to the TRYG system and provide valuable feedback to both partners and standards developers.</objective>
+  <title>Being safe around collaborative and versatile robots in shared spaces</title>
+<identifier>H2020ICT20171</identifier>
+</project>

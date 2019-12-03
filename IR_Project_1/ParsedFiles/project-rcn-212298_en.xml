@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212298</rcn>
+  <acronym>ScaleOpt</acronym>
+  <objective>One of the most important open questions in optimization is to find a strongly polynomial algorithm for linear programming. The proposed project aims to tackle this problem by combining novel techniques from two different domains: discrete optimization and continuous optimization. We expect to contribute to exciting recent developments on the interface of these two fields. 
+We use and develop new variants of the classical scaling technique. From the discrete optimization side, recent work of the PI on generalized flows extends classical network flow theory and opens up new domains for strongly polynomial computability beyond integer constraint matrices. We will apply this novel scaling technique to obtain strongly polynomial algorithms for broad classes of linear programs.
+From the continuous optimization side, we aim to build the theory of geometric rescaling algorithms for linear and convex optimization. This approach combines first-order methods with geometric rescaling techniques to obtain a new family of polynomial-time algorithms. We expect to devise variants efficient in theory and in practice, which we will use in a wide range of applications.
+Our discrete and continuous techniques will have important applications in submodular function minimization. We will develop new, efficient algorithms for the general problem as well as for specific applications in areas such as machine learning and computer vision.
+In summary, the project will develop novel approaches for some of the most fundamental optimization problems. It will change the landscape of strongly polynomial computability, and make substantial progress towards finding a strongly polynomial algorithm for linear programming.</objective>
+  <title>Scaling Methods for Discrete and Continuous Optimization</title>
+<identifier>ERC2017STG</identifier>
+</project>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213848</rcn>
+  <acronym>StringHom</acronym>
+  <objective>"The goal of the project is to use string topology to understand the homology and cohomology of certain highly interesting groups: automorphism groups of free groups and finite groups of Lie type. The project consists of two parts. In the first, the Experienced Researcher (ER) aims to use string topological techniques he has pioneered and proven effective elsewhere to prove the nontriviality of the Morita and Eisenstein cycles in the homology of automorphism groups of free groups, thereby solving one of the big open questions concerning the homology of these groups. In the second part, the ER and the main supervisor will develop the ""string topology of finite groups of Lie type"" they have recently discovered connecting the cohomology of the free loop space of the classifying space of a compact connected Lie group G and the cohomology of the finite groups of Lie type associated with G with the aim of using it to shed light on the hitherto mysterious Tezuka conjecture asserting that the two cohomologies frequently agree. 
+
+Hosted at one of the major centres for algebraic topology in the world and supervised by a world leader in homotopical group theory, the project will have a substantial impact on the ER's career by deepening and broadening his research expertise, especially concerning p-compact groups and cohomology of finite groups; by significantly broadening his research network; and by solidifying his position as a trailblazer and leader in applying techniques from string topology to tackle difficult problems in group homology and cohomology."</objective>
+  <title>String topology and group (co)homology</title>
+<identifier>H2020MSCAIF2017</identifier>
+</project>

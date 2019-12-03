@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206411</rcn>
+  <acronym>RobMoSys</acronym>
+  <objective>RobMoSys will coordinate the whole community’s best and consorted effort to build an open and sustainable, agile and multi-domain European robotics software ecosystem.
+RobMoSys envisions an integration approach built on-top-of, or rather around, the current code-centric robotic platforms, by means of the systematic application of model-driven methods and tools that explicitly focus on (system-of-) system integration. As proven in many other engineering domains, model-driven approaches are the most suitable approach to manage integration that is intended to be “all-inclusive” with respect to technologies and stakeholder groups.
+RobMoSys will enable the management of the interfaces between different roles (robotics expert, domain expert, component supplier, system integrator, installation and deployment, operation) and separated concerns in an efficient and systematic way by making the step change to a set of fully model-driven methods and tools for engineering robotics systems.
+RobMoSys will drive the non-competitive part of building the eco-system aiming at turning community involvement into active support for an ecosystem of professional quality and scope. It will provide, based on broad involvement via two Open Calls, important concretizations for many of the common robot functionalities (sensing, planning, control in the broad sense). It will fulfill two complementary missions: (1) establish a common methodology enabling a composition-oriented approach to address complexity in robotics and face the integration burden caused by type diversity, target diversity and platform diversity; (2) stimulate and boost an ecosystem of methodology-based toolchains that supports the interaction of separated roles.
+RobMoSys is designed for widest inclusion - from the very beginning and throughout the overall course of the project - of the expertise and body of knowledge of the robotics community and of related relevant technology and application domains (Tier-1 concept).</objective>
+  <title>Composable Models and Software for Robotics Systems</title>
+<identifier>H2020ICT20161</identifier>
+</project>

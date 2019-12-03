@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205978</rcn>
+  <acronym>ARDITO</acronym>
+  <objective>Everything is digital today in the creative industries value network. The production process, often the products, the supply chains, and the communication with end users.
+The digital world calls for fast and cross-border re-use of creative content in different contexts, at different levels of granularity, for different purposes.
+However there is a dark lacuna when it comes to the digital content value network – everything is digital except the actual functioning of the rights supply chains to enable such re-use. When users wish to re-use content, it is very hard to find information on who to ask for permission, which licenses are available, and on which terms and conditions.
+This is where the ARDITO project comes into play. The project vision is that any user should be able easily to access such rights information. To obtain this, we need a Rights Data Network (RDN), a network of connected e-infrastructures to automate the exchange of information about rights. We do not start from scratch. The Linked Content Coalition initiative has defined the framework. The RDI project has demonstrated how such RDN could implement the LCC framework; and the Copyright Hub has provided a first implementation of such principles.
+The time to go live with actual services is now. A group of SMEs, well established in different creative sectors (books, audio-visual and images), a research centre and the Copyright Hub Foundation decided to promote the ARDITO idea to accelerate the development of the RDN, through optimising a range of content identification technologies (watermarks, content recognition, DOIs) for use in the RDN, integrating them into the Copyright Hub ecosystem, and developing new services, ready to bring to the market.
+The services are varied but share the same vision: to be an access point to the RDN offered to different markets. The final aim is to support SMEs in European creative industries in promoting new business ideas through monetising the re-use of their content.</objective>
+  <title>Access to rights data via identification technologies optimisation</title>
+<identifier>H2020ICT20161</identifier>
+</project>

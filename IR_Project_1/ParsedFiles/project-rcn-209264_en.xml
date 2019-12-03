@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>209264</rcn>
+  <acronym>CoordPEFC</acronym>
+  <objective>In polymer electrolyte fuel cells (PEFCs), the commonly used catalysts are still carbon supported Pt-based nanoparticles (Pt/C), which undesirably increases the overall cost of the system. To address this challenge, advanced non-precious group metal (NPGM) catalysts have been endeavoured due to their potential low cost and high CO tolerance. Although rapid progress has been achieved in recent years, the poor activity and stability of NPGM catalysts can still not compete with the conventional Pt/C catalysts. 
+
+In CoordPEFC, inspired by the excellent catalytic activities of nitrogen-containing transitional metal complexes (MCs) and the unique porosity and stability of porous coordination polymers (PCPs), we’ll develop highly active and stable MC-PCP couplers, and hybrid with highly electro conductive carbon allotropes to achieve low-cost, active site enriched and durable PEFC electrocatalysts, through a further understanding of enhanced mechanisms between MCs, nitrogen containing groups, PCP and carbon allotropes. CoordPEFC will involve careful screening of N-based ligands coordinated with Fe/Co MCs and clubbing with suitable metal (e.g. Zr/Cr/Al) containing PCPs. The as-prepared MC-PCPs/C electrocatalysts will be evaluated by ex-situ rotating disk electrode (RDE) measurement and in-situ single cell testing. Long-term durability diagnosis will be performed under real life-context at different European and international automotive driving cycles with industrial partner Amalyst Ltd and compared with the commercial Pt/C catalysts. It's expected a further understanding of the coordinated N active sites and transitional metals will be achieved to predict the catalytic activities of new NPGM catalyst system for PEFC applications.</objective>
+  <title>Active-site modulation of metal-ligand Coordinated complex electrocatalysts for PEFCs</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

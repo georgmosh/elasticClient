@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194093</rcn>
+  <acronym>PD_manager</acronym>
+  <objective>PD_manager aims to build and evaluate an innovative, mhealth, patient centric ecosystem for Parkinson’s disease (PD) management. 
+The analysis of experts’ diagnostic behaviour and the decomposition of tasks undertaken by the various actors during the disease management will enable the validation of technology against routine clinical judgment measures . Primary motor symptoms such as tremor, bradykinesia and postural imbalance and non-motor symptoms, such as sleep, speech and cognitive disorders, will be evaluated with data captured by light, unobtrusive, co-operative, mobile devices: sensor insoles, a wristband and the patient’s or caregiver’s (the role of which is of paramount importance) smartphone. Data mining studies will lead to the implementation of a Decision Support Platform with suggestions for modifications in the medication which is the key for prolongation of independence and improved Quality of Life. Compliance with medical recommendations will also be studied; the patient will be motivated to adhere to his medication and diet, will be empowered to exercise and make physiotherapies and will be educated about occupational and speech therapy in order to self-manage his condition. 
+The PD_manager Knowledge Management platform will be built with a cloud-based, open architecture approach based on FI-WARE that will support the use of any commercial set of sensors within the Internet of Things concept. 
+The successful implementation of all abovementioned objectives will be evaluated in a total of 230 patients (the 30 that will be enrolled at the first phase of the project and 200 more during the pilot). In addition to the evaluation of the clinical effectiveness, acceptability and usability of the developed platform and mobile apps a detailed study for the potential of PD_manager as a new care model in terms of health outcomes, quality of life, care efficiency gains and economic benefits will also be conducted.</objective>
+  <title>mhealth platform for Parkinson’s disease management</title>
+<identifier>H2020PHC2014singlestage</identifier>
+</project>

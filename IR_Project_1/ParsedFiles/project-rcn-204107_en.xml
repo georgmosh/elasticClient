@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204107</rcn>
+  <acronym>CombiCompGeom</acronym>
+  <objective>The project focuses on the interface between computational and combinatorial geometry. 
+Geometric problems emerge in a variety of computational fields that interact with the physical world.
+The performance of geometric algorithms is determined by the description complexity of their underlying combinatorial structures. Hence, most theoretical challenges faced by computational geometry are of a distinctly combinatorial nature.
+
+In the past two decades, computational geometry has been revolutionized by the powerful combination of random sampling techniques with the abstract machinery of geometric arrangements. These insights were used, in turn, to establish state-of-the-art results in combinatorial geometry. Nevertheless, a number of fundamental problems remained open and resisted numerous attempts to solve them. 
+
+Motivated by the recent breakthrough results, in which the PI played a central role, we propose two exciting lines of study with the potential to change the landscape of this field.
+
+The first research direction concerns the complexity of Voronoi diagrams -- arguably the most common structures in computational geometry. 
+
+The second direction concerns combinatorial and algorithmic aspects of geometric intersection structures, including some fundamental open problems in geometric transversal theory. Many of these questions are motivated by geometric variants of general covering and packing problems, and all efficient approximation schemes for them must rely on the intrinsic properties of geometric graphs and hypergraphs.
+
+Any progress in responding to these challenges will constitute a major breakthrough in both computational and combinatorial geometry.</objective>
+  <title>Combinatorial Aspects of Computational Geometry</title>
+<identifier>ERC2015STG</identifier>
+</project>

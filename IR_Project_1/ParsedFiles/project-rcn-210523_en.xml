@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210523</rcn>
+  <acronym>CONNECT</acronym>
+  <objective>CONNECT aims to provide concepts, technologies and components that support enhanced integration of renewables and storage combined with intelligent control of the power flow. The demand for primary energy and the carbon dioxide emissions will be reduced and a decentralized energy infrastructure will be facilitated by these solutions.
+CONNECT investigates new concepts and technologies for power conversion that will be specifically developed for bidirectional power exchange with the grid and for controllable power flow in order to  support the extended integration of renewables like PV and local storage. Power quality optimization will be explored in order to avoid unnecessary energy flows in the grid. 
+The enhanced capabilities of the power conversion fit seamlessly to the smart energy management systems researched in CONNECT applicable for single/multiple buildings and quarters. Monitoring approaches and advanced control algorithms will be developed which take into account renewable energy sources, local storage and electric vehicles for peak demand reduction and optimization of local generation, consumption and storage.
+In order to fully exploit the advantages of the aforementioned technologies it is necessary to enhance the data transmission capacity of the smart grid communication infrastructure. For this purpose CONNECT will develop solutions for high interoperable, high data rate local and wide area communication in the grid with enhanced security in order to protect this critical infrastructure against attacks. Particular effort is spend to minimize the power consumption of the developed solutions. 
+Selected results of CONNECT are planned to be demonstrated not only in lab environment but also in close to real life scenarios.</objective>
+  <title>Innovative smart components, modules and appliances for a truly connected, efficient and secure smart grid.</title>
+<identifier>H2020ECSEL20161RIAtwostage</identifier>
+</project>

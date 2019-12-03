@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212052</rcn>
+  <acronym>MECH-EVO-INSECT</acronym>
+  <objective>Insects are extremely efficient feeders that impact on the world's ecosystems and our agriculture with their feeding capabilities. Insects evolved diverse mouthpart types during ~400 million years of evolution which allowed them to conquer many food recourses. How this feeding system evolved, in particular the transition from one mouthpart type to the other, is unclear. My idea represents the first extensive assessment of insect head mechanics applying latest semi-automatic workflows and engineering approaches to unravel the factors driving insect mouthpart evolution and performance. 
+Specifically, I will study the mechanical evolution from early biting-chewing to piercing-sucking mouthparts and head types, considering recent as well as fossil species. 
+In contrast to earlier studies, I aim to quantify mechanical evolution for the whole head which has never been attempted before for insects. This will be done using engineering software to simulate insect feeding, followed by 3D shape analysis and finally evolutionary modelling using algorithms based on likelihood models of evolutionary processes. The project is therefore positioned at the interconnection between experimental biology, engineering and biological simulation.
+The results will impact our understanding of insect evolution, with the project identifying which mechanical factors made insects such extraordinarily successful feeders, and why their mouthparts evolved into so many different types. To achieve an integrative understanding, my idea will furthermore take into account ecological, evolutionary and life history factors. Understanding the mechanical head evolution has never been tried before in a systematic way at this scale. However, my project idea also delivers results for industry: Since modern engineering methods are used, the results can be readily exported to the industry for the design of lighter robot arms with better lifting capabilities, thus advancing robotic techniques.</objective>
+  <title>The mechanical evolution from biting-chewing to piercing-sucking in insects</title>
+<identifier>ERC2017STG</identifier>
+</project>

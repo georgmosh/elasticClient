@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199397</rcn>
+  <acronym>RAMPup</acronym>
+  <objective>RAMPup aims to improve European SME production competitiveness by effectively decreasing the integration effort needed for automating small production lines. A framework and infrastructure for modular industrial automation systems will be developed and applied to eight use-cases from four European end users, carefully selected to require a broad range of processes. Technologies for automating these processes exist, but are too inflexible and expensive for the business case for automation to be viable, certainly in SME contexts. Four demonstrators will be realized and brought to TRL7 proving their performance in real operational environments at end user sites.
+The methodology involves creating manufacturer-independent process modules which are self-contained: hardware, software and process functionality; wrapped to be “plug-n-play” with all other modules in the set and with the framework platform. We anticipate that many modules will be based on existing technologies, completed and wrapped to become RAMPup modules. A repository of process modules at this level, accepted as usable by SIs, will greatly reduce the customization needed for new automation installations, thus reducing the cost to end-users. Modularisation also allows physical reconfiguration of the workcell and re-use of component modules across very different product variants.
+Beyond the technical realization of the modular automation framework, RAMPup aims to open a new market allowing developers of automation solutions to deploy, distribute and commercialize their products. RAMPup will demonstrate the business perspectives within the project and thus convince module developers and system integrators to enter the new market.
+The ambition in RAMPup is thus not only to create eight functioning robot workcells at end-user sites but also to provide a fast-track for SME robot developers to get their technologies to market.</objective>
+  <title>Robotic Automation Modules for Production</title>
+<identifier>H2020ICT2015</identifier>
+</project>

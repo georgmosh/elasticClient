@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194289</rcn>
+  <acronym>CP-SETIS</acronym>
+  <objective>CPS require multiple engineering competences across various engineering disciplines. The development of such systems is a huge challenge, also because of the heterogeneity of engineering tools involved in development platforms across the development lifecycle. In order to overcome this challenge, past and on-going EU research projects have developed the basis for an International Open Standard for Development Tool Interoperability, the so called Interoperability Specification (IOS). However, due to lack of coordination, current IOS related activities, especially with respect to its standardization and possible extensions, are un-coordinated, endangering the huge financial effort that has been put into the IOS and the chance to establish it as a formal Standard.
+The main goal of CP-SETIS is to conceive and set up a sustainable organizational structure as a platform joining all stakeholders, to coordinate all IOS related activities, especially the formal standardization and further extensions of the IOS. This organizational structure will be implemented within existing, sustainable European organizations, like the ARTEMIS-IA Working Groups or similar, that are open to all stakeholders.
+CP-SETIS will ensure the support of all stakeholders for this structure, its operational rules, its implementation within existing structures and, most important, their commitment to coordinate all IOS related activities within this structure.
+In this way, CP-SETIS will secure the huge effort – both in terms of manpower as well as in terms of financial support – that has been put into the IOS, furthering and enabling the setup of the IOS as a formal standard, and enabling the enormous innovation potential of the IOS both, for innovations in interoperable tools with new functionalities needed for future generations of Cyber-Physical Systems, and for innovations in future CPS themselves.
+CP-SETIS will also use lessons learned during this process to update Standardization Research Agendas.</objective>
+  <title>Towards Cyber-Physical Systems Engineering Tools Interoperability Standardisation</title>
+<identifier>H2020ICT20141</identifier>
+</project>

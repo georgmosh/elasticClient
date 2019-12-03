@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208051</rcn>
+  <acronym>EMA4FLIGHT</acronym>
+  <objective>Nowadays, there is a trend towards the More-Electric Aircraft (MEA) concept. MEA would replace the secondary aircraft power systems (electric, hydraulic and pneumatic) with a globally optimized electrical system. However, the architecture of the electric system must be carefully selected to optimize the whole aircraft. Actual research in MEA technology is focused on new advances in power electronics, fault-tolerant electric machines, digital control, electro-mechanical actuators and communications. Modern technologies involved in MEA are being taken in two different paths: i) elimination of bleed-air systems and hydraulic engines with further improvements in electrical power generation capability. It requires changes in both electrical generation and distribution network, and ii) replacement of hydraulics actuators with electro-mechanical actuators with the same level of safety and reliability, reducing weight, fuel usage, maintenance and production costs.
+Several studies have been recently carried out emphasizing the interest on the replacement of the traditional electro-hydrostatic actuators used in flight control surfaces by electro-mechanical actuators (EMAs). The reasons for such a choice are: weight and maintenance reduction, elimination of pipes vibration problems, increase of reliability, increase of the system performance and pressure losses thanks to the absence of valves.
+The EMA4FLIGHT project will design, manufacture and tune innovative electro-mechanical actuator sub-systems for aileron/spoiler and winglet/flap-tab flight control surfaces, with clearance for flight. The designed sub-systems will be improved by electric motor and ballscrew innovative architecture, advanced control strategies and smart safety, diagnostic and maintenance functions.</objective>
+  <title>Development of Electromechanical Actuators and Electronic control Units for Flight Control Systems</title>
+<identifier>H2020CS2CFP03201601</identifier>
+</project>

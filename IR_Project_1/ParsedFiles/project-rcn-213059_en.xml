@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213059</rcn>
+  <acronym>SPIRIT</acronym>
+  <objective>SPIRIT aims to develop an "inspection skill" for robots that takes the step from programming of complex inspection tasks to configuring such tasks. For system integrators this will reduce engineering costs and effort for deployment of inspection robots by 80%. Results include an "offline framework" with features such as model-based automatic coverage planning for complex parts, automatic robot program generation and an "inline framework" that deals with sensor data mapping to transfer 2D measurements to the 3D object model. At the heart of the project is an accurate process-specific model that represents the sensor data acquisition process with sufficient accuracy to allow automatic planning. 
+The "offline framework" will include a generic interface to allow the easy exchange of process models (for different inspection technologies), of the CAD model of the part (for a different type of product to be inspected) or of the work-cell model (for a different kinematic structure). The generic "inline framework" will provide the backbone for the execution of the actual inspection process. Relying on such a proven frameworks will reduce the risks of implementing complex inspection tasks and thus help the deployment of inspection robots.
+The three end-users from the automotive and aerospace industry as well as the technology providers and system integrators in the project all have experience with  the above mentioned technological issues and estimate that a potential of 600 to 1000 additional robotic installations can be realized per year. The generic frameworks will particularly enable SMEs to address a larger market beyond their regional focus by reduce the risk of setting up inspection robots, Considering the exploitation potential the SPIRIT project will achieve a suitable return on investment for the project partners within about 2 years.</objective>
+  <title>A software framework for the efficient setup of industrial inspection robots</title>
+<identifier>H2020ICT20171</identifier>
+</project>

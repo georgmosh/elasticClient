@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>214991</rcn>
+  <acronym>EXCITATOR</acronym>
+  <objective>The overall objective of EXCITATOR is to transfer the methods developed in the F-TRACT ERC project (f-tract.eu) around the concept of active probing of brain states with the industrialization goal to make them applicable for fast drug discovery in animal models. The industrialization process will be prepared in collaboration with Synapcell SAS, a biotechnology company that provides the biopharmaceutical industry with innovative drug discovery programs.
+EXCITATOR has one scientific objective (O), which requires achieving one proof-of-concept (PoC):
+• O – Cortical excitability as a read-out for drug screening. Electrodes will be inserted in the cortex and deep brain structures of rodents in control conditions. Under the acute challenge of drugs injected in animals, the changes of oscillatory power and cortical excitability as quantified in responses to micro-stimulations will be monitored. Our main scientific goal is to demonstrate that intracranial EEG (iEEG) responses to micro-stimulations will be more sensitive than standard iEEG power analysis to quantify the effects of drugs.
+• PoC – Automatised active probing platform for drug screening: For an industrial use, we will need to automatize the iEEG data recording and processing in animal models. In practice, we will transfer the most relevant functionalities of the FTRACT technology that relies on a human database with automatic data processing. Experimentally, some constraints related to small animals will need to be solved, like defining electrode configurations that maximize neural responses and minimize stimulation artefacts. Eventually, we aim at delivering an innovative and fully integrated drug screening platform from iEEG responses to micro-stimulations.</objective>
+  <title>Active probing of brain excitability by electrical micro-stimulations for drug discovery</title>
+<identifier>ERC2017PoC</identifier>
+</project>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211763</rcn>
+  <acronym>STARDUST</acronym>
+  <objective>The main goal of the STARDUST project is to realize a novel wireless implantable and independent micro-scale device (200x200x200 µm3) enabling in-vivo electrophysiology, optogenetics and ultra-localized drug delivery in freely moving animals. The device will be used to target specific neural circuits of the brain and test a new therapeutic approach for Parkinson’s Disease (PD). 
+The methods used in this project are based on cutting-edge miniaturized technology combining integrated chips, microelectromechanical systems (MEMS), local drug delivery, integrated electrodes and micro-scale light emitting diodes (µLEDs). STARDUST will benefit from these advances and for the first time provide an implantable ultrasonically-powered miniaturized device for in-vivo optogenetics, local drug delivery and electrophysiological monitoring – all in one single device. The proposed device is expected to provide an output power of 1-20 mW/mm2 for optogenetics with two different wavelengths, one for neuron activation and one for triggering drug-delivery; STARDUST will provide proof of concept.
+The main novelty of the STARDUST project is the convergence of multiple, interdisciplinary fields including optogenetics, triggered drug-delivery, miniaturized ultrasonic energy harvesting, material science and nanoelectronics. The main ambition of the project is to develop a new technology platform to be used for future implantable in-vivo optogenetic devices for monitoring and treating diseases, with an optional local drug delivery add-on beyond 2025. Establishing proof of concept of the STARDUST platform will be the foundation for other applications within photodynamic therapy such as cancer treatment and other neurological and non-neurological disorders.</objective>
+  <title>in vivo optogeneticS, elecTrophysiology and phArmacology with an ultRasonically-powered DUST for Parkinson's Disease</title>
+<identifier>H2020FETOPEN120162017</identifier>
+</project>

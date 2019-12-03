@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206387</rcn>
+  <acronym>DECODE</acronym>
+  <objective>Today’s Internet is becoming increasingly centralised, slowing innovation and challenging its potential to revolutionise society and the economy in a pluralistic manner. DECODE will develop practical alternatives through the creation, evaluation and demonstration of a distributed and open architecture for managing online identity, personal and other data, and collective governance in a citizen-friendly and privacy-aware fashion. Strong digital rights that makes it possible for data subjects to determine access rights to their information through flexible entitlements and open standard-based agreements regarding data governance (on the model of Creative Commons licenses) will be woven into the technological architecture.
+
+DECODE will increase digital sovereignty of European citizens by enabling them to produce, access and control their data and exchange contextualised information in real-time, and in a confidential, and scalable manner. DECODE will develop a modular privacy-aware IoT hub with a free and open source operating system backed by a state of the art blockchain infrastructure supporting smart-contracts and privacy protections.
+
+The architecture will be demonstrated through four pilots in Barcelona and Amsterdam, in the field of digital democracy, citizen sensing, and collaborative economy. The pilots will be run with the active involvement of social entrepreneurs, hackers, and makers. Innovators will be able to build solutions on top of the platform through hackathons and open challenges, while ensuring their security, resilience and privacy preserving qualities. This aims to create a decentralised innovation ecosystem that will attract a critical mass able to shift the current centralised data-driven economy towards a decentralised, sustainable and commons-based economy. DECODE puts agency and data control in the hands of citizens, to improve citizens’ well-being and society for the collective benefit of all.</objective>
+  <title>Decentralised Citizens Owned Data Ecosystem</title>
+<identifier>H2020ICT20161</identifier>
+</project>

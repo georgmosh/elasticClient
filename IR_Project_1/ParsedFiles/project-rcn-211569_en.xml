@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211569</rcn>
+  <acronym>B-Q MINDED</acronym>
+  <objective>Magnetic resonance imaging (MRI) is one of the most useful and rapidly growing neuroimaging tools. Unfortunately, signal intensities in conventional MRI images are expressed in relative units that depend on scanner hardware and acquisition protocols. While this does not hinder visual inspection of anatomy, it hampers quantitative comparison of tissue properties within a scan, between successive scans, and between subjects. In contrast, advanced quantitative MRI (Q-MRI) methods like MR relaxometry or diffusion MRI do enable absolute quantification of biophysical tissue characteristics. Evidence is growing that Q-MRI techniques detect subtle microscopic damage, enabling more accurate and early diagnosis of neurodegenerative diseases. However, due to the long scan time required for Q-MRI, causing discomfort for patients and limiting the throughput, Q-MRI methods have not entered clinical practice yet. 
+
+B-Q MINDED aims to overcome the current barriers by developing widely-applicable post-processing breakthroughs for accelerating Q-MRI. The originality of B-Q MINDED lies in its ambition to replace the conventional rigid multi-step processing pipeline with an integrated single-step parameter estimation framework. This approach will unlock a wealth of options for optimization of Q-MRI. To accomplish this goal, B-Q MINDED proposes a collaborative cross-disciplinary approach (from basic MR physics to clinical applications) with strong involvement of industry (2 MRI vendors and 3 MRI-software SMEs). 
+
+B-Q MINDED proposes a unique training platform that enables young European researchers to develop a holistic view on Q-MRI research and development. The fellows enrolled in B-Q MINDED will have access to a variety of network-wide training events and will gain essential transferable skills that will positively affect their employability in academia and industry. By combining research, innovation, and education, B-Q MINDED will pave the way for introducing Q-MRI into the clinic.</objective>
+  <title>Breakthroughs in Quantitative Magnetic resonance ImagiNg for improved DEtection of brainDiseases</title>
+<identifier>H2020MSCAITN2017</identifier>
+</project>

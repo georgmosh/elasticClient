@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213490</rcn>
+  <acronym>DarkSERS</acronym>
+  <objective>Metal nanostructures show pronounced electromagnetic resonances that arise from localized surface plasmons. These collective oscillations of free electrons in the metal give rise to confined electromagnetic near fields. Surface-enhanced spectroscopy exploits the near-field intensity to enhance the optical response of nanomaterials by many orders of magnitude. 
+
+Plasmons are classified as bright and dark depending on their interaction with far-field radiation. Bright modes are dipole-allowed excitations that absorb and scatter light. Dark modes are resonances of the electromagnetic near field only that do not couple to propagating modes. The suppressed photon emission of dark plasmons makes their resonances spectrally narrow and intense, which is highly desirable for enhanced spectroscopy as well as storing and transporting electromagnetic energy in nanostructures. The suppressed absorption, however, prevents us from routinely exploiting dark modes in nanoplasmonic systems.
+
+I propose using spatially patterned light beams to excite dark plasmons with far-field radiation. By this I mean a beam profile with varying polarization and intensity that will be matched to the dark electromagnetic eigenmode. My approach activates the excitation of dark modes, while their radiative decay remains suppressed. I will show how to harvest dark modes for surface-enhanced Raman scattering providing superior intensity and an enhancement that is tailored to a specific vibration. Another feature of dark modes is their strong coupling to the vibrations of nanostructures. I will use this to amplify vibrational modes and, ultimately, induce phonon lasing. 
+
+The proposed research aims at an enabling technology that unlocks a novel range of nanoplasmonic properties. It will put dark plasmons on par with the well-recognized bright modes to be used in fundamental science and for applications in analytics, optoelectronic, and nanoimaging.</objective>
+  <title>Harvesting dark plasmons for surface-enhanced Raman scattering</title>
+<identifier>ERC2017COG</identifier>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212978</rcn>
+  <acronym>NoMADS</acronym>
+  <objective>In NoMADS we focus on data processing and analysis techniques which can feature potentially very complex, nonlocal, relationships within the data. In this context, methodologies such as spectral clustering, graph partitioning, and convolutional
+neural networks have gained increasing attention in computer science and engineering within the last years, mainly from a combinatorial point of view. However, the use of nonlocal methods is often still restricted to academic pet projects. There is a large gap between the academic theories for nonlocal methods and their practical application to real-world problems. The reason these methods work so well in practice is far from fully understood.
+Our aim is to bring together a strong international group of researchers from mathematics (applied and computational analysis, statistics, and optimisation), computer vision, biomedical imaging, and remote sensing, to fill the current gaps between theory and applications of nonlocal methods. We will study discrete and continuous limits of nonlocal models by means of mathematical analysis and optimisation techniques, resulting in investigations on scale-independent
+properties of such methods, such as imposed smoothness of these models and their stability to noisy input data, as well as the development of resolution-independent, efficient and reliable computational techniques which scale well
+with the size of the input data. As an overarching applied theme we focus in particular on image data arising in biology and medicine, which offers a rich playground for structured data processing and has direct impact on society, as well as discrete point clouds, which represent an ambitious target for unstructured data processing. Our long-term vision is to discover fundamental mathematical principles for the characterisation of nonlocal operators, the development of new robust and efficient algorithms, and the implementation of those in high quality software products for real-world application.</objective>
+  <title>Nonlocal Methods for Arbitrary Data Sources</title>
+<identifier>H2020MSCARISE2017</identifier>
+</project>

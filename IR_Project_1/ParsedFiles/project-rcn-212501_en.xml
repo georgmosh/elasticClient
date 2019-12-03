@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212501</rcn>
+  <acronym>INLINETEST</acronym>
+  <objective>Future micro/nano-electronics components production will need to be smart and provide instantaneous information on all items for complete traceability. This is necessary as enormous quality requirements have to be met by industrial manufacturers to be competitive in this growing multi-billion market. The crucial ingredient for this development is the availability of rapid in-line-capable inspection systems to unequivocally detect production flaws and defects in the component.
+
+To respond to these challenges, the fast, contactless and non-destructive full-field thermometric methods of Pulse-Infrared Thermography (PIRT) and Thermoreflectance (TR) are exploited for the first time to enable 100% in-line inspection in the production line.
+
+INLINETEST’s objective is to take up these challenges in design, realization, deployment and test:
+
+Existing prototypes for both methods will be adapted and upgraded to the challenges of inline testing, enhanced by hard- and software innovations. For validation under real-life conditions, both failure analytical method’s hard- and software will be customized and integrated into two production lines and demonstrated on two encapsulated power multi-chip module (MCM) components and one in-line production tool at the project partners, covering crucial aspects of the avionics, telecom and automotive sector.
+
+The consortium, composed of five partners from industry, SME and academia from 3 European countries, pools excellence and interdisciplinary skills to address these tasks. We are convinced that INLINETEST will enable the first in-line-capable inspection system for 100% monitoring of micro/nano-electronics production based on the thermographic methods of IR and TR, meet the aggressive precision and efficiency targets presented in the proposal and hence boost productivity and radiate out to other lines and products where non-contact failure analysis below surfaces of various emissivity is needed. Thus, the route for smart production is pre</objective>
+  <title>In-line quality inspection system for smart production of micro and nanoelectronic components</title>
+<identifier>H2020ICT20171</identifier>
+</project>

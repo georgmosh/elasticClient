@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208068</rcn>
+  <acronym>SOCOSYS</acronym>
+  <objective>Oil cooling machines are the preferred solution in the aeronautic field to cool electrical rotating machines as they allow more compact equipment and more efficient and stable heating transfer. However they suffer some limitations: they provide only binary information, lack some health monitoring functions and demonstrate poor reliability/performance at high temperature.
+The purpose of the project SOCOSYS is then to develop at TRL 5 two smart pressure sensors (absolute or gage and differential) for oil cooled starters and generators. The final objective is to replace the current mean of threshold detection, generally  a mechanical switch, with a smart sensor and consequently to improve the health monitoring of the global oil cooling system. 
+The innovative characteristics of the sensors will be focused on the capacity to operate in ambient temperature range from -40°C to +180°C, on providing pressure measurement enabling health monitoring functionalities at the oil cooling system level, while matching all other operating requirements (cost, size, accuracy, environmental constraints like EMC susceptibility and vibration …) and on meeting the reliability constraints expected from the Topic Manager. 
+SOCOSYS will allow developing a new generation of oil cooled starter generators that will contribute to more electrical, safe but also cost efficient future small aircraft as the SOCOSYS’s output will lead to the extension of the mean time between maintenance ‘MTBM’.
+The project will be deployed following a Phase &amp; Gate Approach from the specification freeze phase to the qualification of the sensors, including deliverables and reviews with the involvement of the Topic Manager. At the issue of the 18 months the project, two demonstrators of each type of sensors, having the TRL5, will be provided to the topic manager for further integration tests.</objective>
+  <title>Sensors for Oil COoling SYStem</title>
+<identifier>H2020CS2CFP03201601</identifier>
+</project>

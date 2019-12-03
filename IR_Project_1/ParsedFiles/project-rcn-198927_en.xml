@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>198927</rcn>
+  <acronym>EO-SLR</acronym>
+  <objective>The EO-SLR is a next generation satellite laser ranging system that incorporates latest advances in the field to assure ease of setup, use and sustainable economic operation. Packaged in standard sea container with modular design for laser systems, climate control, calibration equipment, data systems, and power systems it can be made operational with manufacturer settings within days and is potentially mobile.
+The EO-SLR is being designed to address the rapid growth in the number of objects in space that must be tracked. Google and other private firms are planning to launch hundreds of satellites. The Cubesat revolution has opened space to public and private sector of smaller or less technically developed countries, their universities, research institutes and even private SMEs. Simultaneously problem of space debris is an increasing global public concern. 
+The International Laser Ranging Service has identified geographic market gaps, lack of standard components, absence of next generation equipment and other concerns. The EO-SLR is being designed to meet those needs with a packaged system with new features and functionality unmatched by systems in the market:
+•	Data for space object orbit calculations from one observation site 
+•	Improved ranging accuracy of scattered light space objects including closely located (groups of) space objects
+•	Advanced calibration and testing system, that significantly speeds up the measurement process 
+•	Easily convertible
+Highly complex products like SLR systems demand a broad range of multidisciplinary skills to design. HEE Photonic Labs emerged from the research center of the University of Latvia that had developed SLR systems and other advanced equipment for the Soviet space program from 1970-ties.This is an substantial advantage allowing to design project proposal offering innovative and unique in design EO-SLR instrument as a flexible and fast response to emerging needs in the market of ground segment of space technologies.</objective>
+  <title>Enhanced Satellite Laser Ranging System</title>
+<identifier>H2020SMEINST12015</identifier>
+</project>

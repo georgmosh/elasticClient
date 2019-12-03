@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206240</rcn>
+  <acronym>EnergyKeeper</acronym>
+  <objective>Main idea is to allow individual users and urban communities in remote (isolated) areas to benefit from a local low carbon economy.
+The project will enable the communities and individual users to participate in the smart grid context, it will develop an intelligent storage solution optimizing the communities demand and supply. The solution will be scalable towards size of the community (30-10.000 households) and their capacity of renewable energy generation and available storage capacity (i.e. number of EV´s). It will:
+ Scale up of cheap and more environmental friendly storage solution for medium/ low voltages
+ It will mitigate on electricity poverty related to the intermittent generation of renewable electricity
+ Development of the business model between community and local and national renewable energy generation. 
+ Flatten the peak demands to Distribution System Operators (DSO´s)/ Energy Service Companies (ESCo´s) network
+ Development of the local smart charging model (for the EV´s) for the community to reduce peak demands
+ (optional) Research on new needs of communication protocols between end users (smart meters, EV) with storage solution and / or retailer in line with Expert Group of the SMGT</objective>
+  <title>Keep the Energy at the right place!</title>
+<identifier>H2020LCE2016SGS</identifier>
+</project>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212193</rcn>
+  <acronym>CASTLES</acronym>
+  <objective>Topology provides mathematical tools to sort objects according to global properties regardless of local details, and manifests itself in various fields of physics. In solid-state physics, specific topological properties of the band structure, such as a band inversion, can for example robustly enforce the appearance of spin-polarized conducting states at the boundaries of the material, while its bulk remains insulating. The boundary states of these ‘topological insulators’ in fact provide a support system to encode information non-locally in ‘topological quantum bits’ robust to local perturbations. The emerging ‘topological quantum computation’ is as such an envisioned solution to decoherence problems in the realization of quantum computers. Despite immense theoretical and experimental efforts, the rise of these new materials has however been hampered by strong difficulties to observe robust and clear signatures of their predicted properties such as spin-polarization or perfect conductance.
+
+These challenges strongly motivate my proposal to study two-dimensional topological insulators, and in particular explore the unknown dynamics of their topological edge states in normal and superconducting regimes. First it is possible to capture information both on charge and spin dynamics, and more clearly highlight the basic properties of topological edge states. Second, the dynamics reveals the effects of Coulomb interactions, an unexplored aspect that may explain the fragility of topological edge states. Finally, it enables the manipulation and characterization of quantum states on short time scales, relevant to quantum information processing. This project relies on the powerful toolbox offered by radiofrequency and current-correlations techniques and promises to open a new field of dynamical explorations of topological materials.</objective>
+  <title>Charge And Spin in TopologicaL Edge States</title>
+<identifier>ERC2017STG</identifier>
+</project>

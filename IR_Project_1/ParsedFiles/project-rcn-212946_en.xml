@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212946</rcn>
+  <acronym>DEEP-HybridDataCloud</acronym>
+  <objective>The key concept proposed in the DEEP Hybrid DataCloud project is the need to support intensive computing techniques that require specialized HPC hardware, like GPUs or low latency interconnects, to explore very large datasets. A Hybrid Cloud approach enables the access to such resources that are not easily reachable by the researchers at the scale needed in the current EU e-infrastructure. 
+
+We also propose to deploy under the common label of “DEEP as a Service” a set of building blocks that enable the easy development of applications requiring these techniques: deep learning using neural networks, parallel post-processing of very large data, and analysis of massive online data streams. 
+
+Three pilot applications exploiting very large datasets in Biology, Physics and Network Security are proposed, and further pilots for dissemination into other areas like Medicine, Earth Observation, Astrophysics, and Citizen Science will be supported in a testbed with significant HPC resources, including latest generation GPUs, to evaluate the performance and scalability of the solutions. 
+A DevOps approach will be implemented to provide the chain to ensure the quality of the software and services released, that will also be offered to the developers of research applications. 
+
+The project will evolve to TRL8 existing services and technologies at TRL6+, including relevant contributions to the EOSC by the INDIGO-DataCloud H2020 project, that the project will enrich with new functionalities already available as prototypes, notably the  support for GPUs and low latency interconnects. These services will be deployed in the project testbed, offered to the research communities linked to the project through pilot applications, and integrated under the EOSC framework, where they can be further scaled up in the future.</objective>
+  <title>Designing and Enabling E-infrastructures for intensive Processing in a Hybrid DataCloud</title>
+<identifier>H2020EINFRA2017</identifier>
+</project>

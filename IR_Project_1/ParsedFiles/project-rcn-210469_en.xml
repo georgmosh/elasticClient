@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210469</rcn>
+  <acronym>5G STEP FWD</acronym>
+  <objective>5G cellular networks are coming and they need to cope with major challenges in meeting the demands of large populations.
+The rapid increase of mobile devices, wireless connections and the emerging internet services related to applications with
+very diverse communication requirements (e.g., Smart grid, m-health, Smart cities), raised the need of higher capacity and
+more energy efficient networks with improved coverage capabilities.
+According to the 5G Public-Private Partnership (5GPPP) recently formed by the European Commission (EC), 5G networks
+should be capable of providing 1000 times higher capacity with 0% downtime, enabling the roll-out of very dense wireless
+networks that are able to connect over 7 trillion devices amongst 7 billion people.
+5G STEP FWD aims at proposing, studying, optimizing, quantitatively assessing and comparing advantages and
+disadvantages of hybrid fiber – wireless architectures, topologies and technologies, which will significantly shape 5G
+standards and will enable the requested 1000 times increase of spectral efficiency and 90% reduction of energy
+consumption.</objective>
+  <title>5G System Technological Enhancements Provided by Fiber Wireless Deployments</title>
+<identifier>H2020MSCAITN2016</identifier>
+</project>

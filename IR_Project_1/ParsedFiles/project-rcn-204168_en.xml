@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204168</rcn>
+  <acronym>TaCo</acronym>
+  <objective>TACO aims to define an automated system sufficiently powerful to both accomplish complex tasks involved in the management of surface movements in a major airport and self-assess its own ability to deal with non-nominal conditions. When needed, such system should be sensitive enough to transfer responsibilities for traffic management back to the controller, in a timely and graceful manner and in way that makes him/her comfortable with the inherited tasks.
+Automation is one of the key solution proposed and adopted by SESAR to tackle the challenges coming from the increase of capacity and complexity of the future ATM system. On the one hand, the programme aims at substantially reducing controller task load per flight through a significant enhancement of integrated automation support, whilst simultaneously meeting the established safety and environmental goals. On the other hand, it is envisaged that human operators will remain at the core of the system (mainly with the role of overall system managers) using automated systems with the required degree of integrity and redundancy. TACO proposes a dove tailed process to facilitate the controller’s forward thinking, also in anticipation to A-CDM (Airport- Collaborative Decision Making) amongst others.
+Following the two grounding principles of automation in SESAR, TACO project aims at:
+defining algorithms and solutions to automate and optimize both the decision making and implementation tasks for the controller involved in the ground movement of airport vehicles and aircraft;
+identifying and providing the controller with suitable and usable tools to supervise (monitor, tune and re-program) the system;
+studying the interaction between the human actors and the automation. Main focus will be on the identification of sensitive state transaction from a (fully) automated management system to conditions where the human is brought into the loop to handle situations where his/her cognitive resources are essential.</objective>
+  <title>Take Control</title>
+<identifier>H2020SESAR20151</identifier>
+</project>

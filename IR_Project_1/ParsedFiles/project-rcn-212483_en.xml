@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212483</rcn>
+  <acronym>BodyPass</acronym>
+  <objective>BodyPass aims to break barriers between health sector and consumer goods sector and eliminate the current data silos. The main objective of BodyPass is to foster exchange, linking and re-use, as well as to integrate 3D data assets from the two sectors. For this, BodyPass has to adapt and create tools that allow a secure exchange of information between data owners, companies and subjects (patients and customers).
+3D personal data is type of data that contains useful information for product design, online sale services, medical research and patient follow-up.
+Currently hospitals store and grow massive collections of 3D data that are not accessible by researchers, professionals and companies. About 2.7 petabytes a year stored in the EU26. 
+In parallel to the advances made in the health sector, new 3D body-surface scanning technology has been developed for the goods consumer sector, namely apparel, animation and art.
+Moreover, new low-cost scanning technologies are expected to exponentially increase 3D data creation. It is estimated that currently one person is scanned every 15 minutes in the US and Europe. And increasing.
+The 3D data of the health sector contains the body shape information, not only internal body information. These data could be used by designers and manufacturers of the consumer goods sector. At the same time, although 3D body-surface scanners have been developed primarily for the clothing industry, 3D scanners’ low cost, non-invasive character, and ease of use make them appealing for widespread clinical applications and large-scale epidemiological surveys.
+However, companies and professionals of the consumer goods sector cannot access the 3D data of health sector. And vice versa. Even exchanging information between data owners in the same sector is a big problem today. It is necessary to overcome problems related with data privacy and the processing of huge 3D datasets.</objective>
+  <title>API-ecosystem for cross-sectorial exchange of 3D personal data</title>
+<identifier>H2020ICT20171</identifier>
+</project>

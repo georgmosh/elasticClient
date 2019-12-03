@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>202707</rcn>
+  <acronym>DiSIEM</acronym>
+  <objective>Security Information and Event Management (SIEM) systems are a fundamental component of the ubiquitous ICT infrastructures that form the backbone of our digital society. These systems are mostly used to monitor infrastructures using many types of sensors and tools and correlate the obtained events to discover possible threats (attacks, vulnerabilities, etc.) to the organization. The DiSIEM project aims to enhance existing SIEM systems with diversity-related technology. More specifically, we want to (1) enhance the quality of events collected using a diverse set of sensors and novel anomaly detectors, (2) add support for collecting infrastructure-related information from open-source intelligence data available on diverse sources from the internet, (3) create new ways for visualising the information collected in the SIEM and provide high-level security metrics and models for improving security-related decision project, and (4) allow the use of multiple storage clouds for secure long-term archival of the raw events feed to the SIEM. Given the high costs of deployment of SIEM infrastructures, all these enhancements will be developed in a SIEM-independent way, as extensions to currently available systems, and will be validated through the deployed in three large-scale production environments.</objective>
+  <title>Diversity Enhancements for SIEMs</title>
+<identifier>H2020DS20151</identifier>
+</project>

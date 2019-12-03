@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208397</rcn>
+  <acronym>PROFOLIG</acronym>
+  <objective>The development of ligands that selectively bind to a given protein surface is a challenging area of research with potential applications in diagnostics, pharmacology or therapy. Current approaches include small molecule screening, the design of medium sized epitope mimetics (e.g. alpha helix mimetics) and directed evolution methodologies (e.g. ribosome display).
+
+In this project, we intend to initiate an essentially unexplored approach: the design from first principles of synthetic ligands derived from helical aromatic oligoamide foldamer backbones bearing proteinogenic side chains to target the surface of a given protein: interleukin 4 (IL4). Helical aromatic amides appear to be well suited for this purpose thanks to their predictable, tunable and stable conformations in solution; their relatively easy synthesis of secondary and tertiary-like structures as large as small proteins; and their high amenability to crystal growth and structural elucidation. Specifically, we intend to explore molecular recognition rules between large (2-15 kDa) aromatic oligoamide foldamers and a target protein surface, and to validate a novel iterative method based on combining covalent attachment and structural characterization.
+
+The proposed strategy thus consists in structure-based iterative design. The following steps will be implemented: 1) synthesis of a small pool of foldamer sequences; 2) covalent attachment of each of them via a disulfide bridge to the surface of a recombinantly expressed IL4 cystein mutant, and screening for foldamer-protein interactions through foldamer helix handedness induction by the chiral protein surface; 3) structural characterization of the interactions, mainly by crystallography, within selected protein-foldamer adducts; 4) design of new and improved foldamers. Ultimately optimized interactions should produce foldamers that bind to IL4 without the assistance of the covalent tether.</objective>
+  <title>Covalent-ligation-assisted elucidation of protein-aromatic foldamer interactions</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

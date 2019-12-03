@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>203295</rcn>
+  <acronym>ROCSAFE</acronym>
+  <objective>The overall goal of ROCSAFE is to fundamentally change how CBRNe events are assessed, in order to and ensure the safety of crime scene investigators by reducing the need for them to enter high-risk scenes when they have to determine the nature of threats and gather forensics. 
+For this, ROCSAFE will make use of cost-effective modern remotely-controlled robotic air and ground vehicles (RAVs/RGVs) that are designed for use in rain, wind, and challenging ground surfaces and obstacles. 
+First, RAVs will assess the scene. These will have cameras and can carry an array of innovative new high-performance and rugged miniaturised sensor systems for RN, chemical and biological threats.
+To reduce the scene commander’s cognitive load, ROCSAFE will include new Central Decision Management software and a Command Centre. All images and data will be streamed to this, where it will be analysed and displayed on a sophisticated and intuitive interface with maps and video, showing results of analytics and giving readings geographical context. This will enable the scene commander to assess the nature of threats, develop an Action Plan and an Evidence Plan, supported as needed by the Central Decision Management. It will also assist in coordinating sensors and mobile units. Its data analytics will provide fusion of multiple sensor data sources, to allow probabilistic reasoning about the most likely threats and likely locations of epicentres.
+After the scene is assessed, RGVs will be dispatched to collect forensic material/evidence, with automatically-optimised routes to avoid hazards. They will have innovative new equipment for forensics collection that will automate best practices. Forensic material will be collected, bagged, tagged, documented, and stored by the RGV.
+Thus, ROCSAFE will ensure that CBRNe scenes are assessed more rapidly and thoroughly than is currently possible, and that forensic evidence is collected in a manner that stands up in court, without putting personnel at risk.</objective>
+  <title>Remotely Operated CBRNe Scene Assessment  Forensic Examination</title>
+<identifier>H2020FCT2015</identifier>
+</project>

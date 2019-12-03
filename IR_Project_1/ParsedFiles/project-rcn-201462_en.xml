@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>201462</rcn>
+  <acronym>SPINSOCS</acronym>
+  <objective>The physics of charge and spin transport is the basis of current consumer devices. Recent discoveries in solid-state physics have highlighted the importance of the coupling of the electron’s motion to its spin for transport phenomena. However, our understanding of transport with this so-called spin-orbit coupling has been largely limited to non-interacting systems, even though the first experimental systems with well-controlled spin-orbit coupling and interactions are already available.
+
+Here, we aim to provide a theoretical description of these novel interacting spin-orbit coupled systems. More concretely, we will derive equations describing the motion of spin and mass, and solve these equations. We will investigate spin transport in the uncharted regime where the inter-particle interactions compete with spin-orbit coupling. In particular, we will quantify the robustness of the familiar transport phenomena (e.g., the spin Hall effect) in the presence of interactions.
+
+The group of Prof. Juzeliunas is at the forefront of spin-orbit coupling physics. The group of Prof. Stringari is one of the leading groups in the world when it comes to collective excitations of the many-body system. Combining their expertise with my quantum transport proficiency will allow to obtain, for the first time, a transport theory of interacting quantum gases with spin-orbit coupling, and provide its predictions as a collective excitation spectrum, which is directly accessible by ultracold-atom experiments. A successful accomplishment of this aim will open up the possibility to push spin-dependent transport phenomena to new regimes.</objective>
+  <title>Spin Transport in Interacting Spin-Orbit Coupled Systems</title>
+<identifier>H2020MSCAIF2015</identifier>
+</project>

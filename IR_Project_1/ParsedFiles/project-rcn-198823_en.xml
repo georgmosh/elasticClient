@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>198823</rcn>
+  <acronym>PHRESCO</acronym>
+  <objective>New computing paradigms are required to feed the next revolution in Information Technology. Machines need to be invented that can learn, but also handle vast amount of data. In order to achieve this goal and still reduce the energy footprint of Information and Communication Technology, fundamental hardware innovations must be done. A physical implementation natively supporting new computing methods is required. Most of the time, CMOS is used to emulate e.g. neuronal behavior, and is intrinsically limited in power efficiency and speed.
+Reservoir computing (RC) is one of the concepts that has proven its efficiency to perform tasks where traditional approaches fail. It is also one of the rare concepts of an efficient hardware realization of cognitive computing into a specific, silicon-based technology. Small RC systems have been demonstrated using optical fibers and bulk components. In 2014, optical RC networks based integrated photonic circuits were demonstrated. The PHRESCO project aims to bring photonic reservoir computing to the next level of maturity. A new RC chip will be co-designed, including innovative electronic and photonic component that will enable major breakthrough in the field. We will i) Scale optical RC systems up to 60 nodes ii) build an all-optical chip based on the unique electro-optical properties of new materials iii) Implement new learning algorithms to exploit the capabilities of the RC chip.
+The hardware integration of beyond state-of-the-art components with novel system and algorithm design will pave the way towards a new era of optical, cognitive systems capable of handling huge amount of data at ultra-low power consumption.</objective>
+  <title>PHotonic REServoir COmputing</title>
+<identifier>H2020ICT2015</identifier>
+</project>

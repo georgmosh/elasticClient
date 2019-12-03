@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206257</rcn>
+  <acronym>PJ16 CWP HMI</acronym>
+  <objective>PJ.16 project aims to reduce development and operating costs of Air Navigation Service Providers (ANSP). These savings will ultimately benefit airlines and their customers. It achieves this by delivering the ATM Master Plan goals (defined by the European Air Traffic Management (ATM) community) for a more efficient deployment of human resources,  a progressive increase in automation support, the implementation of virtualisation technologies and  the use of standardised and interoperable systems whilst increasing the safety level. 
+
+Within the PJ16 proposal, there are two innovative solutions:
+The first solution develops a concept for separating the Controller Working Position (CWP) from the datacentre where the data is produced. This lean and efficient use of ANSP infrastructure tackles the issues presented by fragmented European ATM systems and country-specific architectures, enabling Europe to move to an interoperable, cost-effective and flexible service provision infrastructure. Decoupling of the CWPs should enable a more efficient use of the most valuable and expensive resource, the human. By enabling increased flexibility the ANSPs should better manage staffing for prevailing traffic conditions and assure service continuity. 
+
+The second solution deals with new methods of controller interaction with the Human Machine Interface (HMI), applying mature technologies from other domains to ATM. This will increase controller productivity, reduce workload, stress level and enable the use of SESAR advanced tools, safely facilitating performance based operations. Furthermore, the use of modern thin client technology and the processes for developing HMI solutions are investigated, aiming at more efficient CWP development and operation.
+
+PJ16 has expertise from most of the ANSPs in Europe, the major European industrial partners, the leaders of research domains in the previous ATM R&amp;D phase and has an expanded knowledge pool including new participants from Eastern Europe.</objective>
+  <title>Controller Working Position / Human Machine Interface - CWP/HMI</title>
+<identifier>H2020SESAR20152</identifier>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206159</rcn>
+  <acronym>Copernicus App Lab</acronym>
+  <objective>The Copernicus App Lab aims at bridging the digital divide between the established, science-driven Earth observation community and the young, innovative, entrepreneurial world of mobile developers by establishing of a proof-of-concept for providing the data from the Copernicus Land, Marine Environment and Atmosphere Monitoring Services as Linked Open Data (LOD) for take-up of EO data in mobile applications. The experiences of the consortium as key technology provider in various international competition events, such as the Copernicus Masters, shows that easy access to data is crucial for the success of EO business development.
+
+Main benefits: 
+- Empowering the uptake of Copernicus Services in the mobile developer community by offering a one-stop-shop for mobile developers who wish to integrate Copernicus data into their value-added services via the tools needed and in the format known by mobile developers.
+- Improving data utilization by publishing value-added products from Copernicus data and services as Linked Open Data finally leading to better and more numerous mobile Copernicus apps.
+- Trigger business opportunities along the value added chain of EO data and services by providing tools for publishing and interlinking EO data, for querying EO data and for visualizing EO data. 
+- Engaging the user community by setting a strong focus on dissemination activities and by collecting user feedback during a virtual beta testing phase and direct exchange with mobile developers during an ESA Space App Camp.</objective>
+  <title>Stimulating wider uptake of Copernicus Services by making them available as linked open data</title>
+<identifier>H2020EO2016</identifier>
+</project>

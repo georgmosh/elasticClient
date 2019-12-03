@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208412</rcn>
+  <acronym>ICE</acronym>
+  <objective>The ICE project will demonstrate that energy regulation services can be provided to the smart grid in a technically reliable and financially lucrative fashion by utilizing a combination of smart commercial buildings and commercial batteries. The key to out-competing traditional solutions with such a service is the provision of energy storage at low capital and operational costs, which the ICE solution does via a novel hybrid storage concept that mixes the inexpensive virtual storage capacity, but slow response, of smart commercial buildings, with fast, but expensive, electrical battery systems. The ERC project BuildNet has developed advanced algorithms to manage such a hybrid system that drastically reduces the required capex-intensive battery system compared to alternative solutions. ICE will take the first step towards commercialization of this concept via a production-ready demonstration of all components of the solution, and a detailed analysis of the resulting deployment and operational costs.</objective>
+  <title>Intelligent Control of Energy Storage for Smart Buildings and Grids</title>
+<identifier>ERC2016PoC</identifier>
+</project>

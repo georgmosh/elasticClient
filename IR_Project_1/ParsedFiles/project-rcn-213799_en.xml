@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213799</rcn>
+  <acronym>DARETOMODEL</acronym>
+  <objective>This proposal addresses the aeronautical challenge associated with jet-noise modelling. The ultimate goal is to develop, and deliver to industry, a low-cost, semi-empirical modelling tool capable of predicting the noise radiated by a propulsive jet, in an installed configuration in take-off flight conditions. 
+
+The work is based on the mining of existing high-quality experimental and numerical databases (some of which were produced in previous EU projects, ORINOCO and JERONIMO), the generation of new experimental and numerical databases, and the use of these to build a modelling tool that requires, as input, a small number of parameters typically available from standard industry tools: where the turbulent flow is concerned, Reynolds-Average-Navier-Stokes solvers; and, for sound generation, propagation and scattering from solid surfaces, Boundary-Element-Method based acoustic solvers. 
+
+The work concentrates on canonical jet and jet-wing systems in static and flight conditions, in order that the key flow physics associated with the turbulent jet, and the interaction of this with the wing and flight stream, be clearly identified, understood and incorporated into a simplified model. Special attention is paid to ensuring that the models be robust and capable of correctly following changes in jet velocity, flight-stream velocity and jet-wing separation. Machine learning and adjoint-based sensitivity analysis will be used to achieve this robustness. 
+
+A specific workpackage is dedicated to training industry-partner engineers to use the modelling tool. This bridge-to-industry initiative, to be elaborated at the industry partner’s acoustic research department, situates the project between TRLs 4 and 5.
+
+The project will contribute to strengthening the competitiveness of the European industry by equipping the industry partner with a fast-return jet-noise modelling tool that will enhance their capacity to conceive low-noise aircraft architectures.</objective>
+  <title>DAta-dRivEn, low-rank, jeT-nOise MODELling</title>
+<identifier>H2020CS2CFP06201701</identifier>
+</project>

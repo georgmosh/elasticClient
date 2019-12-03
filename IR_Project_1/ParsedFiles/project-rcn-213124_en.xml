@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213124</rcn>
+  <acronym>MNEMOSENE</acronym>
+  <objective>The MNEMOSENE project aims at demonstrating a new computation-in-memory (CIM) based on resistive devices together with its required programming flow and interface. To develop the new architecture, the following scientific and technical objectives will be targeted:
+
+• Objective 1: Develop new algorithmic solutions for targeted applications for CIM architecture. 
+• Objective 2: Develop and design new mapping methods integrated in a framework for efficient compilation of the new algorithms into CIM macro-level operations; each of these is mapped to a group of CIM tiles.
+• Objective 3: Develop a macro-architecture based on the integration of group of CIM tiles, including the overall scheduling of the macro-level operation, data accesses, inter-tile communication, the partitioning of the crossbar, etc.  
+• Objective 4: Develop and demonstrate the micro-architecture level of CIM tiles and their models, including primitive logic and arithmetic operators, the mapping of such operators on the crossbar, different circuit choices and the associated design trade-offs, etc.
+• Objective 5: Design a simulator (based on calibrated models of memristor devices &amp; building blocks) and FPGA emulator for the new architecture (CIM device combined with conventional CPU) in order demonstrate its superiority. Demonstrate the concept of CIM by performing measurements on fabricated crossbar mounted on a PCB board. 
+
+A demonstrator will be produced and tested to show that the storage and processing can be integrated in the same physical location to improve energy efficiency and also to show that the proposed accelerator is able to achieve the following measurable targets (as compared with a general purpose multi-core platform) for the considered applications:
+
+• Improve the energy-delay product by factor of 100X to 1000X.
+• Improve the computational efficiency (#operations / total-energy) by factor of 10X to 100X.
+• Improve the performance density (# operations per area) by factor of 10X to 100X.</objective>
+  <title>Computation-in-memory architecture based on resistive devices</title>
+<identifier>H2020ICT20171</identifier>
+</project>

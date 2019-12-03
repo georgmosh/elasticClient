@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211959</rcn>
+  <acronym>TDX-ASSIST</acronym>
+  <objective>This project aims to design and develop novel Information and Communication Technology (ICT) tools and techniques that facilitate scalable and secure information systems and data exchange between Transmission System Operator (TSO) and Distribution System Operator (DSO). The three novel aspects of ICT tools and techniques to be developed in the project are: scalability – ability to deal with new users and increasingly larger volumes of information and data; security – protection against external threats and attacks; and interoperability –information exchange and communications based on existing and emerging international smart grid ICT standards.
+The project focuses on TSO-DSO interoperability. While TSO-TSO interoperability is currently well established by ENTSO-E through implementation of the Common Grid Model Exchange System, TSO-DSO interoperability will also benefit future TSO-TSO interoperability. In this context the project will also consider DSO to other Market-participants (DSOs, Aggregators, Distributed Energy Resource Operators, Micro-grid Operators) and information or data access portals that enable business processes involving relevant actors in the electrical power sector.
+Beyond state-of-the-art progress that will be achieved:
+Fully defined interface specifications for TSO-DSO information exchange interfaces based on Use Case analysis and IEC 61970/61968/62325 standards to support highly automated information exchange and network analysis.
+
+Fully defined interface specifications for information exchange between DSOs and market participants based on Use Case analysis and IEC 61850 and IEC 62325 standards to support highly automated information exchanges.
+
+Role-based access control that securely accommodates new data requirements and unbundling processes.
+
+A specified suite of ICT protocols and integration with the defined interfaces.
+
+Proof of Concept using field tests and demonstration with industry specification at both TSO and DSO levels.</objective>
+  <title>Coordination of Transmission and Distribution data eXchanges for renewables integration in the European marketplace through Advanced, Scalable and Secure ICT Systems and Tools</title>
+<identifier>H2020LCE2017SGS</identifier>
+</project>

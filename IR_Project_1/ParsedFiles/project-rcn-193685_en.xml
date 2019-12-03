@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193685</rcn>
+  <acronym>QPE</acronym>
+  <objective>By harnessing the unique properties of quantum mechanics (superposition and entanglement) to encode, transmit and process information, quantum information science offers significant opportunities to revolutionise information and communication technologies. 
+
+The far-reaching goal of this project is to build quantum technology demonstrators that can outperform conventional technologies in communications and computation. 
+
+For quantum information technologies (QITs) to have as big an impact on society as anticipated, a practical and scalable approach is needed. One promising approach to QITs is the photonics implementation, where single particles of light (photons) are used to encode, transmit and process quantum information – in the form of photonic quantum-bits (qubits). Currently, state-of-the-art experiments are limited to the “few-photon” regime, occupying many metres of space on an optical table, constructed from bulk optical elements, with no routes to scalability and far from outperforming conventional technologies. 
+
+Integrated quantum photonics has recently emerged as a new approach to address these challenges. This research programme will take an engineering approach to QITs and draw upon rapidly growing field of silicon photonics. We will develop a silicon-based quantum technology platform where single-photon sources, circuits and detectors will be integrated into miniature microchip circuits containing thousands of discrete components, enabling breakthroughs in quantum communications and computation, and developing a scalable approach to quantum technologies.
+
+There are no new physics breakthroughs required to achieve the goals of this project, however, there are hard engineering challenges that need to be addressed.</objective>
+  <title>Quantum Photonic Engineering</title>
+<identifier>ERC2014STG</identifier>
+</project>

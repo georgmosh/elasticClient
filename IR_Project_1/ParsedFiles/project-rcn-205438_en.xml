@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205438</rcn>
+  <acronym>UTOPIAE</acronym>
+  <objective>In an expanding world with limited resources and increasing uncertainty, optimisation and uncertainty quantification become a necessity. Optimisation can turn a problem into a solution, thus the main focus of this ETN is to explore and develop new approaches to treat uncertainty in complex engineering systems and use novel optimisation techniques to efficiently deal with large scale problems with many objectives and uncertain quantities. It is generally recognised, in fact, that neglecting the impact of uncertainty on the design of any system or process can lead to unreliable design solutions. Common approaches that make use of safety margins to account for uncertainty in design and manufacturing are not adequate to fully capture the growing complexity of engineering systems and provide reliable and optimal solutions. 
+Aerospace engineering is here taken as a paradigmatic area of research and development that is concerned with complex systems, or system of systems, in which optimality and reliability are of paramount importance. UTOPIAE will train the future generation of engineers and mathematicians who will be able to tackle the complexity of aerospace systems and provide greener, more affordable and safer transportation solutions.</objective>
+  <title>Uncertainty Treatment and OPtimisation In Aerospace Engineering</title>
+<identifier>H2020MSCAITN2016</identifier>
+</project>

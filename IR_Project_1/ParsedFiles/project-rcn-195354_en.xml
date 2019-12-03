@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>195354</rcn>
+  <acronym>INVLOCCY</acronym>
+  <objective>The study of Gromov-Witten (GW), Donaldson-Thomas, and stable pair invariants of Calabi-Yau 3-folds X forms an active area of research for geometers and physicists. These invariants play a central role in string theory and have relations with many branches of mathematics including number theory and representation theory.  
+I am interested in questions of enumerative geometry on algebraic surfaces S. Invariants of the total space X of the canonical bundle over S can be used to answer classical enumerative questions on S. Two recent developments in stable pair theory are: (1) A better understanding of stable pairs on X not contained in the zero-section S. (2) Refinements of stable pair invariants. 
+The first theme of my project is the study of stable pairs on X not contained in S in relation to enumerative questions. For Fano surfaces, GW invariants with sufficiently many point insertions are enumerative. By the GW/stable pairs correspondence these are equal to certain stable pair invariants of X. When the curve class is not sufficiently ample, the stable pair count may include stable pairs on X not contained in S. I propose to compute such contributions in order to obtain curve counts on S outside the ample regime. 
+The second theme of my project is the study of refined stable pair invariants. I intend to relate the refined topological vertex appearing in the physics literature to refined invariants in the mathematics literature. 
+Since stable pair invariants are often easiest to calculate of all the invariants of Calabi-Yau 3-folds, I expect this leads to new curve counting formulae and new calculations of refined invariants.
+Utrecht University, housing one of the leading schools in geometry in Europe, and Prof. Faber, one of the world's leading experts on moduli of curves, provide the perfect location and supervisor for this project. The diverse expertise of the members of the Mathematics (and Physics) Department at UU allow me to explore links with other areas.</objective>
+  <title>Invariants of local Calabi-Yau 3-folds</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

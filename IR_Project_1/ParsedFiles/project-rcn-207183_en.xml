@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207183</rcn>
+  <acronym>POLITE</acronym>
+  <objective>POLITE answers the CfP JTI-CS2-2015-CFP02-REG-02-02, published in the second batch of the JTI-Cleansky 2. Within the work-package linked to CS2 a so-called flying test bed (FTB) is developed and used for analyzing and validating technologies developed within CS2, domain REG. This is clearly in line with Cleansky 2, which includes, among other topics, to deliver innovative technologies that are validated in relevant conditions (in this case flight test). Before such a complex test can be performed a high level of confidence in the technologies developed is necessary. POLITE answers this need, since it enables low and high Reynolds WT-tests that allow to validating technologies to improve performances in low and high speed. Increasing the aircraft performance is supporting not only the CS2-workplan but also the ACARE2020 vision by allowing passengers to travel with reduced fuel burn and there increasing the ecologic efficiency of the aircraft. 
+Within POLITE a consortium build from 4 different partners will tackle all relevant topics. The consortium is build up in way that all necessary domains are covered. In particular three partners the consortium includes
+- ARA with a strong competence in model design activities and manufacturing
+- IBK with a good experience in developing large, specialised models
+- DREAM with a very good expertise in aerodynamics and model design in particular
+- RUAG involving the background on powered models and introducing the technology necessary for the engines. Their LWTE is the solution candidate for the low-Re tests.
+Additionally to this ONERA will be included via subcontracting. ONERA has a strong background in air-driven motors which are used in the pressurized WT ONERA F1. They will introduce this technology into the consortium for implementation into the model used for high-Re tests.</objective>
+  <title>Powered, modular Wind-Tunnel model for low and high Reynolds tests</title>
+<identifier>H2020CS2CFP02201501</identifier>
+</project>

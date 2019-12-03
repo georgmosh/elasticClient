@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194665</rcn>
+  <acronym>MONILET</acronym>
+  <objective>The objective of the project is to further develop and take to market the prototype of the wearable bracelet and cloud based IT platform for 24/7 continuous medical supervision. This is the world’s first wearable health monitoring platform for automated, continuous supervision of pulmonary, heart and sleep related diseases generating preventive alert. This exploits a patented and revolutionary wrist blood oxygen sensing technology called trans-illumination pulse oximetry. Existing systems use a fingertip monitor which is both uncomfortable to wear and has to be connected to bedside or portable machinery and is prone to disconnection and damage in an active environment e.g. on children, and during sleep. 
+
+This robustness and ease of use (requiring less medical intervention to set up) will reduce the costs in use. The current prototype (TRL6+ demonstrated in a relevant environment and first clinical trials) needs re-engineering to a more acceptable size as part of the development to a saleable product. It is important for widespread acceptance by patients that the device is small and comfortable and does not look like a medical monitoring device. 
+
+The Oxitone bracelet pulse oximetry health monitor continuously measures, processes, transmits and documents patients’ key vitals taken entirely from the wrist and generates a Dynamic Health Status with minute (60 second) resolution.  Oxitone’s advanced algorithm will enable preventive and emergency alert based on real-time correlative analysis of the key vital signs that includes blood oxygen saturation, pulse rate and variability, breathing rate, skin temperature, medical grade activity and sleep pattern. In addition to the wearable platform we offer an advanced mobile health application and Cloud portal which traces, analyses and alerts patient’s health status in real time.</objective>
+  <title>Monitoring Bracelet for Health Use</title>
+<identifier>H2020SMEINST12014</identifier>
+</project>

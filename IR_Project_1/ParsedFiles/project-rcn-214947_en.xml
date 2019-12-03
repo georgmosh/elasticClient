@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>214947</rcn>
+  <acronym>SCCMMI</acronym>
+  <objective>Directed behavior emerges from neural integration of sensory stimuli, memory of prior experience and
+internal states. We seek an understanding of these conserved neural mechanisms using genetically-encoded
+tools and the relatively small brain of the fruit fly Drosophila. By temporally controlling neural function
+memories can be implanted and internal states altered so that most flies behave according to our direction.
+Our recent studies have revealed a role for distinct subsets of dopaminergic neurons that innervate a brain
+region called the mushroom bodies in reward learning, memory re-evaluation and the control of motivated
+behavior. Although it is recognised that new gene expression is required to form persistent memories, and
+molecules are the targets of all therapeutic drugs in medicine, the relevant cellular sites of action often
+remain obscure. Knowing where memories are located in the fly brain therefore makes it possible to gain
+molecular level insight, with a unique perspective of being embedded within a relevant cell-specific context,
+of how a brain operates to alter behavior in response to rewards and internal state. Until recently, most
+studies of gene expression in the brain have pooled messenger RNAs purified from the entire brain, dissected
+regions, or small populations of fluorescently labeled material. Cell-specific expression and responses are
+therefore obscured by averaging signals from, often heterogeneous, collections of cells and cell-types. We
+will use cutting-edge Drop-seq, which permits simultaneous collection of transcriptomes from thousands of
+individually identified cells by first capturing each cell with a unique oligonucleotide-coated bead in a
+nanolitre volume reaction droplet. Our experiments will therefore provide an unprecedented individual celllevel
+view of transcriptional responses to memory formation and maintenance and are likely to be of broad
+importance and interest, given the evident conservation of gene function.</objective>
+  <title>Single cell correlates of memory, motivation and individuality</title>
+<identifier>ERC2017ADG</identifier>
+</project>

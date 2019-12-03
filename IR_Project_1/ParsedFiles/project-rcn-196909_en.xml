@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196909</rcn>
+  <acronym>SAMOFAR</acronym>
+  <objective>Imagine an inherently safe reactor that produces all electricity world-wide for thousands of years, and recycles all actinides until fission.
+
+The Molten Salt Fast Reactor (MSFR) can reach this goal. The cylindrical reactor core contains actinide-fluorides mixed in lithium-fluoride. The liquid salt is at ambient pressure and can freely expand upon heating, giving a strong negative reactivity feedback. The core is in its most reactive state and any geometrical change lead to lower reactivity. In case of hypothetical accidents, the fuel salt will automatically be drained via freeze plugs into fail-safe tanks. The fuel salt is continuously cleaned and controlled in an integrated chemical plant. The MSFR can operate as a breeder reactor in the thorium fuel cycle or as a burner reactor fuelled with plutonium and minor actinides. In short: the MSFR excels in safety, sustainability and optimal waste management.
+Within SAMOFAR we will perform advanced experiments to proof the key safety features:
+• The freeze plug and draining of the fuel salt
+• Measurement of safety-related data of the fuel salt
+• New coatings to structural materials like Ni-based alloys
+• The dynamics of natural circulation of (internally heated) fuel salts
+• The reductive processes to extract lanthanides and actinides from the fuel salt
+
+Furthermore, we will build a software simulator to demonstrate the operational transients, and we will show the mild responses of the MSFR to transients and accident scenarios, using new leading-edge multi-physics simulation tools including uncertainty quantification. All experimental and numerical results will be incorporated into the new reactor design, which will be subjected to a new integral safety assessment method.
+
+The goal of SAMOFAR is to deliver indisputable evidence of the excellent safety features of the MSFR, and to enable a consortium of important stakeholders like TSO’s and industry, to advance with the MSFR up to the Demonstration phase.</objective>
+  <title>A Paradigm Shift in Reactor Safety with the Molten Salt Fast Reactor</title>
+<identifier>NFRP20142015</identifier>
+</project>

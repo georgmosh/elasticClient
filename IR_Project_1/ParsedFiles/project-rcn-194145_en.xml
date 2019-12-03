@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194145</rcn>
+  <acronym>HECTOR</acronym>
+  <objective>A single flipped bit or a weak random number generator can cause secure systems to fail. The main objective of this proposal is to close the gap between the mathematical heaven of cryptographic algorithms and their efficient, secure and robust hardware implementations. It requires integrating   secure cryptographic primitives such as random number generators (RNGs) and physically uncloneable functions (PUFs), together with physical attack countermeasures. Therefore we will study, design and implement RNGs and PUFs with demonstrable entropy guarantees and quality metrics. This includes on-the-fly entropy testing and physical attacks evaluations. This will enable more secure systems and easier certification.
+State-of-the-art cryptography and countermeasures can fail due to low-entropy random numbers. The unknown is ‘how much’ they will fail and how much entropy degradation can be tolerated (due to attacks or RNG designs mixing true and pseudo randomness). Our objective is to study the strength and gradual security degradation when using lower entropy random numbers. This will enable more optimal and secure implementations.
+These objectives have to be combined with hardware efficiency and flexibility. This means addressing the extremely low-cost and low-power requirements of constrained embedded devices, low-latency of real-time memory encryption, or high throughput of future terabit networks. 
+Ultimately, we target security building blocks that are flexible, hardware-friendly, efficient, and robust against physical attacks, and which will be demonstrated on European relevant use cases. 
+We bring together experts from industry, academia and evaluation labs with collective ambitions, potential and track records and with complementary expertise, dissemination and impact potential. Results will not only benefit the companies involved and their customers, but also the broader ICT through publications and inputs to standardization and certification bodies.</objective>
+  <title>HARDWARE ENABLED CRYPTO AND RANDOMNESS</title>
+<identifier>H2020ICT20141</identifier>
+</project>

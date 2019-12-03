@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205469</rcn>
+  <acronym>Daedalus</acronym>
+  <objective>Daedalus is conceived to enable the full exploitation of the CPS concept of virtualized intelligence, through the adoption of a completely distributed automation platform based on IEC-61499 standard, fostering the creation of a Digital Ecosystem that could go beyond the current limits of manufacturing control systems and propose an ever-growing market of innovative solutions for the design, engineering, production and maintenance of plants’ automation. 
+
+The following objectives will be reached:
+-)Ease the conception, development and distribution of intelligence into CPS for real-time execution of orchestrated manufacturing tasks;
+-)Foster interoperability of CPS from different vendors at orchestration-level (= “between CPS”);
+-)Simplify the design, implementation and integration of optimal coordinating control intelligence of CPS;
+-)Enable near-real-time co-simulation of manufacturing systems as a fully integrated “service” of a CPS;
+-)Create a Digital Marketplace to simplify the matchmaking between offer and demand within the Ecosystem;
+-)Conceive a multi-sided business model for the Automation Ecosystem and the corresponding business plans for its Complementors;
+-)Foster the widespread acceptance of the Ecosystem platform to guarantee success and impact of Daedalus multi-sided market.
+
+The project approach is based on 3 technological pillars, one platform pillar and a final ecosystem pillar:
+1)IEC61499-based reconfigurable automation platform for distributed orchestration of interoperable CPS;
+2)“Simulation-as-a-service” for integrated near-real-time co-simulation of CPS behavioural models;
+3)Advanced SDKs for simplified design of hierarchically distributed optimal control applications;
+4)Digital Marketplace for the creation of an interdependent ecosystem of automation solutions providers;
+5)Proof-of-concept showcases to accelerate the involvement of “complementors” and the maturation of the Ecosystem.</objective>
+  <title>Distributed control and simulAtion platform to support an Ecosystem of DigitAL aUtomation developerS</title>
+<identifier>H2020FOF2016</identifier>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204879</rcn>
+  <acronym>ONE</acronym>
+  <objective>Most of today’s computer interfaces are based on principles and conceptual models created in the late seventies. They are designed for a single user interacting with a closed application on a single device with a predefined set of tools to manipulate a single type of content. But one is not enough! We need flexible and extensible environments where multiple users can truly share content and manipulate it simultaneously, where applications can be distributed across multiple devices, where content and tools can migrate from one device to the next, and where users can freely choose, combine and even create tools to make their own digital workbench.
+
+The goal of ONE is to fundamentally re-think the basic principles and conceptual model of interactive systems to empower users by letting them appropriate their digital environment. The project will address this challenge through three interleaved strands: empirical studies to better understand interaction in both the physical and digital worlds, theoretical work to create a conceptual model of interaction and interactive systems, and prototype development to test these principles and concepts in the lab and in the field. Drawing inspiration from physics, biology and psychology, the conceptual model will combine substrates to manage digital information at various levels of abstraction and representation, instruments to manipulate substrates, and environments to organize substrates and instruments into digital workspaces. 
+
+By identifying first principles of interaction, ONE will unify a wide variety of interaction styles and create more open and flexible interactive environments.</objective>
+  <title>Unified Principles of Interaction</title>
+<identifier>ERC2015AdG</identifier>
+</project>

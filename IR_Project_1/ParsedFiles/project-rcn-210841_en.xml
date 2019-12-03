@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210841</rcn>
+  <acronym>PSIDESC</acronym>
+  <objective>PSIDESC (Predictive Simulation of Defects in Structural Composites) will aim at bringing new methodologies and deployable toolkits for robust design of composite parts and structures with respect to tolerances and defects that are related to the manufacturing process. 
+The objective is to push acceptable means of compliance based on simulation capable of predicting the range of response that a part may have under uncertainty. Predictive virtual testing including factors of variability coming from the manufacturing phase will:
+- reduce the scrapping of parts (through virtual assessment);
+- reduce the need for full inspection of parts;
+- enhance design and enable further weight savings with a better understanding of effect of variability on the behavior and defect tolerance of different areas of a part.</objective>
+  <title>Predictive Simulation of Defects in Structural Composites</title>
+<identifier>H2020CS2CFP04201602</identifier>
+</project>

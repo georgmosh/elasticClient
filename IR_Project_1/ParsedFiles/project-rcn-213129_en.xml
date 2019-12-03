@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213129</rcn>
+  <acronym>MORPHIC</acronym>
+  <objective>In MORPHIC, we will enhance an established Silicon Photonics platform with MEMS actuators so photonic circuits can be programmed, and reprogrammed, for a variety of optical functions with built-in redundancy and resilience. The ambition is to create a technology platform for generic Field-Programmable Photonic Integrated Circuits (FP-PIC), that can scale up to volume manufacturing while at the same time supply a variety of specialized applications, similar to field-programmable gate arrays (FPGA) in electronics. 
+To enable programming and reconfigurability at the circuit level, MORPHIC introduces low-power photonic MEMS actuators into silicon photonics, with mechanical latching for non-volatile operation. Basic photonic MEMS building blocks, such as optical 1x2 and 2x2 switches, as well as continuously tuneable phase shifters and 2x2 couplers, are combined with monitor photodiodes and electronic feedback loops into self-configuring circuits to optimize their performance and scale circuit complexity. Programmable connectivity is implemented in a large-scale circuit matrix of waveguides coupled with photonic MEMS subcircuits. MORPHIC combines high-speed silicon photonics, non-volatile MEMS, and a reconfigurable connectivity matrix with control electronics, high-level design methodologies, and a programming interface to create a complete FP-PIC platform.
+MORPHIC will validate both the silicon photonic MEMS technology and the FP-PIC platform on three applications that benefit from low-power reconfigurability: an optical switch matrix, an optical beam forming network and a programmable microwave photonics filter. The demonstrators are implemented in two ways: as a dedicated photonic circuit, and as a programming scheme in a generic FP-PIC. 
+With a complete technology portfolio, the MORPHIC consortium will establish a supply chain for field-programmable silicon photonics that leverages volume manufacturing and at the same time enables rapid access to complex photonic ICs</objective>
+  <title>Mems-based zerO-power Reconfigurable PHotonic ICs</title>
+<identifier>H2020ICT20171</identifier>
+</project>

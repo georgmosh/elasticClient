@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>195134</rcn>
+  <acronym>LOVe</acronym>
+  <objective>Language mediates between concepts in our mind and the things they refer to in the world.  Semantic theories are typically biased towards conceptual or referential aspects. My goal is to develop a theory of meaning that takes both aspects into account, and is supported by computational modelling experiments, so that it will also enable computers to match linguistic expressions with entities in the world. This is a highly interdisciplinary proposal that will bring computational linguistics, artificial intelligence, and theoretical linguistics forward.
+
+My model is based on distributional semantics, a scalable and flexible approach to computational semantics that, by inducing meaning representations from naturally occurring data with statistical methods, can model large portions of the lexicon and account for nuances in meaning that pose difficulties to traditional semantic theories. Distributional semantics has so far largely eschewed the reference issue, by testing its models on language-internal tasks. The project bridges this language-world gap, and integrates the distributional framework into a referential semantic theory. The project promises to advance our scientific understanding of language, a defining trait of the human species, and to make significant progress towards building computers we can talk to, with the ensuing strong impact on our everyday lives.
+
+Even though I am an established researcher in computational semantics and also contributed to semantic theory, I still need to fully develop my own line of research to become a leading, independent researcher in Europe. Carrying out the present proposal at the University of Trento CLIC laboratory will be a fundamental step towards achieving my goal, since CLIC is a world leader in distributional semantics. Conversely, my unique profile, addressing theoretical linguistic questions through computational means, will fill a gap in the lab, widening the scope and outreach of the research conducted at CLIC.</objective>
+  <title>Linking Objects to Vectors in distributional semantics: A framework to anchor corpus-based meaning representations to the external world</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

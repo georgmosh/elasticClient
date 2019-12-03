@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206245</rcn>
+  <acronym>PJ09 DCB</acronym>
+  <objective>The S2020 project “PJ09 Advanced DCB” evolves the existing DCB process to a powerful distributed network management function which takes full advantage from the SESAR Layered Collaborative Planning, Trajectory Management principles and SWIM Technology to improve the effectiveness of ATM resource planning and the network performance of the ATM system in Europe. 
+Solution 1 develops shared situation awareness with respect to demand, capacity and performance impacts. Traffic and demand forecast have improved reliability based on complexity assessment and the computation of confidence indexes. Network Operations will be continuously monitored through Network Performance KPA/KPI. Network impact assessment will analyse trade-offs and facilitate collaborative decision making processes.
+Solution 2 forms the core functionality of the INAP process (everything which can and should be decided locally. Solution PJ09-02 is the logical follow-up of the SESAR1 Local DCB toolset. It includes: INAP management, ASM integrated into DCB, reconciliation of DCB measures with local complexity management, ATC and Arrival Management. The solution addresses the integration of Local Network Management with extended ATC planning and arrival management activities in the short-term to execution in a seamless process.
+Solution 3 delivers subsidiary Network Management facilitated by a rolling NOP planning environment (including weather, demand pattern and capacity bottlenecks). Network Operations planning and Execution is managed by an agreed set of rules and procedures, guiding subsidiary DCB and UDPP measures under consideration of trade-offs and network performance targets. Collaborative 4D constraints management integrates AUs priorities and reconciles DCB measures with Airports, ACCs, AU and NM.</objective>
+  <title>Advanced DCB</title>
+<identifier>H2020SESAR20152</identifier>
+</project>

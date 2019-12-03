@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>198333</rcn>
+  <acronym>E-CAM</acronym>
+  <objective>E-CAM will create, develop and sustain a European infrastructure for computational science applied to simulation and modelling of materials and of biological processes of industrial and societal importance. Building on the already significant network of 15 CECAM centres across Europe and the PRACE initiative, it will create a distributed, sustainable centre for simulation and modelling at and across the atomic, molecular and continuum scales. 
+
+The ambitious goals of E-CAM will be achieved through three complementary instruments: 
+
+1. development, testing, maintenance, and dissemination of robust software modules targeted at end-user needs;
+2. advanced training of current and future academic and industrial researchers able to exploit these capabilities; 
+3. multidisciplinary, coordinated, top-level applied consultancy to industrial end-users (both large multinationals and SMEs). 
+
+The creation and development of this infrastructure will also impact academic research by creating a training opportunity for over 300 researchers in computational science as applied to their domain expertise. 
+
+It will also provide a structure for the optimisation and long-term maintenance of important codes and provide a route for their exploitation. Based on the requests from its industrial end-users, E-CAM will deliver new software in a broad field by creating over 200 new, robust software modules. The modules will be written to run with maximum efficiency on hardware with different architectures, available at four PRACE centres and at the Hartree Centre for HPC in Industry. The modules will form the core of a software library (the E-CAM library) that will continue to grow and provide benefit well beyond the funding period of the project. 
+
+E-CAM has a 60 month duration, involves 48 staff years of effort, has a total budget of €5,836,897 and is requesting funding from the EC of €4,836,897, commensurate with achieving its ambitious goals.</objective>
+  <title>An e-infrastructure for software, training and consultancy in simulation and modelling</title>
+<identifier>H2020EINFRA20151</identifier>
+</project>

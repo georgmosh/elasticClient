@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206200</rcn>
+  <acronym>A-LEAF</acronym>
+  <objective>A novel concept for a photo-electro-catalytic (PEC) cell able to directly convert water and CO2 into fuels and chemicals (CO2 reduction) and oxygen (water oxidation) using exclusively solar energy will be designed, built, validated, and optimized. The cell will be constructed from cheap multifunction photo-electrodes able to transform sun irradiation into an electrochemical potential difference (expected efficiency &gt; 12%); ultra-thin layers and nanoparticles of metal or metal oxide catalysts for both half-cell reactions (expected efficiency &gt; 90%); and stateof- the-art membrane technology for gas/liquid/products separation to match a theoretical target solar to fuels efficiency above 10%. All parts will be assembled to maximize performance in pH &gt; 7 solution and moderate temperatures (50-80 ºC) as to take advantage of the high stability and favorable kinetics of constituent materials in these conditions. Achieving this goal we will improve the state-of-the-art of all components for the sake of cell integration:
+
+1) Surface sciences: metal and metal oxide catalysts (crystals or nanostructures grown on metals or silicon) will be characterized for water oxidation and CO2 reduction through atomically resolved experiments (scanning probe microscopy) and spatially-averaged surface techniques including surface analysis before, after and in operando electrochemical reactions. Activity and performance will be correlated to composition, thickness, structure and support as to determine the optimum parameters for device integration.
+
+2) Photoelectrodes: This unique surface knowledge will be transferred to the processing of catalytic nanostructures deposited on semiconductors through different methods to match the surface chemistry results through viable up-scaling processes. Multiple thermodynamic and kinetic techniques will be used to characterize and optimize the performance of the interfaces with spectroscopy and photo-electrochemistry tools to identify best matching between light absorbers and chemical catalysts along optimum working conditions (pH, temperature, pressure).
+
+3) Modeling: Materials, catalysts and processes will be modeled with computational methods as a pivotal tool to understand and to bring photo-catalytic-electrodes to their theoretical limits in terms of performance.
+
+The selected optimum materials and environmental conditions as defined from these parallel studies will be integrated into a PEC cell prototype. This design will include ion exchange membranes and gas diffusion electrodes for product separation. Performance will be validated in real working conditions under sun irradiation to assess the technological and industrial relevance of our A-LEAF cell.</objective>
+  <title>An Artificial Leaf:  a photo-electro-catalytic cell from earth-abundant materials for sustainable solar production of CO2-based chemicals and fuels</title>
+<identifier>FETPROACT2016</identifier>
+</project>

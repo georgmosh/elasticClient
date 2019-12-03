@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206253</rcn>
+  <acronym>PJ24 NCM</acronym>
+  <objective>The Network Collaborative Management (NCM) project is based on a collaborative approach involving the whole spectrum of ATM actors: Airspace Users (AUs), Airports, Air Navigation Service Providers (ANSPs) and Network Manager (NM). 
+In Air Traffic Flow and Capacity Management (ATFCM), the performance targets and expectations at the network and local level could to be better achieved only through a collaborative synchronised effort of all the involved actors.
+An important part of improving the performance of network operations is the effective and efficient planning of network resources, by linking local optimization processes (including airport processes) with network optimization processes, taking into account stakeholders’ preferences where possible. This facilitates also the innovative usage and application of fine-tuned tailored measures (including target times) to further enhance of performance.
+NCM is divided into four main focus areas:
+• Network perspective (with local input and support): Scenario Management (including Hotspot Awareness)
+• Local perspective (facilitated by network support): Tactical Capacity Management 
+• Airspace User Preferences: feeding both local and network perspectives 
+• Local-network integration: Airport Network Integration.
+NM can act as a reliable, dynamic and flexible binder between the building elements (ANSPs, Airports and AUs) of the new improved and highly interactive ATM system, where each element brings its own unique sine qua non contribution to the robustness of the entire structure.
+NCM is a trust building exercise designed to demonstrate the maturity of the integrated network and local concept elements including the interactions between all ATM actors. It will pave the way for the SESAR Deployment activities and the implementation of the future performance driven ATM environment in Europe, while fulfilling in the same time stakeholders’ different operational needs and requirements.</objective>
+  <title>PJ24 VLD Network Collaborative Management</title>
+<identifier>H2020SESAR20152</identifier>
+</project>

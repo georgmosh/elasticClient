@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199272</rcn>
+  <acronym>ONION</acronym>
+  <objective>Two trends have recently emerged in space systems and could even further strengthen in the future: small satellites, with the development of key modularisation and miniaturisation technologies, and the deployment of constellations and distributed networks of satellites. It is of primordial importance for Europe to properly analyse those trends and determine whether or not they could provide a competitive advantage for Earth Observation (EO) systems. 
+To address those challenges, “Operational Network of Individual Observation Nodes,” (ONION) investigates the distribution of spacecraft functionalities into multiple cooperating nodes, leveraging on the emerging fractionated and federated satellite system concepts. The proposed concept provides augmentation, supplementation, and possibilities of new mission for future EO Missions (for science and commercial applications). 
+ONION objectives:
+1. Review the emerging fractionated and federated observation system concepts
+2. Identify potential benefits to be obtained in light of observation needs in different Earth Observation domains
+3. Identify key required technology challenges entailed by the emerging fractionated and federated satellite system concepts, to be faced in Horizon 2021-2027
+4. Validate observation needs with the respective user communities to be fit for purpose in terms of scientific and commercial applications
+5: To propose an overall strategy and technical guidelines to implement such concepts at Horizon 2021-2027
+ONION will confirm the feasibility of the first established concepts to respond to the identified needs through use-cases. The baseline of the concept consists to supplementing current mission profiles with missing observation bands, augmenting mission lifetimes, and ultimately sharing the capabilities across multiple spacecraft platforms. ONION will enable mission designers and implementers to decide which fractionated and federated concepts will provide competitive imaging from space.</objective>
+  <title>Operational Network of Individual Observation Nodes</title>
+<identifier>H2020EO2015</identifier>
+</project>

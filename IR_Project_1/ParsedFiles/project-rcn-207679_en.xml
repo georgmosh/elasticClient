@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207679</rcn>
+  <acronym>MDFT</acronym>
+  <objective>Density Functional Theory (DFT) is one of the most famous methods used in quantum physics and chemistry to describe matter at the microscopic scale. The purpose of the proposal is to investigate the mathematical foundations of this theory. The questions which have to be solved involve advanced tools from nonlinear analysis, partial differential equations, spectral theory, optimal transport, and numerical analysis. Several have stayed unsolved for many years. The project is prone to have an impact in many areas of mathematics, as well as in physics and chemistry.
+
+The proposal is divided into three main tasks. The first is focused on some important questions on the foundations of DFT, including excited states, its time-dependent formulation, and the local density approximation based on the uniform electron gas model. DFT can be formulated as an inverse problem, the main question being to find the external potential knowing only the density of particles in the system. We will investigate the invertibility of the potential-to-density map, both in the stationary and time-dependent cases.
+
+The second task deals with the derivation of simple DFT models from the true Schrödinger equation, a problem which has been largely discussed in the literature. We will work on the most challenging open questions, including for instance the relativistic Scott correction, or the proof of Bose-Einstein condensation for an infinite Bose gas in the mean-field limit.
+
+Finally, in the last task we study some particular DFT models, which are particularly challenging from the mathematical point of view. This includes for example a highly nonlinear model for neutrons and protons, infinite crystals with deterministic and random perturbations, and a time-dependent electromagnetic field solving Maxwell's equations coupled to the quantized Dirac quantum vacuum.</objective>
+  <title>Mathematics of Density Functional Theory</title>
+<identifier>ERC2016COG</identifier>
+</project>

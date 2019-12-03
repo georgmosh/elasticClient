@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196184</rcn>
+  <acronym>ID_MOBILE</acronym>
+  <objective>The overall objective of ID_MOBILE is the development of a market-ready multiplatform system to verify the authenticity of identity documents by means of smartphones and tablets, based on a patent of our property and long commercial experience in the sector. This innovation will drive the change of our company’s current license-based model to a Cloud-based service model as part of our plan for growth into new markets worth €300 million over a 4-year period.  
+
+At ICAR Vision Systems  we have spent the last ten years providing our clients –banks, hotels, casinos, telecoms and IKEA, among others– with the technological edge in the automated detection of document fraud. ID_MOBILE is part of our ID Cloud platform designed to enable smartphones and tablets to reliably perform the same ID reading and verification tasks as our desktop-based systems. This will help solve client support and capture bottlenecks in sectors like Financial Services and Consumer Credit, Hotels and Resorts, Insurance, Telecom, Utilities and others that use validation to avoid identity fraud, a problem that causes losses of up to €500 billion to European companies and €20 billion to EU individuals, according to Commission estimates.
+
+The feasibility assessment intended to be undertaken in Phase 1 covers a series of technical issues regarding the capture and processing of identity documents with mobile devices, including the choice of image capture improvement tools for development, the feasibility of facial recognition features, of manual verification modules for detected fraud and of data acquisition by streaming video. Also studied are issues related to the business plan, such as an in-depth market study of new sectors and services, IPR protection and a partner search for technology integrators.</objective>
+  <title>Solution to authenticate and read ID documents using mobile devices at point of origin in real-time, eliminating manual handling and providing better, more secure services.</title>
+<identifier>H2020SMEINST12014</identifier>
+</project>

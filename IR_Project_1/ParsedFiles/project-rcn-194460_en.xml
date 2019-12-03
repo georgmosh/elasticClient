@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194460</rcn>
+  <acronym>AnyPLACE</acronym>
+  <objective>The AnyPLACE (Adaptable Platform for Active Services Exchange) project intends to develop a modular smart metering platform. The targeted system aims to provide a bidirectional service exchange gateway that enhances the interaction between end users, market representatives, electricity network operators and ICT providers. The proposed solution will allow performing energy remote metering (electricity, gas, heating and cooling), exploiting electricity networks in a more efficient manner and turning end users in active energy markets players through their engagement in demand response programs. Moreover, the utilization of the AnyPLACE platform to actively manage and control electricity networks will also allow mitigating operational problems related with the variability of renewable based generation.
+To enable the development of an effective modular and flexible platform, an analysis to the different regulatory frameworks, energy/telecommunications standards, potential scenarios of deployment, technical requirements of the solution and technologies currently available will be performed. A modular and plug and play SW and HW platform will be developed in parallel with current and expected regulatory initiatives and standards. A cost-benefit analysis on different possible configurations will be developed, to ensure that appropriate configurations, or even retrofitted solutions, are designed for each context and their cost do not exceed 100€.
+A set of prototypes will be built with different combinations of modules to deal with different scenarios of application, which will be tested in a smart grid laboratory environment and in a field trial, providing a real-world assessment of their performance. Near-market prototype versions will be produced, accomplishing the project knowledge and technology transfer to industrial consortium partners as well as general industry and service providers. 
+The AnyPLACE project will also address public acceptance of the designed solutions</objective>
+  <title>Adaptable Platform for Active Services Exchange</title>
+<identifier>H2020LCE20143</identifier>
+</project>

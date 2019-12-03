@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207972</rcn>
+  <acronym>i2factory 2.0</acronym>
+  <objective>CONTEXT: In an increasingly global economy, both information and information technology are of great significance to SMEs to increase their competitiveness, achieve their economic potential and internationalize. The transfer of this information between different platforms or applications is called integration and it’s a critical element for companies and organizations to survive.
+PROBLEM: Integration need to be done such a way as to reduce the administrative and IT burden while keeping costs low and fostering internationalization. up to the date integration is out of reach for most organizations because of its high cost and complexity:
+NEED: it is necessary to provide SMEs with integration solutions with an appropriate level of abstraction to allow connection of software applications in a secure and consistent in a cost-effective way.
+OBJECTIVE: demonstrate the technical and commercial feasibility of a security integration platform as a service (iPaaS). i2factory is a cost-efficient platform where organizations can develop all their integration projects and link functionalities between different systems and platforms as they like it when they like it, without any programming or component installation. 
+To date, i2factory has invested Approx. € 1.5 M to release the first functional version of i2factory v1.0, which is currently tested in users. We estimate that a sum of 914 K is still needed to rapidly and effectively launch i2factory v2.0 innovative solution into the market. With the development of i2factory v2.0 we will allow our company to consolidate and expand its market in Europe.
+Phase 1 will include a to feasibility assessment to guarantee the technical and commercial viability and profitability of our project confirm a business plan for successful commercialisation of i2factory v2.0</objective>
+  <title>i2factory- Disrupting integration platform: secure and easy integration without any programming or component installation</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

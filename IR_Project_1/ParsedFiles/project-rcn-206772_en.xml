@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206772</rcn>
+  <acronym>TraX</acronym>
+  <objective>Many dynamical processes in natural sciences are organized by invariant objects that behave in rather simple ways under time evolution, such as equilibria, periodic orbits, or higher-dimensional invariant surfaces. These objects and the invariant manifolds attached to them act as landmarks that organize the behavior of other trajectories and yield a qualitative description of the dynamics. By computing strategically chosen landmarks, one can obtain considerable information of the possible behaviors of the system.
+This strategy is particularly fruitful in Hamiltonian systems, in which a large number of invariant manifolds coexist. For example, it has been realized in recent years that Transition State theory, a framework first developed in chemistry and then applied to other fields of science, relies on the existence of invariant manifolds in phase space. These manifolds encode the essential dynamics of various reorganization processes.
+The objective of this RISE proposal is to build a multidisciplinary exchange programme around the determination of invariant dynamical objects which encompass applied mathematics, atomic and molecular physics, chemistry and celestial mechanics.
+The project aims at linking mathematicians, physicists and chemists to identify the universal mechanisms behind dynamical transition processes. The proposed collaborative project will be coordinated by the School of Mathematics of Loughborough University, and will involve the Department of Mathematics of the University of Barcelona, the Center for Theoretical Physics (CNRS / Aix Marseille University), the Physics Department of the Polytechnic University of Madrid, the Chemistry Department at the Universidad Autónoma of Madrid and the Physics Department at the University of Stuttgart. The third country partners are Georgia Institute of Technology, represented by the School of Mathematics and the School of Physics and Johns Hopkins University, represented by the School of Chemistry.</objective>
+  <title>Stability and Transitions in Physical Processes</title>
+<identifier>H2020MSCARISE2016</identifier>
+</project>

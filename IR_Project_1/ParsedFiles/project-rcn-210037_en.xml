@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210037</rcn>
+  <acronym>BAoBaB</acronym>
+  <objective>The “Blue Acid/Base Battery” (BAoBaB), stores electrical energy using pH and salinity differences in water. The principle of BAoBaB is altering the acid-base balance by means of an excess of available electricity to obtain an acid and base from its corresponding salt solution. When electricity is needed, acid and base are recombined into their corresponding salt solution again while obtaining electrical work from the entropy and enthalpy gain. Our goal is to develop this totally new, environment-friendly, cost-competitive, scalable, water-based electrical energy storage system from TRL3 to TRL5.
+
+Our objectives are:
+1. to establish and extend the potential of BAoBaB to become a reliable and environmentally friendly way of storing (renewable) electricity at kWh-MWh scale for application at user premises or at substation level.
+2. to understand and enhance mass transfer in round-trip conversion techniques and hence to improve the energy conversion efficiencies of the BAoBaB system, aiming an efficiency &gt;80% and &gt;10 times higher energy density than in Pumped Hydropower Storage. 
+3. to validate under accepted utility use conditions an automatically operated BAoBaB system (with corresponding battery management) at a scale of 1 kW power and 7 kWh energy storage.
+4. To pave the road for cost competitive energy storage with attention to life-cycle cost and performance, aiming at &lt;0.05 €/kWh/cycle.
+
+BAoBaB operates at a timescale of hours to days, and hence will enable a larger penetration degree of distributed and intermittent renewable energy sources. Not only the storage capacities are huge (kWh to MWh), resources are plentiful (salt and water) and environmental risks are minimal. Together with the location independence and non-toxic nature, penetration rate can be high within the EU and outside, providing the EU export opportunities.</objective>
+  <title>Blue Acid/Base Battery: Storage and recovery of renewable electrical energy by reversible salt water dissociation</title>
+<identifier>H2020LCE2016SGS</identifier>
+</project>

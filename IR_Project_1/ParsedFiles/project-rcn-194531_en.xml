@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194531</rcn>
+  <acronym>GROWMOF</acronym>
+  <objective>Metal-organic frameworks (MOFs) constitute one of the most exciting developments in recent nanoporous material science. Synthesised in a self-assembly process from metal corners and organic linkers, a near infinite number of materials can be created by combining different building blocks allowing to fine tune host guest interactions. MOFs are therefore considered promising materials for many applications such as gas separation, drug delivery or sensors for which MOFs in form of nanoparticles, composite materials or thin films are required. For MOFs to realise their potential and to become more than just promising materials, a degree of predictability in the synthesis and the properties of the resulting material is paramount and the full multiscale pathway from molecular assembly to crystal growth and thin film formation needs to be better understood.
+
+Molecular simulation has greatly contributed to developing adsorption applications of MOFs and now works hand-in-hand with experimental methods to characterise MOFs, predict their performance and study molecular level phenomena. In contrast, hardly any simulation studies exist about the formation of MOFs, their crystal growth or the formation of thin films. Yet such studies are essential for understanding the fundamentals which will ultimately lead to a better control of the material properties. Building on my expertise in molecular modelling including the development of methods to model the synthesis of porous solids, we will develop new methods to study:
+ 
+1. the self-assembly process of MOFs under synthesis conditions 
+2. the formation of nanoparticles 
+3. the integration of MOF nanoparticles into composite materials and the self-assembly into extended structures 
+4. the layer-by-layer growth of thin films 
+
+At the end of the project we will have transformed our understanding of how MOFs form at a variety of length scales and opened up new research directions for the targeted synthesis of MOFs fit for applications.</objective>
+  <title>Modelling of MOF self-assembly, crystal growth and thin film formation</title>
+<identifier>ERC2014CoG</identifier>
+</project>

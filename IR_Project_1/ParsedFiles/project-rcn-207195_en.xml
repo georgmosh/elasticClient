@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207195</rcn>
+  <acronym>certMILS</acronym>
+  <objective>certMILS develops a security certification methodology for Cyber-physical systems (CPS). CPS are characterised by safety-critical nature, complexity, connectivity, and open technology. A common downside to CPS complexity and openness is a large attack surface and a high degree of dynamism that may lead to complex failures and irreparable physical damage. The legitimate fear of security or functional safety vulnerabilities in CPS results in arduous testing and certification processes. Once fielded, many CPS suffer from the motto: never change a running system.
+certMILS increases the economic efficiency and European competitiveness of CPS development, while demonstrating the effectiveness of safety &amp; security certification of composable systems.
+The project employs a security-by-design concept originating from the avionics industry: Multiple Independent Levels of Security (MILS), which targets controlled information flow and resource usage amongst software applications. certMILS reduces certification complexity, promotes re-use, and enables secure updates to CPS throughout its life-cycle by providing certified separation of applications, i.e. if an application within a complex CPS fails or starts acting maliciously, other applications are unaffected.
+Security certification of complex systems to medium-high assurance levels is not solved today. The existing monolithic approaches cannot cope with the complexity of modern CPS. certMILS uses ISO/IEC 15408 and IEC 62443 to develop and applies a compositional security certification methodology to complex composable safety-critical systems operating in constantly evolving hostile environments. certMILS core results are standardised in a protection profile.certMILS develops three composable industrial CPS pilots (smart grid, railway, subway), certifies security of critical re-useable components, and ensures security certification for the pilots by certification labs in three EU countries with involvement of the authorities.</objective>
+  <title>Compositional security certification for medium- to high-assurance COTS-based systems in environments with emerging threats</title>
+<identifier>H2020DSLEIT2016</identifier>
+</project>

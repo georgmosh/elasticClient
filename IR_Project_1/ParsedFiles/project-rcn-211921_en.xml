@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211921</rcn>
+  <acronym>QuIET</acronym>
+  <objective>Our vision is to demonstrate that room-temperature quantum interference effects, measured recently in single molecules, can be exploited in massively-parallel arrays of molecules and used to design ultra-thin-film thermoelectric devices with unprecedented ability to convert waste heat to electricity using the Seebeck effect and to cool at the nanoscale via the Peltier effect.
+Although the dream of high-performance thermoelectric devices has been discussed for many years, evidence of the room-temperature quantum interference effects needed to realise this dream was achieved experimentally only recently. Building on these indirect demonstrations of quantum interference in single molecules using non-scalable set ups, we anticipate that the next breakthrough will be the implementation of QI functionality these intechnologically-relevant platforms.
+ 
+We shall design molecules with built-in quantum interference functionality, which can be used to engineer the properties of ultra-thin molecular films. Molecules will be designed with robust anchors to metallic and carbon-based nano-gap electrodes, which enhance electron transport and eliminate unwanted phonons.This contacting strategy is scalable from a single junction, with the potential to be replicated billions of times on a single substrate. The ability to exploit quantum interference at room temperature will enable new thermoelectric materials and devices with the ability to scavenge energy with unprecedented efficiency.
+
+QuIET is a highly interdisciplinary project that brings together internationally leading scientists from four different countries with proven expertise on synthesis, transport measurements and theoretical modelling.</objective>
+  <title>Quantum Interference Enhanced Thermoelectricity</title>
+<identifier>H2020FETOPEN120162017</identifier>
+</project>

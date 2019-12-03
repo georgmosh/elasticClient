@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>197450</rcn>
+  <acronym>HAS</acronym>
+  <objective>"In  recent years there has been impressive development of the higher category theory and in particular development of the categorical counterpart of the Langlands conjecture over fields of finite characteristic. But until now, this development has had little bearing on the classical problems which deal with spaces of functions. The main goal of this proposal is to build the technique to apply the category theory  to classical problems. Of course on the way I will have to deal with problems in the categorical realm.
+
+The first part of the proposal deals with construction of characters of irreducible representations of reductive groups over local nonarchimedian fields F in terms of traces of the Frobenious endomorphisms which should lead to the proof of the "Stable center conjecture" at least for representations of depth zero.
+
+The second part is on the extension of the definition of L-functions of representations of reductive F-groups  corresponding to an arbitrary representation of the dual groups. As it is now, the definition is known only for very special representations of the dual group and only in the case of classical groups.
+
+The third part is on the extension of the classical theory to representations of Kac-Moody groups over local fields."</objective>
+  <title>Harmonic Analysis and l-adic sheaves</title>
+<identifier>ERC2014ADG</identifier>
+</project>

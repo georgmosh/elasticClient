@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208802</rcn>
+  <acronym>BEHAVE</acronym>
+  <objective>Discrete choice theory provides a mathematically rigorous framework to analyse and predict choice behaviour. While many of the theory’s key developments originate from the domain of transportation (mobility, travel behaviour), it is now widely used throughout the social sciences. 
+
+The theory has a blind spot for moral choice behaviour. It was designed to analyse situations where people make choices that are optimal given their consumer preferences, rather than situations where people attempt to make choices that are right, given their moral preferences. This neglect of the morality of choice is striking, in light of the fact that many of the most important choices people make, have a moral dimension.
+
+This research program extends discrete choice theory to the domain of moral decision making. 
+
+It will produce a suite of new mathematical representations of choice behaviour (i.e., choice models), which are designed to capture the decision rules and decision weights that determine how individuals behave in moral choice situations. In these models, particular emphasis is given to heterogeneity in moral decision rules and to the role of social influences. Models will be estimated and validated using data obtained through a series of interviews, surveys and choice experiments. Empirical analyses will take place in the context of moral choice situations concerning i) co-operative road using and ii) unsafe driving practices. Estimation results will be used as input for agent based models, to identify how social interaction processes lead to the emergence, persistence or dissolution of moral (traffic) equilibria at larger spatio-temporal scales.
+
+Together, these proposed research efforts promise to generate a major breakthrough in discrete choice theory. In addition, the program will result in important methodological contributions to the empirical study of moral decision making behaviour in general; and to new insights into the moral aspects of (travel) behaviour.</objective>
+  <title>New discrete choice theory for understanding moral decision making behaviour</title>
+<identifier>ERC2016COG</identifier>
+</project>

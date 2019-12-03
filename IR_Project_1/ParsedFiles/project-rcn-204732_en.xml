@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204732</rcn>
+  <acronym>K3CRYSTAL</acronym>
+  <objective>Algebraic geometry deals with algebraic varieties, that is, systems of polynomial equations and their geometric interpretation. Its ultimate goal is the classification of all algebraic varieties. For a detailed understanding, one has to construct their moduli spaces, and eventually study them over the integers, that is, in the arithmetic situation. So far, the best results are available for curves and Abelian varieties.
+
+To go beyond the aforementioned classes, I want to study arithmetic moduli spaces of the only other classes that are currently within reach, namely, K3 surfaces, Enriques surfaces, and Hyperkähler varieties. I expect this study to lead to finer invariants, to new stratifications of moduli spaces, and to open new research areas in arithmetic algebraic geometry. 
+
+Next, I propose a systematic study of supersingular varieties, which are the most mysterious class of varieties in positive characteristic. Again, a good theory is available only for Abelian varieties, but recently, I established a general framework via deformations controlled by formal group laws. I expect to extend this also to constructions in complex geometry, such as twistor space, which would link so far completely unrelated fields of research.
+
+I want to accompany these projects by developing a general theory of period maps and period domains for F-crystals, with an emphasis on the supersingular ones to start with. This will be the framework for Torelli theorems that translate the geometry and moduli of K3 surfaces, Enriques surfaces, and Hyperkähler varieties into explicit linear algebra problems, thereby establishing new tools in algebraic geometry.</objective>
+  <title>Moduli of Crystals and K3 Surfaces</title>
+<identifier>ERC2015CoG</identifier>
+</project>

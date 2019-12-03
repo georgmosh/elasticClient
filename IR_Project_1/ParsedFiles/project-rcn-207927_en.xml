@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207927</rcn>
+  <acronym>SIMPLE</acronym>
+  <objective>Following the success of SpaceWire, SpaceFibre (SpFi) is the new communication standard being finalised by the European Space Agency (ESA) to address very high data-rate (beyond 2Gbps) links on board of satellites as required by current and forthcoming space missions. While on one side ESA is leading the finalisation of the standard through ECSS, IngeniArs (member of the ECSS board) aims at industrialising compliant products.
+The ambitious goal of SIMPLE is to bring IngeniArs SpFi advanced prototype (TRL6, outcome of SME-INST-1 project) to TRL9 with the industrialisation of three products:
+- SpFi IP-core: a macro-cell to be integrated into customer’s FPGA/ASIC designs
+- SpFi Analyser Box: a standalone ground equipment to test and validate SpFi-based systems
+- SpFi Analyser PXI: an embedded module to be integrated in customer’s ground equipment featuring PXI interface
+This way, Aerospace industries will be provided with all the necessary off-the-shelf products to speed-up the development and testing of aerospace systems with high-speed communication requirements. This will be beneficial also for a larger group of stakeholders such as the EC, EU member state governments and their space agencies, the scientific and industrial space community, leading to an advancement of Europe in this strategic aerospace field.
+SIMPLE expects to reach as worst-case at least 10% of the EU space market share for the IP core and 50% for the SpFi Analyser box and PXI, offering SpFi products to primes, SMEs and R&amp;D institutions. The business will imply, in the worst case, a cumulative EBITDA of 5MEuro in the 2017-2021 period, generating 4 FTE positions in the company. To this aim, we have already set-up strategic commercialisation partnerships within Europe and beyond.
+SIMPLE perfectly matches the business strategy of IngeniArs, which has already successfully deployed products for several space missions, such, as example, SpaceWire solutions which are considered as pre-requisites for SpFi.</objective>
+  <title>Spacefibre IMPLementation design test Equipment (SIMPLE)</title>
+<identifier>H2020SMEINST220162017</identifier>
+</project>

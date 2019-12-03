@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>215816</rcn>
+  <acronym>QuasiHyp</acronym>
+  <objective>This project concerns research on the frontier between discrete mathematics and computer science, and focuses on studying properties of randomly behaving discrete structures. Specifically, it studies quasi-random properties of k-uniform hypergraphs by using a combination of  hypergraph regularity methods and flag algebras. The properties the project will be mainly focused on are containments and counting small substructures in large quasi-random hypergraphs. These questions are closely related to problems from other areas such as number theory, algorithm design, and property testing.</objective>
+  <title>Quasi-random hypergraphs</title>
+<identifier>H2020MSCAIF2017</identifier>
+</project>

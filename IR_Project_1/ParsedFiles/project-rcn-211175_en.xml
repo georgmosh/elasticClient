@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211175</rcn>
+  <acronym>BEATIK</acronym>
+  <objective>"Classical music accounts worldwide for more than 1,600 professional orchestras and over 70M music students (3.2M in EU). Global paper scores market is worth in the region of €3.100M worldwide (€380M in the EU), being orchestras, music students and musicians the main contributors to this figure. However, within the last years, trend shows that musicians and students have been increasingly using digital scores as alternatives to paper sheet music.
+
+RevInClassic has developed BEATIK, the first fully automated, play following, digital musical scores. Based on our already registered “Score Following” algorithm, BEATIK is an all-in-one application that allows professional musicians, music professors and students to have all their scores in a single device, giving them all the possibilities of traditional paper scores (i.e. make annotations) plus the advantage of not having to turn pages, exchange information in real time among musicians or receive comments of their performances. With our algorithm, we have already won 3 times the prestigious international competition MIREX.
+
+Aimed at Orchestras and music interpreters, BEATIK has two key features that make it stand up over paper and other digital score competitors: ""Score Alignment"" technology (internally reproduces classical music scores and compares them with the music that comes in through the microphone of the device) and Real time annotations exchange (BEATIK is the only product that is able to exchange information in real time)."</objective>
+  <title>E-ClassicalMusic for everyone</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

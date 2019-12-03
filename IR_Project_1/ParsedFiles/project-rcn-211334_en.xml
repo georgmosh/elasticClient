@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211334</rcn>
+  <acronym>SHOKA</acronym>
+  <objective>In the European Union some 8% of citizens are using bicycle the most often among transport modes, and the number of cyclist commuters is around 40 million. Facing uncomfortable traffic conditions is however a real obstacle for many people to use their bike even for minor journeys. 
+In Shoka project we will present the world’s first interactive, community-based navigation solution specifically designed for the specific needs of cyclists. The project will directly contribute to increasing the safety and efficiency of cycling in urban areas by recommending the community data based safest route for the users. 
+Our disruptive solution offers a pragmatic and focused approach: robust, practical and simple hardware (ShokaBell) on the handlebar and the Shoka navigation app running on the smartphone of the user.
+Shoka Bell acts as a display to show easily visible and understandable signals and also as a data collection platform: in-built gyroscope, accelerometer, noise detector and an easy-to-use joystick for user feedback.  Bluetooth communication sends the data to the smartphone which is in real-time access with the cloud, where community-based data is stored and where route planning is created. Our Shoka Bell and App are in beta test stage and under preparation for mass manufacturing and sales (TRL6). 
+Shoka will be sold in a hardmium business model: the customer purchases the Shoka Bell hardware but the value comes from the hardware-service combination. We will generate sales revenue through the initial purchase of the hardware, while the app is free for the customers. We sold more than 1500 units of ShokaBell during our Kickstarter campaign, which is a clear proof for willingness to pay.
+Our total available market is 40 million commuters only in Europe and we estimate our serviceable obtainable market as 4 million people in the EU. Our financial plans are calculating with 10.3 million € in sales revenues between 2017 and 2020.</objective>
+  <title>Community-based cyclist navigation solution to increase safety of utility bikers</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

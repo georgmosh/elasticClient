@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211074</rcn>
+  <acronym>X5gon</acronym>
+  <objective>The proposal X5gon stands for easily implemented freely available innovative technology elements converging currently scattered Open Educational Resources (OER) available in various modalities across Europe and the globe. X5gon combines content understanding, user modelling quality assurance methods and tools to boost a homogenous network of (OER) sites and provides users (teachers, learners) with a common learning experience. X5gon deploys open technologies for recommendation, learning analytics and learning personalisation services that works across various OER sites, independent of languages, modalities, scientific domains, and socio-cultural contexts. It develops services OER media convergence including full courses, course materials, modules, textbooks, videos, tests, software, related events, tools, materials, techniques used to support access to knowledge. Fivefold solutions are offered to OER sites:
+• Cross-modal: technologies for multimodal content understanding;
+• Cross-site: technologies to transparently accompany and analyse users across sites;
+• Cross-domain: technologies for cross domain content analytics;
+• Cross-language: technologies for cross lingual content recommendation;
+• Cross-cultural: technologies for cross cultural learning personalisation.
+X5gon collects and index OER resources, track data of users progress and feed an analytics engine driven by state-of-the-art machine learning, improve recommendations via user understanding and match with knowledge resources of all types. 
+The project will create three services X5oerfeed, X5analytics and X5recommend and run a series of pilot case studies that enable the measurement of the broader goals of delivering a useful and enjoyable educational experience to learners in different domains, at different levels and from different cultures. Two exploitation scenarios are planned: (i) free use of services for OER, (ii) commercial exploitation of the multimodal, big data, real-time analytics pipeline.</objective>
+  <title>X5gon: Cross Modal, Cross Cultural, Cross Lingual, Cross Domain, and Cross Site Global OER Network</title>
+<identifier>H2020ICT20162</identifier>
+</project>

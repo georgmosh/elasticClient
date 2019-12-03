@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199860</rcn>
+  <acronym>PLASMOfab</acronym>
+  <objective>PLASMOfab aims to address the ever increasing needs for low energy, small size, high complexity and high performance mass manufactured PICs by developing a revolutionary  yet CMOS-compatible fabrication platform for seamless co-integration of active plasmonics with photonic and supporting electronic. The CMOS-compatible metals Aluminum, Titanium Nitride and Copper, will be thoroughly investigated towards establishing a pool of meaningful elementary plasmonic waveguides on co-planar photonic (Si, SiO2 and SiN) platforms along with the associated photonic-plasmonic interfaces. The functional advantages of PLASMOfab technology will be practically demonstrated by developing two novel functional prototypes with outstanding performances: 
+1) a compact, plasmonic bio-sensor for label-free inflammation markers detection with multichannel capabilities and record-high sensitivity by combining plasmonic sensors with electrical contacts, Si3N4 photonics, high-speed biofunctionalization techniques and microfluidics 
+2) a 100 Gb/s NRZ transmitter for datacom applications by consolidating low energy and low footprint plasmonic modulator and ultra high-speed SiGe driving electronics in a single monolithic chip. 
+The new integration technology will be verified through wafer-scale fabrication of the prototypes at commercial CMOS fabs, demonstrating volume manufacturing and cost reduction capabilities. PLASMOfab technology will be supported by an EDA software design kit library paving the way for a standardized, fabless plasmonic/photonic IC eco-system.</objective>
+  <title>A generic CMOS-compatible platform for co-integrated plasmonics/photonics/electronics PICs towards volume manufacturing of low energy, small size and high performance photonic devices</title>
+<identifier>H2020ICT2015</identifier>
+</project>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213134</rcn>
+  <acronym>3eFERRO</acronym>
+  <objective>Edge computing requires highly energy efficient microprocessor units (MCU) with embedded non-volatile memories (eNVM) to process data at the source that is the IoT sensor node. eFLASH technology is limited by low write speed, high power and low endurance. Alternative fast, low power and high endurance eNVM could greatly enhance energy efficiency and allow flexibility for finer grain of logic and memory. FeRAM has the highest endurance of all emerging NVMs. However, perovskite-based eFeRAM is incompatible with Si CMOS, does not easily scale and has manufacturability and cost issues. 
+We introduce new ferroelectric material Hf(Zr)O2 to make FeRAM competitive NVM candidate for IoT. HfO2 compatibility with Si processing will facilitate integration, improve manufacturability and allow better scaling.  Different cell architectures based on capacitors or ferroelectric FETs will give unprecedented flexibility for “fine-grained” logic –in-memory (LiM) circuits, which allows data storage close to logic circuits, reduces energy cost of data transfer and allows smart gating for “normally-off” computing. 
+The project is built around four objectives: i) Optimization of Materials, ii) LiM design &amp; architecture, iii) Integration of Hf(Zr)O2-based NVM arrays, iv) Memory test &amp; validation &amp; benchmarking. The work calls on the full spectrum of expertise from advanced materials synthesis and characterization, processing, design and integration and benchmarking to make substantial progress towards a truly disruptive energy efficient memory and logic technology.
+A team of 8 partners, including a major European semiconductor company, the leader in the field of ferroelectric HfO2 and a large technology laboratory, originating from 5 EU states, will join forces to deliver experimental demonstrators creating the opportunity for the EU industry to establish a dominant position in IoT innovative components market and make an impact on the future roadmap for embedded systems and applications.</objective>
+  <title>Energy Efficient Embedded Non-volatile Memory  Logic based on Ferroelectric Hf(Zr)O2</title>
+<identifier>H2020ICT20171</identifier>
+</project>

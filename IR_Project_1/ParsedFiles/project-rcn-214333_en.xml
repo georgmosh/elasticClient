@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>214333</rcn>
+  <acronym>BIF-SCV</acronym>
+  <objective>This fellowship builds on the success of the applicant’s PhD thesis, where he made breakthroughs in the area of holomorphic dynamics in several complex variables. The field of holomorphic dynamics in several complex variables is a fast-growing area of mathematics, linking complex geometry, dynamical systems and many other topics. This project addresses the central question of studying stability and bifurcations of such dynamical systems under perturbation. The applicant’s foundational work has prepared the ground for significant advances in the subject, forming the basis for this project.
+
+This project specifically aims at the extension of parabolic implosion techniques (field in which the supervisor is a world-leading expert) from their natural one dimensional setting to higher dimensions (the applicant’s area of expertise). This proposal has three main directions.
+
+1 - Establish the equivalence of various possible definitions of dynamical stability in this setting, and study in depth the many differences between the one and the several complex variables setting.
+
+ 2 - Extend the theory to the case of systems of saddle type, i.e., generically displaying a repelling and an attracting direction. This case contains the Henon maps (polynomial diffeomorphisms of C^2), as well as explains the local dynamics near attracting sets for endomorphisms of P^2 (C).
+
+3 - As part of the above points, contribute to a general theory of parabolic implosion in higher dimension.</objective>
+  <title>Bifurcations in Several Complex Variables</title>
+<identifier>H2020MSCAIF2017</identifier>
+</project>

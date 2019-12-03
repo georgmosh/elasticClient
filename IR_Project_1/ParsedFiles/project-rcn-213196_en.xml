@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213196</rcn>
+  <acronym>COTTON</acronym>
+  <objective>Capacity Management proposed by SESAR 2020 is achieved by applying advanced airspace management processes materialised in the management of Dynamic Airspace Configurations (DAC) solution. DAC solution develops sector design, sector configurations and opening schemes processes to optimise the use of the available capacity and balance the ATC workload. Flight Centric ATC solution strengthens Capacity Management by providing additional flexibility and cost-effectiveness as it proposes that controllers are no longer in charge of managing the entire traffic within a given sector. Capacity Management processes benefit from combining these two solutions increasing flexibility in case of “sudden” demand/capacity changes.
+Trajectory-Based Operations (TBO) allows obtaining reliable information related to trajectory uncertainty thanks to the better reliability of the available trajectory information. Assessment and definition of a proper use of this trajectory uncertainty information within Capacity Management processes will significantly enforce its effectiveness. Optimisation of the Capacity Management processes can be achieved not only incorporating the abovementioned trajectory uncertainty into their associated demand and capacity model, but also developing trajectory-based complexity metrics more suitable to the most innovative aspects of DAC and Flight Centric solutions.
+COTTON aim is to maximise the effectiveness of the Capacity Management processes in TBO taking full advantage of the available trajectory information. Three sub-objectives are identified:
+1. Improve the use of trajectory-based complexity and workload assessment to support Capacity Management enabled by Trajectory-Based Operations (TBO) including uncertainty.
+2. Identify and promote the benefits of Trajectory-Based Operations to develop innovative demand/capacity models based on Dynamic Airspace Configuration and Flight Centric ATC solutions.
+3. Explore DAC and Flight Centric ATC solutions integration.</objective>
+  <title>Capacity Optimisation in TrajecTory-based OperatioNs</title>
+<identifier>H2020SESAR20162</identifier>
+</project>

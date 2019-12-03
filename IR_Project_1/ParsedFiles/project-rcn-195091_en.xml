@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>195091</rcn>
+  <acronym>GOFAR</acronym>
+  <objective>Training: The GOFAR proposal is to train the Technion candidate to work on the Soft X-ray Spectrometer (SXS) built by NASA’s Goddard Space Flight Center (GSFC), for launch soon on the Japanese space observatory 
+Astro-H  that will be the working horse of X-Ray Astronomy in the next decade. The X-ray Astrophysics Laboratory at GSFC, the world centre for astrophysical X-ray spectroscopy and instrumentation will set up a data analysis facility at the adjacent University of Maryland (UMD), who will host GOFAR. Owing to its unprecedented combination of spectral resolution and sensitivity between 6 – 7 keV, the SXS will detect and measure, better than ever before, the hottest and most ionized X-ray astrophysical plasmas. GOFAR will thus position the candidate and his Technion group at the forefront of X-ray astrophysical research in the coming decade, but will also improve his project-management skills for the university hardware projects that he leads. 
+
+Research: We propose to develop new spectroscopic diagnostics to match the spectral resolving power and sensitivity of the SXS for K- and L- shell ions in both photo- and collisionally- ionized plasmas, focusing on active galactic nuclei (AGN) outflows. We will measure the most ionized components of the winds, implied previously to dominate the outflow mass and energy. We propose to measure the location, mass outflow rate, and kinetic power of the wind, which govern its influence on the host galaxy.  This will be the first opportunity to confirm and measure in detail the fastest components of AGN winds that were claimed to reach a fraction of the speed of light (~ 0.1c).  Since the kinetic power in the wind scales as the outflow velocity cubed, these components are the most promising AGN energy feedback, and for enriching the intergalactic medium (IGM).  We will attempt to identify absorption from filaments of the IGM, which represent the long sought-after missing atoms of the Universe.</objective>
+  <title>Galactic Outflows and Feedback in the Astro-H eR</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

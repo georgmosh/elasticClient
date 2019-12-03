@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204591</rcn>
+  <acronym>Teraki</acronym>
+  <objective>Everything from cars to power plants to farms have connected sensors which measure things like temperature, flow, vibration, speed, and beyond. With 25 billion ‘things’ connected by 2020, the sheer volume, velocity and structure of data from the Internet of Things (IoT) already challenges network capacity. Bottlenecks affect security, data, storage management, servers and the data centre networks. 
+
+Using groundbreaking sensor data reduction techniques, Teraki software enables users to extract the maximum potential of their IoT applications otherwise constrained by limited battery lifetime and/or prohibitive connectivity costs. 
+
+We can leverage up to 10 times more data at the sensor level without additional computation resources. Battery life is improved; data transmission and processing latency and storage requirements are reduced. Privacy is strongly enhanced since only partial data is sent. The result is a 90% reduction in IT costs, and 50% less in maintenance costs for connected sensor systems. 
+
+The most common data reduction solutions for sensor networks are compression techniques. Compression requires high computational resources at the sensor with high impact on battery life. Teraki will render embedded sensor compression techniques obsolete since our solution needs no additional resources and the data selection and further analysis can be done in real time.
+
+The goal of this project is to identify the most appropriate IoT market verticals for commercialization and continue market validation activities. We will detail the technical challenges we need to address for widespread adoption of our innovation.  We will analyse risks and explore opportunities to enable new business models and become a game-changing force in the IoT sector. Founded in March 2015, we have already raised over 300,000€ in seed funding, and Teraki’s product-market fit is being validated by tier I companies like Audi, Bosch, Intel and Cisco IoT.</objective>
+  <title>Making Big Data Small for the Internet of Things</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

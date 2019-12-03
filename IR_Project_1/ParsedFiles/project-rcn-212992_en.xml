@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212992</rcn>
+  <acronym>PRO GAIT</acronym>
+  <objective>Developments in robotics allow people with profound neuromuscular deficits after stroke to walk with assistance (during the gait cycle) using an exoskeleton robot. Integrating a robotic device with individualised user electroencephalography (EEG /electrical activity in the motor areas in the brain) and EMG (muscle)feedback would allow more physiological and targeted gait parameters in response to effort, and  confer neuroplastic training effects including neuromodulation of temporal and spatial features of gait.
+Future integration of EEG/EMGsignals with robotic devices will allow patient initiated movement through thought and/or attempted effort, where currently parameters for devices are therapist set and usage is not functionally driven by the patient. Advancement in this regard is stalled primarily because of difficulty in 3D modelling of gait by EEG. 
+This collaborative consortium through secondments and return and built in knowledge sharing strategies will exchange knowledge and expertise across: Design, development and production of exoskeleton gait devices; neuro-rehabilitation; bioelectric EEG/EMG signal capture and interpretation; mathematical modelling and brain computer interface (BCI) platform development can advance the state of the art in gait rehabilitation after stroke rehabilitation. The proposal  will allow development of 3D modelling of gait, for gait restoration  and explore integration  with robotics from multi-stakeholder perspectives.
+Aims:
+1. Define current state of the art in EEG modelling of gait post stroke by systematic review and meta-synthesis
+2. Complete 3D modelling of gait as visualised gait, overground gait and robotic walking in healthy individuals and stroke survivors
+3. Develop and test a virtual reality BCI gait training device, including end-user feedback
+4. Explore integration of this prototype with robotic software platforms</objective>
+  <title>Physiological and Rehabilitation Outcomes: Gains from Automated Interventions in stroke Therapy (PRO GAIT)</title>
+<identifier>H2020MSCARISE2017</identifier>
+</project>

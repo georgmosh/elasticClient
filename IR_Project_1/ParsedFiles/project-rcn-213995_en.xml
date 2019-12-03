@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213995</rcn>
+  <acronym>GOKNOT</acronym>
+  <objective>The folding of knotted proteins is a challenging research topic of great biophysical interest. In this field, computer simulations have greatly contributed to advance our comprehension of the mechanisms that allow a polypeptide to form a knot during the folding. However, due to limitations in methods and resources, the state-of-the-art picture on the process is still incomplete, and mostly limited to the simplest nontrivial topology, the trefoil knot. 
+In this Action I will investigate the folding of human Ubiquitin C-terminal Hydrolase, whose backbone forms a Gordian knot with five crossings. I will make use of a multi-scale Molecular Dynamics strategy that combines coarse grained and all-atom models with enhanced sampling. Using a coarse grained model I will outline a general picture of the folding, devising the preferential pathways and intermediate states. Then, building on this knowledge, I will employ a full-atom representation of the system, targeting the calculations in the most relevant region of the protein's free energy landscape. The effect of an explicit solvent description will be considered as well. The computational time limitations will be lifted by enhancing the sampling through the use of Metadynamics and Variationally Enhanced Sampling.
+The Action relies on my experience in enhanced sampling methods, that will be complemented by the training and expertise provided by the host institution, a leading center in coarse-grained modeling of bio-polymers and soft matter. In the course of the action I will establish two key collaborations, providing further expertise for the success of my simulations, and allowing the validation of my theoretical model with experiments.
+The output of the project will generalize the current picture on knotted protein folding, introducing important methodological advancements, and contributing to the knowledge on a system of great biomedical interest, connected to diseases such as Parkinson's and Alzheimer's.</objective>
+  <title>Modelling the formation of a gordian knot in Human Ubiquitin Hydrolase</title>
+<identifier>H2020MSCAIF2017</identifier>
+</project>

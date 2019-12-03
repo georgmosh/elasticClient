@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211044</rcn>
+  <acronym>ICOPE</acronym>
+  <objective>The main goal of this project is the design of innovative and efficient air cooled heat sinks to cool the power electronics modules that are a key component of the more electrical aircraft power management centre design. The new design is expected to be developed in two stages. The first one should be covered by the implementation of Annealed Pyrolytic Graphite (APG) and folded brazed fins, while in the second the integration of Metal Matrix Composites (MMC) is expected. The final target of the development is the reduction of weight of the whole power management system (bay integrating four heat sinks), while maintaining an efficient and reliable cooling.
+Coming from advances in the power semiconductors field, by the use of high-temperature and more efficient materials such as Silicon Carbide (SiC) and Gallium Nitride (GAN), the thermal management strategy could take into consideration the implementation of air cooled solutions, which are expected to reduce the overall weight comparing to liquid or two-phase flow solutions, while also adding some benefits in terms of reliability and maintenance aspects.</objective>
+  <title>Innovative COoling system for embedded Power Electronics</title>
+<identifier>H2020CS2CFP04201602</identifier>
+</project>

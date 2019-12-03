@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>203291</rcn>
+  <acronym>APACHE</acronym>
+  <objective>The APACHE project proposes a new framework to assess European ATM performance based on simulation, optimization and performance assessment tools that will be able to capture complex interdependencies between KPAs at different modelling scales (micro, meso and macro).In this context, the purpose of APACHE is threefold: 
+- to evolve the Performance Scheme towards new methodologies and metrics capable of capturing with proportional detail the performance drivers of ATM to foster a progressive and performance-driven introduction of new operational and technical ATM concepts in line with SESAR; 
+- to make an (initial) impact assessment of long-term ATM concepts with the new APACHE Performance Scheme, to measure the impact on ATM KPAs under different assumptions in line with the SESAR ConOps 2020+; and
+- to analyse the interdependencies between the different KPAs at the Pareto-frontier of the ATM performance, by finding the theoretical optimal limits for each KPA and assessing how the promotion of one KPA may actually reduce the performance of the other KPAs
+An initial performance assessment of new concepts of operations will be required, covering the new concepts t: free-routing in 2D (2DFR) and in 3D (3DFR) for airline operators; dynamic airspace configuration (DAC) for air navigation service providers (ANSPs); and dynamic demand and capacity balance (dDCB) for the Network Manager (NM). All these concepts will be analysed at EU-wide and/or functional airspace block (FAB) level combined under different scenarios and case studies.
+The optimization tools will be used to model  the ATM performance drivers underpinning each of the the stakeholder’s business models, in particular regarding the optimization of processes for aircraft trajectory planning, sectorization planning and network safety planning. Assessment tools will be used to measure the level of KPA performances in the simulations. Tools will be provided by partners and initial versions are already available.</objective>
+  <title>Assessment of Performance in current ATM operations and of new Concepts of operations for its Holistic Enhancement</title>
+<identifier>H2020SESAR20151</identifier>
+</project>

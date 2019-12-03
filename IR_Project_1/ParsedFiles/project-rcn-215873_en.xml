@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>215873</rcn>
+  <acronym>SHOGANAI</acronym>
+  <objective>With an average net margin of a mere 5.6% and considering that Airlines´ P&amp;L is composed in average by 70% Direct Operating Costs (DOC) [fuel, ground handling, airport taxes, navigation taxes, crew], today airline companies must exercise more cost control than ever.
+
+However the harsh reality is that airlines are not even able to know what the real direct operating costs of their airplanes are. Airlines still work with technologies and processes of the past century. This makes impossible for a company like Easyjet to analyze its +7M monthly expense items against actual incurred costs. So two out of five invoices from suppliers can’t be verified and are directly paid. 
+
+Taking into account that an airplane like an Airbus A320 has operating expenses of approximately €4.7M per year, and with estimated current overpayments in the industry of between 0.5% and 2.5%, the potential savings per plane are between 84K€ and 136K€ annually. 
+
+Our innovation, SHOGANAI, is the first solution in the market that installs a hardware device in the airplane to control its operating costs in real time and achieve such savings. This is a worldwide novelty and a huge business opportunity.
+
+Our proprietary hardware connects to the data buses of the aircraft. Our Cloud infrastructure receives, parses and stores all the transmitted raw operational data, verifies its reliability and calculates the different cost categories items. The airline’s finance and operational teams then have access to SHOGANAI’s real-time dashboards.
+
+To make the service secure, reliable and ultimately trusted, all data captured by our hardware is recorded in a blockchain ledger/registry. By leveraging blockchain technologies, SHOGANAI aims to become the trusted l so that airlines and vendors/suppliers automatically conciliate invoices on the basis of smart contracts and real-time DOC data.
+
+The founding team of Airplane Solutions is composed by professionals with extensive experience in the airline industry.</objective>
+  <title>World´s first real-time solution for controlling airplane operating costs</title>
+<identifier>H2020SMEINST220162017</identifier>
+</project>

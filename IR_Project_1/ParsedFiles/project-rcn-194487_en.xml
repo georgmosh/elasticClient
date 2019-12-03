@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194487</rcn>
+  <acronym>SEMICOMPLEX</acronym>
+  <objective>Given the continuing revolution in “nano” and “bio” technologies, it is urgent for chemists to be able to carry out reliable quantum dynamics simulations of complex molecular systems. The goal of this project is to fill the gap between theory and experiment and provide the community with a user-friendly computational tool for nuclear spectra (IR, vibro-electronic, etc.) calculations of very complex systems.
+Present theoretical methodologies are hampered either by artificial nuclear potential interactions or by local potential perturbation assumptions. The semiclassical molecular dynamics method that I have been pioneering is not affected by these limitations because it is based on ab initio classical trajectories. The nuclear forces can be calculated by any electronic structure software and trajectories can explore the entire potential surface. The remaining challenge is to overcome the exponential scaling of computational power.
+I will adopt a divide-and-conquer strategy to beat the curse of dimensionality. Firstly, the ab initio classical molecular dynamics is performed for the entire complex system. Then, partial spectra are calculated by using the semiclassical information derived by the projection of the trajectories onto lower dimensional spaces. Vibrational modes are not artificially decoupled. Finally, the entire spectrum is reconstructed piece by piece. This method allows chemists to have a more reliable spectral interpretation in a wider context up to the nanoscale. With the help of my own previous experience and my collaborations, I will simulate pollutant photodegradation for environmental remediation and the vibro-electronic spectra of carcinogenic molecules adsorbed on TiO2. I will also reproduce the spectroscopic properties of molecular nano-texturing of titania films for outdoor cultural heritage preservation. 
+A new generation of semiclassical fellows will be educated to put Europe on the leading edge of quantum simulations for spectroscopy.</objective>
+  <title>Divide and conquer ab initio semiclassical molecular dynamics for spectroscopic calculations of complex systems</title>
+<identifier>ERC2014CoG</identifier>
+</project>

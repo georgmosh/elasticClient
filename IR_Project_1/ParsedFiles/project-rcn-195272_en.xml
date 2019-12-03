@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>195272</rcn>
+  <acronym>Soft Gluons</acronym>
+  <objective>The start of the LHC at CERN and the discovery of the Higgs boson in 2012 started a new era in particle physics. After fifty years from its prediction, the Standard Model (SM) of particle physics has received its final experimental confirmation. There are many experimental and theoretical observations which suggest that new physics should be present at energies slightly above the electroweak scale. Two years of LHC running, however, made clear that such new physics will show up only as small deviations from the SM. This opens up the quest for precision particle physics. It involves our ability to predict scattering amplitudes with the smallest uncertainty possible, a task which relies on our understanding of quantum chromodynamics. This is currently the main task of the theoretical high-energy physics community, and this project addresses issues that are at the heart of this endeavour. Scattering processes at the LHC involve multiple scales, and very often become sensitive, through multi-loop corrections, to scales far lower than the hard interaction. This is the physics of soft gluons, which is the subject of my proposal. I aim at improving our knowledge and treatment of the physics of soft gluons. I will do this by working in parallel on four tasks:
+ - calculating soft gluon webs at higher orders in perturbation theory, needed to understand the nature of soft gluon radiation to all-orders;
+ - developing a framework for the resummation of next-to-eikonal soft gluons, needed for improving our ability to obtain precise prediction at LHC;
+ - developing tools for automatising the treatment of soft gluon radiation in scattering processes, which will directly serve the experimental community.
+ - investigating factorisation properties of scattering amplitudes in the high-energy limit, the so-called Regge limit.
+These goals are important for the exploitation of the LHC and will have a major impact in the field.</objective>
+  <title>Soft Gluon Physics and Multi-Loop Calculations</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

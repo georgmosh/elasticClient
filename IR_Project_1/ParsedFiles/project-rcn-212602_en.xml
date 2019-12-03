@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212602</rcn>
+  <acronym>HD-DittoGraph</acronym>
+  <objective>This proposal is aimed at identifying the molecular mechanisms that have brought the human Huntington Disease-causing Huntingtin (Htt) exon 1, with its pure and unstable CAG repeat, to be shaped the way it is today. Specifically, we intend to screen for genetic elements affecting Htt repeat length instability in dividing and postmitotic neuronal cells. The novelty of our approach relies on the construction of a human embryonic stem (hES) cell platform that couples highly efficient CRISPR/Cas9 technology with genome-wide screenings and third generation sequencing, to test the contribution of thousands of unequivocally barcoded cis and trans modifiers on Htt exon 1 repeats instability. 
+
+In Aim 1, we will test the contribution of cis-modifiers to repeat instability during multiple mitotic divisions, by generating a hES cell platform where we will subsequently introduce a barcoded donor library of different Htt exon 1 constructs, with different CAG and flanking sequences, at the Htt locus. 
+In Aim 2 our hES cell platform will be implemented with inducible Cas9 elements and sgRNAs libraries to perform genome-wide loss and gain of function (LOF, GOF) screenings of trans-acting modifiers of repeat sequence and size. The sgRNAs will act as barcodes for the modifier genes, allowing to test their causative role on repeat size changes. 
+In Aim 3, we will exploit the neurogenic potential of hES cells in our LOF and GOF platforms to identify Htt exon 1 repeat modifiers in differentiating striatal neurons. Candidate modifier genes will be individually validated and tested for their functional impact on gene networks by transcriptome analysis. 
+In all approaches, third generation sequencing and ad hoc computational pipelines will allow the simultaneous identification of the repeat changes and their association to the corresponding modifiers. Overall, this research proposal is expected to provide key molecular and genetic insights into the process of Htt repeat expansion in human</objective>
+  <title>HD-DittoGraph: a digital human Embryonic Stem Cell platform for Huntington's repeats</title>
+<identifier>ERC2016ADG</identifier>
+</project>

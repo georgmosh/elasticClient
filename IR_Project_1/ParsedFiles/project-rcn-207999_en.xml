@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207999</rcn>
+  <acronym>SENSCAPE</acronym>
+  <objective>The Internet of Things (IoT) is based on networks of low-cost sensors and actuators for data collection, monitoring, decision making, and process optimization.
+
+Mobile devices such as smartphones and tablets, now represent a significant portion of the IoT, and there is a strong push to enable these devices to interface with a range of external sensors, to address e-health, fitness, environment, agriculture, logistics, and other applications.
+
+Many companies want to develop IoT products using smartphones with external sensors. However, many of these companies lack the necessary financial and human resources for this level of IoT development using existing methods.
+
+To address this need, IRIDEON S.L. has developed Senscape®: a disruptive, standards-based, framework which enables customers to develop fast time-to-market sensor-based mobile applications and related information services for e-health and fitness, and other applications.
+
+We will commercialise Senscape® via: licences and direct sales of hardware and software through the Senscape® on-line marketplace.</objective>
+  <title>A modular, open and standards-based framework for fast, cost-effective development of sensorbasedmobile applications</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

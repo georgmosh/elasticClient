@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208812</rcn>
+  <acronym>QuPoPCoRN</acronym>
+  <objective>Understanding the complex interactions and dynamics of multiple quantum particles within large networks is an extremely challenging task, but doing so reveals the underlying structure of an enormously diverse range of phenomena. Therefore, a reliable platform to investigate complex quantum network dynamics, which incorporates the rich interplay between noise, coherence and nonclassical correlations, will be an extremely powerful tool.  
+
+Classical optical networks have been widely used to simulate a broad range of propagation phenomena across many disparate areas of physics, chemistry and biology, based on coherent interference of waves. At the quantum level, the quantized nature of light – the existence of photons – gives rise to bosonic interference effects that are completely counter-intuitive. Yet, to date, quantum network experiments remain very limited in terms of the number of photons, reconfigurability and, most importantly, network size. 
+
+Here, we propose time-multiplexed optical networks, in combination with tailored multi-photon states as a new platform for large-scale quantum networks. Our approach allows us to emulate multi-particle dynamics on complex structures, specifically the role of bosonic interference, correlations and entanglement. 
+
+To achieve large networks sizes, we will develop novel decoherence mitigation strategies: programmable noise, topologically protected quantum states and perpetual entanglement distillation. This approach will blend ideas from solid state physics, random media and quantum information and communication in order to pursue the following three objectives:
+1. Demonstrate noise-assisted entanglement distribution
+2. Demonstrate nonclassical states on topological structures
+3. Demonstrate perpetual distillation of entanglement within a network
+These objectives target the overall goal to understand the role of multi-particle quantum physics in complex, large-scale structures harnessing time-multiplexed photonic networks.</objective>
+  <title>Quantum Particles on Programmable Complex Reconfigurable Networks</title>
+<identifier>ERC2016COG</identifier>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>198867</rcn>
+  <acronym>FishDirector</acronym>
+  <objective>The overall vision of the FishDirector project is to bring to market our innovative software solution for real time live optimization of cloud data centres to enable optimum use of server resources and reduce overall energy use by at least 30%. 
+
+To reduce the number of servers needed to deliver services and reduce overall energy consumption data centres have adopted virtualization, running VMs (virtual machines) on each server. VM workload is dynamic, varying in response to user demand. However, data centre operators do not currently have a comprehensive automated system for optimally placing VMs and allocating the optimal number of servers to meet the workload requirements. This results in sub-optimal hardware utilization (typically 18% whilst consuming 60% - 90% of their maximum system power), a larger number of servers than is necessary, higher energy consumption and a poorer end user experience due to lower response time and/or intermittent availability. 
+
+FishDirector works with OpenStack to address this problem by providing a scalable software solution for automating VM placement in a highly dynamic environment and consolidating live VMs data centre-wide, ensuring continuous operation and load balancing. Unlike existing solutions, it allows data centre operators to automatically optimize resources for VM instances across multiple servers in a scalable manner and with no practical limit to the number of servers that can be managed.
+
+FishDirector has been successfully demonstrated in small server installations and is thus at TRL6. We seek funding for the Phase I Feasibility Study to explore the viability of moving FishDirector to TRL 9 through a Phase 2 project to demonstrate and validate FishDirector in a large data centre (&gt; 100 servers). The expected outcome is the technical and economic validation of the FishDirector software solution with data and documentation ready for commercialization across European and US markets.</objective>
+  <title>Automatic Scalable VM Management for Data Centre Optimisation</title>
+<identifier>H2020SMEINST12015</identifier>
+</project>

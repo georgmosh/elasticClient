@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213316</rcn>
+  <acronym>Aerobits</acronym>
+  <objective>The number of collision situations and close calls between manned aircrafts and UAVs (drones) doubles each year. This is due to extensive increase of drones sales. Experts show that plane deadly damage or crush caused by collision with drone is just a matter of time. As this is a global problem, every national aviation authority publishes more and more restrictive law for drone operators, hoping to control this dangerous situation.
+However, it is known already today that law itself shall not be enough to ensure safe sharing of air space between manned and unmanned aircraft.
+It is more and more often mentioned that electronic systems should be introduced, so called „DETECT AND AVOID” or „SENSE AND AVOID” technologies, abbreviated as DAA/SAA, which once installed on the UAS side, shall guarantee safe distance to manned aircraft.
+Aerobits solves this problem with its GNSS/ADS-B Core technology, which enables designing the world smallest and fastest ADS-B implementations to guarantee separations between drones and maned aircraft. ADS-B surveillance technology, which is becoming a standard in air traffic management will be also used in our products in minimized modules to ensure separation between drones and aircrafts. Our technology fits perfectly to US NextGen and EU Sesar programmes.
+We are applying for the SME Instrument Phase 1, aiming to complete the feasibility study and a business including technological feasibility, partner search, market sizing and critical risks assessment.</objective>
+  <title>Aerobits - world smallest ADS-B receivers to safely integrate drones into European airspace</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

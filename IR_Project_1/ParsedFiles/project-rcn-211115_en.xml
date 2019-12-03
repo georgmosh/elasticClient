@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211115</rcn>
+  <acronym>MATCRACK</acronym>
+  <objective>The understanding and the reliable prediction of material degradation, crack initiation and propagation is of vital importance in engineering. It allows the evaluation of product lifecycle and the criticality of exceptional loads. Also, it enables maintenance optimization in a wide range of industries (automotive, aircraft, nuclear…).  Thanks to the ERC “XLS” grant, a new approach coined TLS (“Thick Level Set”) was developed to simulate crack propagation from sane material to critical rupture. The main advantage of this approach is that it takes into account both crack initiation and crack propagation without mesh size or mesh orientation dependency. This combination is not currently available in the industry.
+The TLS software sources (coined TTK for TLS Tool Kit) has been produced mostly during the ERC project. They were recently registered in the software protection agency. The POC goal is to transform the TTK software to industry usable software and to reach a win-win agreement with a well-established service company who will perform paid studies.</objective>
+  <title>Industrialization of software and libraries for crack propagation in material and structures using the Thick Level Set method</title>
+<identifier>ERC2017PoC</identifier>
+</project>

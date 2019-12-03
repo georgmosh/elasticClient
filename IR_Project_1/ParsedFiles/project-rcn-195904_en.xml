@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>195904</rcn>
+  <acronym>EWatLHC</acronym>
+  <objective>In view of the next run of the LHC, and of the impressive mole and quality of the collected data, accurate theoretical predictions will be mandatory in order to perform accurate measurements of the Standard Model parameters and to identify signals of the existence of new particles. If it is certainly true that impressive progresses have been achieved in the last years, in particular in the field of perturbative computations of cross sections and differential distributions, it is also true that much more has still to be done. The current proposal is focused on the computation of one class of corrections which affect LHC processes, the so-called NLO electro-weak correc- tions. This class of correction can have large impact in particular on events characterised by large energy scales, which will be more and more frequent at the next high-energy LHC run. Instead of proceeding on a process by process basis, the suggested path to follow is the one of automation, which has already proven successful in the case of NLO corrections originated by strong interactions. The automation of this class of corrections will allow to perform systematic studies about their effects on observables and processes relevant to the LHC.</objective>
+  <title>Electro-Weak corrections at the LHC</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

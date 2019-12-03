@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207372</rcn>
+  <acronym>Laser-Bioprint</acronym>
+  <objective>Bioprinting is a rapidly developing technology sector aimed at additive manufacturing of tissues and organs. It is expected to lead to the most disruptive biomedical applications of additive manufacturing. Apart from tissue engineering and regenerative medicine, bioprinting applications of immediate commercial and societal benefit include the development of personalized cancer therapies and realization of in vitro tissue models based on human biology for reliable drug tests in pharma industry. The latter one is especially attractive, as it will potentially result in substantial savings of drug development costs. Furthermore, it may help to considerably reduce the need for animal studies in the foreseeable future. The need for increased resolution is one of the main technological challenges of bioprinting today. Most currently available bioprinters are based on dispensing methods. Therefore, the achievable spatial resolution is in the range of tens of micrometers. The possibility to reproduce features on the submicrometer scale would provide the missing link to accessing the complexity of natural cell environment and enable fabrication of truly biomimetic constructs.</objective>
+  <title>Laser-Based Bioprinter</title>
+<identifier>ERC2015PoC</identifier>
+</project>

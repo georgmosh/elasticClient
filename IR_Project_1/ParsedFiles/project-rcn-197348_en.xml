@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>197348</rcn>
+  <acronym>VirtuWind</acronym>
+  <objective>With anticipated exponential growth of connected devices, future networks require an open solutions architecture facilitated by standards and a strong ecosystem. Such devices need an easy interface to the connected network to request the kind of communication service characterized by guarantees about bandwidth, delay, jitter, packet loss or redundancy. In response, the network should grant the requested network resources automatically and program the intermediate networking devices based on device profile and privileges. Similar requirement also comes from business applications where application itself asks for particular network resources based on its needs. Software Defined Networking (SDN) and Network Function Virtualisation (NFV) provide promising combination leading to programmable connectivity, rapid service provisioning and service chaining.
+
+As a part of 5G PPP programme, VirtuWind will develop and demonstrate SDN &amp; NFV ecosystem, based on open, modular and secure framework showcasing a prototype for intra-domain and inter-domain scenarios in real wind parks as a representative use case of industrial networks, and validate the economic viability of the demonstrated solution. The wind park control network has been chosen as a professional application in VirtuWind as wind energy has now established itself as a mainstream of sustainable energy generation. By envisioning lower capital expenditure and operational expenditure costs in control network infrastructure, VirtuWind will play important role in assisting wind energy sector to achieve cost reductions. Further applicability of VirtuWind solution in other industrial domains will bring multifold benefits in their communication networks.
+
+The VirtuWind consortium consists of strong industry and academic partners covering the whole value chain of programmable networks. The consortium is striving for a common vision of creating industrial capability of SDN/NFV in Europe.</objective>
+  <title>Virtual and programmable industrial network prototype deployed in operational Wind park</title>
+<identifier>H2020ICT20142</identifier>
+</project>

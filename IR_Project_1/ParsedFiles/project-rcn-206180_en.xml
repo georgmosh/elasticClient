@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206180</rcn>
+  <acronym>CResPace</acronym>
+  <objective>This consortium will pioneer disruptive technology for bio-electronic medicine to provide much needed therapies for cardiorespiratory and functional neurological disease. The technology implements small neural networks known as central pattern generators (CPG) to deliver fit-and-forget bio-electronic implants that respond to physiological feedback in real time, are safer, simpler, non-invasive, and have autonomy exceeding the patient lifespan.  Multichannel neurons will be made to compete on analogue chips to obtain flexible motor sequences underpinned by a wide parameter space.  By building large scale nonlinear optimization tools and using them to assimilate electrophysiological data, we will develop a method for automatically finding the network parameters that accurately reproduce biological motor sequences and their adaptation to multiple physiological inputs.  In this way, we will have resolved the issue of programming analogue CPGs which has long been the obstacle to using neural chips in medicine.  An adaptive pacemaker will be constructed, tested, validated and trialled on animal models of atrio-ventricular block and left bundle branch block to demonstrate the benefits of heart rate adaptation, beat-to-beat cardiac resynchronization and respiratory sinus arrhythmia.  By providing novel therapy for arrhythmias, heart failure and their comorbidities such as sleep apnoea and hypertension, CResPace will extend patients’ life and increase quality of life.</objective>
+  <title>Adaptive Bio-electronics for Chronic Cardiorespiratory Disease</title>
+<identifier>FETPROACT2016</identifier>
+</project>

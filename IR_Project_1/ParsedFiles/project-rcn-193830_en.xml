@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193830</rcn>
+  <acronym>ELAASTIC</acronym>
+  <objective>The success of Galileo will largely depend on its penetration in LBS and M2M markets. While the LBS market is largely dominated by Google and Apple, it is high time to create for the M2M market a comprehensive, EU-based location platform that will bring together all of the location enablers (Galileo, EGNOS, other GNSS, Wi-Fi, Cell-ID), and also win back LBS market shares.
+Developing applications only, will NOT preserve EGNSS interests, unless first developing the proper location enablers, combining location technologies and taking due account of EGNSS added values.
+ELAASTIC (European Location As A Service Targeting International Commerce) addresses these needs by developing a European based location service worldwide to ensure EGNOS and Galileo penetration.
+ELAASTIC will provide:
+1. A “Location As A Service” platform focused on delivering reliable location technologies with innovative features based on EGNOS and Galileo signal specificities.
+2. An optimized End to End set of location services with full consistency between the Galileo signals, the chipset’s capabilities and additional location infrastructure.
+3. Compliance with industry standards for location (e.g. OMA SUPL 2.0), with willingness to contribute to their extension.
+4. A service opening for applications developers to rapidly take benefit of Galileo within H2020 first steps.
+5. A true commitment to operate a commercial location service as developed during the course of the project.
+6. An Ecosystem to ease the deployment of value added services such as eCall and E112.
+This service will be provided by European (independent of US corporations) companies with a focus on supporting the development of downstream European companies working in the sector. The ELAASTIC proposal has been built through collaboration of five global leaders in location technology: Telespazio France, ST-microelectronics, Thales Alenia Space France, Rx Networks, and Novero, three of them listed as major actors in Berg Insight 2013 LB.</objective>
+  <title>European Location As A Service Targeting International Commerce</title>
+<identifier>H2020Galileo20141</identifier>
+</project>

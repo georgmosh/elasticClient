@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196587</rcn>
+  <acronym>EinsteinVRH</acronym>
+  <objective>The Variable Range Hopping is considered in the Physics literature as an effective model for the analysis of conductivity in semiconductors. Understanding how the macroscopic parameters depend on the small-scale randomness of the environment and proving the Einstein Relation for this model is the ambitious aim of this project.
+
+Main objectives:
+
+1) Extend recent results (law of large numbers, existence of a stationary state) for long-range reversible random walks on point processes including the possibility of traps.
+
+2) Analyze how an external field influences the limiting velocity of the Variable Range Hop- ping, in comparison to similar models from Mathematical Physics.
+
+3) Establish the first rigorous Einstein Relation for a physically relevant model, the Variable Range Hopping.
+
+The mathematical techniques we have at our disposal nowadays (such as the weak Einstein Relation and the control of long range models) are a solid basis for the investigation of the problem: This would be the first time an Einstein Relation is rigorously proven for a relevant physical model. Furthermore, the richness of the subject guarantees also many intermediate results of great relevance in the field of Probability Theory.
+
+Besides the big scientific relevance of the expected results, the project will have a strong impact also on the career of the experienced researcher, completing his international profile of independent scientist, and will also strengthen the interplay between the Probability Theory communities of France, Germany and Italy. Finally, a positive outcome of the action will bring a significant insight on the physical study of semiconductors.</objective>
+  <title>Einstein Relation for the Variable Range Hopping model</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

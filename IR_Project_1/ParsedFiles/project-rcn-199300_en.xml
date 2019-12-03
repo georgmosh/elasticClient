@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199300</rcn>
+  <acronym>MOBNET</acronym>
+  <objective>Unmanned vehicles (UVs) now play an increasing role in Public Protection and Disaster Relief (PPDR) missions such as border surveillance, cropping monitoring or local law enforcement. However, fast location of isolated people in the case of natural or man-made disasters still continues to be a crucial and arduous task.
+MOBNET will design a Search and Rescue (SAR) system for the location of isolated victims in the case of natural or man-made disasters such as earthquakes, hurricanes or large snow storms. It will also help first responder services to find fugitives or smugglers hidden within buildings. To that end, the use of European Global Navigation Satellite (EGNSS) systems (both Galileo early services and EGNOS) and Digital Cellular Technologies (DCT) will play the key role in these situations in which it is difficult, dangerous or even impossible to access the affected areas. 
+The EGNSS and DCT technologies will be tightly synchronised to provide accurate positioning. However, this demanding synchronisation exceeds the current capabilities of most GNSS and cellular equipment. In order to achieve the required performance, novel EGNSS and DCT methods will be applied. Furthermore, an effective and reliable communication link between Unmanned Aerial Vehicles (UAVs) and the ground station will be designed. This datalink will ensure uninterrupted command and control communication among devices and the integrity of communication signals. Thus, the UAVs will always operate as intended.  
+Research will be driven by the end-user and industrial partners to ensure that it addresses the needs of the PPDR services. The potential for a fast and reliable SAR system will be illustrated by a prototype that will work at long distances. The developed SAR system will take advantage of the Galileo and EGNOS capabilities and will strengthen the position of European Industry in the field of security services. It will greatly facilitate their missions and the rescue of isolated victims</objective>
+  <title>MOBile NETwork for people's location in natural and man-made disasters</title>
+<identifier>H2020Galileo20151</identifier>
+</project>

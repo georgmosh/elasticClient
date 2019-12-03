@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206389</rcn>
+  <acronym>IMAGINE</acronym>
+  <objective>"Today's robots are good at executing programmed motions, but they do not understand their actions in the sense that they could automatically generalize them to novel situations or recover from failures.  IMAGINE seeks to enable robots to understand the structure of their environment and how it is affected by its actions.  "Understanding" here means the ability of the robot (a) to determine the applicability of an action along with parameters to achieve the desired effect, and (b) to discern to what extent an action succeeded, and to infer possible causes of failure and generate recovery actions.
+
+The core functional element is a generative model based on an association engine and a physics simulator.  "Understanding" is given by the robot's ability to predict the effects of its actions, before and during their execution.  This allows the robot to choose actions and parameters based on their simulated performance, and to monitor their progress by comparing observed to simulated behavior.
+
+This scientific objective is pursued in the context of recycling of electromechanical appliances.  Current recycling practices do not automate disassembly, which exposes humans to hazardous materials, encourages illegal disposal, and creates significant threats to environment and health, often in third countries.  IMAGINE will develop a TRL-5 prototype that can autonomously disassemble prototypical classes of devices, generate and execute disassembly actions for unseen instances of similar devices, and recover from certain failures.  For robotic disassembly, IMAGINE will develop a multi-functional gripper capable of multiple types of manipulation without tool changes.
+
+IMAGINE raises the ability level of robotic systems in core areas of the work programme, including adaptability, manipulation, perception, decisional autonomy, and cognitive ability.  Since only one-third of EU e-waste is currently recovered, IMAGINE addresses an area of high economical and ecological impact."</objective>
+  <title>Robots Understanding Their Actions by Imagining Their Effects</title>
+<identifier>H2020ICT20161</identifier>
+</project>

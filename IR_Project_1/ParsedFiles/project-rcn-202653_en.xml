@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>202653</rcn>
+  <acronym>OMNES</acronym>
+  <objective>We shall study non-equilibrium many-body quantum systems, considering local interactions in one or two spatial dimensions in situations where the generator of time evolution in the bulk of the system is unitary whereas the incoherent processes are limited to the system's boundaries. We foresee a mathematical theory of dynamical quantum phases of matter with applications in the theory of quantum transport and nanoscale devices that manipulate heat, information, charge or magnetization. 
+
+Our steady-state setup represents a fundamental paradigm of mathematical statistical physics which has been pioneered by the PI, who gave the first explicit solution for boundary driven/dissipative strongly interacting many-body problem (XXZ spin 1/2 chain) which answered a long debated question on strict positivity of the spin Drude weight at high temperature. 
+
+The main focus of OMNES will be centered on exploring the following three interconnected pathways: Most importantly, we shall develop a general framework for exact solutions of non-equilibrium integrable quantum many-body models, in particular the steady states and relaxation modes, and develop quantum integrability methods for non-equilibrium many-body density operators. Fundamentally new concepts which are expected to emerge from these studies, relevant beyond the context of boundary-driven/dissipative systems, are novel quasilocal conservation laws of the bulk Hamiltonian dynamics. Second, we shall investigate relevance of exact solutions in physics of generic systems which are small perturbations of integrable models and explore the problem of stability of local and quasilocal conserved quantities under generic integrability-breaking perturbations. Third, we shall formulate and study the problem of quantum chaos in clean lattice systems, in particular to establish a link between random matrix theory of level statistics and kinematic and dynamical features of lattice models with sufficiently strong integrability breaking.</objective>
+  <title>Open Many-body Non-Equilibrium Systems</title>
+<identifier>ERC2015AdG</identifier>
+</project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>215328</rcn>
+  <acronym>PREMEDiCARE</acronym>
+  <objective>Long QT Syndrome (LQTS) is a severe arrhythmogenic condition characterised by the prolongation of the QT interval on the electrocardiogram. It is caused by genetic factors (congenital) or drugs (acquired) and sudden cardiac death can be the first manifestations of the disease. 
+Advancements in genetic screenings have revealed profound links between genotype and phenotype for LQTS, improving diagnosis, risk stratification and therapy; 
+However, it is still poorly understood why patients with identical pathogenic mutations have different clinical phenotypes, which factors are involved in this unpredictable disease severity and how we can protect these subjects from drug treatments that are safe in the general population.
+We do need improved and more physiological in vitro models to simulate arrhythmias in vitro, effective for drug testing, to identify, evaluate and study factors that shape the arrhythmogenic risk in vulnerable subjects.
+Here I propose a precision medicine approach that uses human pluripotent stem cells-derived cardiomyocytes (hPSC-CMs) from LQTS families (rare resources that include male, female, symptomatic and asymptomatic patients) to: 
+i) demonstrate that the hiPSC technology can reproduce in vitro the clinical disease severity observed in symptomatic vs asymptomatic LQTS mutation carriers; 
+ii) create an in vitro interdisciplinary pharmacological approach with proarrhythmic drugs which combines matched electrophysiological, contractile, molecular and genetic assays; 
+iii) identify and evaluate the factors affecting the arrhythmogenic risk in predisposed subjects.
+This pipeline to assess arrhythmia susceptibility from patient-specific hiPSC-CMs can be applicable to other arrhythmogenic syndromes. The results of this project will contribute to reduce the use of animal models in preclinical research, to create safer, more effective drugs for humans and to promote the shift of new therapeutic approaches towards precision or personalised medicine.</objective>
+  <title>PREcision MEDicine with induced pluripotent stem cells for Cardiac Arrhythmias Risk Evaluation</title>
+<identifier>H2020MSCAIF2017</identifier>
+</project>

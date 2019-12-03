@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>209449</rcn>
+  <acronym>FILODIAG</acronym>
+  <objective>There is an urgent need for fast and accurate diagnostic tests in  future Ebola outbreak situations. The rapid diagnosis of Ebola Virus Disease (EVD) during early and late stage of infection is a decisive step for risk assessment and for guidance to physicians to take the necessary decisions to limit the spread of the infection, and to safely nurse the infected patients. While fast and easy-to-use tests usually rely on immuno-diagnostic approaches, they typically lack high sensitivity and specificity. The gold standard for accurate diagnostics, (Real-Time) PCR, however, is limited in terms of processing time, high costs, and in most cases also in terms of ease of use and the need of special laboratory facilities.
+
+The aim of this project is to provide an ultra-fast and accurate molecular diagnostic instrument  that can perform a molecular Ebola test within 10-15 minutes. Patients, suspected of EVD, due to fever and/or other clinical signs, could be rapidly and accurately tested at the Point-of-Care by withdrawal of blood, or less invasive fluids, such as saliva or urine. 
+The core technology of this project is based on laser-heated nanoparticles (Laser PCR), overcoming the time-limiting step of heating and cooling the reaction sample in conventional PCR allowing for drastically reduced turn-around times. The project partners (GNA, INMI, MUB, EMR) have the competence to integrate sample preparation with virus-binding magnetic particles, ultra-fast molecular diagnostics with Laser PCR, test the system in a biosafety level 4 laboratory in Rome, Italy, and conduct an exploratory field testing.
+A tentative Ebola Laser PCR assay had already been set up, detecting 10 target copies of synthetic DNA oligos, corresponding to the Ebola genome sequence, in less than 12 minutes. The FILODIAG project will deliver a potentially multiplexed diagnostic system fast enough for future point-of-need testing of incoming patients at low-resource healthcare settings in Africa, as well as at critical infrastructure checkpoints in the developed world.</objective>
+  <title>Ultra-Fast Molecular Filovirus Diagnostics</title>
+<identifier>H2020JTIIMI2201402singlestage</identifier>
+</project>

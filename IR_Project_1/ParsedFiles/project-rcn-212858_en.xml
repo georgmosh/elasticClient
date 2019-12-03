@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212858</rcn>
+  <acronym>OptiMACS</acronym>
+  <objective>Modern aeronautical structures are increasingly made of composite materials due to their well-known benefits. Optimizing the design of aerospace composites vis-à-vis the entire range of operational constraints (i.e. reliability, stability, strength, weight, noise, manufacturability and cost) to which the aircraft structures are subject, results in a particularly challenging task for the structural designer. Despite the volume of recent work dedicated to new Multidisciplinary Design Optimization (MDO) models and techniques, the ‘No free lunch theorem in optimisation’ is constantly confirmed.
+A genuine need is therefore identified for a programme that will: i)Develop, deliver and implement novel and efficient structural MDO technological tools for the European aerospace industry, ii)Nurture and train the next European generation of MDO research professionals. OptiMACS has an intersectoral character, drawing know-how from both academic and industrial research and innovation teams. It also has an intensely multi-disciplinary character, coupling expertise from mechanical, aerospace, manufacturing and software engineering, as well as from the area of applied mathematics.
+On the research side, OptiMACS will focus on improving the accuracy and efficiency of the MDO platform currently employed by AIRBUS. This will be achieved by enhancing the design models and criteria related to composites failure and manufacturing, developing and implementing multiscale models for composites as well as investigating advanced MDO algorithms and architectures for enhancing efficiency.
+On the training side, OptiMACS will provide a fully supportive environment for 5 ESRs. A training programme aiming at developing both the research as well as the transferable skills of the Fellows has been designed. All Fellows will have the opportunity to work in a multi-disciplinary environment, spending at least 50% of their time at the premises of the industrial beneficiaries.</objective>
+  <title>European industrial doctorate for efficient multidisciplinary design Optimization ofMultifunctional Aerospace Composite Structures</title>
+<identifier>H2020MSCAITN2017</identifier>
+</project>

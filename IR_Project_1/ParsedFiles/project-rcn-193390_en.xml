@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193390</rcn>
+  <acronym>MASAI</acronym>
+  <objective>MOBILITY BASED ON AGGREGATION OF SERVICES AND APPLICATIONS INTEGRATION 
+MASAI addresses the interconnection of digital services to facilitate mobility in heterogeneous and varying environment. MASAI designs, prototypes and pilots in the field a MObility Open Network of Services (MOONS) as an interconnected distributed environment, on which any service module can be easily plugged to interact with others (using principles such as DNS-SD). MASAI feeds the mobile apps ecosystem. MASAI investigates also app-2-app direct communication, app being able to call/feed other apps (iOS 8 promise). MASAI is an alternative to having centralized integration platforms – showing their limits. MOONS is then instrumental in favouring plug &amp; play services (trip planners, ticketing, community services, infotainment,…) in an open ecosystem.
+In this way, a “Concierge” app (or access app which is the user entry point, a trip-planner for example) in a NFC Phone address the citizen need by combining output of several services related to ticketing , trip planners, city guide, etc, provided by modules from service operators. A set of existing (SIRI, NETEX,…) and under development (such as TS13149-part9) standards are paving the way. MASAI in return will target results that may feed this standardization process. 
+MASAI vision is supported by a consortium composed by innovative SMEs previously involved in such developments (MTA, DIGIMOBEE, CARD4B, CHESS IX), completing partial approaches by enlarging the full scope to the mobility eco-system within a plug &amp; play mobility services vision. It includes  DB Systel (Deutsche Bahn - IT) as a key user reference which has identified MASAI as an open, innovative and consistent approach for building a seamless services experience for their customers, open to any applications supplier.
+MASAI vision is demonstrated in a variety of environments inducing cross-fertilisation in terms of delivery of independent plug &amp; play services capable of being aggregated on any MASAI environment through open and public specifications.</objective>
+  <title>MOBILITY BASED ON AGGREGATION OF SERVICES AND APPLICATIONS INTEGRATION</title>
+<identifier>H2020MG2014TwoStages</identifier>
+</project>

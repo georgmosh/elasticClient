@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207164</rcn>
+  <acronym>PaDiCare</acronym>
+  <objective>Atonomics and InTeleCare4U’s joint vision is to bring Trace to market, a Point-of-Care (POC) blood biomarker monitoring system for Diabetes Mellitus (DM) that syncs highly accurate and precise lab results to hospital’s electronic patient record (EPR). Trace has such a simplified user experience that patients can perform their own blood analysis without nurses performing the blood draw or lab staff analysing the sample. 
+Trace analysis require just a drop of blood obtained through finger-pricking, the same procedure that diabetic patients use for daily glucose monitoring. Analysis runs automatically in a very short time (5-7 min per biomarker) and the results are then synced to doctors’ PC / tablet through ITC4U’s data sync services – based on the open source OpenTele platform. Trace system combines the following three key elements for effective and resource-efficient monitoring:
+- Trace device, an easy to use, lab-grade device to measure HbA1c and lipid panel biomarkers for DM monitoring;
+- Trace tablet app, a step-guided application that helps patients use the Trace device, and collects the results from Trace;
+- ITC4U’s secure sync infrastructure that transmits patient data collected in app directly to the doctor’s tablet or PC.
+
+With the growing share of DM patients, the availability of clinicians will become a bottleneck for proper care. Patient involvement in these analyses is the best option for sustainability of care. Trace addresses this market. The short assay run time means that patients can perform blood analysis just before their regular appointments, already at the ambulatory unit, saving hours in waiting rooms and trips to labs. Hospitals benefit from faster patient turnover, providing care to more patients with the same resources (i.e. higher efficiency and higher care accessibility). Over time, Trace will be able to expand biomarker monitoring to other chronic diseases, through the development and market introduction of further assays for Trace.</objective>
+  <title>Patient empowered Diabetes care in ambulatory settings</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

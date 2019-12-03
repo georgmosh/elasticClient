@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>201758</rcn>
+  <acronym>RETINAL</acronym>
+  <objective>"The World Health Organization (WHO) in its “Global status report on noncommunicable diseases 2014” shows that the impact of noncommunicable diseases (NCDs), also known as chronic diseases, is steadily growing. NCDs are the leading cause of death globally (68% of all deaths in 2012). The 4 main types of NCDs are cardiovascular (CVD) diseases (like cerebrovascular accidents or strokes and heart attacks), cancers, chronic respiratory diseases and diabetes. Cardiovascular diseases account for most NCD deaths (17.5 million people annually), followed by cancers (8.2 million), respiratory diseases (4 million), and diabetes (1.5 million).
+This proposal addresses the prevention and early diagnosis of 2 types of NCDs, Cardiovascular (CVD) diseases and diabetes, by providing health professionals a tool for automatic quantification of parameters of the retina and automatic detection of lesions of the retina, with capacity for prevention and/or early detection of various diseases.
+ULMA Embedded Solutions (UES) has developed a non-invasive and cost-effective tool for Automatic evaluation of Retinal Imaging Biomarkers (ARIB), which can be used in public health interventions delivered through a primary health-care approach to strengthen early detection and timely treatment of various diseases. Evidence shows that such interventions are excellent economic investments because, if applied to patients early, can reduce the need for more expensive treatment."</objective>
+  <title>Retinal Imaging prevention and early detection of chronic diseases</title>
+<identifier>H2020SMEINST12015</identifier>
+</project>

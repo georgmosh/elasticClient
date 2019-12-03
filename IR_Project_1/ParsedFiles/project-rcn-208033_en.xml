@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208033</rcn>
+  <acronym>Skylynx</acronym>
+  <objective>The deployment of advanced signalling systems (ERTMS) in Europe is encountering issues related to the use of manual and obsolete tools. Also, rail maintenance costs are still expensive in terms of effort and safety, and infrastructures lack of flexible systems to ensure security, surveillance and supervision. To resolve these problems, railways digitalisation has become a major trend within the industry.
+SigmaRail has developed Skylynx, a UAV-based system that aims to address these challenges to support Europe’s transportation investments (ERTMS and Galileo GNSS), by digitalising the Railways. It would add the following values bases on a high skilled and experienced core team:
+-Geographical data acquisition: Current main line railways need a detailed and accurate survey to capture geographical data, prior to the deployment of ERTMS. Skylynx would reduce by 30% its costs. 
+-Assets maintenance and supervision: Equipment placed along the main line tracks in Europe are highly prone to suffer from maintenance issues. Each unpredicted failure is capable of causing service delays, as well as affecting travellers’ safety. Skylynx shall reduce costs, increasing by 15% trains frequency.
+-Safety: All the above tasks require workers to access the track four-foot. Skylynx, thanks to its UAV-based technology, will avoid this, increasing safety.
+-Security: Skylynx final deployment would ensure the control of the railway corridor access, capturing specific details and enabling expert evaluation of the railway status and access control.
+Thus, Skylynx is an innovative tool for railway lifecycle management, composed by UAVs equipped with sensors, nesting platforms, back-end processing nodes and a rail assets recognition software that will offer geographic information, maintenance, supervision and surveillance services of railways assets and infrastructures. The system will enable and enhance the digitalisation of the railway transportation sector.</objective>
+  <title>Upgrading Railways from the Air</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

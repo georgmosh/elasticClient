@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200797</rcn>
+  <acronym>TARG-SUP</acronym>
+  <objective>Regulatory T lymphocytes (Tregs) inhibit immune responses and are required to maintain immune tolerance. Tregs express membrane protein GARP, which displays latent TGF-β1 on the cell surface. Immunosuppression by human Tregs appears to require GARP-mediated activation of TGF-β1.
+My objectives are to unravel the molecular aspects of TGF-β1 activation by GARP and determine the functional importance of this process in physiological and pathological conditions where Tregs or other GARP-expressing cells are present. As this implies the development of new tools to modulate GARP-dependent TGF-β1 activation and Treg immunosuppression, we will also explore their potential for the treatment of immune-related human diseases, and notably cancer.
+More specifically, I will:
+- Derive antibodies that modulate GARP-mediated TGF-β1 production by human Tregs and perform structural analyses in the presence of these antibodies to identify tri-dimensional changes in GARP/TGF-β1 complexes that lead to the release of active TGF-β1.
+- Identify and characterize additional proteins implicated in TGF-β1 activation by human Tregs, as GARP is required but not sufficient for TGF-β1 activation by Tregs. 
+- Determine the immunological and clinical impact of inhibitory anti-GARP mAbs on cancer in mice. We will derive anti-murine GARP mAbs. As an alternative, we will generate mutant mice expressing a chimeric mouse/human GARP that is recognized by anti-human GARP mAbs. The antibodies will be tested in tumour-bearing mice treated or not with other immunotherapies including vaccines or immunostimulatory antibodies.
+- Determine whether blocking anti-GARP mAbs improve immune responses to microbial vaccines or to chronic infections, as these represent important applications for transient inhibition of Treg activity in humans.
+- Analyse the expression and roles of GARP in non-Treg cells to better understand GARP functions, which remain largely unknown, and predict potential toxicities of anti-GARP mAbs.</objective>
+  <title>Targeting TGF-β activation, likely the core mechanism of immunosuppression by human regulatory T cells.</title>
+<identifier>ERC2015CoG</identifier>
+</project>

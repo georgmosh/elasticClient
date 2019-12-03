@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211000</rcn>
+  <acronym>CAPABLE</acronym>
+  <objective>The quantum technology revolution promises a transformational impact on the society and economics worldwide. It will enable breakthrough advancements in such diverse fields as secure communications, computing, metrology, and imaging.  Quantum photonics, which recently received an incredible boost by the use of integrated optical circuits, is an excellent technological platform to enable such revolution, as it already plays a relevant role in many of the above applications. However, some major technical roadblocks needs to be overcome. Currently, the various components required for a complete quantum photonic system are produced on very different materials by dedicated fabrication technologies, as no single material is able to fulfil all the requirements for single-photon generation, manipulation, storage and detection. This project proposes a new hybrid approach for integrated quantum photonic systems based on femtosecond laser microfabrication (FLM), enabling the innovative miniaturization of various components on different materials, but with a single tool and with very favourable integration capabilities. 
+This project will mainly focus on two major breakthroughs: the first one will be increasing the complexity achievable in the photonic platform and demonstrating unprecedented quantum computation capability; the second one will be the integration in the platform of multiple single-photon quantum memories and their interconnection.
+Achievement of these goals will only be possible by taking full advantage of the unique features of FLM, from the possibility to machine very different materials, to the 3D capabilities in waveguide writing and selective material removal.
+The successful demonstration and functional validation of this hybrid, integrated photonic platform will represent a significant leap for photonic microsystems in quantum computing and quantum communications.</objective>
+  <title>Composite integrated photonic platform by femtosecond laser micromachining</title>
+<identifier>ERC2016ADG</identifier>
+</project>

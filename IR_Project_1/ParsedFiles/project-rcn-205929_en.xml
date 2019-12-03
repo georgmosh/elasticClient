@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205929</rcn>
+  <acronym>Re-SENSE</acronym>
+  <objective>It is hard to stand on one leg if we close our eyes. We have trouble tasting food without smelling. And when we talk with other people, we observe their lips to understand them better. We, humans, are masters in sensor fusion as we can seamlessly combine information coming from different senses to improve our judgements. Intriguingly, in order to fuse information efficiently, we do not always devote the same level of attention or mental effort to each of the many sensory streams available to us. This dynamic attention-scalability allows us to always extract the maximum amount of relevant information under our limited human computational bandwidth.
+
+Would it not be great if electronics had the same capabilities? While many devices are nowadays equipped with a massive amount of sensors, they typically cannot effectively fuse more than a few of them. The rigid way in which sensory data is combined results in large computational workloads, preventing effective multi-sensor fusion in resource-constrained applications such as robotics, wearables, biomedical monitoring or user interfacing.
+
+The Re-SENSE project will bring attention-scalable sensing to resource-scarce devices, which are constrained in terms of energy, throughput, latency or memory resources. This is achieved by jointly:
+1) Developing resource-aware inference and fusion algorithms, which maximize information capture in function of hardware resource usage, dynamically tuning sensory attention levels
+2) Implementing dynamic, wide-range resource-scalable inference processors, allowing to exploit this attention-scalability for drastically improved efficiency
+The attention-scalable sensing concept will be demonstrated in 2 highly resource-constrained applications: a) latency-critical cell sorting and b) energy-critical epilepsy monitoring.
+This combination of processor design, reconfigurable hardware and embedded machine learning fits perfectly to the PI’s expertise gained at Intel Labs, UC Berkeley and KULeuven.</objective>
+  <title>RESOURCE-EFFICIENT SENSING THROUGH DYNAMIC ATTENTION-SCALABILITY</title>
+<identifier>ERC2016STG</identifier>
+</project>

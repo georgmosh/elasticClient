@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200749</rcn>
+  <acronym>UAAWORM</acronym>
+  <objective>We pioneered technologies that allow the site-specific introduction of chemically synthesized unnatural amino acids (UAA) into a chosen protein within the context of a multicellular organism - the nematode worm C. elegans. The foundational technology for this advance is genetic code expansion.
+In its most simple form, genetic code expansion to incorporate UAA into proteins requires an orthogonal aminoacyl-tRNA synthetase/tRNACUA pair to be introduced into the host organism. The orthogonal aminoacyl-tRNA synthetase must specifically recognize an UAA and use this amino acid to specifically aminoacylate its cognate orthogonal tRNACUA, which is itself not a substrate for endogenous synthetases. The aminoacylated tRNA then decodes an amber stop codon introduced into a gene of interest at a specific site.
+Our proposal is at the intersection of synthetic multicellular biology and organismal neurobiology. We aim to engineer photo-activateable proteins in C. elegans neurons by site specifically incorporating photo-caged unnatural amino acids. This will allow us to develop tools to: i) control within an intact, freely moving animal the activity of any desired single neuron or group of neurons, and ii) eventually control the chemical and electrical synaptic connectivity between neurons. We will then apply this technology to investigate how neuronal circuits generate behaviour.
+In addition and complementary to the development and application of neurobiological tools we will further improve the coding capacity of the worm’s protein synthesis machinery.</objective>
+  <title>Establishing genetic code expansion as a tool to study neuronal circuit function in an animal</title>
+<identifier>ERC2015STG</identifier>
+</project>

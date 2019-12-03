@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194976</rcn>
+  <acronym>NANO-Q</acronym>
+  <objective>The ability to control and exploit the virtues of quantum physics is expected to revolutionize many areas of science and technology, from quantum information processing to quantum enhanced metrology. However, it is still a great challenge to observe quantum effects, such as superposition, in truly macroscopic objects. Matter-wave interferometry with very massive particles is a promising route towards testing the notions of macroscopicity and the still speculative limits of linearity in quantum physics.
+An intriguing goal in the community is to control the motion of mesoscopic nanoparticles, from 10^7 to 10^10 a.m.u., to the point where quantum interference can be observed. In this mass range collapse models and the role of gravity in quantum theory can be explored. It is a great challenge to control the motion of objects larger and more complicated than atoms and simple molecules. Recent proposals and experiments have begun the task, using optical cavities to cool the motion of nanoparticles, aiming to reach the level at which quantum effects are evident. The feasibility of this goal has been demonstrated experimentally by the Host Group, the Experienced Researcher and others, driven and supported by theoretical work.
+The NANO-Q project aims to create a source of free cavity cooled nanoparticles suitable for mesoscopic matter wave interferometry. It would be a great scientific breakthrough to observe quantum effects with such massive objects. Cooled nanoparticles will also be of great technological importance, as quantum transducers and precision force sensors.</objective>
+  <title>Cavity Cooling of Nanosilicon for Quantum Interference Experiments</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

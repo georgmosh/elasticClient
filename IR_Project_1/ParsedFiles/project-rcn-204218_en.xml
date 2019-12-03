@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204218</rcn>
+  <acronym>SEALANT</acronym>
+  <objective>Chromic Acid anodizing (CAA) of aluminium parts has been extensively used during decades in aircraft manufacturing thanks to its excellent performance. However, hexavalent chromium is known to be carcinogenic and harmful for the environment. 
+
+The main objective of the topic to which the present proposal relates is to optimize a Chromium-free sealing process for thin layer Sulfuric Acid Anodizing (SAA) as eco-friendly alternative to CAA for aluminium unpainted parts. 
+
+In the present Project, a statistical approach based on Design of Experiment (DoE) and Analysis of Variance (ANOVA) will be used to optimize two sealing solutions, one previously studied by the Topic Manager and one to be proposed by the Cosortium. 
+
+The optimization will be performed firstly at laboratory scale for AA2024 taking into consideration corrosion resistance in Salt Spray Test (SST), economic and ecological aspects. In parallel, the mechanism of corrosion protection will be proposed and the stability against contaminant and ageing of the solutions will be assessed. Secondly, still at laboratory scale, the optimized process will be implemented to other aluminium alloys, performing adaptations or modifications if necessary. 
+
+Afterwards, the two sealing processes will be scaled-up employing a pilot plant. In case problems arise, the lab-scale and pilot-scale studies will be iterated. Finally, the sealing processes will be implemented in an industrial scale and demonstrators will be processed.
+
+The characterization of samples and demonstrator will include SST, weight and thickness of anodic layer; Contact Angle Measurements (CAM), Electrochemical Impedance Spectroscopy (EIS), X-Ray Diffraction (XRD), Scanning Electron Microscopy coupled with X-ray Energy Dispersive Spectroscopy (SEM-EDS) and Focused Ion Beam (SEM-FIB). Additional techniques are considered as well in case they are useful.</objective>
+  <title>Optimization and scale-up of final sealing of Sulfuric Acid Anodizing employing Design of Experiments.</title>
+<identifier>H2020CS2CFP02201501</identifier>
+</project>

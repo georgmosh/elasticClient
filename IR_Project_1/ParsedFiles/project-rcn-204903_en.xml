@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204903</rcn>
+  <acronym>AutoStopS</acronym>
+  <objective>This Horizon2020 – Marie Sklodowska Curie Actions – Individual Fellowship grant proposal focuses on the development of a new gene therapy approach targeting intractable epilepsy, with the major aim to achieve autoregulation of seizure detection and termination. For this purpose, a glutamate-gated chloride channel (GluCl; cloned from C. elegans) will be expressed in excitatory neurons in the rodent brain using a viral vector and a human CamKIIα promoter. In response to increased glutamate levels, as present during epileptic seizures, the channel activates and opens a Cl- conductance. This, in turn, inhibits excitatory neurons and causes seizure suppression. As a further advantage, an “add-on” therapeutic approach with the GluCl agonist ivermectin, an approved antihelminthic drug, is available. In principle, the gene therapy could therefore confer both an autoregulatory effect to the transduced brain region and have an external “gain control” exerted by pharmacological modulation. 
+Taken together, my Fellowship proposal aims to develop a radically new antiepileptic strategy to treat drug-resistant, refractory epilepsy, which affects approximately 1 million people in Europe.</objective>
+  <title>GluCl as an epileptic seizure autoregulatory Gene therapeutic approach</title>
+<identifier>H2020MSCAIF2015</identifier>
+</project>

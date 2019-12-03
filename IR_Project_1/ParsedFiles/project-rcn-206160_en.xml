@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206160</rcn>
+  <acronym>I3DS</acronym>
+  <objective>The I3DS platform (Integrated 3D sensors) is a generic and modular system answering the needs of near-future space exploration missions in terms of exteroceptive and proprioceptive sensors with integrated pre-processing and data concentration functions. It consists in state-of-the art sensors and illumination devices integrated in a coherent architecture as inter-changeable building blocks and targeting a vast range of missions such as interplanetary missions, formation flying missions, non-cooperative target capture such as debris removal missions, cooperative rendezvous: servicing &amp; spacetugs, landers, rovers, etc... 
+
+The architecture of I3DS enables pushing the vision sensors as part of future exploration satellite platforms standard GNC units. It enables computing navigation solutions with on-board computers to be available for post-2020 missions autonomously from Ground. To do so, the data throughput provided by the sensors is pre-processed (filtering, compression, correction of distortions) by dedicated boards within I3DS. I3DS provides also an abstraction of the many electrical interfaces of the sensors by centralising the data flux using dedicated communication nodes. The mechanical interface is also simplified through the integration of the different sensors and boards in an integrated module.
+
+The I3DS design enables easy and low-cost configurations and reconfigurations of a robotic platform for any mission using the modular sensors. The I3DS project intends to develop autonomous robotic platforms to achieve a large scope of spatial mission. Ultimately, three demonstrators will be tested in laboratory, thanks to appropriate tests benches and infrastructures in order to demonstrate the INSES concept modularity and performances.
+-</objective>
+  <title>Integrated 3D Sensors suite</title>
+<identifier>H2020COMPET2016</identifier>
+</project>

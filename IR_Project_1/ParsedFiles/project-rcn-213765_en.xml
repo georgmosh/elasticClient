@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213765</rcn>
+  <acronym>conVIRgens</acronym>
+  <objective>Fungal pathogens are enormous threats to plants, causing tremendous losses in worldwide crop production. Mechanistic understanding of fungal virulence is crucial to developing novel plant protection strategies in sustainable agriculture.  
+Biotrophic pathogens colonize living plant tissue and reprogram their hosts to stimulate proliferation and development of infection structures. To promote infection, fungal pathogens secrete sets of virulence proteins termed “effectors” in a spatiotemporal program. Many economically relevant biotrophs like rusts and powdery mildew fungi are obligate pathogens. These organisms cannot be grown in culture and are not amenable to reverse genetics, which is a severe constraint for current research. In contrast, the biotrophic smut fungi have a haploid yeast stage, which allows simple cultivation and genetic modification. The causal agent of corn smut disease, Ustilago maydis, is one of the best-established model organisms for fungal genetics. 
+This project aims to utilize the excellent genetic accessibility of U. maydis to approach a previously impossible, pioneering enterprise: the synthetic reconstruction of eukaryotic plant pathogens. In a first step, fungal virulence will be deconstructed by consecutive deletion of the U. maydis effector repertoire to generate disarmed mutants. These strains will serve as chassis for subsequent reconstruction of fungal pathogenicity from different sources. A combination of transcriptomics and comparative genomics will help to define synthetic effector modules to reconstruct virulence in the chassis strains. 
+Deconstruction of U. maydis virulence will identify a complete arsenal of fungal virulence factors. Reconstruction of virulence will show how effector modules determine fungal virulence, including those of the previously not accessible obligate biotrophs. conVIRgens will thereby provide fundamentally new insights and novel functional tools towards the understanding of microbial virulence.</objective>
+  <title>De- and reconstructing virulence strategies of fungal plant pathogens</title>
+<identifier>ERC2017COG</identifier>
+</project>

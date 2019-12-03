@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212047</rcn>
+  <acronym>IASI-FT</acronym>
+  <objective>IASI - Flux and temperature
+
+July 2016 was Earth's warmest month on record. The first six months of 2016 were also the warmest six-month period since modern meteorology observations began. This, along with the recent so-called “hiatus” in the warming trend, and the Paris climate agreement, all attracted scientific and public attention as to how reliable the historical temperature record is, and to the level of confidence in future model climate projections. Although the role of satellites in observing the variability and change of the Earth system has increased in recent decades, remotely-sensed observations are still underexploited to accurately assess climate change fingerprints. The IASI - Flux and Temperature (IASI-FT) project aims at providing new benchmarks for top-of-atmosphere radiative flux and temperature observations using the calibrated radiances measured twice a day at any location by the IASI instrument on the suite of MetOp satellites.  
+
+The main challenge is to achieve the stringent accuracy and stability necessary for climate studies, particularly for climate trends. Building upon the expertise accumulated by my group during the last 10 years, I propose the development of innovative algorithms and statistical tools to generate climate data records at the global scale, of (1) spectrally resolved outgoing radiances, (2) land and sea skin surface temperatures, and (3) temperatures at selected altitudes. Time series of these quantities will be compared with in situ and other satellite observations if available, atmospheric reanalyses, and climate model simulations. The observed trends will be analyzed at seasonal and regional scales in order to disentangle natural (weather/dynamical) variability and human-induced climate forcings. This project, while clearly research-oriented, will lead towards an operational integrated observational strategy for the Earth climate system, given that the IASI program started in 2006 and will last until 2040 at least.</objective>
+  <title>IASI - Flux and temperature</title>
+<identifier>ERC2016ADG</identifier>
+</project>

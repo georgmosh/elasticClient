@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>209399</rcn>
+  <acronym>PATO</acronym>
+  <objective>"The objective of the proposal is to advance fundamental science in reactive porous material modeling to foster innovation on the second pillar of the work program "Leadership in Enabling and Industrial Technologies". Starting from the most advanced development done at NASA in the last decade, state-of-the-art reactive porous material models will be improved further with the contribution of expert theoreticians and implemented in a simulation tool released open source. The fundamental developments will be validated and applied to design optimization and process innovation for two industrial applications. The first one is the design of efficient and optimized thermal protection systems for space exploration vehicles (subprogram "space").The second one targets bio-hydrocarbon and bio-carbon production from lignocellulosic biomass. The biomass pyrolysis process will be studied from the wood-cell scale to the process level. The goal is to develop advanced predictive engineering tools to enable process optimization and guide innovation in progress. This second effort will eventually benefit to two "Societal Challenges" of the work program: "Energy" and "Climate action, environment, resource efficiency, and raw materials"."</objective>
+  <title>Porous material Analysis Toolbox - Open source</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

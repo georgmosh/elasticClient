@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206319</rcn>
+  <acronym>FatemapB</acronym>
+  <objective>FateMapB aims to understand how the unique differentiation potential of fetal hematopoietic stem and progenitor cells (HSPCs) contribute to functionally distinct cell types of the adult immune system. While most immune cells are replenished by HSPCs through life, others emerge during a limited window in fetal life and sustain through self-renewal in situ. The lineage identity of fetal HSPCs, and the extent of their contribution to the adult immune repertoire remain surprisingly unclear. I previously identified the fetal specific RNA binding protein Lin28b as a post-transcriptional molecular switch capable of inducing fetal-like hematopoiesis in adult bone marrow HSPCs (Yuan et al. Science, 2012). This discovery has afforded me with unique perspectives on the formation of the mammalian immune system. The concept that the mature immune system is a mosaic of fetal and adult derived cell types is addressed herein with an emphasis on the B cell lineage.
+We will use two complementary lineage-tracing technologies to stratify the immune system as a function of developmental time, generating fundamental insight into the division of labor between fetal and adult HSPCs that ultimately provides effective host protection.
+Aim 1. Determine the qualitative and quantitative contribution of fetal HSPCs to the mature immune repertoire in situ through Cre recombination mediated lineage-tracing.
+Aim 2. Resolve the disputed lineage relationship between fetal derived B1a cells and adult derived B2 cells by single cell lineage-tracing using cellular barcoding in vivo.
+Aim 3. Characterize the mechanism and effector functions of Lin28b induced B1a cell development for assessing the clinical utility of inducible fetal-like lymphopoiesis.
+The implications of FateMapB extend beyond normal development to immune regeneration and age-related features of leukemogenesis. Finally, our combinatorial lineage-tracing approach enables dissection of cell fates with previously unattainable resolution.</objective>
+  <title>High Resolution Mapping of Fetal and Adult B Cell Fates During Ontogeny</title>
+<identifier>ERC2016STG</identifier>
+</project>

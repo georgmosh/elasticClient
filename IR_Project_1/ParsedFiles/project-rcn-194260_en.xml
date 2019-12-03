@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194260</rcn>
+  <acronym>IMMORTAL</acronym>
+  <objective>In IMMORTAL, a consortium of leading European academic and industrial players aim at combining their expertise in developing an integrated, cross-layer modelling based tool framework for fault management, verification and reliable design of dependable Cyber-Physical Systems (CPS). 
+Recently, the world has seen emerging CPS modelling frameworks addressing various design aspects such as control, security, verification and validation. However, there have been no considerations for reliability and automated debug aspects of verification. The main aim is to fill this gap by introducing reliable design and automated system debug into CPS modelling. To reach this aim, the project will develop a cross-layer CPS model spanning device (analogue and digital), circuit, network architecture, firmware and software layers. In addition, a holistic fault model for fundamentally different error sources in CPSs (design bugs, wear-out and environmental effects) in a uniform manner will be proposed. Moreover, IMMORTAL plans to develop fault management infrastructure on top of the reliable design framework that would allow ultra-fast fault detection, isolation and recovery in the emerging many-core based CPS networked architectures that are expected to be increasingly adopted in the coming years.
+As a result, the project will enable development of dependable CPSs with improved reliability and extended effective life-time, ageing and process variations. In line with the expected impacts of the Call, the project will have a significant impact in development time as well as maintenance costs of dependable cyber-physical systems.
+The tool framework to be developed will be evaluated on a clearly specified real-world use-case of a satellite on-board-computer. However, since the results are more general and applicable to many application domains, including avionics, automotive and telecommunication, demonstration of the framework tools will be applied to CPS examples from other domains as well.</objective>
+  <title>Integrated Modelling, Fault Management, Verification and Reliable Design Environment for Cyber-Physical Systems</title>
+<identifier>H2020ICT20141</identifier>
+</project>

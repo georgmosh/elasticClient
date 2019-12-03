@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>209365</rcn>
+  <acronym>CuMiN</acronym>
+  <objective>The core of this project is Geometric Measure Theory and, in particular, currents and their interplay with the
+Calculus of Variations and Partial Differential Equations. Currents have been introduced as an effective and elegant generalization of surfaces, allowing the modeling of objects with singularities which fail to be represented by smooth submanifolds.
+In the first part of this project we propose new and innovative applications of currents with coefficient in a group to other problems of cost-minimizing networks typically arising in the Calculus of Variations and in Partial Differential Equations: with a suitable choice of the group of coefficients one can study optimal transport problems such as the Steiner tree problem, the irrigation problem (as a particular case of the Gilbert-Steiner problem), the singular structure of solutions to certain PDEs, variational problems for maps with values in a manifold, and also physically relevant problems such as crystals dislocations and liquid crystals. Since currents can be approximated by polyhedral chains, a major advantage of our approach to these problems is the numerical implementability of the involved methods.
+In the second part of the project we address a challenging and ambitious problem of a more classical flavor, namely, the boundary regularity for area-minimizing currents. In the last part of the project, we investigate fine geometric properties of normal and integral (not necessarily area-minimizing) currents. These properties allow for applications concerning celebrated results such as the Rademacher theorem on the differentiability of Lipschitz functions and a Frobenius theorem for currents.
+The Marie Skłodowska-Curie fellowship and the subsequent possibility of a close collaboration with Prof. Orlandi are a great opportunity of fulfillment of my project, which is original and independent but is also capable of collecting the best energies of several young collaborators.</objective>
+  <title>Currents and Minimizing Networks</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

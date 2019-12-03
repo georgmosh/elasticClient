@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206156</rcn>
+  <acronym>SIROM</acronym>
+  <objective>The main objective is to develop a standard interface that considers a set of connections that allow coupling of payload to manipulators and payload to other payload. 
+The realization of a modular reconfigurable system depends, among other things, on interfaces, that includes mechanical interfaces connecting the blocks to one other, electrical interface for power transmission, thermal interfaces for heat regulation and interfaces to transmit data throughout the satellite.
+Multi--‐functional “Intelligent” interface will be considered to interconnect building blocks and also to connect to the satellite with a servicer.
+The standard interface will require standardization and modularization of the different components in an integrated form (where mechanical, thermal, electrical, data connections are combined) or a separated form. The standard interface shall allow building up large clusters of modules. APMs are considered for demonstration, validation and verification of all properties of the standard interface. An end-effector for a robotic manipulator will be designed according to the layout of the standard interface. 
+The Modular Interface will take into account long duration missions, no logistics support and missions composed of multiple payloads and architectures. Main benefits:
+- Improve operational capacity
+- Reduced logistics with common and modular spares
+- Common maintenance standards
+- IF architecture flexibility: common infrastructure needed to support the modular design
+- Mission flexibility (configuration changes)
+- Standardizes mechanical, data, electrical, thermal Interfaces
+- Keep existing standards where applicable
+- Introduce in the design aspects related to interchangeability and interoperability
+The standard interfaces will allow to develop the SRC end goals. The output of this development will address the Future Low--‐cost EXchangeable/EXpandable/EXtendable SATellite, which targets the demonstration of robotics servicing technology.</objective>
+  <title>Standard Interface for Robotic Manipulation of Payloads in Future Space Missions</title>
+<identifier>H2020COMPET2016</identifier>
+</project>

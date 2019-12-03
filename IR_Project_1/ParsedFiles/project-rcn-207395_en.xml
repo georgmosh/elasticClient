@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207395</rcn>
+  <acronym>QD-NOMS</acronym>
+  <objective>Is there any limit to the size of a quantum system? How large and how small can it be? Both questions are related to scalability, a most critical issue in quantum technologies. A scalable quantum network, which can be extended almost infinitely, is built by entangling individual quantum systems, e.g. atoms. It will provide thrilling opportunities across a range of intellectual and technical frontiers in quantum information science. Building such a network is however a great challenge, in both physics and engineering.
+
+Often referred to as artificial atoms, semiconductor quantum dots (QDs) are among the most promising single and entangled photon sources to build a photonic quantum network. However there is a longstanding and yet unsolved challenge on scalability, since, unlike real atoms, every QD is different. By engineering individual QDs with an innovative nano-optomechanical system (NOMS), elementary QD networks will be built via scalable interactions of single or entangled photons, in a fashion similar to that of real atoms.
+ 
+The scientific goals are to upscale QD networks with the first demonstrations of (1) indistinguishable entangled photons from different QDs, (2) deterministic entanglement swapping, purification and graph states with multiple QDs (3) deterministic Boson sampling with more than 4 QDs on chip.
+ 
+The technological goals are (1) to downscale the footprint (&lt;50 µm) of individual QD sources with full tunabilities, and to realize (2) arrays (&gt;4×4) of tunable single and entangled photon sources, (3) waveguide integration on III-V/silicon chips, and (4) compact quantum LED demonstrators.
+ 
+QD-NOMS will address the physical and technological challenges in building a solid-state QD-based quantum network. Its success does not only provide a novel toolkit to realize scalable QD systems for cutting-edge fundamental researches but also brings the semiconductor QD based platforms, after a decade of development, to the attention of practical applications.</objective>
+  <title>Elementary quantum dot networks enabled by on-chip nano-optomechanical systems</title>
+<identifier>ERC2016STG</identifier>
+</project>

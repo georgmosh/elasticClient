@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205934</rcn>
+  <acronym>INSPEX</acronym>
+  <objective>"The objective of INSPEX is to make obstacle detection capabilities that are currently only feasible on autonomous vehicles available as a personal portable/wearable multi-sensor, miniaturised, low power spatial exploration system. The INSPEX System will be used for real-time 3D detection, location and warning of obstacles under all environmental conditions in indoor and outdoor environments with static and mobile obstacles. Applications include navigation for the visually/mobility impaired, safer human navigation in reduced visibility conditions and small robot/drone obstacle avoidance.
+The partners bring state-of-the-art range sensors (LiDAR, UWB radar and MEMS ultrasound) to the project. INSPEX will miniaturise and reduce the power consumption of these sensors to facilitate systems integration. These will then be  integrated with an IMU, environmental sensing, signal and data processing, wireless communications, power efficient data fusion and user interface, all in a miniature, low power system designed to operate within wider smart/IoT environments.
+The main INSPEX Demonstrator will embed the INSPEX System in a white cane for the visually impaired and provide 3D spatial audio feedback on obstacle location.
+INSPEX directly addresses: 
+- ICT-3 Challenge “to develop and manufacture smart objects and systems that closely integrate sensors, actuators, innovative MEMS, processing power, embedded memory and communication capabilities, all optimising the use of supply power” that can “easily be made interoperable within systems of systems”
+- RIA aims to ""make technological breakthroughs and their validation in laboratory environments of the next generations of miniaturised smart integrated systems” and “industrial-relevant technological developments, modelling and validation that will enable solutions in particular for health and well-being … safety and security … manufacturing.” INSPEX is taking “reliability” and “ethical issues” strongly into consideration."</objective>
+  <title>Integrated Smart Spatial Exploration System</title>
+<identifier>H2020ICT20161</identifier>
+</project>

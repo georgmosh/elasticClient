@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200830</rcn>
+  <acronym>HELIOS</acronym>
+  <objective>The HELIOS project aims at providing a Second Generation range of Beacons (SGB) and associated antennas designed to operate with the full capability of the new Meosar Cospas/Sarsat (C/S) International Programme (a satellite-based Search And Rescue (SAR) distress alert detection and information distribution system), embedded in the Navigation Satellite Systems as GALILEO. 
+The Search &amp; Rescue community is at a turn of its history. New satellite systems develops the MEOSAR constellation of Cospas-Sarsat system, EGNOS improves significantly the performance of localization introducing new capabilities and new operations impossible before, GALILEO unique differentiation with the RLS added to the performance of the system will contribute to save more lives at sea and on land.
+The key objectives of the HELIOS project are:
+1 - Defining, developing Products (beacons and associated antennas) compatible with EGNSS &amp; SAR services and latest end-users’ requirements.
+2 - GALILEO EGNSS &amp; SAR System validation.
+3 - Certifications for commercialization.
+The HELIOS consortium composed of Orolia, Cobham aerospace communications, CNES, SIOEN, Air France, and Airbus, is involved in different relevant international working groups (Cospas-Sarsat, ICAO, EUROCAE), and will ensure that the development phase of the SGB will be in line with the compatibility and interoperability required by the Cospas-Sarsat.
+Gathering the knowledge of major players recognized in their industry worldwide, the HELIOS partners project will give the vehicle to the European Industry to lead the way for safer, more innovative systems responding to current and evolving market problems.</objective>
+  <title>Second Generation Beacon for GALILEO/EGNOS EGNSS  Search And Rescue applications</title>
+<identifier>H2020Galileo20151</identifier>
+</project>

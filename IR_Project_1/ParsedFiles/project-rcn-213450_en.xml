@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213450</rcn>
+  <acronym>MAGMA</acronym>
+  <objective>The production and migration of magma through the lithosphere results in spectacular geological processes such as volcanic eruptions, giant ore deposits, large magmatic intrusions, and is responsible for the formation of continents on Earth.
+Since magmatic systems develop on timescales of millions of years and are not directly accessible, we have to reconstruct them indirectly, such as by studying exhumed magmatic intrusions, or by using geophysical methods. Interpreting these data is complicated, as geophysical techniques only give a present-day snapshot, whereas the geological record yields an incomplete picture of the underlying processes. As a result, most existing ideas on how magmatic systems work remain conceptual and are not necessarily consistent with the mechanics of the lithosphere, which hampers our understanding of such processes.
+Here, we will develop and employ a new generation of 3D computer models to simulate the full magmatic system in arcs in a self-consistent manner, while taking both realistic rock rheologies and evolving melt chemistry into account. We will:
+1. Derive mechanically-consistent interpretations of active magmatic plumbing systems by combining geophysical and petrological data with geodynamic inverse models.
+2. Obtain insights into the physics of magma migration through arcs on geological timescales, by combining numerical simulations with geological constraints from exhumed arc roots, and by targeting several well-studied magmatic intrusions.
+3. Unravel how arcs are built on geological timescales, what the role and the rates of magmatic differentiation processes are in this, and how this may have formed continental crust on Earth.
+We can thus, for the first time, interpret the available data in a physically consistent manner. This will give deep insights in how magmatic systems develop over geological timescales and why only some evolve into large super-volcanoes.</objective>
+  <title>Melting And Geodynamic Models of Ascent</title>
+<identifier>ERC2017COG</identifier>
+</project>

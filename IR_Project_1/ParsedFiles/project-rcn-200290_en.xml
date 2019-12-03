@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200290</rcn>
+  <acronym>MECHANOGENOMICS</acronym>
+  <objective>Mechanotransduction is the signaling by which external mechanical stimuli are converted into biological signals within the cell. It helps to probe and map the rigidity and texture of external world and appeared with the first life forms some 3.8 billion years ago. In mammals, many fundamental physiological functions are regulated by mechanotransduction.
+The somatosensory system is involved in the perception of touch, pain and proprioception. Molecular mechanosensors of this sensory system are mechanically-activated ion channels. These channels are expressed at the nerve endings of sensory neurons that project long axons to the skin and to deeper body structures. The identification of these channels constitutes one of the most important challenges in the field of sensory transduction. So far only one gene family has been unambiguously associated with mammalian mechanosensory function and is specifically involved in light-touch sensation. Therefore, the identity of mechanotransduction channels involved in the detection of other mechanosensory modalities including proprioception and mechanical pain remain to be determined.
+We will combine patch-clamp methodology and single-cell transcriptome sequencing to generate the specific expression profile of distinct populations of mouse mechanosensitive neurons. Combination of bioinformatics, expression analysis and electrophysiological approaches will be used to identify molecular components of mechanotransduction channels. We will explore the role of identified genes in somatosensory functions.
+The long-term objective is to provide a compelling view of mechanosensitive process diversity in mammalian somatosensation through molecular identification of mechanotransduction channels and characterization of their physiological functions in touch, pain and proprioception. This proposal will also provide novel channel candidates that may be involved other mechanosensory functions such as embryogenesis, bone development and hearing.</objective>
+  <title>Unravelling mammalian mechanosensor diversity by functional genomics</title>
+<identifier>ERC2015STG</identifier>
+</project>

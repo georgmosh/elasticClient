@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205637</rcn>
+  <acronym>THERMOS</acronym>
+  <objective>THERMOS (Thermal Energy Resource Modelling and Optimisation System) will develop the methods, data, and tools to enable public authorities and other stakeholders to undertake more sophisticated thermal energy system planning far more rapidly and cheaply than they can today. This will amplify and accelerate the development of new low carbon heating and cooling systems across Europe, and enable faster upgrade, refurbishment and expansion of existing systems.
+
+The project will realise these benefits at the strategic planning level (quantification of technical potential, identification of new opportunities) and at the project level (optimisation of management and extension of existing and new systems).
+
+These outcomes will be achieved through:
+
+a) Development of address-level heating and cooling energy supply and demand maps, initially for the four Pilot Cities, and subsequently for the four Replication partners - establishing a standard method and schema for high resolution European energy mapping, incorporating a wide range of additional spatial data needed for modelling and planning of thermal energy systems, and their interactions with electrical and transport energy systems;
+
+b) Design and implementation of fast algorithms for modelling and optimising thermal systems, incorporating real-world cost, benefit and performance data, and operating both in wide area search, and local system optimisation contexts;
+
+c) Development of a free, open-source software application integrating the spatial datasets with the search and system optimisation  algorithms (trialled and tested through the public authorities representing four Pilot Cities);
+
+d) Supporting implementation of the energy system mapping methodology, and subsequently the use of the THERMOS software, with a further four Replication Cities/Regions, from three more EU Member States;
+
+e) Comprehensive dissemination of mapping outputs and free software tools, targeting public authorities and wider stakeholders across Europe.</objective>
+  <title>THERMOS (Thermal Energy Resource Modelling and Optimisation System)</title>
+<identifier>H2020EE2016RIAIA</identifier>
+</project>

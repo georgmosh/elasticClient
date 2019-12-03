@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>201335</rcn>
+  <acronym>DEEPCEPTION</acronym>
+  <objective>How do we recognize what we see? Despite the deceptive ease of perceiving things, explaining how we see turns out to be a supremely difficult task. Only recently advances in computer vision finally brought a class of models, known as deep neural nets, that are capable of matching human performance in several visual perception tasks. In this project, we aim to employ the knowledge how human visual system processes visual information in order to critically evaluate and improve the existing models of vision. Our aim is twofold. On the one hand, little is known yet how well deep nets can account for a huge variety of tasks that human visual system faces daily. We will perform a broad battery of tests in order to shed light on the power of deep nets and to spot potential limitations. Capitalizing on these shortcomings, in the second part of this project we aim to improve the existing technology by introducing novel algorithms based on behavioral and neural data of humans. Taken together, this project will lay a solid foundation for the psychologically- and biologically-based development of the next generation of deep nets.</objective>
+  <title>Visual perception in deep neural networks</title>
+<identifier>H2020MSCAIF2015</identifier>
+</project>

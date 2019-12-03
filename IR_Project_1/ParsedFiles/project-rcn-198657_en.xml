@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>198657</rcn>
+  <acronym>DFLOW</acronym>
+  <objective>Duality For Logic on Words (DFLOW)
+
+The mathematical theory of Stone duality underlies a deep connection between syntax and semantics in logic and theoretical computer science, and allows for powerful applications in both of these research fields. The aim of this project is to apply the topological methods provided by Stone duality to the study of the expressive power of logic in describing formal languages of both finite and infinite words. 
+
+During the outgoing phase of the project, at the Mathematics Department at the City College of the City University of New York, the applicant will perform an in-depth study of profinite semigroups and their applications in formal language theory, through the lens of Stone duality and finite model theory. In particular, recent insights from duality theory will be applied to obtain tractable combinatorial descriptions of the free profinite objects for logic fragments of varying expressive power. 
+During the return phase to Europe, to the Institute for Logic, Language and Computation at the University of Amsterdam, the applicability of duality theory will be extended to streams and data words. To this end, the knowledge and skills obtained during the outgoing phase will be combined with the existing local expertise on logic and coalgebra in Amsterdam.
+
+During both phases, the hands-on research training will be complemented by training activities to further enhance the applicant's skills in networking, collaboration, teaching, communication and management.
+
+The project, taking place at the interface of mathematics and computer science, has the potential to make a significant impact in three different ways: by advancing the research on Stone duality and formal language theory, by facilitating a new collaboration between the European host institute and a world-leading mathematics department in the USA, and by establishing the applicant's position as a leading young researcher in his field.</objective>
+  <title>Duality For Logic On Words</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

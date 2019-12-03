@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193710</rcn>
+  <acronym>GAIA-CLIM</acronym>
+  <objective>There is a recognised need for establishing sound methods for the characterisation of satellite-based Earth Observation (EO) data by surface-based and sub-orbital measurement platforms - spanning Atmosphere, Ocean and Land observations and the entire radiance spectrum. Robust EO instrument characterisation is about significantly more than simply where and when a given set of EO and ground-based / sub-orbital measurements is taken. It requires, in addition, quantified uncertainty estimation for the reference measurements and an understanding of additional uncertainties that accrue through mismatches in sampling location and time and the distinct measurement footprints to enable a complete mapping of the reference measurements onto EO measurements. It also needs user tools which include statistical tools and the integrating capabilities afforded by data assimilation systems to enable users to access and work with the data in a ‘virtual observatory’ setting. It is only if robust uncertainty estimates are placed on the ground-based and sub-orbital data and used in the analysis that unambiguous interpretation of EO sensor performance can occur.</objective>
+  <title>Gap Analysis for Integrated Atmospheric ECV CLImate Monitoring</title>
+<identifier>H2020EO2014</identifier>
+</project>

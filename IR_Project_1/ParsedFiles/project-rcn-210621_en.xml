@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210621</rcn>
+  <acronym>ACCURATE</acronym>
+  <objective>The overall goal of this project is to obtain the optimum technology for the non-destructive inspection of both present and future generation hybrid aircraft and thick composite structures, containing acoustic damping materials and materials which highly attenuate highly ultrasound, with high speed 100% volume coverage. The advanced prototype system will be validated via deployment to inspect a long barrel demonstrator component panel, which is to be developed in the Clean Sky 2 Programme using hybrid materials technology.
+
+The technical approach is to use non-contact laser generated pulsed ultrasound (LUT) with delivery of both the laser ultrasound excitation and detection pulses through flexible optical fibres scanned with a 6 axis lightweight robot arm to provide an  area coverage (scan window) substantially exceeding of 1.5m x 1.5m from a single location of the robot base. LUT Signal processing algorithms will be used for (i) the reduction of coherent noise from fibres and (ii) Random signal to noise ratio enhancement using LUT synthetic aperture focusing.
+
+The robot arm will move on a rail track that runs the length of one side of the barrel demonstrator panel which will be positioned and fixed within the system cell. The robot arm will raster the laser head system over the part surface, and move in increments along the track to inspect the whole component, at speeds of&gt;8m2 per hour. It is envisioned that the part will be scanned in less than 4 scan windows.</objective>
+  <title>Aerospace Composite Components - Ultrasonic Robot Assisted Testing (ACCURATE)</title>
+<identifier>H2020CS2CFP04201602</identifier>
+</project>

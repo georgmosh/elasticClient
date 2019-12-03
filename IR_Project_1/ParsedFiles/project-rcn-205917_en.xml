@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205917</rcn>
+  <acronym>CL-Windcon</acronym>
+  <objective>Current practice in wind turbines operation is that every turbine has its own controller that optimizes its own performance in terms of energy capture and loading. This way of operating wind farms means that each wind turbine operates based only on the available information on its own measurements. This gets the wind farm to operate in a non-optimum way, since wind turbines are not operating as players of a major system.
+The major reasons for this non-optimum approach of wind farms operation are based on the lack of knowledge and tools which can model the dynamics of the flow inside the wind farm, how wind turbines modifies this flow, and how the wind turbines are affected by the perturbed flow. In addition, this lack of tools deals to also a lack of advanced control solutions, because there are not any available tool which can help on developing and testing virtually advanced control concepts for wind farms.
+CL-WINDCON will bring up with new innovative solutions based on wind farm open and closed loop advanced control algorithms which will enable to treat the entire wind farm as a unique integrated optimization problem. This will be possible thanks to the development of appropriate dynamic tools for wind farm simulation, at a reasonable computing effort. These tools for wind farm dynamic modelling of wind farm models will be fully open source at the end of the project, while control algorithms will be extensively validated simulations, in wind tunnel tests. Some open loop validations will be performed at wind farm level tests. 
+Proposed control algorithms, useful for future but also for already existing wind farms. Then these will improve the LCOE, as well as the O&amp;M costs will decrease, and improves in terms of reliability the wind turbine and wind farm. These performance improvements will be evaluated for both, wind turbine operation and wind farm operation.</objective>
+  <title>Closed Loop Wind Farm Control</title>
+<identifier>H2020LCE2016RESCCSRIA</identifier>
+</project>

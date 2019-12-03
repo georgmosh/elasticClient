@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>197104</rcn>
+  <acronym>SUSPINTRONICS</acronym>
+  <objective>This project aims at establishing the basis for high-temperature superconducting spintronics. The innovative idea is to use spin-polarized superconducting pairs -instead of normal electrons- to convey and manipulate information, taking advantage of the coherent transport inherent to superconductivity. To further increase the potential of this approach, we intend to create multiple control knobs: magnetic field, the classical one in spintronics, as well as the knobs customary in conventional electronics: electric field and light.  This will endow superconducting spintronics with a magnetic and electric memory, as well as with photosensitivity. The basic ingredient for this ambitious project is complex-oxide heterostructures.  The approach consists of combining the following fundamental effects:
+(a)  Superconducting proximity effects, in order to transfer superconductivity into ferromagnets.
+(b) Ferroelectric field-effects, in order to modulate the superconductor/ferromagnet interactions and tune Josephson coupling. 
+(c) Spin-torque and ferromagnetic resonance effects, in order to couple superconductivity and magnetization dynamics.
+(d) Photoconductivity and photoelectric effects, in order to manipulate the interactions between superconductors and ferroics.
+This research is essentially fundamental, but the novel concepts pursued will increase the technological possibilities of superconductivity and spintronics -whose applications are at present completely disconnected.</objective>
+  <title>Magnetic, electric-field and light induced control of spin-polarized supercurrents: fundamentals for an offbeat electronics</title>
+<identifier>ERC2014CoG</identifier>
+</project>

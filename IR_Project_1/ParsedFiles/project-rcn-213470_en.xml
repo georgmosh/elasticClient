@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213470</rcn>
+  <acronym>PISSARRO</acronym>
+  <objective>Second order nonlinear processes, such as second-harmonic or difference-frequency generation, are key for frequency metrology and quantum optics applications. The successful integration of such functionalities, consequential of material 2nd order nonlinear susceptibility χ(2),  is essential to obtain compact and low power devices. Unfortunately embedding 2nd order nonlinear effects on chip poses a fundamental challenge captured by the following dogma: materials with the best photonic integration capabilities exhibit negligible χ(2). Recent research by the PI proves this dogma flawed and shows that 2nd order nonlinearities can be unlocked in silicon nitride (SiN) waveguides by all-optical means, a result that is a significant departure from other existing approaches. 
+
+PISSARRO will develop waveguides for χ(2) based effects and confront the limitations imposed by fabrication, resonant structures, or phase-matching constraints, thus seeking optimal trade-offs. By leveraging the linear properties and fabrication flexibility of SiN waveguides, the synergy between optically induced electric field from multi-photon absorption, large material 3rd order nonlinearity  and waveguide engineering will be exploited, to overcome the initial low efficiency. The objectives are far beyond the state-of-the-art by providing all-optical control, flexibility and extended operation bandwidth. 
+
+The project will build on the in-depth optical characterization of the microscopic nature of optically-induced 2nd order nonlinearity in SiN to take integrated 2nd order nonlinear devices to new frontiers. PISSARRO promises substantial impact in the domains of communication, metrology and quantum optics by providing novel CMOS-compatible photonic devices. Designed waveguides will not only lead to the integration of stabilized octave spanning combs for precise frequency references, but also introduce a path towards dynamic on-chip quantum state generation and unconstrained frequency conversion.</objective>
+  <title>Photonic integrated devices for second order nonlinear optical processes</title>
+<identifier>ERC2017COG</identifier>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204241</rcn>
+  <acronym>SCALABLA</acronym>
+  <objective>The mobile phone service is the most popular IT service worldwide with more than 5 billion users. However, many analysts agree that a novel wave of technologies combining WebRTC with Cloud Computing, is going to disrupt it bringing a new media communications era. This opens a multi billion business opportunity and developers are the key to it: currently, more than 10 million developers worldwide are avid of new platforms enabling innovative media services.
+
+In this project we present SCALABLA: a technological platform that makes possible for developers to create professional WebRTC multimedia services adapted to vertical domains (e.g. e-health, e-learning, social TV, etc.) For attracting developers, SCALABLA shall be accessible with lower costs and shall offer three differential features: social scalability, which enables new social communication topologies currently not available; personalization, including the ability of enriching and customizing video streams accordingly to users’ needs and context; and DevOps, which means that the platform simplifies most of the tedious tasks developers need to execute.
+
+SCALABLA is built on top of FIWARE technologies, which have been demonstrated in operational environments, and which guarantees its technical feasibility. In addition, a preliminary market analysis shows huge interests in SCALABLA concepts from different relevant market stakeholders and developers as well as the ability of the platform to open a whole new “blue ocean” market filling the gap between real-time media and live media broadcasting.
+
+This project will result in an elaborated business plan providing a detailed market analysis, a commercialization plan, a financial plan and a feasibility assessment analyzing risks, IPR protection mechanisms and regulatory constraints. This plan shall provide evidence on the ability of the company to transform SCALABLA into a successful, sustainable and scalable global business.</objective>
+  <title>SCALABLA: a platform for elastic multimedia communications enabling natural social interaction and personalization</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

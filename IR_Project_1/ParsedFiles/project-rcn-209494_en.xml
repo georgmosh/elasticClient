@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>209494</rcn>
+  <acronym>PlasmoCycle</acronym>
+  <objective>This proposal promises to transform our understanding of the basic biology of the malaria parasite Plasmodium, and of how that biology affects virulence. Remarkably little is known about the Plasmodium cell cycle, despite a wealth of knowledge on the subject in model cells. This project will reveal, with unprecedented resolution, how DNA replication is organised in Plasmodium and how changing conditions in the human host and exposure to antimalarial drugs affect it. 
+
+Plasmodium is an early-diverging protozoan with a complex lifecycle &amp; unusual cell-biological features. It replicates in its human host by ‘schizogony’: a single parasite generates many nuclei via independent, asynchronous rounds of genome replication prior to cytokinesis. This occurs over ~24hrs inside infected erythrocytes. However, the genome can also be copied extremely rapidly during the sexual cycle in the malaria-transmitting mosquito. Here 8 male gametes are produced from a single gametocyte in less than 10mins, necessitating extraordinarily rapid DNA synthesis. 
+
+This project will first elucidate the spatio-temporal dynamics of DNA replication in these contrasting cell cycles. To do this, I have developed a method for labelling nascent DNA replication, which was not previously possible in Plasmodium. It will permit: a) a detailed characterisation, at the whole-cell level, of the asynchronous genome replication that occurs in schizogony; b) a study of replication origin spacing &amp; DNA synthesis speed at single-molecule resolution on DNA fibres, comparing these parameters in schizogony &amp; gametogenesis; c) mapping sequences with replication origin activity in the Plasmodium genome; d) investigation of cell-cycle checkpoints &amp; replicative responses to the changing environment in the human host and to antimalarial drugs. These are crucial issues for understanding parasite virulence and drug-resistance, and the work will inform vital new research into transmission-blocking interventions for malaria.</objective>
+  <title>DNA dynamics in the unusual cell cycle of the malaria parasite Plasmodium falciparum</title>
+<identifier>ERC2016COG</identifier>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194286</rcn>
+  <acronym>ACINO</acronym>
+  <objective>The Internet has evolved into a three layer structure: at the top layer sit the applications generating traffic that is groomed at the IP and/or OTN layers and finally transported at the optical layer. Specific application needs, such as latency or protection requirements, are seldom guaranteed, because they are usually implicit and even when they are not, the need of the grooming layer to map large numbers of small flows into the small numbers of very large and static lightpaths is an obstacle to effective service fulfillment.
+
+ACINO proposes a novel application-centric network concept, which differentiates the service offered to each application all the way down to the optical layer, thereby overcoming the disconnect that the grooming layer causes between service requirements and their fulfillment in the optical layer. This allows catering to the needs of emerging medium-large applications, such as database migration in data centers. To realize this vision, ACINO aims to develop an open source, vendor-agnostic modular orchestrator, which will expose to applications a set of high level primitives for specifying service requirements, and then perform multi-layer (IP and optical) planning and optimization processes to map these requirements into a set of lightpaths. The orchestrator will also be able to perform re-optimization, by means of a novel online in-operation planning module. The ACINO consortium has strong industrial foundations, and plans to demonstrate the advantages of its approach in a testbed with commercial equipment in a carrier environment.
+
+ACINO’s approach directly addresses the lack of dynamic control of optical networks, by automating planning and configuration tasks, and tackles the limitations in inter data center connectivity by allowing applications to request detailed and complex custom services to be provisioned in a timely manner. Overall, ACINO’s open source and vendor-agnostic approach will foster the emergence of open industry standards.</objective>
+  <title>Application Centric IP/Optical Network Orchestration</title>
+<identifier>H2020ICT20141</identifier>
+</project>

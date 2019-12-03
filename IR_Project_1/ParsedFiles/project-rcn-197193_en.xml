@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>197193</rcn>
+  <acronym>B3Africa</acronym>
+  <objective>B3Africa - Bridging Biobanking and Biomedical Research across Europe and Africa will dramatically improve and facilitate the development of better predictive, preventive and personalized healthcare worldwide. The rapidly evolving African biobanks are an invaluable resource: The African population has the greatest genomic diversity on the planet and represents an incredible resource of information to advance biomedical research. B3Africa aims to implement a cooperation platform and technical informatics framework for biobank integration between Africa and Europe. The collaboration harmonizes the ethical and legal framework, biobank data representation and bioinformatics pipelines for sharing data and knowledge among biobanks and allowing access for researchers from both continents. Main actors from the relevant initiatives including Human Heredity and Health in Africa project (H3Africa), European Biobanking and Biomolecular Resources research infrastructure (BBMRI-ERIC) and LMIC Biobank and Cohort Network (BCNet) collaborate in B3Africa to address the following objectives:
+• Defining an ethical and regulatory framework for biobank data sharing between Europe and Africa
+• Defining data models for representing biobank and research data based on existing best practices, standards and ontologies
+• Designing an informatics platform using existing open-source software (with eBioKit and BiBBox as essential modules) integrating workflows for biobank applications
+• Implementation of an education and training system for information and capacity building
+• Validating the B3Africa concept with existing biobanks from both continents
+B3Africa will provide the critical mass to maximise efficiency in biomedical research, supports defragmentation through integration and allows efficient leverage of existing biobanks and e-infrastructures in Europe and Africa. The technical informatics framework will be designed for easy upscaling and integration with other research infrastructures.</objective>
+  <title>Bridging Biobanking and Biomedical Research across Europe and Africa</title>
+<identifier>H2020INFRASUPP20142</identifier>
+</project>

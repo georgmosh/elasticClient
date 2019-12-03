@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194861</rcn>
+  <acronym>Flex-ON</acronym>
+  <objective>The delivery of fast Internet connections all over Europe is a primary goal of Horizon 2020. In order to avoid the upcoming capacity crunch on transport optical networks, there is an urgent need for a strong investment in the research and development of future-proof optical broadband infrastructures. The Flex-ON project will investigate new technological paradigms in terms of signal generation, digital processing and control-plane management for novel flexible and high-capacity transport optical networks. The primary technical objective of the project is to develop and implement a flexible transceiver prototype with intelligent reconfigurability and arbitrarily low bit-rate granularity. The development of this technology will enable to increase the network capacity and the spectral/energy efficiency, while providing a future-proof flexible solution for an increasingly heterogeneous global network.
+
+The main scientific/industrial contributions of the project include:
+- the optimization of signal modulation to improve spectral efficiency and bit-rate granularity;
+- the development of novel DSP strategies and algorithms to enable flexible networking;
+- the development of novel numerical tools for physical layer modelling under the nonlinear (NL) propagation regime;
+- the optimization of NL compensation methods to improve the trade-off between spectral efficiency and signal reach.
+
+In order to guarantee a sustainable and smooth upgrade of currently installed optical transmission systems, Flex-ON encompasses a dual-generation approach:
+- 1st generation: fixed frequency grid (ITU-T: 50 GHz) and fixed symbol-rate transceivers with variable bit-rate enabled by time domain hybrid QAM techniques;
+- 2nd generation: flexible frequency grid (ITU-T G.694.1: 12.5 GHz) and variable symbol-rate transceivers.
+
+The tight collaboration with industry players ensures that the newly proposed concepts, software and prototypes will enhance the European competitiveness in the telecom sector.</objective>
+  <title>Flexible Optical Networks – Time Domain Hybrid QAM: DSP and Physical Layer Modelling</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

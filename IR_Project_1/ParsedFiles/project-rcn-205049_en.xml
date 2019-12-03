@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205049</rcn>
+  <acronym>SIGNATURIT_2016</acronym>
+  <objective>Signaturit - The smartest e-Signature solution to send and sign documents on the go.
+
+Electronic signatures have been regulated in most of the developed countries, including the European Union and the United States of America, to permite their legal use. 
+
+Signature is a service that allows to the user handwriting signature of documents through any mobil device in a digitized format. It allows the receiver to sign an attached document received by email.
+
+After the session logout, the service automatically converts the attachments to a PDF document that is signad with an electronic signature, sealed and with time stamping.
+
+It is a multiplatform application, meaning that it does not requiere any specific device for its use (it only requires a device with a touchscreen). Just a valid email adress and Internet connection on the mobile device are needed for working. It is completely independent from email management software, Wen browsers, etc. We identify the signer in a unique way and certify the electronic evidences generated during the signing process.
+
+The purpose of Signaturit is to leader the online world in term of the digital signature of documents, providing the highest possible legal validity to the process and providing to the service the consideration of advanced electronic signatgure according to the definition established by the Act 59/2003 on electronic signature and providing legally valid probative evidence in the process.</objective>
+  <title>Signaturit - The smartest e-Signature solution to send and sign documents on the go</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

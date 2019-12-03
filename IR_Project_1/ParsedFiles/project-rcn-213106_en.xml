@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213106</rcn>
+  <acronym>WAI-Tools</acronym>
+  <objective>WAI-Tools, Advanced Decision Support Tools for Scalable Web Accessibility Assessments, drives innovation with sustainable impact on the entire field of web accessibility evaluation and repair through:
+• Building on the on-going international standardisation efforts on web accessibility conformance testing;
+• Ensuring consistent accuracy across automated, semi-automated, and manual web accessibility testing;
+• Pursuing leading edge technologies for website testing, including dynamic and mobile web applications;
+• Leveraging the existing market of commercial, free, and open source web accessibility evaluation tools;
+• Demonstrating large-scale web accessibility monitoring built on open standards and open source tools.
+WAI-Tools achieves this by carrying out key efforts in the vendor-neutral environment of the World Wide Web Consortium (W3C). WAI-Tools draws together key expertise from industry,public bodies, and research to develop common understanding of web accessibility requirements in exchange with the existing community and networks of the W3C Web Accessibility Initiative (WAI).
+WAI-Tools is uniquely positioned and qualified to develop authoritative resources that are coordinated and aligned with the on-going European and international efforts on web accessibility standardisation, including W3C Web Content Accessibility Guidelines (WCAG) 2.1,the expected revision of EN 301 549, and upcoming EC definition of mobile requirements and monitoring methodology in light of the EU Directive on web accessibility.
+WAI-Tools maximises the impacts while minimising the use of project resources by building on existing open source tools from leading market vendors, rather than investing in teething troubles of less mature tools. WAI-Tools deploys testing tools in existing web accessibility monitoring observatories and integrates these differing national approaches using open data, to demonstrate easier and more cost effective assessment of web accessibility requirements at scale</objective>
+  <title>Advanced Decision Support Tools for Scalable Web Accessibility Assessments</title>
+<identifier>H2020ICT20171</identifier>
+</project>

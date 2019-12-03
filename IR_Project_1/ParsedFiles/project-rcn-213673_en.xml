@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213673</rcn>
+  <acronym>Furhat Robotics</acronym>
+  <objective>Furhat is a social robot that interacts with people just like people do. Furhat is an award-winning novel type of computer-to-human interface that is based on years of R&amp;D on social artificial intelligence. 
+Furhat's body uses a translucent mask and a back-projected state-of-the-art animation system. The animation comes from a small projector located in the neck via a set of mirrors, and by mapping a computer animation that exactly fits the mask, it creates the illusion of a moving and living being. Furhat has a built-in framework for multi-party dialogue management that enables complex interactions—speech, gaze movements, head pose, facial expressions, and gestures in response to events. Furhat can interact with several users at the same time and detect their gestures &amp; expressions.
+Furhat Robotics is a spin-off company from KTH Royal Institute of Technology based on 15 years of research in human-computer interaction, spoken dialog systems, and 3D animation. Furhat is developed by a team  headed by a former Disney Imagineer, and includes renowned scientists, and entrepreneurs, that left companies such Disney, Spotify &amp; Klarna, and universities such as Yale, CMU &amp; KTH to work on it.
+Furhat has a strong early market traction—50+ customers globally are using it in education &amp; training, therapy &amp; social care, customer service &amp; entertainment. 
+The annual market for social robots is forecasted to reach €2bn by 2025 with applications in multiple verticals (healthcare, education, public service, research, consumer &amp; personal robots). To maximize our opportunity, we will focus on development of the generic Furhat platform, leaving implementation &amp; commercialization of specific solutions to 3rd party developers &amp; researchers. In this Phase 1 project we will carry out a market assessment &amp; identify 2-3 most promising verticals for commercialization of the Furhat platform. 
+We are aiming at commercialising ~100,000+ Furhat robots by 2023, generating €28m+ in annual revenues.</objective>
+  <title>The Human Face of AI: a novel platform to build social conversational robots for education, healthcare, retail  other verticals</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

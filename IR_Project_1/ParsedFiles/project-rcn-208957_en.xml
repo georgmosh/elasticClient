@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208957</rcn>
+  <acronym>SPFireSD</acronym>
+  <objective>Wildfires have a great impact on the environment and can pose a threat to property and human lives and health. The occurrence of fire in natural vegetation is dependent on human activities and climate variability. In tropical areas such as the Amazon basin and Indonesia, wildfires are greatly affected by inter-annual fluctuations in tropical Sea Surface Temperatures (SSTs). During the El Niño events of 1997-1998 and 2015-2016, uncontrolled wildfires caused record impacts on health, transportation and the economy. The European countries of the Mediterranean basin are frequently plagued by drought episodes (e.g. during the summer of 2016), causing dangerous wildfires which result in deaths, health problems and economic losses.
+
+Seasonal climate prediction is a field which typically forecasts seasonal average precipitation and temperature anomalies with a few months lead time. The main sources of predictability are SSTs, soil moisture, snow cover and teleconnections with the tropics. Seasonal climate predictions are performed operationally in Europe and globally, and are used in fields such as agriculture, health, water management and energy. While some effort has been put into short-term forecasts of fire danger in Europe, there is currently no operational seasonal wildfire forecasting system for Europe and only a few for other continents. The goal of this project is to develop and assess seasonal fire prediction capability through a variety of complementary and innovative methods, with a focus on Europe, the Amazonian basin and Indonesia.</objective>
+  <title>Seasonal Prediction of Fire danger using Statistical and Dynamical models</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

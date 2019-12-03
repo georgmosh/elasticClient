@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>203414</rcn>
+  <acronym>AQUAMS</acronym>
+  <objective>The main focus of this project is the mathematical analysis of many-body quantum systems, in particular, interacting quantum gases at low temperature. The recent experimental advances in studying ultra-cold atomic gases have led to renewed interest in these systems. They display a rich variety of quantum phenomena, including, e.g., Bose–Einstein condensation and superfluidity, which makes them interesting both from a physical and a mathematical point of view.
+The goal of this project is the development of new mathematical tools for dealing with complex problems in many-body quantum systems. New mathematical methods lead to different points of view and thus increase our understanding of physical systems. From the point of view of mathematical physics, there has been significant progress in the last few years in understanding the interesting phenomena occurring in quantum gases, and the goal of this project is to investigate some of the key issues that remain unsolved. Due to the complex nature of the problems, new mathematical ideas
+and methods will have to be developed for this purpose. One of the main question addressed in this proposal is the validity of the Bogoliubov approximation for the excitation spectrum of many-body quantum systems. While its accuracy has been
+successfully shown for the ground state energy of various models, its predictions concerning the excitation spectrum have so far only been verified in the Hartree limit, an extreme form of a mean-field limit where the interaction among the particles is very weak and ranges over the whole system. The central part of this project is concerned with the extension of these results to the case of short-range interactions. Apart from being mathematically much more challenging, the short-range case is the
+one most relevant for the description of actual physical systems. Hence progress along these lines can be expected to yield valuable insight into the complex behavior of these many-body quantum systems.</objective>
+  <title>Analysis of quantum many-body systems</title>
+<identifier>ERC2015AdG</identifier>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>214820</rcn>
+  <acronym>P-LH2</acronym>
+  <objective>Hydrogen and fuel cell technologies were identified amongst the new energy technologies needed to achieve up to 80% reduction in greenhouse gases by 2050 in the European Strategic Energy Technology Plan. This is not only for automotive applications but also for distributed energy storage and power to gas technology. The transport of liquefied hydrogen (LH2) is considered as the most effective option for scaling up the hydrogen supply infrastructure. However, LH2 implies specific hazards, which are very different from those associated with the relatively well-known compressed gaseous hydrogen. Experience with LH2 in a distributed energy system is lacking. The release of pressurised LH2 jet is accompanied by flashing, intense phase changes, cryogenic jets, droplets, spray and rainout, etc. The wide flammability range of hydrogen and low ignition energy further necessitate special consideration for fire and explosion safety.  
+P-LH2 aims to develop robust modelling strategies for pressurised LH2 jets; and to train the Experienced Researcher (ER) and develop a two-way transfer of knowledge in an interdisciplinary project. To achieve these overall goals, the following five specific objectives are specified: 
+1. Develop and validate a robust solver LH2FOAM within the frame of OpenFOAM® for pressurised LH2 jets to assist facility siting and safe operations of LH2 technologies in transport, storage and utilization in the forthcoming upscaling of hydrogen supply infrastructure and the development of LH2 specific international codes and standards;
+2. Establish the principle structure, morphology and behaviour of LH2 jets in realistic conditions including flammable envelope;
+3. Investigate effect of wind speed and direction, confinement and obstacles on large-scale LH2 releases;
+4. Foster a two-way transfer of knowledge between the ER and participating organisations; and
+5. Disseminate and communicate the P-LH2 results to wider audiences in order to maximise its impact.</objective>
+  <title>Characterisation of pressurised liquid hydrogen (LH2) releases</title>
+<identifier>H2020MSCAIF2017</identifier>
+</project>

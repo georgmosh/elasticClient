@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>214997</rcn>
+  <acronym>PARSe</acronym>
+  <objective>The PARSE project will explore the potential for wide deployment (and possible commercialization) of whole-program static program analysis techniques as a web-based service for program comprehension and reorganization. This analysis-as-a-service (AaaS) approach will have direct value for a large number of professional programmers. The programmer will use the service to answer key program comprehension questions (including: “how does my code use this open-source library?”; “Am I affected by the security vulnerabilities discovered in this library code?”; “What objects should I lock before making this library call?”) and to act upon them (e.g., reorganize code and prepare packaged versions of binary code for deployment so that only the minimal needed code is included).
+
+Such needs have been identified in direct contact with major software companies (namely, Facebook and Oracle, which are both partners in current projects with the PI’s group). The proposed work lifts such specific coding needs to a general-availability web-based software analysis service. Analysis questions will be answered in high precision, with the aid of the program analysis algorithms developed in the ERC frontier research project (SPADE —307334) that the proposed work draws upon. Past tools in the commercial or research space have focused on high-precision, yet local, analysis. The proposed work will leverage whole-program static analysis techniques (such as pointer, value-flow, and taint analyses) that the PI’s group has extensively developed in the last decade.</objective>
+  <title>Program Analysis and Reorganization, as a Service</title>
+<identifier>ERC2017PoC</identifier>
+</project>

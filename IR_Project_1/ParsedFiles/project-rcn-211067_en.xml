@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211067</rcn>
+  <acronym>5G-TRANSFORMER</acronym>
+  <objective>The vision of the 5G-TRANSFORMER project is that Mobile Transport Networks shall transform from today’s rigid interconnection solutions into an SDN/NFV-based 5G Mobile Transport and Computing Platform (MTP) able of simultaneously supporting an extremely diverse range of networking and computing requirements to meet in particular the specific needs of vertical industries. A new networking paradigm known as Network Slicing has emerged for 5G as the most promising approach to address this challenge by enabling per slice management of virtualized resources. 5G-TRANSFORMER aims to bring the “Network Slicing” paradigm into mobile transport networks by provisioning and managing MTP slices tailored to the needs of vertical industries. Specifically: automotive, healthcare and media. The technical approach is twofold: (1) Enable Vertical Industries to meet their service requirements within customised MTP slices; and (2) Aggregate and Federate transport networking and computing fabric, from the edge up to the core and cloud, to create and manage MTP slices throughout a federated virtualized infrastructure. The proposed solution defines three novel building blocks that will be developed and demonstrated integrating the aforementioned three vertical industries:
+(1) Vertical Slicer as the logical entry point (i.e., one stop shop) for verticals to support the creation of their respective transport slices in a short time-scale (in the order of minutes).
+(2) Service Orchestrator to orchestrate the federation of transport networking and computing resources from multiple domains and manage their allocation to slices.
+(3) Mobile Transport and Computing Platform as the underlying unified transport stratum for integrated fronthaul and backhaul networks.
+The 5G-TRANSFORMER project addresses “ICT 07–2017: 5G PPP Research and Validation of critical technologies and systems” with a special focus on the TA11: Converged 5G FlexHaul Network objectives of the pre-structuring model.</objective>
+  <title>5G-TRANSFORMER: 5G Mobile Transport Platform for Verticals</title>
+<identifier>H2020ICT20162</identifier>
+</project>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194465</rcn>
+  <acronym>SINGWAVES</acronym>
+  <objective>"Non linear wave equations are central in the description of many canonical models in physics from nonlinear optics to fluid mechanics. A phenomenon of particular interest is singularity formation which corresponds to the concentration of the energy of the wave packet. The existence and description of such dynamics is still mostly mysterious, but fundamental progress have been made in the past ten years on canonical models like nonlinear wave and Schr\"odinger equations, with in particular the discovery of the fundamental role played by a specific class of nonlinear wave packets: the solitary waves. These very recent works open up a huge field of investigation on problems which were considered out of reach ten years ago. The aim of the SINGWAVES project is to strenghten our research group in the setting of an intense international activity with two main directions of investigation: the construction and classification of singular bubbles for some canonical models like non linear Schr\"odinger equations, the exploration of new deeply nonlinear dynamics in connection with classical models at the frontier of current research."</objective>
+  <title>Singularity formation in nonlinear evolution equations</title>
+<identifier>ERC2014CoG</identifier>
+</project>

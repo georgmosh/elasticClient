@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199489</rcn>
+  <acronym>HOBBIT</acronym>
+  <objective>Linked Data has gained significant momentum over the last years. It is now used at industrial scale in many sectors in which an increasingly large amount of rapidly changing data needs to be processed. HOBBIT is an ambitious project that aims to push the development of Big Linked Data (BLD) processing solutions by providing a family of industry-relevant benchmarks for the BLD value chain through a generic evaluation platform. 
+We aim to make open deterministic benchmarks available to test the performance of existing systems and push the development of innovative industry-relevant solutions. The underlying data will mimic real industrial data assembled during the course of the project. At the beginning of the project, HOBBIT will work on roughly 1PB of real industry-relevant data from 4 different domains. The data will be extended through collaborations during the project. 
+To push the use of the benchmarks, we will organize or join challenges that aim to measure the performance of technologies for the different steps of the BLD lifecycle. In contrast to existing benchmarks, we will provide modular and easily extensible benchmarks for all industry-relevant BLD processing steps that allow to assess whole suites of software that cover more than one step.
+The infrastructure necessary to run the evaluation campaigns will be made available. Our architecture will rely on web interfaces and cloud infrastructures to ensure scalability. The open HOBBIT platform will make human- and machine-readable, public periodic reports available. As exit strategy, the project will create an association after the second project year that will be sustained by the means of subscriptions from industry and academia and associated with existing benchmarking associations. The clear portfolio of added value for the members will be defined in the early project stages and disseminated throughout the evaluation campaigns.</objective>
+  <title>Holistic Benchmarking of Big Linked Data</title>
+<identifier>H2020ICT2015</identifier>
+</project>

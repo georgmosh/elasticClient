@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196313</rcn>
+  <acronym>SoN3S</acronym>
+  <objective>SoN3S has the ambitious aim to perform the technical and economic feasibility study of a new Software Defined Satellite Navigation Security Simulator that meets the new requirements (security, flexibility, frequent upgrade, lower cost) emerged from the market evolution, initially targeting satellite navigation security and then extending the same approach to other space assets. The global core market of satellite navigation is more than 100 billion euros, representing an extremely promising opportunity for the exploitation of this new requirements not yet satisfied by competing products.
+Current satellite navigation simulators rely on costly hardware for real time generation and transmission of the signal, mainly due computational power advantages. This however drastically increases costs and complexity of the product, reduces flexibility and upgradability as well as forces costly sales and distribution strategies. 
+Technically, the project has the ambition to tackle the issues of producing a real time fully software simulator exploiting the computational power available in standard PCs and combined with only an low cost USB hardware (from less than € 100, for the up-conversion of the signal).  
+Economically, the study will tackle new software oriented sales paradigm and marketing strategies with respect to the standard distribution chain in hardware simulators. This is particularly important for the security features, that will be provided with monthly updates and it is expected to follow a similar approach to daily desktop software. Software as a Service paradigm will also be investigated from the technical (bandwidth issues) and commercial point of view.  
+The combination of the technical and economic feasibility study will pose the basis to create e dramatic innovation in the simulation markets.</objective>
+  <title>Software defined Satellite Navigation Security Simulator Study</title>
+<identifier>H2020SMEINST12014</identifier>
+</project>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212704</rcn>
+  <acronym>TOPODY</acronym>
+  <objective>Recently, topology stepped in an increasing number of areas in physics, including via the concept of topological phases of matter. In strongly interacting systems, topological phases may exhibit intricate quantum entanglement between their constituents, leading to fascinating physical properties, such as the emergence of anyons. Since the discovery of fractional quantum Hall states in 1982, the scientific community is awaiting further experimental advances: new types of strongly correlated states, observation/manipulation of anyons. In this field, ultracold atoms promise novel approaches with a specific degree of control. Yet, despite the recent creation of weakly interacting topological states with atomic gases, reaching the strongly correlated regime, with long-range quantum entanglement, remains an open challenge.
+In TOPODY, I will use a novel approach to produce strongly correlated topological states with microscopic samples of atomic Dysprosium. The envisioned laboratory experiment will combine state-of-the-art techniques, such as single-atom detection or laser-induced spin-orbit coupling. It will allow preparing quantum gases subjected to artificial gauge fields beyond the previously accessible regimes. The project will focus on realizing two paradigmatic physical systems – the Laughlin state and a topological superfluid. 
+1. We will create the Laughlin state by injecting a controlled amount of angular momentum using optical transitions with finely-shaped laser beams. We will infer distinctive features of the Laughlin state – incompressibility and atom anti-bunching – from the distribution of atom positions. 
+2. We will produce strongly interacting Fermi gases in one dimension and subjected to a spin-orbit coupling, leading to a topological superfluid state. The topology will manifest itself by the presence of Majorana bound states, which are quantum states delocalized between the two ends of the system, and accessible using quasi-particle spectroscopy.</objective>
+  <title>Exploring topological matter with atomic Dysprosium</title>
+<identifier>ERC2017STG</identifier>
+</project>

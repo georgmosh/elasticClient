@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199556</rcn>
+  <acronym>SHAPE</acronym>
+  <objective>Despite the fact that the catalyst structure has been an important factor in catalysis science since the discovery of structure sensitive reactions in single crystal studies, its effect on reactivity is neglected in state-of-the-art microkinetic modelling. In reality, the catalyst is dynamic by changing its structure, shape and size in response to the different conditions in the reactor. Thus, the inclusion of such effects within the framework of microkinetic modelling, albeit extremely complex, is of outmost importance in the quest of engineering the chemical transformation at the molecular level. This proposal aims to approach this grand challenge by developing a hierarchical multiscale methodology for the structure-dependent microkinetic modelling of catalytic processes in applied catalysis. In particular this challenging objective will be achieved by acting on two main fronts: 
+i. development of a hierarchical multiscale methodology for the prediction of the structural changes of the catalyst material as a function of the operating conditions in the reactor and the analysis of the structure-activity relations through the development of structure-dependent microkinetic models;
+ii. show the applicability of the methodology by the assessment of the structure-activity relation in the context of relevant processes in energy applications such as the short-contact-time CH4 reforming with H2O and CO2 on supported-metal catalysts.
+The inherent complexity of the problem will be tackled by hierarchically combining novel methods at different levels of accuracy in a dual feed-back loop between theory and experiments. This will require interdisciplinary efforts in bridging among surface science, physical-chemistry and chemical engineering. The fundamental nature and impact of the methodology will be unprecedented and will pave the way toward the detailed analysis and design of the structure-activity relation by tuning shape and size to tailoring activity and selectivity.</objective>
+  <title>Structure-dependent microkinetic modelling of heterogeneous catalytic processes</title>
+<identifier>ERC2015STG</identifier>
+</project>

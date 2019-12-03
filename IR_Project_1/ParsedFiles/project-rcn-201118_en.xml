@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>201118</rcn>
+  <acronym>TNS</acronym>
+  <objective>When designing new structures and devices, engineers are completely dependent on mathematical models to ensure that their designs function as intended. As technological boundaries are pushed to the limits, systems become nonlinear – the response of the system is no longer proportional to the input. These nonlinear systems can exhibit a wide range of complicated behaviour that is very difficult to predict and potentially disastrous. Take for example the F-117A Night Hawk stealth jet. Despite extensive modelling and design work, at an airshow in 1997 in Maryland, Essex, USA, it encountered a disastrous instability known as flutter. The aircraft was lost. 
+
+Until now there has been no general-purpose systematic method that can directly measure and characterise nonlinear dynamic behaviour during laboratory tests; hence it is extremely challenging to incorporate nonlinear features into the model development and validation process.
+
+Control-based continuation (CBC) is a systematic method designed to fill this void in the nonlinear test and measurement field. Thought the method has already been demonstrated on several simple mechanical systems, it is still in its infancy and lacks robustness. The specific objectives of the research proposed here are to develop and incorporate in CBC effective and noise-robust algorithms and control strategies, hence leading to a solid and more general framework for testing nonlinear dynamic systems. The method will be demonstrated experimentally including on an aeroelastic rig that exhibits potentially dangerous flutter-induced limit cycle oscillations in a wind-tunnel.</objective>
+  <title>Developing the Next Generation Framework for Testing Nonlinear Dynamic Structures.</title>
+<identifier>H2020MSCAIF2015</identifier>
+</project>

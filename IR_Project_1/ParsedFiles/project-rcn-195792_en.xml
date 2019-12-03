@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>195792</rcn>
+  <acronym>smSTRUCT</acronym>
+  <objective>We seek to develop a new structural biology method that is able to overcome barriers to solving very complex functional protein assemblies that are variable enough in their composition and conformation to defeat current methodologies. 
+I intend to combine high-throughput single molecule FRET (smFRET) experiments with computational modeling to achieve this goal. SmFRET will be used to derive individual building block structures as well as distances between these blocks on a molecule-to-molecule level. Computational modeling is used to fuse this information into a full atomistic model of the protein assembly.
+The yeast ESCRT machinery is proposed as a model system to develop the new methodology. The ESCRT machinery is particularly important because of its role in HIV infections: HIV seizes control of the cell’s ESCRTs to get released from infected cells. The ESCRT assemblies’ size and flexibility lead to the fact that their assembled structure on membranes is largely unknown. Individual ESCRT proteins will be labeled by Cy3/Cy5. The ESCRT assembly will then be reconstructed on invaginated supported lipid bilayers and imaged via TIRF microscopy. FRET efficiencies will be recorded and the label-label distance determined. High-throughput biochemistry and labeling technology will allow us to generate &gt; 100 distinct labeling sites, resulting in overdetermined structures. Stepwise photobleaching will reveal the stoichiometry within full assemblies. Alterations in FRET efficiency due to local contact formations within the assembly will reveal these local contacts. Based on the experimental data of the individual complexes, their copy number in the assembly and their local contacts, the full assembly will be determined computationally, based on replica exchange Monte Carlo simulations.</objective>
+  <title>Fuse smFRET and modeling to a new structural biology method and solve the functional ESCRT assembly structure</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

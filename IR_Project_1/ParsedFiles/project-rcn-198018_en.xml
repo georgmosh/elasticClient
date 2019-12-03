@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>198018</rcn>
+  <acronym>TAMING</acronym>
+  <objective>In many important areas and applications of science one has to solve non convex optimization problems and  ideally and ultimately one would like to find the global optimum. However in most cases one is faced with NP-hard problems and therefore in practice one has been often satisfied with only a local optimum obtained  with some ad-hoc (local) optimization algorithm. 
+
+TAMING intends to provide a systematic methodology for solving hard non convex polynomial optimization problems in all areas of science. Indeed the last decade has witnessed the emergence of Polynomial Optimization as a new field in which powerful positivity certificates from real algebraic geometry have permitted to develop an original and systematic approach to solve (at global optimality) optimization problems with polynomial (and even semi-algebraic) data.  The backbone of this powerful methodology is the « moment-SOS » approach also known as « Lasserre hierarchy » which has attracted a lot of attention in many areas (e.g., optimization, applied mathematics, quantum computing, engineering, theoretical computer science) with important potential applications. It is now a basic tool for analyzing hardness of approximation in combinatorial optimization and the best candidate algorithm to prove/disprove the famous Unique Games Conjecture. Recently it has also become a promising new method for solving the important Optimal Power Flow Problem in the strategic domain of Energy Networks (as the only method that could solve to optimality certain types of such problems). 
+
+However in its present form this promising methodology inherits a high computational cost and a (too) severe problem size limitation which precludes from its application many important real life problems of significant size. Proving that indeed this methodology can fulfill its promises and solve important practical problems in various areas poses major theoretical &amp; practical challenges.</objective>
+  <title>Taming non convexity?</title>
+<identifier>ERC2014ADG</identifier>
+</project>

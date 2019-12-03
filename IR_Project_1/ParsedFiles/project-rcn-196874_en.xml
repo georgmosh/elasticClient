@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196874</rcn>
+  <acronym>IRIS</acronym>
+  <objective>Infrared sensing technology has a central role to play in addressing 21st century global challenges in healthcare, security and environmental sensing.  Promising new applications hinge on the ability to detect individual quanta of light: single photons.  At infrared wavelengths this is a formidable task due to the low photon energy, and commercial-off-the-shelf technologies fall far short of the required performance.  IRIS will engineer revolutionary photon counting infrared imaging and sensing solutions, with unprecedented spectral range, efficiency, timing resolution and low noise.  Using state-of-the-art materials and nanofabrication techniques, novel superconducting detector technology will be scaled up from single pixels to large area photon counting arrays.  Efficient readout and optical coupling solutions will be developed and implemented.  IRIS will exploit space age cryogenic technology to create compact and mobile detector systems.   IRIS will deploy these systems for the first time in revolutionary infrared imaging and sensing applications: dosimetry for laser based cancer treatment, atmospheric remote sensing of greenhouse gases and real-time distributed fibre sensing for geothermal energy.</objective>
+  <title>Infrared imaging and sensing: the single-photon frontier</title>
+<identifier>ERC2014CoG</identifier>
+</project>

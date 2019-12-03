@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213852</rcn>
+  <acronym>WAI</acronym>
+  <objective>European mobile telecom operators struggle with low customer satisfaction and loyalty in highly competitive markets resulting in high churn (an average mobile operator churn of 14% means that an operator with 5m customers loses 700,000 customers each year), lower ARPU and a high marketing spend to win new customers. Many operators use advanced churn prediction models today but have not yet found an effective way to leverage on this knowledge at large scale. They now demand tools to efficiently engage with millions of customers on a personal level and thereby increase customer satisfaction and loyalty.
+ 
+Our managed software cost-efficiently orchestrates and delivers personalized communication enabling dialogues with large customer bases using a blend of voice and text to mimic a human communication. Today, we optimize the communication manually based on our team’s experience, but will now take our product to be automatically data-driven utilizing AI (WAI). Based on previous and real-time interactions WAI learns and adapts what, when and how to communicate with each individual, helping customers to change price plan, order new handset, renew service or get support through a mobile device. Initial tests prove five times higher conversion, and optimize customer lifetime value at a scale that is not possible manually.
+ 
+Wiraya was established in 2008, employs 40 in Stockholm (HQ) and London, and revenue grew by 83% to €3m in 2016. We have worked with Northern Europe’s largest telecom operators for years, and presented WAI to their top management with very positive response, resulting in LoI:s with 3, Tele2 and Telia to be test partners. We have a window of opportunity to gain market shares ahead of competition, and will in 2022 have +€45m in revenue and employ +150 people. Our cutting-edge AI technology and expertise is transferable across EU and strengthens EU’s innovation climate and global AI competitiveness, not only within telecom, but also within other verticals.</objective>
+  <title>Wiraya Activation Intelligence</title>
+<identifier>H2020SMEINST220162017</identifier>
+</project>

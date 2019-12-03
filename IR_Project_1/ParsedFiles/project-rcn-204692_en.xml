@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204692</rcn>
+  <acronym>Observable Stability</acronym>
+  <objective>The existing literature mainly focuses on two kinds of interactions: short-term interactions in which the behavior today does not influence the future, and long-term interactions with the same partner. In the former model, the only stable outcomes are Nash equilibria (which are typically non-efficient), while the latter model allows one to achieve efficient outcomes. Many interesting situations lie somewhere in between, typically when people engage in short-term interactions but future partners may obtain some information about the behavior today. For example, how do people behave when interacting in one-off purchases in an online site with a feedback mechanism (e.g., eBay)?
+In this project I will fill the large gap in the literature, by characterizing evolutionary stable outcomes when players have limited information about the partner’s past, and how this stable behavior depends on the richness and the structure of the observed information. This will shed new light on indirect reciprocity and its use to achieve efficiency in social dilemmas.
+The evolutionary stable outcomes capture the long run behavior in a dynamic process of cultural learning. Agents are randomly matched in each round to play a game with a new partner. Each agent may observe some information about the partner’s past behavior. New agents, who join the interactions, usually mimic one of the existing behaviors, with a larger tendency to choose more successful incumbents. Occasionally, few agents experiment with a new behavior.
+The research agenda includes several theoretical subprojects with various research questions, such as:
+(1) Would non-material preferences be stable?
+(2) What will be the influence of non-verifiable reports about past behavior?
+(3) Which of the (locally) stable outcomes would be selected?
+(4) What will happen in asymmetric interactions between professional sellers and non-experienced buyers?
+The final subproject experimentally tests the various predictions and key implications.</objective>
+  <title>Evolutionary stability, observability, and efficiency</title>
+<identifier>ERC2015STG</identifier>
+</project>

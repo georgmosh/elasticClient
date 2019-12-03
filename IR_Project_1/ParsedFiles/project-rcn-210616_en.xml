@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210616</rcn>
+  <acronym>NAFTI</acronym>
+  <objective>NAFTI will entirely cover the topic description. NAFTI will develop, manufacture, test and qualify, up to safe for flight status, a FMS supporting complex noise abatement trajectories while reducing crew workload in order to improve safety. Two key elements will contribute to this workload reduction:
+1/ Automation by coupling the FMS to the flight control system.
+2/ An efficient HMI taking benefit from a graphical and tactile user interface.
+The entire FMS will comply with the safety requirements for HAZARDOUS failure conditions in a CS-29 certification context.
+NAFTI will make following advancements starting from Clean Sky 1 results owned by Airbus Helicopters:
+- From conventional to compound rotorcraft.
+- From manually flow to automatically flown complex trajectories.
+- From alphanumeric keyboard &amp; display to touch enabled GUI. 
+The FMS will be a drop-in replacement for the CMC CMA-9000 which is currently used in the targeted avionics suites. This de-risks the integration of the NAFTI FMS. The project will be done by Esterline Belgium, located  in Kortrijk (Belgium, EU) in collaboration with Esterline CMC Electronics, located in Montreal (Canada). The activities in Montreal will not require any form of EU funding. This collaboration brings together cutting edge touch enabled display expertise from Esterline Belgium and top notch FMS expertise from CMC. Additionally, the two locations give access to complementary markets for future exploitation of the results.
+NAFTI will reduce weight, power and cost at helicopter level. This will result in lower cost of ownership, lower environmental footprint and better rotorcraft performance. This improves competitiveness for the helicopter manufacturer. The exploitation of the FMS will rely on production activities in Belgium using a supply chain with a large share in Europe.</objective>
+  <title>Noise Abatement Fms with Tactile Interface</title>
+<identifier>H2020CS2CFP04201602</identifier>
+</project>

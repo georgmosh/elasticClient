@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212119</rcn>
+  <acronym>MICRONEX</acronym>
+  <objective>Engineers can actively contribute to fields thought to be out of their “comfort zones”. We can be leaders of discoveries that translate into advances in the understanding of disease and improving human health. Engineers might use different language and tools than Life Sciences Scientists but we find a common ground, as the laws of Thermodynamics, Physics, and Mathematics also apply to biological phenomena.
+The development of microbioreactors (μBRs) reconstructing biologically sound niches can revolutionize medical research.
+In our bodies cells reside in a complex milieu, the microenvironment (μEnv), regulating their fate and function. Most of this complexity is lacking in standard laboratory models, leading to readouts poorly predicting the in vivo situation. This is particularly felt in cancer research, as tumors are extremely heterogeneous and capable of conditioning both the local μEnv and distant organs. Neuroblastoma (NB) is the most common and difficult to cure pediatric malignant solid tumor. Secreted exosomes are means by which NBs reshape their μEnv and induce local and long-range changes in cells, regulating progression and prognosis. But the mechanisms involved are yet not completely understood. A major limitation is the difficulty to model in vitro the local in vivo dynamic μEnv.
+We hypothesize that μBRs exploiting classical engineering principles will solve the limitations of existing classical culture models.
+We propose to develop platforms and test their edge over classical approaches in decoding the role of exosomes and μEnv in NB. Our μBRs generate time and space-resolved concentration gradients, support fast dynamic changes and reconstruct complex interactions between cells and tissues while performing multifactorial and parallelized experiments.
+We expect that our technologies will bridge the gap between in vitro techniques and in vivo biological phenomena leading to significant and novel results, shedding light on previously unexplored scenarios.</objective>
+  <title>Microbioreactor platforms as in vivo-like systems to probe the role of Neuroblastoma-derived Exosomes in cancer dissemination</title>
+<identifier>ERC2017STG</identifier>
+</project>

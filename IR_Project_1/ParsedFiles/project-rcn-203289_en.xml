@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>203289</rcn>
+  <acronym>HECATE</acronym>
+  <objective>Hydrogen is the simplest and most abundant element in the universe. It exists under extreme conditions in stars and planets.  Nuclear fusion, requires creating such extreme temperature and pressure on earth.  Lightweight storage of hydrogen in condensed form would unleash its potential as a fuel. The behaviour of a collection of protons and electrons presents an iconic challenge in fundamental physics.
+
+Diamond anvil cells (DAC) recently generated pressures above 400GPa, accessing conditions where the mechanical work of compression equals the chemical bonding energy.  Most elements undergo dramatic structural changes in this regime, and rival predictions for hydrogen include molecular and atomic metals, superfluidity, superconductivity and one-dimensional melting.  Yet when the new phase IV was discovered in 2011, it was none of these things: it was a totally unexpected complex molecular insulator. At these conditions experimental data is sparse: we must exploit it to the fullest extent, yet previous theoretical work has concentrated on routine density functional theory (DFT) simulation producing unmeasurable predictions.  I will conduct a programme combining neutron scattering and Raman spectroscopy with theory and simulation focused on measurable quantities.  This will require developing and implementing heuristic theories which do not currently exist.
+
+I will develop methods to find free energy, theory to extract Raman frequencies and linewidths from simulation, and techniques to determine the signature from entanglement of quantum rotors.  This requires a thorough re-examination of the quantum scattering processes in the framework of DFT, including the interaction timescale and in metals, and a full quantum treatment of indistinguishable nuclei.
+
+Thus HECATE will be uniquely placed not only to produce new phases of hydrogen, but to reliably identify what has been found.</objective>
+  <title>Hydrogen at Extreme Conditions: Applying Theory to Experiment for creation, verification and understanding</title>
+<identifier>ERC2015AdG</identifier>
+</project>

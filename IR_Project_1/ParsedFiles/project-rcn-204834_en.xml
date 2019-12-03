@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204834</rcn>
+  <acronym>CHANGE</acronym>
+  <objective>The simulation of Partial Differential Equations (PDEs) is an indispensable tool for  innovation in science and technology.
+Computer-based simulation of PDEs approximates unknowns defined on a geometrical entity such as the computational domain with all of its properties. Mainly due to historical reasons, geometric design and numerical methods for PDEs have been developed independently, resulting in tools that rely on different representations of the same objects.
+
+CHANGE aims at developing innovative mathematical tools for  numerically solving PDEs and for geometric modeling and processing,   the final goal being  the definition of a common framework where geometrical entities and simulation are coherently integrated and where adaptive methods can be used to guarantee optimal use of computer resources, from the geometric description to the simulation. 
+We will concentrate on two classes of methods for the discretisation of PDEs that are having growing impact: 
+isogeometric methods and variational methods on polyhedral partitions. They are both  extensions of standard finite elements enjoying exciting features, but both lack of an ad-hoc geometric modelling counterpart. 
+We will extend numerical methods to ensure robustness on the most general geometric models, and we will develop geometric tools to construct, manipulate and refine such models. Based on our tools, we will design an innovative adaptive framework, that jointly exploits  multilevel representation of  geometric entities and PDE unknowns. 
+Moreover, efficient algorithms call for efficient implementation: the issue of the optimisation of our algorithms on modern computer architecture will be addressed. 
+Our research (and the team involved in the project) will combine competencies in computer science, numerical analysis, high performance computing, and computational mechanics.   Leveraging our innovative tools, we will also tackle challenging numerical problems deriving from bio-mechanical applications.</objective>
+  <title>New CHallenges for (adaptive) PDE solvers: the interplay of ANalysis and GEometry</title>
+<identifier>ERC2015AdG</identifier>
+</project>

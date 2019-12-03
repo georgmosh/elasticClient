@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210138</rcn>
+  <acronym>MeBeSafe</acronym>
+  <objective>Navigating traffic is mostly habitual; Our behaviour neither requires a lot of elaborate conscious decision-making, nor is it purely automatic/reflexive. However, most current measures intended to get traffic users to behave safer appeal to our deliberate self (awareness campaigns, speed signs), act autonomously on our behalf (autonomous braking, traffic lights), or seek to “assist” us by presenting feedback/information (Forward Collision Warning, roadside speed displays). However, the latter category of measures is often not effective as users either switch them off or do not act on the information provided.
+MeBeSafe is looking to directly change our habitual traffic behaviour using “nudging”. This concept from behavioural economics relates to subconsciously stimulating us to make a desired choice, without forcing us if we want to go a different way. Nudging measures are less invasive, give the user choice (but predispose him to make a desired choice) and can be provided earlier in the chain of events leading to a critical situation.
+We plan to implement nudging feedback both for in-vehicle Advanced Driver Assistance Systems (ADAS, existing or close-to-market), and through roadside infrastructure (e.g. measures directed at cyclists). Currently no roadside equivalent of ADAS exists, and we will prototype and demonstrate one version.
+We will prospectively analyse the effectiveness of suggested nudging measures first by modelling, followed by controlled experiments. We will furthermore conduct a field trial to evaluate the long-term learning effect for one proposed nudging measure.
+Our consortium includes automotive OEMs and suppliers, road infrastructure and fleet owners, SME’s involved in traffic data analysis, and leading organisations in traffic safety research and modelling.</objective>
+  <title>Measures for behaving safely in traffic</title>
+<identifier>H2020MG2016TwoStages</identifier>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>197520</rcn>
+  <acronym>RobustSENSE</acronym>
+  <objective>Today’s driver assistance systems offer comfort and safety in sound environmental conditions. However, in harsh environment conditions – when needed most – systems stop working due to reduced sensor information quality. Targeting to the area of highly automated driving the improvement of perception, decision and planning under adverse conditions is one of the main challenges to be addressed. 
+RobustSENSE is a project aiming at automated and safe mobility. Its goal is making systems able to cope with real world requirements under all environmental conditions. The RobustSENSE system introduces reliable, secure and trustable sensors and software by implementing self-diagnosis, adaptation and robustness. By managing diversity, complexity and safety it increases yield, robustness and reliability. 
+RobustSENSE develops metrics to measures sensor system reliability on every level of assistance and automation systems as well as investigate approaches to improve the system. RobustSENSE thus aims at enhancing the robustness of all sensing methods and algorithms required for advanced driver assistance systems and automated driving. 
+RobustSENSE moves from a platform consisting of several independent subsystems to a holistic approach. RobustSENSE introduces both, reliability measures and self monitoring across all levels of the system allowing two things: 1) Taking appropriate actions and algorithms on the respective system level to react on performance reduction caused by technical failure or changing environment conditions and 2) propagating reliability measures to a higher system level for decision making and taking appropriate actions therein. 
+Thus, the area of operation of highly automated driving functions is permanently adapted to the present available performance of the perception and decision making system in order to guarantee a safe driving status at any time.</objective>
+  <title>Robust and Reliable Environment Sensing and Situation Prediction for Advanced Driver Assistance Systems and Automated Driving</title>
+<identifier>ECSEL20141</identifier>
+</project>

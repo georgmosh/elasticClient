@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194303</rcn>
+  <acronym>FANCI</acronym>
+  <objective>The FANCI near-market Innovation Action will research, innovate, architect, design, develop and validate innovative multimodal face and body analytics and natural computer interfaces (NCI), develop a reference platform fitting a variety of applications, and provide validation through user-experience evaluation and benchmarking in the rapidly expanding automotive field.
+The project will focus on intelligent user sensing methods, including face analysis, eye tracking, emotion, intention &amp; authentication; hand gesture recognition; voice tone analysis; and head gesture &amp; pose analysis. It will complement those with smart user intention or distraction estimation and system reaction methods, supplying visual (HUD, etc.), voice and haptic feedback as well as autonomous system actions.
+FANCI will deliver these capabilities in a market ready reference architecture, demonstrated by building a creative Automotive application-suite demonstrator. An Application Programming Interface for software application developers of pervasive natural computer interaction devices, will be supplied. The platform will empower embedded products that capture and act upon user intentions, and imaginative utility applications fusing real and virtual content.
+To achieve these goals FANCI will combine multi-modal sensor data in a hardware platform to enable robust operation in natural environments, sensing explicit, implicit, and emotional actions of the user in a simple, yet powerful extensible software architecture; provide a low cost, power optimised reference design for embedded products; and validate the approach by building an automotive application demonstrator.
+The FANCI’s partners include an effective mix of innovative pioneering SMEs, industry leaders and academic researchers, guided by a large industrial Automotive systems market leader. The project targets the call’s C focus action. It is planned for a 28-month duration, and is estimated to require total funding of around 2.5 M€.</objective>
+  <title>Face and body Analysis Natural Computer Interaction</title>
+<identifier>H2020ICT20141</identifier>
+</project>

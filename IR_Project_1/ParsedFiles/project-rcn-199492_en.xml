@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199492</rcn>
+  <acronym>WIPE</acronym>
+  <objective>The WIPE project aims at developing hybrid electronic-photonic chips as a key enabling technology for data transmission purposes. It aims at bringing photonics to a new level by developing a concept that can be well industrialised. This sustains EU leadership in photonics, as is the ambition of the work program.   
+
+A new wafer-scale technology will thus be developed for direct and intimate attachment of III-V Indium-Phosphide (InP) photonic integrated circuits (PICs) and BiCMOS electronic chips (ICs). The ICs contain the driver, receiver andcontrol electronics for the PIC and enable direct connection to polymer optical waveguides. This technology of ‘wafer scale heterogeneous integration’ enables high-performance and high-density photonic-electronic (photronic) modules are created having a lower energy consumption, lower packaging complexity and lower cost compared to modules using more traditional interconnection techniques like wire bonding and laser welding of fibre connections. 
+
+Next to the new bonding technology, an integrated module design technology is developed for efficient co-design of hybrid photonic and electronic modules. A library consisting of photonic/electronic standard modules, is created leveraging the process design kits (PDKs) of the most important European foundries of photonic chips in combination with a powerful BiCMOS. These tools are of significantimportance to industry, since they offer photronic module designers a standardised approach that highly facilitates the module design for SMEs and affordable manufacturing by photonic and electronic foundries. The PDK is demonstrated through the prototyping of a 400Gb/s transceiver for data centre applications.</objective>
+  <title>Wafer scale Integration of Photonics and Electronics</title>
+<identifier>H2020ICT2015</identifier>
+</project>

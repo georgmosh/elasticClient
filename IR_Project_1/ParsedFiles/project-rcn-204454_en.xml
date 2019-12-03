@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204454</rcn>
+  <acronym>IsoMS</acronym>
+  <objective>Mass spectrometry (MS) in combination with electrospray ionization (ESI) is one of the principal tools currently used to gain insight into newly developed catalytic reactions. It is used to identify key reaction intermediates and to study their structure and reactivity. This proposal is based on the combination of modern MS approaches with novel experiments in a unique cryo-trapping instrument. This combination allows the study of short-lived ionic species that cannot be studied by other known methods. Our distinguishing feature is the in situ helium-tagging of ions, which allows us to record their infrared spectra via a pre-dissociation technique. Here, we will go beyond this state-of-the-art approach in two directions:
+(1) The unparalleled advantage of ESI-MS is its high sensitivity to low-abundant and reactive species. The pertinent question at the heart of all reaction mechanism investigations via MS is how the ions found in the gas-phase relate to the condensed-phase reaction. We will address this question using “Delayed Reactant Labelling”, which will directly link condensed phase kinetics to the abundance of isolated gaseous ions. 
+(2) We will take advantage of long storage times in our cryogenic linear quadrupole trap and expand the portfolio of the methods available to address mixtures of ions with the same mass. Isobaric mixtures are resolved in MS by differences in ion mobilities, i.e. the ions are separated by their mass-to-charge ratios and by their shapes. We will perform ion mobility separation directly in the trap by excitation of the ion secular motion using a resonant dipolar electric field. Further, we will combine cryo-trapping experiments with the probing or modifying of the stored ions by reactive collisions with neutral molecules. The mobility experiments and the reactivity probing will be routinely combined with spectroscopic experiments.</objective>
+  <title>Mass Spectrometry of Isomeric Ions</title>
+<identifier>ERC2015CoG</identifier>
+</project>

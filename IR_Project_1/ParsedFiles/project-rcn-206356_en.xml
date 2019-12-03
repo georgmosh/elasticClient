@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206356</rcn>
+  <acronym>Bonseyes</acronym>
+  <objective>The Bonseyes project aims to develop a platform consisting of a Data Marketplace, Deep Learning Toolbox, and Developer Reference Platforms for organizations wanting to adopt Artificial Intelligence in low power IoT devices (“edge computing”), embedded computing systems, or data center servers (“cloud computing”). It will bring about orders of magnitude improvements in efficiency, performance, reliability, security, and productivity in the design and programming of Systems of Artificial Intelligence that incorporate Smart Cyber Physical Systems while solving a chicken-egg problem for organizations who lack access to Data and Models. It’s open software architecture will facilitate adoption of the whole concept on a wider scale. 
+
+It aims to address one of the most significant trends in the Internet of Things which is the shifting balance between edge computing and cloud computing. The early days of the IoT have been characterized by the critical role of cloud platforms as application enablers. Intelligent systems have largely relied on the cloud level for their intelligence, and the actual devices of which they consist have been relatively unsophisticated. This old premise is currently being shaken up, as the computing capabilities on the edge level advance faster than those of the cloud level. This paradigm shift—from the connected device paradigm to the intelligent device paradigm opens up numerous opportunities.
+
+To evaluate the effectiveness, technical feasibility, and to quantify the real-world improvements in efficiency, security, performance, effort and cost of adding AI to products and services using the Bonseyes platform, four complementary demonstrators will be built: Automotive Intelligent Safety, Automotive Cognitive Computing, Consumer Emotional Virtual Agent, and Healthcare Patient Monitoring. Bonseyes platform capabilities are aimed at being aligned with the European FI-PPP activities and take advantage of its flagship project FIWARE.</objective>
+  <title>Platform for Open Development of Systems of Artificial Intelligence</title>
+<identifier>H2020ICT20161</identifier>
+</project>

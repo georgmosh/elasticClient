@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>195881</rcn>
+  <acronym>BRIDGES</acronym>
+  <objective>Breast cancer is the most common cancer among European women showing high clinical and molecular heterogeneity. Current clinical management causes patients overtreatment with implications on both patients’ quality of life and healthcare costs. Moreover, intrinsic or acquired tumor resistance to treatment leads to incurable metastatic progression in a significant proportion of patients. 
+Advances in cancer genomics highlighted a high inter- and intra-tumor genetic heterogeneity, reinforcing the need for a mutation-based personalized treatment and a way to non-invasively monitor evolving disease. This project will significantly contribute in addressing such unmet challenge aiming 1) to identify altered breast cancer driver pathways, 2) to study their association with drug response and 3) to develop tools for a non-invasive assessment of such alterations. 
+By integrating multi-dimensional molecular data from more than 3000 cases, driver pathways will be identified and their association with previous breast cancer classifications as well as their prognostic significance will be studied. Their predictive power will be investigated in a matchless bio-bank of Patient Derived Xenografts, a much more reliable pre-clinical model, able to recapitulate inter- and intra-tumor heterogeneity observed in patients. Multi-dimensional molecular data and high throughput drug screenings are available and will be integrated to identify novel pharmacogenomics associations.
+Mining of such amount of data will allow defining a portfolio of relevant breast cancer alterations that will be sought in plasma of patients from the DETECT trial, towards a non-invasive monitoring able to guide therapeutic strategy.
+Development and application of cutting-edge computational approaches is fundamental to reach above aims and it will constitute a major part of the efforts, considerably expanding Experienced Researcher's know-how in the field of cancer genomics and translational medicine.</objective>
+  <title>Bioinformatic approaches to identify and detect both disease- and drug-related genomic alterations in breast cancer patients</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

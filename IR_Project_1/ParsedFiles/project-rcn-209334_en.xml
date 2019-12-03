@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>209334</rcn>
+  <acronym>StressEBOV</acronym>
+  <objective>Ebola virus (EBOV) is a highly pathogenic filovirus that causes severe haemorraghic fever and killed over 11,000 people during the recent epidemic in Western Africa. Although potential vaccines and drugs are being tested, no treatment has been approved. Therefore, understanding the cellular regulation of EBOV replication is fundamental to develop novel treatments. 
+EBOV is a nonsegmented negative-strand RNA virus for which research is limited to BSL4 laboratories. However, a recent reverse genetic system using tetracistronic transcription- and replication-competent virus-like particles (trVLPs) allows modelling of the entire EBOV life cycle under BSL2 conditions. 
+The EBOV genome is transcribed and replicated by the viral polymerase complex but the regulation of these processes remains poorly characterised. EBOV RNAs can also trigger antiviral responses via cytoplasmic RNA-sensors RIG-I and PKR, the latter also promoting stress granule (SG) formation. While EBOV inhibits RNA-sensing, the impact of SGs on EBOV is unknown. 
+Therefore, I will investigate the role of cellular stress responses on EBOV replication and their potential counteraction by the EBOV VP35 protein using the trVLP system. Firstly, I will analyse the impact of SGs on EBOV replication by overexpression and CRISPR/Cas9 depletion of SG proteins. Using a panel of VP35 mutants, I will also investigate its potential to counteract SGs by automated flow cytometric image acquisition (Imagestream). Secondly, I will identify the EBOV polymerase complex interactome during infection using two distinct proteomic approaches: co-purification with a VP35-GFP fusion protein(GFP-trap) and VP35biotin-ligase proximity tagging (BioID2). Candidate VP35 cofactors will be validated by biochemical interaction, CRISPR-knockout and live cell microscopy to determine their role in EBOV replication. In summary, this project will increase the understanding of EBOV replication and identify new therapeutic targets.</objective>
+  <title>Ebola virus manipulation of the cellular stress responses</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

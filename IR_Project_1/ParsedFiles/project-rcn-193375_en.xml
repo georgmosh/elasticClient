@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193375</rcn>
+  <acronym>ETC</acronym>
+  <objective>"The European Travellers Club is a programme by and for European transport ticketing schemes or operators, travellers organizations and technology providers to create seamless account-based traveling across the European Union. 
+
+The programme is traveller-centric, meaning that the travelers will be in control of their preferences and privacy. While it includes innovative technological concepts, it is expressly designed to work with existing e-ticketing infrastructures in member states (Calypso, VDV, ITSO etc) as well as new possibilities (such as EMV-contactless, smart tokens etc). The ""eco-system"" will be open for all potential suppliers through an open architecture with clear interfaces and standardized protocols. The architecture is such that it allows for a smooth integration with travel planning and booking tools, journey information and integration with other uses of e-identity, e-payment and e-ticketing.
+
+The programme consists of: 
+(1) the governance structure of the European Travellers Club and National or Regional Travellers Clubs that ensures interoperability and traveller-in-control privacy, while avoiding a suppliers lock-in.
+(2) the technological development of our solutions for secure and fast identification in transport, our authentication and routing functionality between schemes, our solutions for privacy using derived-identities and personal storage options, and our integration with smart phones, NFC mobile phones, and EMV-contactless.
+(3) the European Travellers Lab in which our member schemes can develop and test use cases, business rules, and interoperability across schemes and identifiers.
+(4) the standards and interfaces that allow members of one (national) Travellers Club to consult, through their own portal and in their own language, the travel planning and booking tools mediated through a Travellers Club in another country.
+"</objective>
+  <title>The European Travellers Club: Account-Based Travelling across the European Union</title>
+<identifier>H2020MG2014TwoStages</identifier>
+</project>

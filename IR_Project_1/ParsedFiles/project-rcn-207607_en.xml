@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207607</rcn>
+  <acronym>RetroNets</acronym>
+  <objective>Gene regulatory networks (GRNs) are an important cellular signal processing mechanism for translating input signals into
+appropriate phenotypes by modulating expression of the genome. The quantitative details of how cells process information
+through GRNs are still poorly understood, but of central importance in a large number of biological processes. Considerable
+progress has been made in mapping the topology of GRNs and more recently in deciphering the relationship between
+promoter sequence and function. Nonetheless, it is not yet possible to computationally predict the output of most native
+promoters, nor is it trivial to build promoters that integrate signals in a novel and predictive manner. Developing a
+quantitative understanding of transcriptional regulation, ultimately leading to the ability to predict entire GRNs will be a
+significant achievement and a prerequisite for our ability to engineer biological systems.
+I propose a multi-disciplinary approach incorporating biology, engineering, and computational modelling to improve our
+quantitative understanding by reverse engineering GRNs in S. cerevisiae. My research group has developed a powerful set
+of unique, high-throughput microfluidic technologies that enable the quantitative analysis of GRNs in vitro and in vivo.
+Specifically I propose to quantitatively investigate the yeast phosphate regulatory network and to develop a master model
+capable of predicting output of the network under various inorganic phosphate concentrations, to develop novel approaches
+for modulating GRNs using engineered Zn-finger transcription factors (TF) and CRISPR/Cas, to link GRN output to fitness
+in order to develop an understanding of how networks are optimized and evolve, and to reverse engineer an exact
+functional copy of the native phosphate regulatory network with orthogonal components.</objective>
+  <title>Reverse Engineering Gene Regulatory Networks</title>
+<identifier>ERC2016COG</identifier>
+</project>

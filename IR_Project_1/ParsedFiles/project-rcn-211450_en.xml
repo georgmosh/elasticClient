@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211450</rcn>
+  <acronym>CodeSphere</acronym>
+  <objective>There is currently no high-throughput method to efficiently identify and optimize nanoparticle delivery of therapeutic relevant cargo such as drugs or mRNA before progression through costly clinical development.  This is in stark contrast to the situation for small molecules and antibodies, where screening technologies such as high-throughput small molecule screening and phage display in the last decades have proven very successful to aid and drive drug discovery and development.
+Our project ‘CodeSphere’ seeks to develop a method for DNA-tagging of nanoparticles to efficiently optimize nanoparticles on several parameters in parallel from libraries which - in time - will be at least 1.000-10.000 larger than the capability of current state-of-the-art screening methods. The project will initially work towards the generation of a library of &gt; 1.000 different T cell targeted liposomal nanoparticles containing mRNA encoding anti-cancer proteins.
+This library of DNA-tagged nanoparticles will be screened in “one-pot” in human blood to identify nanoparticles with optimal characteristics to efficiently deliver mRNA to specific cell populations.
+Through such a technology, one could gain knowledge on which particle design is most optimal including stability in blood, ‘stealth’ evasion of the immune system, optimal systemic circulation time, efficiency in reaching the target tissue (e.g. cancer lesion) and efficiency in delivering the drug or other cargo. The technology can be applied to whole blood preparations, primary cells, cell lines, and even as in vivo screening in whole organisms.</objective>
+  <title>CodeSphere - Discovering Therapeutic Nanoparticles by Molecular Encoding</title>
+<identifier>ERC2017PoC</identifier>
+</project>

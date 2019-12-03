@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212283</rcn>
+  <acronym>HD-App</acronym>
+  <objective>We present a large variety of novel lines of research in Homogeneous Dynamics with emphasis on the dynamics of the diagonal group. Both new and classical applications are suggested, most notably to 
+• Number Theory
+• Geometry of Numbers
+• Diophantine approximation. 
+
+Emphasis is given to applications in 
+
+• Diophantine properties of algebraic numbers.
+
+The proposal is built of 4 sections.
+
+(1) In the first section we discuss questions pertaining to topological and distributional aspects of periodic orbits of the diagonal group in the space of lattices in Euclidean space. These objects encode deep information regarding Diophantine properties of algebraic numbers. We demonstrate how these questions are closely related to, and may help solve, some of the central open problems in the geometry of numbers and Diophantine approximation. 
+
+(2) In the second section we discuss Minkowski's conjecture regarding integral values of products of linear forms. For over a century this central conjecture is resisting a general solution and a novel and promising strategy for its resolution is presented.
+
+(3) In the third section, a novel conjecture regarding limiting distribution of infinite-volume-orbits is presented, in analogy with existing results regarding finite-volume-orbits. Then, a variety of applications and special cases are discussed, some of which give new results regarding classical concepts such as continued fraction expansion of rational numbers.
+
+(4) In the last section we suggest a novel strategy to attack one of the most notorious open problems in Diophantine approximation, namely: Do cubic numbers have unbounded continued fraction expansion? This novel strategy leads us to embark on a systematic study of an area in homogeneous dynamics which has not been studied yet. Namely, the dynamics in the space of discrete subgroups of rank k in R^n (identified up to scaling).</objective>
+  <title>New horizons in homogeneous dynamics and its applications</title>
+<identifier>ERC2017STG</identifier>
+</project>

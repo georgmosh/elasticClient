@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204236</rcn>
+  <acronym>CALIPRI Smart</acronym>
+  <objective>CALIPRI Smart is a handheld measuring device for geometrical properties of arbitrary objects. The optical gauge outputs 2D profiles via WLAN and can be used for quality management and safety checks. The most important markets are railway companies, the automotive industry and rolling mills (steel). The key of the innovation is the software of CALIPRI which allows high-precision measurements although the device is hand guided. This software can be adapted easily to the individual needs of the customer. In opposite to devices, which use a hardware developed for a certain niche application, CALIPRI is a universal solution. This allows a high quantity and low unit cost in production. The customisation is the low-cost part of the product and so it is possible to produce niche products at the quantity and price of a mass product.
+The customisation for the markets only needs a housing optimized for the use case, a user interface adapted to the markets needs and a configuration file for the use case. The core technology stays the same in all versions of CALIPRI Smart. 
+In this project Nextsense will launch the following versions: 
+1. C42 SA (single-app) for safety checks on wheel flanges in the railway industry
+2. C42 MA (multi-app) for safety checks on wheel flanges, breaks, wheel diameters and rails.
+3. C14 for quality control of car bodies in the automotive industry
+4. C-Hot for the measuring of red-hot steel parts in rolling mill. 
+The USPs are: a.) the easy and failsafe measuring procedure which does not need skilled employees. b.) high volumes of the expensive parts of the device and hence low prices. Pay-off time lower than a year c.) 100% contact-less measurements d.) C-Hot is the only portable device to measure the profiles of red-hot steel parts.
+The product launches are accompanied by the establishment of 2 subsidiaries in Atlanta and Shanghai and a Company ramp up from currently 50 FTEs to more than 120 FTEs after phase 2.</objective>
+  <title>CALIPRI Smart - the easy to use and failsafe handheld optical gauge for 2D-profiles.</title>
+<identifier>H2020SMEINST220162017</identifier>
+</project>

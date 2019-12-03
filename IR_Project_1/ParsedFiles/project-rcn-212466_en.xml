@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212466</rcn>
+  <acronym>MATHROCKS</acronym>
+  <objective>We will develop and exchange knowledge on applied mathematics, high-performance computing (HPC), and geophysics  to better characterize the Earth´s subsurface. We aim to better understand porous rocks physics in the context of elasto-acoustic wave propagation phenomena. We will develop parallel high-continuity isogeometric analysis (IGA) simulators for geophysics. We will design and implement fast and robust parallel solvers for linear equations to model multi-physics electromagnetic and elasto-acoustic phenomena. We seek to develop a parallel joint inversion workflow for electromagnetic and seismic geophysical measurements. To verify and validate these tools and methods, we will apply the results to: characterise hydrocarbon reservoirs, determine optimal locations for geothermal energy production, analyze earthquake propagation, and jointly invert deep-azimuthal resistivity and elasto-acoustic borehole measurements. 
+Our target computer architectures for the  simulation and inversion software infrastructure consists of distributed-memory parallel machines that incorporate the latest Intel Xeon Phi processors. Thus, we will build a hybrid OpenMP and MPI software framework.
+We will widely disseminate our collaborative research results through publications, workshops, postgraduate courses to train new researchers, a dedicated webpage with regular updates, and visits to companies working in the area. Therefore, we will perform a significant role in technology transfer between the most advanced numerical methods and mathematics, the latest super-computer architectures, and the area of applied geophysics.</objective>
+  <title>Multiscale Inversion of Porous Rock Physics using High-Performance Simulators: Bridging the Gap between Mathematics and Geophysics</title>
+<identifier>H2020MSCARISE2017</identifier>
+</project>

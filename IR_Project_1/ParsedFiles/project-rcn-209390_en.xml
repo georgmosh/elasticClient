@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>209390</rcn>
+  <acronym>YEFF</acronym>
+  <objective>Cellular and developmental processes rely on the precise activity of the proteins that constitute them, and alteration of protein activity often causes disease phenotypes and fitness defects. The relation between protein activity (or expression) and organismal fitness is thus a fundamental genetic property with implications for evolutionary and disease processes. However, a systematic understanding of how protein expression relates to fitness is lacking.
+
+Here we propose a comprehensive screen of expression-fitness functions (EFFs) for yeast genes.
+
+The proposed inter-disciplinary project will combine cutting-edge methods from synthetic biology, innovative one-step construction of a comprehensive genome-wide library, multiplexed genomics measurements and functional genomics computational analyses to elucidate fundamental patterns of expression-fitness functions.
+
+The methodology is based on an inducible degron system that allows for controlled repression of protein levels. Due to a one-fits-all design, the inducible degron can be fused in a one-step transformation procedure to any gene contained in the yeast GFP-fusion library. An all-in-one construction of the library, assessment of library components via deep-sequencing and multiplexed growth and expression assays will allow for the measurement of thousands of yeast gene EFFs in parallel.
+
+Computational data analyses will elucidate principal classes of EFFs. Subsequent functional genomics analyses will link principal EFFs to underlying molecular and physiological properties, such as gene’s functions, pathways or cellular localizations, which will therefore provide a foundation to understand the principal causes of how alterations in gene activity translate to impairments of cellular function.
+
+The proposed project will therefore open up a new area of systematic, quantitative genetic analysis that should prove crucial in the understanding of human genetic variation and disease.</objective>
+  <title>Comprehensive analysis of yeast expression-fitness functions (EFFs)</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

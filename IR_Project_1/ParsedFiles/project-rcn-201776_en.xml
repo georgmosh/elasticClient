@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>201776</rcn>
+  <acronym>Panatomy</acronym>
+  <objective>Panatomy: Revolutionizing radiology through digital diagnoses
+Panatomy is a breakthrough support software program for medical imaging specialists, providing the first interactive image-based diagnostic reference system for radiology. By increasing diagnosis speed, Panatomy boosts doctors’ capacities and saves lives.
+Across all medical fields there is an increasing demand for visual diagnostics including CT and MRI scans, resulting in waiting lists for radiologic services. But while most medical professions have a digital reference system, radiology does not. Instead, radiologists must rely on print-based books or text-based web databases to research and diagnose.
+Panatomy fills this void by providing an interactive viewer software tool connected to a state-of-the-art database with the most extensive library of pathological images to date. Using Panatomy, radiologists can simply compare a patient’s MRI or CT scan against images of anatomical structure and pathological case images. This enables radiologists to make faster and more accurate diagnoses, with an increased capacity of up to 15% in trials.
+Panatomy has been developed by a highly qualified team that includes medical doctors, lawyers, technologists and business experts based at the renowned Charite University Hospital in Berlin, home to the biggest radiology department in Europe.
+Panatomy will now undertake a feasibility study to prove the technical and commercial viability of the existing product, verify business assumptions, and plan for pan-European expansion. As a result, Panatomy will be positioned to exploit the full potential of its highly innovative product, and enhance the quality of radiologic health care across Europe and beyond.</objective>
+  <title>Panatomy</title>
+<identifier>H2020SMEINST12015</identifier>
+</project>

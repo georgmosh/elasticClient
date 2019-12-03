@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204410</rcn>
+  <acronym>SMAPP</acronym>
+  <objective>SMAPP is an IT hospitality platform that integrates a smart room solution and a mobile application development suite, helping hotels to offer a 360º experience to their guests, increasing repeat customers while decreasing management costs by 18%. 
+Luxury, boutique hotels, upper-scale accommodation providers and resorts strive to provide 360º experiences to their guests by improving the quality of service while reducing costs. The SMAPP system overcomes these challenges with two critical services: a custom mobile guide and a comfortable smart room experience. SMAPP includes the following components: 
+- A Mobile Application Development suite and Content Management System for hotels. 
+- A native mobile application for Android, iOS and Microsoft platforms for travelers. 
+- A mesh wireless room to control devices such as lighting, heating, humidity actuators and sensors based on the Z-Wave technology. 
+- A web management console which provides hotel owners with a Hotel Management System and an interface to room's devices. 
+- Room controllers acting as interfaces between the management system and room’s devices. 
+SMAPP is a disrupting solution promoted by an established luxury accommodation provider, DELTAFIN21, in collaboration with ZUNA, a promising hospitality technology provider. The solution, which is already backed by important electrical engineering companies as well as hospitality providers, will be demonstrated in 4 pilot projects throughout Europe. In Phase 1 we will analyse installation requirements, select the pilot hotels and technological partners and define the business plan and Intellectual Property strategy.</objective>
+  <title>Smart room and Mobile APPlication Development Suite for hospitality</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

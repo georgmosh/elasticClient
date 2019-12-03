@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208815</rcn>
+  <acronym>2DQP</acronym>
+  <objective>Quantum optics, the study of how discrete packets of light (photons) and matter interact, has led to the development of remarkable new technologies which exploit the bizarre properties of quantum mechanics. These quantum technologies are primed to revolutionize the fields of communication, information processing, and metrology in the coming years. Similar to contemporary technologies, the future quantum machinery will likely consist of a semiconductor platform to create and process the quantum information. However, to date the demanding requirements on a quantum photonic platform have yet to be satisfied with conventional bulk (three-dimensional) semiconductors.
+
+To surmount these well-known obstacles, a new paradigm in quantum photonics is required. Initiated by the recent discovery of single photon emitters in atomically flat (two-dimensional) semiconducting materials, 2DQP aims to be at the nucleus of a new approach by realizing quantum optics with ultra-stable (coherent) quantum states integrated into devices with electronic and photonic functionality. We will characterize, identify, engineer, and coherently manipulate localized quantum states in this two-dimensional quantum photonic platform. A vital component of 2DQP’s vision is to go beyond the fundamental science and achieve the ideal solid-state single photon device yielding perfect extraction - 100% efficiency - of on-demand indistinguishable single photons. Finally, we will exploit this ideal device to implement the critical building block for a photonic quantum computer.</objective>
+  <title>Two-dimensional quantum photonics</title>
+<identifier>ERC2016COG</identifier>
+</project>

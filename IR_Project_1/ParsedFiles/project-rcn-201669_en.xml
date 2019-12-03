@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>201669</rcn>
+  <acronym>OneClickLCA</acronym>
+  <objective>Construction is the world’s largest industry in terms of resource usage and waste generation, and buildings are the largest user of energy and driver for global warming. Improving resource efficiency and environmental impacts are considered the main challenges of the construction industry in EU.
+
+Life Cycle Assessment (LCA) tools assess a buildings or building products environmental performance, and are necessary to design and build in an environmentally sustainable manner. However, currently there are no fast, affordable and scalable LCA tools. LCA study usually costs €3000-15000 and takes 40-150 hours, delaying the construction process and slowing the uptake of LCA. Economies of scale have not been achieved due to heterogeneous requirements in various certifications and regulations.
+
+Bionova, the leading construction LCA software firm in Northern Europe, has developed a prototype of “One Click LCA”. With this software, LCA can be done at least 100x faster (with 1 click) and it costs 10x less (€250-1300). A core element of it is an innovative “plug-in” interface with an adaptive recognition engine. It can be easily trained by the user to adapt to their particular data, enabling automatic processing of any data sources. Unlike competing solutions, it also allows building tailor-made sustainability applications, resolving the issue of diversity in LCA-related requirements.
+
+OneClickLCA project is aimed at implementing business model innovation – preparing a wide-scale market introduction of the One Click LCA using a novel business model (value-based pricing, radically improved value proposition, cloud-based delivery, novel sales and scalability strategy) and scaling up the industrial capability of the software.
+
+LCA software market grew at 39% CAGR in 2011-2015, exceeding €250 million, with consulting services generating additional €320M. Development of One Click LCA to a global scale would increase Bionova’s revenues by €32M in 2022.</objective>
+  <title>One Click LCA – transforming the construction industry through automated, affordable and scalable solution for assessing and improving the environmental impacts of construction projects and products</title>
+<identifier>H2020SMEINST22015</identifier>
+</project>

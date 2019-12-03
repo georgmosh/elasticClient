@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206373</rcn>
+  <acronym>LIGHTKEY</acronym>
+  <objective>Mobile access is becoming commonplace: the user gets access to a facility by sending a request to an electronic lock. The lock recognises the request, verifies the provided access code and opens up. Current radio frequency-based communication technologies such as Wi-Fi, near-field communication (NFC), and Bluetooth are applied in a large variety of applications. However, they have serious security drawbacks: the data can be picked up by devices within a 10 metre radius, they are susceptible to hackers, consume large amounts of power, are not interoperable with all operators and platforms and usually require costly hardware.
+
+With our Visible Light Communication solution LightKey, we can provide secure mobile access through photonics without any of the drawbacks of currently available mobile access solutions. It can be used on any mobile device as mobile phones already have the required hardware component (LED in the mobile´s flashlight). There are three steps: 1) download and activate LightKey to mobile phone, 2) introduce personal code and 3) LightKey triggers the camera flash or screen light and modulates and optical custom code. For instance: https://www.youtube.com/watch?v=t8y1MLSqrr0
+
+We have the advantage that the global market for Visible Light Communication is about to explode: global annual revenues are predicted to increase from $268 Million in 2014 to $113 Billion by 2022 (CAGR of 126%), as a result of advances in the technology as well as the wide-spread and low-cost application potential.
+
+Our revenue model is based on the sales of optical receivers for the receiving locks and doors at around €120 per unit (locks, health).
+
+The execution of the LightKey project will allow us to enter the market faster. Based on a discount rate of 25% the NPV is estimated at €7,314,100, and the payback period will be shortened to 2 years. Our mission is to be supported by the EC in order to reduce “time-to-market” as much as possible.</objective>
+  <title>PROVIDING SECURED MOBILE ACCESS SOLUTIONS THROUGH VISIBLE LIGHT COMMUNICATION</title>
+<identifier>H2020SMEINST220162017</identifier>
+</project>

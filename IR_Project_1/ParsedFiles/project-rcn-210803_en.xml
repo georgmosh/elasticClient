@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210803</rcn>
+  <acronym>SILENSE</acronym>
+  <objective>The SILENSE project will focus on using smart acoustic technologies and ultrasound in particular for Human Machine- and Machine to Machine Interfaces. Acoustic technologies have the main advantage of a much simpler, smaller, cheaper and easier to integrate transducer. The ambition of this project is to develop and improve acoustic technologies beyond state-of-the-art and extend its application beyond the mobile domain to Smart Home &amp; Buildings and Automotive domains.
+In this project, it will be proven that acoustics can be used as a touchless activation and control mechanism, by improvement or development of different smart acoustic technology blocks (hardware, software and system level) and integrate these blocks at system level.
+
+At technology level, the SILENSE project will:
+-	Adapt and improve cost, performance, directivity and power consumption of (MEMS) acoustic transducers (incl. testing and qualification)
+-	Heterogeneously integrate arrays of acoustic transducers with other electronics, using advanced (3D) packaging concepts
+-	Develop smart algorithms for acoustical sensing, localization and communication
+-	Combine voice and gesture control by means of the same transducer(s)
+
+At application level the SILENSE project will:
+-	Apply acoustical sensing for touchless activation/control of mobile devices, wearables and, more in general, IoT nodes. 
+
+The project links to Smart Systems Integration (B4), and refers also to application application-related topics, such as Smart Mobility and Smart Society. The application scope of the developed technologies is broader and comprises more societal domains, such as smart home/buildings, smart factories (i.e. Smart Production) and even Smart Health. Furthermore, a clear cross reference with Semiconductor Process, Equipment and Materials (B1) is established in view of the heterogeneous integration of technology blocks. Conventional silicon technologies will be combined with printed (flexible, large area electronics).</objective>
+  <title>(Ultra)Sound Interfaces and Low Energy iNtegrated SEnsors</title>
+<identifier>H2020ECSEL20161RIAtwostage</identifier>
+</project>

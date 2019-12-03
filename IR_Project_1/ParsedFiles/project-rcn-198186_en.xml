@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>198186</rcn>
+  <acronym>RESCUE</acronym>
+  <objective>Digital computers rely today on CMOS (complementary metal-oxide-semiconductor) technology, which improves its performance every generation thanks to the Moore’s law of downscaling. As CMOS transistor size approaches few nm, alternative logic switches with better scaling capability must be identified to prolong Moore’s law beyond CMOS. Among the emerging switching concepts, resistive switching (RS) devices can change their resistance by electrically-induced redox reactions. RS provides the basis for the resistive memory (ReRAM) technology which is currently investigated as future computer memory and storage technology. The objective of this project is to design, develop and demonstrate a novel computing paradigm based on RS devices. The project will pursue this objective at 3 levels of increasing complexity, namely the device fabrication, the design of new logic gates and the demonstration of computing circuits. RS logic will be finally compared to CMOS and other approaches to identify the strength and the potential applications of RS logic in the computing scenario.</objective>
+  <title>REsistive-Switch CompUting bEyond CMOS</title>
+<identifier>ERC2014CoG</identifier>
+</project>

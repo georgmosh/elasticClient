@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>198778</rcn>
+  <acronym>CellScreenChip</acronym>
+  <objective>Experiments with live cells are fundamentally important in biology, pharmaceutical industry, biotechnology or in medicine and diagnostics. One important example of cell experiments is the prescreening of cells from cancer biopsies with anticancer drugs in order to identify the most effective and least toxic combination of drugs for a particular patient also known as personalized medicine.
+
+The goal of this ERC Proof-of-Concept project is to develop, fabricate and optimize a device (CellScreenChip) for performing miniaturized, parallel and, therefore, more affordable and faster cell screening experiments for the areas of diagnostics and personalized medicine. Applications of the CellScreenChip include (but not limited to) cell based disease diagnosis (e.g. cancer diagnostics), drug screening (e.g. body on a chip) or personalized medicine (e.g. personalized drug compatibility tests). The CellScreenChip will be based on our recent development of the superhydrophobic-superhydrophilic micropatterning methods and the ability to create high-density arrays of droplet microreservoirs on superhydrophobic-superhydrophilic patterns that can be used for parallelized and miniaturized cell experiments.</objective>
+  <title>All-in-One Cell Screening Chip: Device for Affordable High-Throughput Cell Screenings</title>
+<identifier>ERC2015PoC</identifier>
+</project>

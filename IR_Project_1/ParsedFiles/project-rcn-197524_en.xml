@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>197524</rcn>
+  <acronym>SWARMs</acronym>
+  <objective>Nowadays, the major part of offshore operations is done by divers in dangerous missions. Since their number is limited, the dependency on their work represents a real threat to the offshore industry. The extended use of unmanned underwater vehicles (AUVs/ROVs) could solve this problem but since they are usually tailor-made for a specific task and difficult to operate their deployment is very expensive.
+
+The overall goal of the SWARMs project is to expand the use of AUVs/ROVs and facilitate the creation, planning and execution of maritime and offshore operations. This will reduce the operational cost and increase the safety of tasks assigned to divers.
+
+The SWARMs project aims to make AUVs/ROVs accessible to more users by:
+
+• Enabling AUVs/ROVs to work in a cooperative mesh thus opening up new applications and ensuring re-usability as no specialized vehicles are needed but heterogeneous standard vehicles can combine their capabilities,
+
+• Increasing the autonomy of AUVs and improving the usability of ROVs
+
+The approach is to design and develop an integrated platform (a set of Software/Hardware components), incorporated into the current generation of underwater vehicles in order to improve autonomy, cooperation, robustness, cost-effectiveness, and reliability of the offshore operations.
+
+SWARMs’ achievements will be demonstrated in two field tests in different scenarios:
+
+• Inspection, maintenance and repair of offshore infrastructure
+• Pollution monitoring
+• Offshore construction operations
+
+SWARMs is an industry-led project: big technology companies will collaborate with SMEs specialized in the subsea, robotics and communication sectors and universities and research institutions to ensure that the newest innovations in subsea robotics will arrive fast to market. As voice of the customer, two end-users are also part of the consortium.</objective>
+  <title>Smart and Networking UnderWAter Robots in Cooperation Meshes</title>
+<identifier>ECSEL20141</identifier>
+</project>

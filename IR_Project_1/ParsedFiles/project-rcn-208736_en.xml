@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208736</rcn>
+  <acronym>RSCHD</acronym>
+  <objective>Head direction (HD) cells provide directional information during spatial navigation and thus act as an
+internal compass. The goal of this study is to understand how the HD circuit creates a lasting neural trace of
+transient directional changes. Cells selective for HD have been identified in several brain regions, including
+the retrosplenial cortex (RSC), and display persistent activity in response to transient vestibular turning
+cues. Although a well-established theoretical framework proposes an elegant circuitry for achieving this
+self-sustaining activity, biological evidence for such a circuit is lacking. Studies of HD circuitry have faced
+significant challenges due to the necessity of functional monitoring at large and small scales in vivo, and
+precise stimulus control. This study will take advantage of recent advances allowing the targeting of specific
+cells and their inputs for chronic two-photon imaging in the awake, head-fixed, and passively rotated mouse.
+Experiments will aim to (1) determine the spatial and temporal organization of HD-tuned responses in RSC,
+and (2) functionally characterize the presynaptic inputs of HD cells. This information will validate or reject
+a prominent theory of neural network organization, and provide unprecedented insight into a poorly
+understood but critical brain function.</objective>
+  <title>Functional dissection of the head-direction circuit in mouse retrosplenial cortex.</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

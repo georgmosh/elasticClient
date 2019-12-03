@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194249</rcn>
+  <acronym>CENTAURO</acronym>
+  <objective>Disaster scenarios, like the Fukushima nuclear accident, clearly show that the capabilities of today's disaster response robots are not sufficient for providing the needed support to rescue workers. The CENTAURO project aims at development of a human-robot symbiotic system where a human operator is telepresent with its whole body in a Centaur-like robot, which is capable of robust locomotion and dexterous manipulation in the rough terrain and austere conditions characteristic of disasters. The CENTAURO robot will consist of a four-legged basis and an anthropomorphic upper body and will be driven by lightweight, compliant actuators. It will be able to navigate in affected man-made environments, including the inside of buildings and stairs, which are cluttered with debris and partially collapsed. The Centauro system will be capable of using unmodified human tools for solving complex bimanual manipulation tasks, such as connecting a hose or opening a valve, in order to relieve the situation. A human operator will control the robot intuitively using a full-body telepresence suit that provides visual, auditory, and upper-body haptic feedback. Rich sensors will provide the necessary situation awareness.
+Robot percepts and suggested actions will be displayed to the operator with augmented reality techniques. For routine manipulation and navigation tasks, autonomous robot skills will be developed. This will allow for taking the operator partially out of the control loop, which will be necessary to cope with communication latencies and bandwidth limitations and to reduce the operator workload.
+A series of increasingly complex tests with corresponding evaluation criteria will be devised from end-user requirements to systematically benchmark the capabilities of the developed disaster response system.</objective>
+  <title>Robust Mobility and Dexterous Manipulation in Disaster Response by Fullbody Telepresence in a Centaur-like Robot</title>
+<identifier>H2020ICT20141</identifier>
+</project>

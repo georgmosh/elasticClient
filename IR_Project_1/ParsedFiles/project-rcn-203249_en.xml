@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>203249</rcn>
+  <acronym>LIPA</acronym>
+  <objective>Finite-state devices like finite automata and monoids on finite words, or extensions to trees and infinite objects, are fundamental tools of logic in computer science. There are tens of models in the literature, ranging from finite automata on finite words to weighted automata on infinite trees. Many existing finite-state models share important similarities, like existence of canonical (minimal) devices, or decidability of emptiness, or a logic-automata connection. The first and primary goal of this project is to systematically investigate these similarities, and create a unified theory of finite-state devices, which:
+
+1. covers the whole spectrum of existing finite-state devices, including settings with diverse inputs (e.g. words and trees, or infinite inputs, or infinite alphabets) and diverse outputs (e.g. Boolean like in the classical automata, or numbers like in weighted automata); and
+
+2. sheds light on the correct notion of finite-state device in settings where there is no universally accepted choice or where finite-state devices have not been considered at all.
+
+The theory of finite-state devices is one of those fields of theory where even the more advanced results have natural potential for applications. It is surprising and sad how little of this potential is normally realised, with most existing software using only the most rudimentary theoretical techniques. The second goal of the project is to create two tools which use more advanced aspects of the theory of automata to solve simple problems of wide applicability (i.e. at least tens of thousands of users):
+
+1. a system that automatically grades exercises in automata, which goes beyond simple testing, and forces the students to write proofs
+
+2. a system that uses learning to synthesise text transformations (such a search-and-replace, but also more powerful ones) by using examples</objective>
+  <title>A unified theory of finite-state recognisability</title>
+<identifier>ERC2015CoG</identifier>
+</project>

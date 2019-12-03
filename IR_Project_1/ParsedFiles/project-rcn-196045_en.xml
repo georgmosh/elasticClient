@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196045</rcn>
+  <acronym>HotCoalgebras</acronym>
+  <objective>This research proposal is in mathematics, its content is part of algebraic topology and homotopy theory. It aims at deepening our understanding of the homotopy theory of cosimplicial unstable (co-)algebras over the Steenrod algebra and its relation to the homotopy theory of cosimplicial spaces. This is achieved by new methods developed recently by the ER (Dr. Biedermann) and coauthors and by methods from Goodwillie calculus. Specifically, there are three closely related parts/work packages: 
+
+1. Prove a general vanishing theorem of higher obstructions for realizing a map on homology as a map of spaces. The theorem is known to hold in rational homotopy and in the mod p Massey-Peterson case. 
+
+2. Find an algebraic description of the first obstruction living in Andre-Quillen cohomology (AQC) to the existence of a realization of unstable coalgebras. 
+
+3. Define natural operations on AQC of unstable coalgebras with general coefficients.
+
+As part of the risk management we describe two further fallback projects:
+ 
+4. Study the Goodwillie tower of the identity functor of simplicial unstable algebras and relate its layers to AQC. 
+
+5. Describe the algebra of homotopy operations on simplicial commutative algebras for odd primes p. 
+
+These projects are parts of a program of the ER to investigate realization problems and rigidity results associated to singular (co-)homology. A longterm goal (beyond the time frame of the fellowship) is to develop a deformation theory of unstable (co-)algebras over the Steenrod algebra and their realizing homotopy types in the mod p case.</objective>
+  <title>Homotopy theory of cosimplicial unstable (co-)algebras over the Steenrod algebra</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

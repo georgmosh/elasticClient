@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213151</rcn>
+  <acronym>LEGaTO</acronym>
+  <objective>Recently system integrators have dramatically increased their efforts in heterogeneous computing by integrating heterogeneous cores on die (ARM), utilizing general purpose GPUs (NVIDIA), combining CPUs and GPUs on same die (Intel, AMD), leveraging FPGAs (Altera, Xilinx), integrating CPUs with FPGAs (Xilinx), and coupling FPGAs and CPUs in the same package (IBM-Altera, Intel-Altera). Heterogeneity aims to solve the problems associated with the end of Moore´s Law by incorporating more specialized compute units in the system hardware and by utilizing the most efficient compute unit. However, while software-stack support for heterogeneity is relatively well developed for performance, software stack support for power- and energy-efficient computing it is severely lacking. Given that the ICT sector is responsible for 5% of global electricity consumption, software stack-support for energy-efficient heterogeneous computing is critical to the future growth of the ICT industry. The primary ambition of the LEGaTO project is to address this challenge by starting with a Made-in-Europe mature software stack, and by optimizing this stack to support energy-efficient computing on a commercial cutting-edge European-developed CPU-GPU-FPGA heterogeneous hardware substrate, which will lead to an order of magnitude increase in energy efficiency.</objective>
+  <title>Low Energy Toolset for Heterogeneous Computing</title>
+<identifier>H2020ICT20171</identifier>
+</project>

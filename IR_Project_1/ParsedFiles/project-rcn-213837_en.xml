@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213837</rcn>
+  <acronym>GLOMODAT</acronym>
+  <objective>A growing economy and population in the world is causing landscape changes and an increasing pressure is put on water resources. Diffuse water pollution is considered to be one of the major problems for water quality in many countries. Modelling has been successfully used to simulate water quality in catchments to better understand the underlying landscape processes. The widely used Soil and Water Assessment Tool (SWAT) is a spatially distributed model that can be used to estimate flow and nutrient transport at a variety of scales.
+
+In current published studies typically only one or two parameters of precipitation, DEM, land use or soil properties are used in. The proposed project aims to investigate how spatial resolution of core input datasets of all types (precipitation, DEM, land use and soil) impacts SWAT modelling results and estimate the nutrient runoff on a local and global scale.
+
+Sensitivity analysis to all of precipitation, DEM, land use and soil will therefore be tested. The limitation to one or two parameters in current published studies is due to the computational demands. Due to the way the SWAT model is programmed using a tightly coupled Message Passing Interface (MPI) approaches the available computing power needs to accessible within specialised High Performance Computing (HPC) clusters of limited size. Thus, either scale or resolution is typically compromised.
+
+As for higher resolution or global scale data the computational effort becomes too large for automated calibration, we aim to develop a novel method to automate data processing and balancing computational load transparently between many computers.
+
+In order to surpass these limitations we test the MapReduce framework as a novel method for parallelization. This entails new ways of data management, model data partitioning and spreading the model partition computations transparently over multiple computing nodes  fostering a loosely coupled distributed computation paradigm.</objective>
+  <title>Enhancing data fusion, parallelisation for hydrological modelling and estimating sensitivity to spatialparameterization of SWAT to model nitrogen and phosphorus runoff at local and global scale</title>
+<identifier>H2020MSCAIF2017</identifier>
+</project>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206347</rcn>
+  <acronym>UNICORN</acronym>
+  <objective>Unicorn aims to simplify the design, deployment and management of secure and elastic –by design- multi-cloud services. This will be achieved by a) development and design libraries that will provide security enforcement mechanisms, data privacy restrictions, monitoring metric collection and resource management; b) enabling continuous orchestration and automatic optimization of portable and dynamic cloud services running on virtual instances or micro-execution containers for increased security, data protection privacy and vast resource (de)-allocation. Towards this end, and building upon this umbrella concept, the Unicorn vision can be considered two-fold: to enable software developers to design and develop secure and elastic applications and to increase the awareness of all stakeholders, in particular SMEs and Startups.                                
+Unicorn will reduce software release time and provide a powerful tool for SMEs  to improve software design and continuous productivity enhancement. The innovation activities in the Unicorn project will be based upon existing solutions and developments to the largest possible extent, and build upon the S&amp;T results of European RIA projects including CELAR, PaaSport, PaaSword and ARCADIA.</objective>
+  <title>A NOVEL FRAMEWORK FOR MULTI-CLOUD SERVICES DEVELOPMENT, ORCHESTRATION, DEPLOYMENT AND CONTINUOUS MANAGEMENT FOSTERING CLOUD TECHNOLOGIES UPTAKE FROM DIGITAL SMES AND STARTUPS</title>
+<identifier>H2020ICT20161</identifier>
+</project>

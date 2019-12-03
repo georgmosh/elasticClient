@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213075</rcn>
+  <acronym>CATALOG</acronym>
+  <objective>The Proof of Concept CATALOG will explore the industrial applicability and potential for commercialization of a prototype of a “computational multiscale material catalog”, to exploit HPROM (high‐performance reduced order modeling), a technology developed in the ERC Advanced Grant COMP-DES-MAT for advanced material simulation. CATALOG will provide extremely fast and accurate multiscale capabilities to existing commercial Finite Element Analysis Solvers (FEAS), greatly enhancing their standard simulation performance. This solution effectively addresses the current need for high-performance simulations, currently not provided by established multiscale approaches.
+
+The efficient and accurate material multiscale simulation technology HPROM —core technology behind CATALOG— is capable of outperforming state-of-the-art solutions by 1000x in computational cost at same precision. This software will provide the user with a rich selection of validated multiscale material models, and customizable accuracy-speedup, at unprecedented performance. CATALOG will be the first product able to fulfill the industrial requirement for time, accuracy and offer of models, enabling a new set of routine analysis in currently available FEAS.
+
+Presented as a plugin—noninvasive and adaptable to most popular commercial FEAS tools—the computational techniques used in CATALOG will be welcomed by the manufacturing sectors that heavily depend on detailed material simulations for design and analysis of new materials and optimization of production processes.</objective>
+  <title>Computational catalog of multiscale materials: a plugin library for industrial finiteelement codes</title>
+<identifier>ERC2017PoC</identifier>
+</project>

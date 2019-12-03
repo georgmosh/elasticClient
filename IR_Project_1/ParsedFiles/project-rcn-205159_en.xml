@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205159</rcn>
+  <acronym>LAB2MARKET</acronym>
+  <objective>Stroke is the second cause of death world-wide and the second cause of disability-adjusted life in high-income countries.
+The burden of stroke can be mitigated by emergent expert support. Much progress has been achieved for inhospital stroke management, but a scalable solution to optimize prehospital care has not yet been established. Telemedicine is the prime candidate to bridge this gap by transporting medical experts virtually to prehospital for immediate initiation of care during ambulance transportation. Led by disruptive innovation, we were the first to develop a proof-of-concept for 24/7 inambulance telestroke support using our dedicated telemedicine system. Over the past years, we have developed an integrated audio-video and point-of-care medical device for acute stroke care which works across hospitals and emergency vehicles. To achieve the proposed innovation we have gone through the following approaches to develop our first prototype architecture which has been tested in a clinical environment, involving experienced researchers in stroke and emergency care:
+*Creation of the ICT platform: based on existing cloud telecommunication systems, we built the architecture with a focus on open access of devices that has gone through several input cycles from many stakeholders. Zebra Academy has based the development of its infrastructure on EU developed technology FIWARE. Zebra Academy is also one of the certified successful stories (FIWARE VIP) in the use of this technology.
+*Creation of the in-ambulance communication device: currently on its 6th phase we have gone through several lean cycles in which physicians, patients and ambulance personnel have given input.
+*Legal and ethical compliance: our legal experts have provided an overview and in-depth-analysis of applicable legal issues with regards to data protection and privacy, fundamental rights and ethical questions, medical device regulations, liability issues, reimbursement and cross-border healthcare.</objective>
+  <title>Zebra Academy Ready to Market Feasibility Study</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

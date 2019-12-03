@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>209948</rcn>
+  <acronym>TITANIUM</acronym>
+  <objective>TITANIUM will develop novel methods and technical solutions for investigating and mitigating illegitimate activities (relating to either crime or terrorism) involving virtual currencies and/or underground market transactions. Specifically, the project will:
+* Establish a research and development environment that enables close and continuous collaboration between researchers, developers, legal experts, and law enforcement stakeholders in several European countries and regions
+* Analyse legal and ethical requirements for tools and services, elicit technical requirements from LEA stakeholders, and establish a development ecosystem that ensures compliance with these requirements and supports the generation of court-proof evidence
+* Implement tools for the automated aggregation of data from diverse sources, including the dark web, the surface web, and other sources and devices obtained through legal warrants, using multi-modal adaptive crawlers, stealth facilities, and smart filters
+* Provide services for the simulation of criminal activities and the generation of synthetic data
+* Investigate customizable heuristics, which can operate across different virtual currency transaction ledgers and identify clusters of addresses that are likely to belong to the same real-world entity
+* Apply novel techniques based on machine-learning and deep neural networks for revealing patterns, detecting anomalies, and identifying tumblers and mixers used for money laundering
+* Deploy forensics tools and services to partner LEAs and conduct Field Labs to assess the effectiveness, ethical and legal compliance, and overall impact of the results and to validate those results at technology readiness level (TRL) 6 or higher
+* Prepare curricula and carry out training and joint exercises that will facilitate the take-up of TITANIUM technologies by LEAs across Europe
+* Allow European SMEs and RTOs to develop cutting edge tools, to access LEA markets, and to strengthen European competitiveness</objective>
+  <title>Tools for the Investigation of Transactions in Underground Markets</title>
+<identifier>H2020SEC201620171</identifier>
+</project>

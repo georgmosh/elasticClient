@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206364</rcn>
+  <acronym>OPENREQ</acronym>
+  <objective>Requirements engineering is a key activity in ICT projects: What are current user needs and what requirements satisfy them? How much effort would a requirement cost and in which release should it be delivered? Which requirements can be reused from similar projects? Are there hidden dependencies or inconsistencies? What trade-offs are acceptable for users and other stakeholders? A satisfactory, efficient answer to these questions is essential for the success for nowadays software projects.
+OPENREQ leverages modern recommender algorithms, semantic technologies and data-mining to provide intelligent, proactive support for stakeholders survey alternatives and make individual or group decisions. OPENREQ focuses on complex, community-driven ICT projects with various dependencies and stakeholders as in the Telecom, Transportation, and Cross-Platform-Software domain covered in our trials. 
+We will develop, evaluate and disseminate a fully integrated open-source requirements management platform and a set of connectors with the following decision-making capabilities: 
+Requirements Intelligence: monitors the actual software usage, collects stakeholders’ and users’ feedback (e.g. from social media), aggregates and visualizes this information as predictive analytics.
+Stakeholder’s Personal Recommender: implements advanced recommendation and machine-learning algorithms to assist requirements work, improve a requirement’s quality, estimate its properties or predict relevant stakeholders.
+Group Decision Support: enables the stakeholders’ participation, the resolution of preference conflicts, and the identification of consensus, e.g. during release planning.
+Dependency Management: semi-automatically identifies requirements dependencies, supports requirements reasoning and reuse of requirements knowledge.
+With the OPENREQ Interfaces, these capabilities will be integrated into stakeholders’ workflows and tools including requirements tools, issues trackers and collaboration tools.</objective>
+  <title>Intelligent Recommendation  Decision Technologies for Community-Driven Requirements Engineering</title>
+<identifier>H2020ICT20161</identifier>
+</project>

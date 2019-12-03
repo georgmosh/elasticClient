@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193694</rcn>
+  <acronym>EUSTACE</acronym>
+  <objective>EUSTACE utilises Europe’s capacity for gathering space-borne observations of the skin temperature, of all components of Earth’s surface, by extracting data relevant to providing estimates of surface air temperature, a primary Essential Climate Variable (ECV), conventionally measured at (often sparse) meteorological stations. EUSTACE will use measurements from operational and research satellites to enable estimates of surface air temperature to be made everywhere on Earth at higher spatial and temporal resolution than previously possible.
+The surface air temperature ECV is so fundamental to understanding our climate, that this will innovatively enable Europe to address its key societal challenges.
+The global coverage of space-borne observations of surface skin temperature will allow EUSTACE to estimate surface air temperature for parts of Earth that are not currently or historically observed by meteorological stations. EUSTACE will combine previous research experience, with the wealth of surface skin temperature retrievals now available, to produce estimates of surface air temperature over the whole of Earth, including the Poles. EUSTACE will then use these to develop new derived data products, i.e. globally complete analyses with estimates of associated uncertainties using new analysis methods developed within the project. 
+Through the engagement of appropriate “trail blazer” users, EUSTACE will enable integration or assimilation of the products into applications related to Earth system sciences, forecasting models and other user sectors.
+EUSTACE will develop an automated system for surface air temperature products that is capable of being sustained after its lifetime. All development work will be undertaken on the same IT platform and all code secured within a central code repository. The design of the EUSTACE system will also account for on-going availability of observations from existing sources and planned availability of information from next generation sensors.</objective>
+  <title>EU Surface Temperature for All Corners of Earth</title>
+<identifier>H2020EO2014</identifier>
+</project>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193383</rcn>
+  <acronym>WASCOSYS</acronym>
+  <objective>Strongly correlated quantum systems, which are at the heart of many open problems in condensed matter,
+quantum chemistry, or high-energy physics, are challenging to understand due to their intricate entanglement
+structure. Quantum information theory provides the right framework to characterize highly entangled
+states and has given rise to the class of Tensor Network States, which capture the entanglement structure of
+strongly correlated systems by building the global wavefunction from local tensors and provide an efficient
+description of their low-energy states.
+
+In this project, we will develop a framework for the systematic study of strongly correlated systems using
+exact wavefunctions based on Tensor Network States. It will give us the tools to construct controlled families
+of states by encoding the relevant structure of the system directly into the wavefunction, rather than a
+Hamiltonian, and to study their behavior. Since the tensor describing the wavefunction also gives rise to an
+associated Hamiltonian, this establishes a framework for building solvable models with the tensor as the
+new central object.
+
+The novelty of our approach lies in the fact that quantum information gives us the tools to systematically
+construct wavefunctions for general strongly correlated systems, while at the same time, encoding the
+structure of the problem directly into the wavefunction results in small families of states with a direct
+physical interpretation of the parameters, unlike for fully variational approaches.
+
+We will apply our framework to study the physics of a range of strongly correlated models, in particular
+frustrated fermionic and spin systems, in order to understand the possible physics they can exhibit. This
+will enhance our understanding of the physics of strongly correlated systems, and, together with numerical
+results, experimental findings, and quantum simulations, ultimately lead to new applications and materials
+based on strongly correlated matter.</objective>
+  <title>Wavefunctions for strongly correlated systems</title>
+<identifier>ERC2014STG</identifier>
+</project>

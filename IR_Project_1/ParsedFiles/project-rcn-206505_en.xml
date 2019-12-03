@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206505</rcn>
+  <acronym>Storage4Grid</acronym>
+  <objective>Future energy systems will be characterized by growing shares of intermittent power generation from Renewable Energy Sources (RES) while  facing  increasing diffusion of Electrical Vehicles (EVs). Such scenarios are creating new challenges for efficient management and grid stability. Energy Storage Systems (ESS) will provide a valuable solutions to such challenges.  
+The Storage4Grid (S4G) vision is to provide utilities and end-users with new tools for optimal grid planning, use and evaluation of storage technologies. S4G pre-designs new storage control models and interfaces built upon existing standards and suitable to support scalable and cost-efficient coordination of heterogeneous ESS. 
+S4G will deliver: (i) a Decision Support Framework allowing utilities to evaluate costs and benefits of existing and hypothetical storage installations, for various energy use patterns and regulatory landscapes; (ii) a Distributed Control methodology for ESS; (iii) an innovative Unbundled Smart Meter to enable ESS control in real-life settings; (iv) an Energy Router for provision of future grid services by ESS. 
+S4G will consider 3 scenarios, each associated to a different test site.
+An advanced scenario for “Advanced Cooperative ESS” leveraging the Energy Router and DC buses will be developed and demonstrated in the MicroDERLab facilities in Bucharest (RO).
+A “ESS Coordination” scenario will focus ESS deployed for maximize self-consumption and RES exploitation at prosumer level. It will be developed and evaluated in a deployment in Fur (DK). 
+The “Cooperative EV Charging” scenario will focus on use of storage to support large deployments of EV charging stations. It will be defined and validated in real-life settings in Bolzano (IT).
+The compatibility of S4G models with standards, regulatory landscapes and emerging technologies  is ensured by participation of one storage provider and by the engagement of utilities and storage providers in the External Stakeholders Group (ESG).</objective>
+  <title>Storage4Grid</title>
+<identifier>H2020LCE2016SGS</identifier>
+</project>

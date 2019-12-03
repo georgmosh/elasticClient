@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207185</rcn>
+  <acronym>SHiELD</acronym>
+  <objective>SHiELD will unlock the value of health data to European citizens and businesses by overcoming security and regulatory challenges that today prevent this data being exchanged with those who need it. This will make it possible to provide better health care to mobile citizens across European borders, and facilitate legitimate commercial uses of health data.
+The exchange of health data is already possible, but rarely happens in practice because it is hard to ensure that the combined ‘end-to-end’ system will be secure and comply with data protection laws. SHiELD will address these security and compliance challenges:
+• providing models and analysis tools for automated identification of end-to-end security risks and compliance issues and supporting privacy and ‘by design’;
+• defining an open and extensible data exchange architecture based on epSOS, able to support security measures to address these risks;
+• developing security mechanisms to deal with new and emerging risks, such as inference attacks on sensitive data, and risks from relatively unprotected mobile edge devices;
+• providing faster and more cost effective methods to verify and monitor compliance with multiple sets of applicable regulations;
+SHiELD case studies will address cross border scenarios in which a citizen needs health care while in one Member State, and care givers need access to their health data from different Member States. SHiELD will also consider how commercial providers of lifestyle services or wearable sensors may be involved in such data exchanges. SHiELD will thereby also create opportunities for using health data to create such products and services addressing the common European market.
+SHiELD will provide guidance in best practice to achieve end-to-end security and data protection compliance in health and health related applications. SHiELD will also feed into CEN-Cenelec and ETSI efforts to create EU standards for data protection by design in eHealth.</objective>
+  <title>European Security in Health Data Exchange</title>
+<identifier>H2020DSSC12016</identifier>
+</project>

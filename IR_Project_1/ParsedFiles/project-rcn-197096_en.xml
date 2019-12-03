@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>197096</rcn>
+  <acronym>MOSTOPHOS</acronym>
+  <objective>The lifetime, reliability, and efficiency of organic light emitting diodes (OLED) are critical factors precluding a number of novel devices from entering the market. Yet, these stability issues of OLEDs are poorly understood due to their notorious complexity, since multiple degradation and failure channels are possible at different length- and timescales. Current experimental and theoretical models of OLED stability are, to a large extent, empirical. They do not include information about the molecular and meso-scales, which prevents their integration into the workflow of the industrial R&amp;D compound design. It is the idea of this project to integrate various levels of theoretical materials characterization into a single software package, to streamline the research workflows in order for the calculations to be truly usable by materials engineers, complementary to experimental measurements. Towards this goal, this project brings together the academic and industrial expertise of the leading experimental and theoretical groups in the field of organic semiconductors.</objective>
+  <title>Modelling stability of organic phosphorescent light-emitting diodes</title>
+<identifier>H2020NMP2014twostage</identifier>
+</project>

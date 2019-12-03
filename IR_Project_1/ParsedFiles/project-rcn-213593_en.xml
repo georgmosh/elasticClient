@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213593</rcn>
+  <acronym>AMPWISE</acronym>
+  <objective>AMPWISE will develop an energy autonomous wireless smart and low-cost current sensor for remotely monitoring of electric lines in the context of the coming generation of aircraft. 
+This includes the definition of a sensor architecture co-designed to achieve an optimal balance between the harvested energy and the consumption of sensor and electronics, while meeting the desirable sensing, latency and sampling specifications. 
+The current sensor design will build on an existing product adapted to meet the form-factor, size and sensing requirements. The simulation of the wireless communication system will guide and validate the design and parameters. The wireless communication will operate in the desirable 4.2-4.4 GHz band in compliance with ITU regulations. The protocol will support reliable, secure, low-power and time-bounded communications, and will tolerate interference and co-existing networks, including in metallic environments. The power supply will use inductive power line harvesting and a resonant power management approach to improve power density, dynamically tunable to the line frequency, and employing magnetic field guiding to meet form factor and installation requirements. The developed concept will reach TRL 5. A laboratory testing facility will be used for evaluating the integrated wireless sensor network. 
+The consortium includes two industry, SENIS (CH), a sensor manufacturer, and SERMA (FR), an OEM for aeronautical equipment. It also includes CSEM (CH), a RTD with long experience in space and aeronautical projects and Imperial College London (U.K.), a university with significant track record in Energy Harvesting, including prototypes for aircraft. The project will build on existing expertise on aircraft power line harvesting and consortium-level experience, know-how and method in co-designing wireless autonomous aircraft sensors. CSEM, Imperial and Serma have previously worked together on developing such aircraft sensors, within Cleansky.</objective>
+  <title>Autonomous Wireless Current Sensor for Aircraft Power Lines</title>
+<identifier>H2020CS2CFP06201701</identifier>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>215243</rcn>
+  <acronym>MS-fMRI-QSM</acronym>
+  <objective>Multiple sclerosis (MS) is the most common autoimmune disorder to affect the central nervous system. Demyelination of nerve cells leads to a slowing of electrical signals, causing visual and sensorimotor deficits, cognitive decline and mood changes. Magnetic Resonance Imaging (MRI) plays a central role to in diagnosis through the identification of plaques and active lesions. Recently, functional MRI (fMRI) and Quantitative Susceptibility Mapping (QSM) have been shown to provide insights into the pathogenesis of MS and possible biomarkers of MS subtypes (relapsing-remitting (RR), primary progressive (PP) and secondary progressive (SP)). fMRI shows aberrant neuronal activation in response to motor tasks and changes to the motor resting state networks which are different in RR, PP and SP MS, for instance, whereas QSM provides images of the magnetic susceptibilities of different tissues, revealing iron deposits and demyelination. 
+
+This action proposes the development of a new MRI sequence which will allow fMRI and QSM data to be acquired simultaneously rather than in two separate scans. This will drastically reduce the scan time, which is vital as many MS patients find it hard to stay still during an MRI. The combined fMRI-QSM sequence used to examine, in different MS subtypes and genders, reorganization of motor function and disruption of functional connectivity (from fMRI) in relation to the distribution of plaques, iron and demyelination (from QSM).
+
+The sequence programming in this interdisciplinary project will be carried out under the supervision of Prof. Barth, a physicist who developed the MR method on which the fMRI-QSM scan will be based, at the University of Queensland.  In the return phase Prof. Enzinger, one of Europe’s leading MS neurologists, will supervise the clinical study with the combined sequence. This action stands to lead to a step-change in the international standing of the researcher and benefit the host and the European research area.</objective>
+  <title>Studying Multiple Sclerosis with a novel simultaneous functional Magnetic Resonance Imaging (fMRI) and Quantitative Susceptibility Mapping (QSM) sequence.</title>
+<identifier>H2020MSCAIF2017</identifier>
+</project>

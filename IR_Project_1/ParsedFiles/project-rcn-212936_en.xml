@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212936</rcn>
+  <acronym>MELOA</acronym>
+  <objective>The MELOA project proposes to develop a low-cost, easy-to-handle, wave resilient, multi-purpose, multi-sensor, extra light surface drifter for use in all water environments, ranging from deep-sea to inland waters, including coastal areas, river plumes and surf zones. The device will be developed as an upgrade to the WAVY drifter conceived by the Faculty of Engineering of the University of Porto, which was used to measure the surface circulation forced by wave breaking, including detailed structure of rifts and the littoral drift current (Jorge da Silva et al, 2016).
+The philosophy of the WAVY drifter will essentially be respected:
+a small-size sphere with just enough room to accommodate power source, GPS-receiver, communications modules, antennae, sensors and data processor;
+optimised buoyancy to prevent the drifter trajectory responding to the wind instead of the current, while providing just enough exposure of the antennae to ensure acquisition of the GPS signal at the required rate and reliable near real-time communications.
+Given the low influence of wind upon the drifters’ displacements, MELOA will provide a cheap effective way to monitor surface currents and surface dynamic features anywhere in the World Ocean. Through equipping the drifters with thermistors at two different levels, the possibility is open for monitoring “near-skin temperature” and near-surface vertical temperature gradients, which will be invaluable for calibration/validation of satellite derived SST fields.</objective>
+  <title>Multi-purpose/Multi-sensor Extra Light Oceanography Apparatus</title>
+<identifier>H2020SC52017OneStageB</identifier>
+</project>

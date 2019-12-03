@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213069</rcn>
+  <acronym>ID-FAST</acronym>
+  <objective>ID-FAST aims at supporting and promoting the deployment of Proton Exchange Membrane Fuel Cell (PEMFC) technologies for automotive applications through the development of Accelerated Stress Tests (AST) together with a methodology allowing durability prediction, thus accelerating the introduction of innovative materials in next generation designs.
+The project is founded and focused on two main points: degradation mechanisms understanding and durability prediction improvement via the development and validation of specific ASTs and associated transfer functions. 
+Degradation investigations will be based on consolidated data (objects with known history and ageing data) from both real systems tested in cars and ID-FAST test program to ensure relevant analysis of failure modes and performance losses together with a mean to validate the developed methodology. Investigation of stressors impact on components degradation and performance losses will give access to the accelerating factor for each single mechanism AST.
+Thanks to the expertise of partners, understanding will be ensured by advanced ex-situ and in-situ characterisations to identify and quantify components degradation phenomena, and by modelling and multi-scale simulation tools to investigate the impact of various stressors and to relate causes to  performance losses.
+Combined AST protocols will be developed and validated with regard to their capability to actually reduce testing time and their relevance assessed by correlation to real world ageing. The methodology developed will allow prediction of stack lifetime and thus will be valuable for the whole automotive fuel cell community.
+To achieve its objectives, ID-FAST will benefit from the strong expertise of 8 partners (4 research centres, 1 university, 1 SME and 2 large companies) all along the value chain, and from an Advisory Group gathering industrial companies from components manufacturers to end-users, as well as recognised laboratories from USA and Japan.</objective>
+  <title>Investigations on degradation mechanisms and Definition of protocols for PEM Fuel cells Accelerated Stress Testing</title>
+<identifier>H2020JTIFCH20171</identifier>
+</project>

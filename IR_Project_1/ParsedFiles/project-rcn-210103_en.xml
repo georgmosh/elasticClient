@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210103</rcn>
+  <acronym>SECOPS</acronym>
+  <objective>Project SECOPS (an integrated SECurity concept for drone OPerationS) is initiated by a research centre (NLR) and 3 SME industrial partners (SensoFusion, Unifly and Delft Dynamics), in response to the SESAR2020 Remotely Piloted Aircraft Systems (RPAS) Exploratory Research Call, under Topic 06 “Security &amp; cyber-resilience”.
+SECOPS' objective is to push drone technology forward by ensuring that security risks in the Unmanned Traffic Management (UTM) concept are mitigated to an acceptable level. An integrated security concept at TRL2 will be developed addressing resistance of drones against unlawful interference, protection of third parties and integration of geo-fencing technology; focussing on technological options (navigation, surveillance, in-flight updates, etc.) for both airborne and ground elements, considering legal, regulatory and social aspects.
+SECOPS will include a proof of concept of the integrated security concept, integrating COTS technology of the consortium partners. A preliminary demonstrator, based on a realistic scenario, will be performed at the Netherlands RPAS Test Centre (NRTC).
+The comprehensive experience of the SECOPS partners working on drone security and geo-fencing in various R&amp;T projects and initiatives, joint national and European collaboration on multiple aerospace programs of OEMs motivate their common application. NLR has a strong track record in drone research, testing, applications and training. The industrial partners are keys to the project’s success: SensoFusion in the development and commercialisation of the AIRFENCE drone detection and prevention system, Unifly in the development of a UTM system and Delft Dynamics in developing and building robot helicopter systems to provide innovative security solutions for drone and third parties, but also in the development of the counter drone system DroneCatcher.
+SECOPS total grant request to EC is 909 293€ for the whole consortium and the project will be conducted within 24 months.</objective>
+  <title>An Integrated Security Concept for Drone Operations</title>
+<identifier>H2020SESAR20161</identifier>
+</project>

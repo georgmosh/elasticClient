@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205648</rcn>
+  <acronym>IN2SMART</acronym>
+  <objective>IN2SMART represents the 1st proposal of the Shift2Rail members referred, according to MAAP, to the following Technology Demonstrators (TDs): TD3.7 Railway Information Measuring and Monitoring System (RIMMS), TD3.6 Dynamic Railway Information Management System (DRIMS) and TD3.8 Intelligent Asset Management Strategies (IAMS). These TDs will deploy an overall concept for Intelligent Asset Management based on the following three main interlinked layers:
+•Measuring and Monitoring systems to collect data from the field related to the railway assets status: IN2SMART will develop unmanned systems for “remote” monitoring; track geometry, switches &amp; crossings and signalling monitoring systems; innovative measurement of train parameters and wheel defects combined with rolling stock identifications systems.
+•Data management, data mining and data analytics procedures to process data from the field and from other sources: IN2SMART will develop standard open interfaces to access heterogeneous maintenance-related data; analytic tools to automatic detect anomalies, discover and describe maintenance workflow processes and predict railway assets decay towards prescriptive maintenance.
+•Degradation models and decision making tools to support maintenance strategies and execution: IN2SMART will lay the foundation of a generic framework for asset management and decision support process. This framework will specify the scope, objectives, workflow and outcomes of the decision-making process for maintenance interventions planning, and will be the enabler for the development of future decision support tools and systems. IN2SMART will also develop an optimised tamping tool and a robot platform for maintenance works.
+IN2SMART will complement the work of the IN2RAIL lighthouse project to reach a homogeneous TRL4/5 demonstrator. The following Grant will start from IN2SMART to reach the final Integrated Technology Demonstrators that will deploy the overall concept of Intelligent Asset Management.</objective>
+  <title>Intelligent Innovative Smart Maintenance of Assets by integRated Technologies</title>
+<identifier>H2020S2RJUCFM2016011</identifier>
+</project>

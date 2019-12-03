@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>195730</rcn>
+  <acronym>QEAH</acronym>
+  <objective>Entanglement Entropy and other measures of quantum entanglement have recently 
+given great insights into the physics of both quantum field theories and gravity. 
+In the context of quantum field theories, entanglement entropy emerged as a useful measure of
+degrees of freedom whereas in gravity it proved as an indispensable tool to constrain gravitational entropy (e.g. Bekenstein Bound, Covariant Entropy bound).
+
+For these and other recent achievements, embedding entanglement in holography was crucial because the holographic principle, and its precise realization, the AdS/CFT correspondence, allow one to learn about gravity using quantum field theory and vice-versa. 
+
+The objective of the current proposal is to investigate and highlight quantum aspects of the AdS/CFT correspondence (such as the emergence of space-time and gravity) by relating entanglement in integrable models to entanglement in quantum field theory and gravity.
+
+The arena for the study will mainly be N=4 Super-Yang-Mills (SYM); a super-conformal theory, integrable in the planar limit. The study however will have greater applicability since many non-integrable theories contain integrable sectors.
+
+Among questions to be addressed are:
+What does entanglement entropy of the spin chain computes in the dual CFT?
+What does it correspond to in gravity?
+
+The proposed plan will add significant developments to the rapidly growing field of research on entanglement in holography. On the quantum field theory side, the current proposal will deepen understanding of the quantum dynamics at both weak and strong coupling. Via holography the information obtained will provide further insights on aspects of black hole physics.</objective>
+  <title>Quantum Entanglement And Holography</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

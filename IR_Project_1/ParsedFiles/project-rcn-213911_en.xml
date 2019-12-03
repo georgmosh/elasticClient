@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213911</rcn>
+  <acronym>RNActivate</acronym>
+  <objective>Light is an excellent external regulatory element that can be applied to cells and organisms with high spatio-temporal precision and without interfering with cellular processes. Optochemical biology exploits small photo-responsive chemical groups to cage and activate or to switch biomolecular functions in response to light of a defined wavelength. Caged antisense agents have enabled down-regulation of gene expression with spatio-temporal control at the messenger-RNA (mRNA) level in vivo, however approaches for triggering translation of exogenous mRNA lack efficient turn-on effects. To explore the effects of conditional and transient ectopic gene expression in a developing organism it is vital to fully abrogate and restore translational efficiency. 
+
+The goal of this project is to bring eukaryotic mRNA under the control of light to trigger efficient ectopic translation with spatio-temporal resolution in cells and in vivo. To achieve this, eukaryotic mRNA will be photo-caged at its 5′ cap using a highly promiscuous methyltransferase capable of transferring very bulky moieties from synthetic analogs of the cosubstrate S-adenosylmethionine (AdoMet). A single 5′ cap modification will block translation of the respective mRNA. Its light-triggered removal will release unmodified capped RNA, which in cells will be efficiently remethylated to form the canonical 5′ cap resulting in uncompromised translation. 
+
+In addition to labeling and tracking subpopulations of cells, we will use our technology to control and to manipulate cell fate by locally producing proteins responsible for cell death, genome engineering, and cell migration. We will use cultured cells and one-cell stage zebrafish embryos that can be easily injected with mRNA to study the function of ectopic gene expression in early development. Our approach will overcome current limitations of photo-inducible mRNA translation and enable us to manipulate a developing organism at the molecular level.</objective>
+  <title>Optochemical control of cell fate by activation of mRNA translation</title>
+<identifier>ERC2017COG</identifier>
+</project>

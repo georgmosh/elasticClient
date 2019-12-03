@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211544</rcn>
+  <acronym>WAVECOMBE</acronym>
+  <objective>The foreseen exponential growth of mobile data traffic will not be uniform across geographical areas, but is mainly concentrated in hot spots that are usually located in the built environments (BEs) such as central business districts, stations, airports, stadiums, dense urban environments, etc. This poses considerable challenges that we believe can be solved by ultra dense deployment of millimetre-wave (mmW) small-cells (SCs) in conjunction with massive multiple-input multipleoutput (MIMO) in 5G and beyond 5G (B5G) wireless networks. However, there are a number of research challenges that need to be addressed for a successful deployment of 5G/B5G wireless networks: even if the theoretical background of massive MIMO is by now rather complete, the actual performance characterization and measurements of mmW antenna arrays has not yet been fully addressed at either the component or system level; mmW radio channel measurements have been performed but with limited time delay resolution, single antennas and over single radio links; and mmW bands have been considered for mobile communications, but the level of detail and diversity of BEs necessary for meaningful mmW SC deployment has not been fully exploited. Therefore, we propose here a research approach that combines the three disruptive key enabling technologies for 5G/B5G with the aim to answer fundamental questions that are still not well understood. 
+
+Hence, the research objectives of the project are as follows: 
+• Develop and test mmW MIMO and massive MIMO antennas.
+• Characterize and model radio propagation channel at mmW bands for typical BEs (offices, homes, stations, airports).
+• Theoretically analyse and optimise massive MIMO mmW SC performance in the BEs.
+• Integrate massive MIMO mmW SC networks with their operating environments.
+• Develop methods to retrofit existing buildings and to design new buildings for efficient high-capacity wireless communications in the BEs.</objective>
+  <title>mmWave Communications in the Built Environments</title>
+<identifier>H2020MSCAITN2017</identifier>
+</project>

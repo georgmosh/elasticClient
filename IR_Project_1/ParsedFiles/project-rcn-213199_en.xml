@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213199</rcn>
+  <acronym>ENVISION</acronym>
+  <objective>The constant growth of air traffic will put regional and local airports under ever more pressure for increasing their capacity. However, safety and efficiency gains allowed by the deployment of A-SMGCS systems currently remain out of most small to medium size platforms’ reach because of prohibitive infrastructure costs. Due to the intrinsic attributes of current surveillance technologies and airport surface coverage constraints, airports are required to deploy complex and costly infrastructures involving multiple sensors of different kinds: ADS-B, MLAT, SMR.
+
+ENVISION is an ATM application-oriented research project, under the SESAR 2020 Programme “Enabling Aviation Infrastructure: CNS” topic which aims at making use of technical progress in CCTV cameras, LIDAR technology and image processing techniques, and at taking advantage of reduced equipment costs, to provide regional and local airports safe and affordable surface movements surveillance capabilities for ATC and A-CDM services.
+
+In a stepwise approach, in two airports, the consortium will evaluate and demonstrate the operational, technical and economic feasibility of implementing CCTV and LIDAR technology in complement of ADS-B on the airport surface in providing identification and positioning data in A-SMGCS. Additionally, the project will assess the benefits of using this technical solution to feed A-CDM (Airport Collaborative Decision Making) milestones and provide a surveillance display to airport stakeholders.</objective>
+  <title>Enhanced Situational Awareness through Video Integration with ADS-B Surveillance Infrastructure on Airports</title>
+<identifier>H2020SESAR20162</identifier>
+</project>

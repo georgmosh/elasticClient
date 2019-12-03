@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205607</rcn>
+  <acronym>UPGRADE</acronym>
+  <objective>The UPGRADE project aims to support the transition to a high efficient, cleaner and affordable powertrain technology systems, based on Spark Ignited GDI (Gasoline Direct Injection) approach, suitable for future Light Duty applications. The project also includes a deep analysis of the phenomenon of the formation of the nanoparticles in relationship to the engine design and its operating conditions and,  with regard to the after-treatment solutions, the study and development of new Gasoline Particulate Filter (GPF) technologies.
+To increase the engine efficiency under Real Driving conditions, the following steps will be carried out:
+- address stoichiometric combustion approach on the “small” size engine and lean-burn combustion approach on the “medium” size one
+- study and develop the best combinations of technologies, including advanced VVA/VVT capabilities, advanced boosting system (including electrically assisted booster operations), EGR (Exhaust Gas Recirculation) and thermal management systems
+- Explore and implement advanced fuel injection (direct) and ignition system supported by new dedicated control strategies that will be integrated in the ECU (Engine Control Unit) software. 
+In order to demonstrate the call overall targets (15% improvement on CO2 emissions based on the WLTP cycle and compliancy with post Euro 6 RDE standards) the project will see the realization of two full demonstrator vehicles: one B-segment vehicle, equipped with the small downsized stoichiometric engine, and one D/E vehicle equipped with the medium size lean-burn engine. The vehicle will be fully calibrated and assessed by independent testing, according to on road test procedures, using the available best representative PEMS (Portable Emission Measurement System) technology and considering also PN measurement below 23 nm diameter.</objective>
+  <title>High efficient Particulate free Gasoline Engines</title>
+<identifier>H2020GV2016INEA</identifier>
+</project>

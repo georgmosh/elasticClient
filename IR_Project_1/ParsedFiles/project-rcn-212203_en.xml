@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212203</rcn>
+  <acronym>VitASTEM</acronym>
+  <objective>Quiescence preserves the self-renewal capacity and the long-term function of hematopoietic stem cells (HSCs). The regulators of this dormant state include intrinsic pathways and soluble components in the bone marrow niche. Dysregulation of this process is poorly defined and might cause aberrant hematopoiesis. In my previous work, we defined the molecular landscape of HSCs by applying state of the art DNA-methylome, RNA-seq and proteome analyses, and found vitamin A/retinoic acid (RA)-induced signaling predominantly enriched in HSCs (Cabezas-Wallscheid et al., Cell Stem Cell 2014). Intriguingly, we observed that mice fed with a vitamin A-free diet exhibited a robust loss of HSCs (Cabezas-Wallscheid et al., Cell 2017). Treatment of mice with a RA agonist preserved HSC quiescence in stress-activated conditions, indicating that the balance between HSC maintenance and differentiation is tightly regulated by vitamin A signaling. 
+
+However, we are only beginning to understand the mechanisms how vitamin A regulates HSC fate. Since treatment of vitamin A deficiency currently shows extremely low therapeutic success, novel insights into the role of HSCs in the development of the disease will be of enormous therapeutic value.</objective>
+  <title>Regulation of Single Hematopoietic Stem Cells by Intake of Vitamin A</title>
+<identifier>ERC2017STG</identifier>
+</project>

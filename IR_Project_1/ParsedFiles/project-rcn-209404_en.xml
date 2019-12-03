@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>209404</rcn>
+  <acronym>NEPSpiNN</acronym>
+  <objective>The aim of the NEPSpiNN project is to realize a neuromorphic event-based neural processing system that can directly interface with a commercial surface electromyography (sEMG) for the extraction of signal features and classification of the motor neurons output activities. 
+The sEMG is a non-invasive method for measuring the electrical activity, associated to the muscle activities, by means of surface electrodes located above the skin.The amplitude of the sEMG signals, measured in this way, correlates with the number of action potentials discharged by a population of activated motor neurons. To understand the muscular behavior, several measurements are required, which produce a large amount of data, typically, processed by external computers. This makes a wearable solution difficult. In addition, in the current state-of-the-art the sEMG data analyses is composed by three different steps: features extraction, moto neurons outputs discrimination and classification. The steps are activated in sequence increasing the time required for the analyses, that is a problem in real-time applications.  The NEPSpiNN project proposes a sEMG analyses stage, implemented in a compact ultra-low power neuromorphic chip, to be able to process data in real-time with low-latency, useful for future implementation of wearable devices. A full custom hardware implementation of a deep neural network (DNN), implemented on neuromorphic spiking neural processing circuits, will classify the motor activities in real time, to find the input for a control system of an external device (e.g. prostesis or exoskeleton).
+The integration on a unique portable device will allow to decrease the computational cost of processing and the power consumption. This enables a system that can be integrated in a wearable solution without the necessity to transmit data to a remote host.</objective>
+  <title>Neuromorphic EMG Processing with Spiking Neural Networks</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

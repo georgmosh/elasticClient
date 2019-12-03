@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213521</rcn>
+  <acronym>TransSec</acronym>
+  <objective>The TransSec project addresses a new danger in European countries, the increasing number of terror attacks. Recent terror attacks with trucks in Nice and Berlin have shown drastically the damage a heavy truck can cause, how easy it is to misuse a truck for attacks and that newest safety systems cannot prevent these attacks. As a consequence road transport safety has to be supplemented by road transport security. TransSec aims to initiate the development of this Security Truck. 
+The project objective is: 
+Development and evaluation of systems built-in or to be used by trucks for secure road transport of (dangerous) goods.
+Preventing trucks and transport of goods to be misused for other purposes such as terror attacks.
+Specific objectives are:
+• Precise vehicle positioning and navigation on road (lane) and off road.
+• Vehicle movement monitoring for dangerous goods with critical area alarm/eCall.
+• Vehicle communication security for critical information exchange.
+• Onboard precrash environment detection of vulnerable objects on/ off road.
+• Non-defeatable autonomous emergency manoeuvring for crash prevention on/off road.
+The implementation is done in an explorative and incremental development cycle with early prototypes adding functionality step by step. Demonstrations with a truck on and off road will show solutions after 12, 24 and 36 months. Testing and pilots on public roads and public areas will prove a higher level of security.</objective>
+  <title>Autonomous emergency manoeuvring and movement monitoring for road transport security</title>
+<identifier>H2020GALILEOGSA20171</identifier>
+</project>

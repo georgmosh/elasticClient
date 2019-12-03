@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>215362</rcn>
+  <acronym>INTSYS</acronym>
+  <objective>This project is concerned with integrable many-body systems of Calogero-Ruijsenaars type. It aims at finding new models, related algebraic structures, and connections to various field theories. The most important outcomes to be expected are the following:
+
+1. Discovery of quantum and classical Lax pairs for hyperbolic, trigonometric, and elliptic relativistic models containing multiple couplings.
+2. Solution of the classical and quantum dynamics of new compactified trigonometric relativistic systems.
+3. Finding new and extending already existing links to quiver gauge theory and topological quantum field theory.
+
+Integrable models of Calogero-Ruijsenaars type describe the pairwise interaction of equal-mass particles moving on a line or circle. The strength of particle interaction is regulated by a (real) number, the coupling parameter. Setting this parameter to zero means no interaction, i.e. free particles, while non-zero parameter values result in a complicated motion. This is due to the non-linear pair potential, of which we distinguish four types, named rational, hyperbolic, trigonometric, and elliptic. The particles can be thought of as either non-relativistic bodies obeying the laws of Newtonian mechanics or relativistic point masses with an upper speed limit (given by the speed of light). Integrable quantum mechanical versions also exist. In addition, Calogero-Ruijsenaars type systems have several generalisations preserving integrability, such as models in external fields (involving multiple couplings) or particles with spin (internal degrees of freedom). This profusion of variants enhances the importance of these systems. In fact, Calogero-Ruijsenaars type models are intimately related to various integrable systems of seemingly different character. These include soliton equations (e.g. Korteweg-de Vries equation and sine-Gordon equation), lattice models (e.g. Toda model), solvable spin and vertex models (e.g. Heisenberg XYZ model and 8-vertex model).</objective>
+  <title>Algebraic, Geometric, and Field-Theoretic Aspects of Integrable Many-Body Systems</title>
+<identifier>H2020MSCAIF2017</identifier>
+</project>

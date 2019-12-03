@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212324</rcn>
+  <acronym>MODULISPACES</acronym>
+  <objective>The proposal describes two main projects. Both of them concern cohomology of moduli spaces of Riemann surfaces, but the aims are rather different.
+
+The first is a natural continuation of my work on tautological rings, which I intend to work on with Qizheng Yin and Mehdi Tavakol. In this project, we will introduce a new perspective on tautological rings, which is that the tautological cohomology of moduli spaces of pointed Riemann surfaces can be described in terms of tautological cohomology of the moduli space M_g, but with twisted coefficients. In the cases we have been able to compute so far, the tautological cohomology with twisted coefficients is always much simpler to understand, even though it “contains the same information”. In particular we hope to be able to find a systematic way of analyzing the consequences of the recent conjecture that Pixton’s relations are all relations between tautological classes; until now, most concrete consequences of Pixton’s conjecture have been found via extensive computer calculations, which are feasible only when the genus and number of markings is small.
+
+The second project has a somewhat different flavor, involving operads and periods of moduli spaces, and builds upon recent work of myself with Johan Alm, who I will continue to collaborate with. This work is strongly informed by Brown’s breakthrough results relating mixed motives over Spec(Z) and multiple zeta values to the periods of moduli spaces of genus zero Riemann surfaces. In brief, Brown introduced a partial compactification of the moduli space M_{0,n} of n-pointed genus zero Riemann surfaces; we have shown that the spaces M_{0,n} and these partial compactifications are connected by a form of dihedral Koszul duality.  It seems likely that this Koszul duality should have further ramifications in the study of multiple zeta values and periods of these spaces; optimistically, this could lead to new irrationality results for multiple zeta values.</objective>
+  <title>Topology of moduli spaces of Riemann surfaces</title>
+<identifier>ERC2017STG</identifier>
+</project>

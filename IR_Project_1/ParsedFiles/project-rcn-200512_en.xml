@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200512</rcn>
+  <acronym>FermiTrap</acronym>
+  <objective>The behavior of many-body quantum systems is one of the most difficult problems in modern physics. An interesting and open question is how the properties of a complex many-body system depend on its constituents, and how collective behavior emerges from the underlying few-particle building blocks. Ultracold atoms offer the unique possibility to realize  well-controlled quantum systems and study this question directly in the laboratory. We propose a highly adaptable approach to assembling systems of few ultracold fermions in optical micro traps. Using a spatial light modulator, we will implement arbitrary trapping potentials and small optical lattices with novel geometries.  A near-deterministic loading scheme will initialize states with extremely low entropies and realize previously inaccessible quantum states. We will perform detailed measurements of static and dynamic spin orderings on small Mott insulating plaquettes and realize unusual cylindrical optical lattices with periodic boundary conditions. Our approach is complementary to many traditional optical lattice experiments and will generate wide interest in mesoscopic Fermi systems.</objective>
+  <title>Atom-by-Atom Quantum Control of Fermions in Arbitrary Potentials</title>
+<identifier>H2020MSCAIF2015</identifier>
+</project>

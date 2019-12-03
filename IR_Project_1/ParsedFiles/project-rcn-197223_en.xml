@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>197223</rcn>
+  <acronym>WayTO</acronym>
+  <objective>Wayfinding is a task that we manage every day while going to work or on vacation. Although wayfinding research has gone through tremendous development, it suffers from fundamental shortcomings: State-of-the art wayfinding research still adheres to the principles of turn-by-turn navigation.
+This proposal suggests a new wayfinding paradigm “Wayfinding Through Orientation” that supports the acquisition of spatial knowledge and cognitive mapping for advancing the user’s orientation. Users learn the spatial configuration of their environment through navigating. This makes wayfinding more successful because users with orientation can take informed spatial decisions. Our project goals are achieved through four objectives:
+1.We develop a scientific understanding of orientation in wayfinding through empirically analyzing what kind of information induces orientation in humans.
+2.We generate orientation information automatically. Orientation information is different to spatial data stored in geographic information systems, because it does not have a consistent level of generalization, it is schematized and it refers to vernacular, vague places not included in traditional maps.
+3.New means of communication are developed to integrate orientation instructions into route directions. New maps are required to account for the characteristics of orientation information.
+4.To evaluate orientation wayfinding, we cannot apply traditional measures such as travel time, but develop new methods to determine the effect of orientation wayfinding on peoples’ ability to solve wayfinding tasks that require orientation and cognitive mapping.
+“Wayfinding Through Orientation” is a paradigm change in wayfinding which has profound impact well beyond GI Science research. Our research lays the scientific foundations for a new way of navigation. We strongly believe that we have the necessary expertise to pursue this interdisciplinary project. Preliminary results have been well received by the community.</objective>
+  <title>Wayfinding Through Orientation</title>
+<identifier>ERC2014STG</identifier>
+</project>

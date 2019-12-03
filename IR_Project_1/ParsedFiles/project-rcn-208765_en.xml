@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208765</rcn>
+  <acronym>CHINO</acronym>
+  <objective>Digital health applications are disrupting the healthcare sector by bringing huge innovation and improving the quality of care.
+However, this innovation brings also some risks since those apps collect and store extremely privacy sensitive data in cloud
+and mobile environments.
+According to analysis performed by 39 Data Protection Authorities worldwide in 2014, 85% of the 1.211 analyzed mobile
+health apps do not comply with data protection laws and security requirements. This behavior puts at serious risk users’
+privacy and trust in digital health.
+Chino helps application developers and enterprises to solve security and privacy law compliance issues by offering a secure
+platform to manage application users and how they access, store and share health sensitive data. Developers can easily
+integrate the Chino platform (its API) into their apps to ensure compliance, increase security, speed up application
+development, shorten time to market, at affordable pay-per-use cost.
+To ensure security of data transfers and storage Chino applies security-by-design principles and state-of-the-art security
+mechanisms. From compliance point of view, Chino terms of service define its liabilities and it ensures that the data
+management is performed according to EU and Member States laws. In addition, Chino is working on ISO 9001 &amp; 27001
+certifications, giving more guarantees to its customers.
+Thanks to its innovative services, the market opportunity, and the EC support (which will speed up the adequate team
+growth, marketing plan, technological roadmap implementation and international commercialization), the company expect to
+create over 46 high qualified jobs and generate a turnover over 10M€ by 2020. Furthermore, the overall results of this project
+will catapult Chino company as a global leader on the digital health &amp; cyber security market.</objective>
+  <title>The Health Data Security Platform for EU Developers Enterprises</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

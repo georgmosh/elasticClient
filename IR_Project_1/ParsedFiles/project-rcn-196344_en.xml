@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196344</rcn>
+  <acronym>uDAS</acronym>
+  <objective>Microfluidic systems, in general, have proven important platforms for biomedical assays. These systems benefit from reduced requirements for expensive reagents, short analysis times, and portability. Although microfluidic systems are convenient platforms, their use in the life sciences is still limited mainly due to the high-level fabrication expertise required for construction. 
+
+Integrated microfluidics is one of the most sophisticated three-dimensional (multi layer) solution. It requires soft lithography (PDMS based chips), for production of high complexity microfluidic systems (multiple serial or parallel processes). Integrated microfluidics in particular is almost non-existent in the industry due to the low yield and uncontrolled production process. 
+
+My ERC project (MUDLOC-2012) is to develop a microfluidic platform for multidimensional protein array analysis. It uses complex multilayer microfluidic devices that consist of 2 PDMS layers and a glass microarray. The integrated microfluidics system contains thousands of micromechanical valves in micrometer dimensions, controlling thousands of parallel reactions. Our research demands production of hundreds of such devices. 
+
+We, as all others who produce integrated microfluidics, suffered from frustrating low yield (15%). In order to improve fabrication yield and to fabricate devices with increased density, we designed and manufactured, a first of its kind, full production process sequence, semi automatic Microfluidic Device Assembly System (µDAS). This resulted in a direct increase of device complexity and yield (85%) over the last half year.
+
+The 2nd generation automated µDAS prototype will become a generic assembly tool for soft lithography. µDAS will enable a critical production standard and process control, which will pave the road for significant penetration of complex integrated microfluidics technology into both academia and industry.</objective>
+  <title>An Automatic Microfluidic Device Assembly System</title>
+<identifier>ERC2014PoC</identifier>
+</project>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>197406</rcn>
+  <acronym>PALADIN</acronym>
+  <objective>The PALADIN antenna exploits the electronically reconfigurable features of several plasma discharges along with DSP
+algorithms to create narrow beamwidth and multi-lobes radiation pattern. These features allows the PALADIN antenna to
+lock and track up to 4 navigation satellites (each lobe for a distinct satellite) to achieve higher signal to noise ratio, and to
+create nulls in the directions of electromagnetic interference including jamming, spoofing and multi-path reflections. Such
+features can be proficiently adopted either on board of an aircraft or on the ground replacing GBAS reference antennas. In
+the former case, the antenna can be embedded in the wing structure providing a drag-free solution, which can achieve better
+accuracy in position estimation thanks to the many GNSS satellites being tracked, and can  integrate different antenna into one solution thanks to the tuneable properties offered by plasma discharges. In the latter case, the antenna can be used in place of actual landing system reference antennas thanks to its null steering in the directions of interferences and jamming resistant operations.
+The proposed study project PALADIN has the following high-level objectives:
+1) Technical Assessment of the technology addressing antenna design and simulation;
+2) Exploitation plan including commercial feasibility, business plan and preparation of Phase 2 activities.
+Technical assessment will focus in the update of the existing simulation software for plasma antenna performance evaluation
+and the design of a Smart Plasma Antenna for secure landing and navigation operation. Technical assessment will also
+include the evaluation of critical technologies required for prototyping and industrialization.
+Commercial Feasibility and Business Plan will provide a preliminary market assessment and positioning of the expected
+product with specific regard to aviation and the preparation of phase 2 activities.</objective>
+  <title>Plasma Antenna for secure LAnDIng and Navigation</title>
+<identifier>H2020SMEINST12015</identifier>
+</project>

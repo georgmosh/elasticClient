@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>195046</rcn>
+  <acronym>DebtRisks</acronym>
+  <objective>"Much we have been learning about the flawed design of eurozone form the current crisis. Non-optimality of euro as a 
+currency zone, banking system fragmentation, weak institutional structures, insufficient political integration, lagging 
+competitiveness and global imbalances, are all blamed for the crisis. At a country level problems are attributed, according to The World Bank and IMF, imprudent public debt management, weak macroeconomic management, and debt overhang. 
+
+Our project looks into these over-arching challenges with the broad objective to: ""Develop the capacity for risk management of public debt that can be used in response to crises, and to analyze policy  proposals for debt restructuring and common assumption of debt in a currency union"". The eurozone crisis challenges us to develop our capabilities for public debt management and advance the state-of-the-art.This is the purpose of the project. 
+The four specific research tasks, taken together, advance the broad objective: 
+1. Develop an asset-and-liability management framework for risk management of public debt. 
+2. Operationalize the framework using multi-period stochastic programming integrated with multi-factor simulations. 
+3. Extend the optimization model to incorporate debt sustainability analysis and study debt restructuring of crisis countries.
+4. Extend the simulation models to integrate current proposals for EU-bonds in public debt risk management. 
+The project is devoted to complementing existing skills and broadening the fellow's knowledge base to develop models for 
+asset-liability management optimization and EU-bond pricing, implement and calibrate them using market data, and 
+demonstrate their efficacy in addressing policy issues for public debt management  in crisis countries. The models will 
+be tested in depth on the interesting case of Cyprus, for which we have special knowledge and data, on IMF stylized examples, and for the Italian and Argentinean debt where we also have access."</objective>
+  <title>Public Debt: Risk Management and Restructuring Optimization</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

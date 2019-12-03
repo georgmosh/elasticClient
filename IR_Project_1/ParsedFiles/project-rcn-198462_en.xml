@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>198462</rcn>
+  <acronym>Cancer-Recurrence</acronym>
+  <objective>Introduction: Current anti-cancer treatments are often inefficient, while many patients initially benefit from anti-cancer drugs eventually experience relapse of resistant tumors throughout the body. Current clinical strategies mainly aim at inducing tumor cell death, but this induction may have unintentional and unwanted side effects on surviving tumor cells.
+
+Preliminary data: We show that after chemotherapy-induced initial regression, PyMT mammary tumors reappear. During regression, we observe an increased number of cells that have undergone epithelial-mesenchymal transition (EMT) and become migratory. We show that migration can be induced upon uptake of extracellular vesicles (e.g. apoptotic bodies). Our findings suggest that EMT is induced upon chemotherapy, through e.g. EV uptake, potentially leading to migration and growth of surviving cells.
+
+Hypothesis and main aim: Based on preliminary data, we hypothesize that tumor cell death induces migration and growth of the surviving tumor cells. We aim to identify the key cell types and mechanisms that mediate this effect, and establish whether interference with these cells and mechanisms can reduce recurrence of tumors after chemotherapy.
+
+Approach: We have developed unique intravital imaging tools and genetically engineered fluorescent mice to visualize and characterize if and how dying tumor cells can affect surrounding surviving tumor and stromal cells. We will test whether dying tumor cells can influence the growth, migration, dissemination and metastasis of surviving tumor cells directly or indirectly through stromal cells. We will identify potential targets to block the influence of the dying tumor cells, and test whether this blockade inhibits the unintended side-effects of tumor cell death.
+
+Conclusion: With the studies proposed in this grant, we will gain fundamental insights on how induction of tumor cell death, the universal aim of therapy, could play a role in growth and spread of surviving tumor cells.</objective>
+  <title>Tumor cell death supports recurrence of cancer</title>
+<identifier>ERC2014CoG</identifier>
+</project>

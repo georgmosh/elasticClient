@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205426</rcn>
+  <acronym>CoPro</acronym>
+  <objective>The goal of CoPro is to develop and to demonstrate methods and tools for process monitoring and optimal dynamic planning, scheduling and control of plants, industrial sites and clusters under dynamic market conditions. CoPro will provide decision support to operators and managers and develop closed-loop solutions to achieve an optimally energy and resource efficient production. 
+In most plants of the process industries, the energy and resource efficiency of the production depends critically on discrete decisions on the use of equipment, shutdowns, product changeovers and cleaning or regeneration of equipment. CoPro will consider these discrete decisions in plant-wide dynamic optimization and develop integrated scheduling and control solutions. Advanced online data analytics will be developed for plant health and product quality monitoring. The detection of anomalies will trigger fast re-scheduling and re-optimization.
+CoPro will demonstrate advanced plant-wide and site-wide coordination and control in five typical use cases that cover a wide range of sectors of the process industries, and the whole value chain:
+- Petrochemical production site
+- Base chemicals and polymer production site
+- Recycling system in cellulose production
+- Consumer product formulation and packaging plant
+- Food processing plant
+In addition,CoPro will develop methods for the coordination of plants in industrial parks that belong to different companies, thus providing a basis for future industrial symbiosis.
+CoPro pays special attention to the role of operators and managers in plant-wide control solutions and to the deployment of advanced solutions in industrial sites with a heterogeneous IT environment. As the effort required for the development and maintenance of accurate plant models is the bottleneck for the development and long-term operation of advanced control and scheduling solutions, CoPro will develop methods for efficient modelling and for model quality monitoring and model adaption</objective>
+  <title>Improved energy and resource efficiency by better coordination of production in the process industries</title>
+<identifier>H2020SPIRE2016</identifier>
+</project>

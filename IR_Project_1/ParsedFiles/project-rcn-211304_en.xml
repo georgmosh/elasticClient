@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211304</rcn>
+  <acronym>Quipu Cloud</acronym>
+  <objective>Medical Ultrasound today is considered as a mainstream technology in the medical sector. It is largely associated with prenatal care to access the health of a baby in its mother’s womb but that is only a small percentage of its overall usage. Apart from Obstetrics, Medical Ultrasound is used in Cardiology, Neurology, Ophthalmology and many more clinical fields.
+Traditionally, ultrasound scanners where totally combined units including the ultrasound hardware, software and user
+interface in one unit. Quipu is changing this model by separating the software from the hardware.
+
+Quipu introduces the concept of an app-store for ultrasound scanners. Through our system hospitals can make use of lower
+to mid-range scanners to get the diagnostic functionality of high end scanners. During the last 3 years we have developed a
+Suite of ultrasound diagnostic applications focused in the Cardiology segment of ultrasound diagnostics. Currently the
+software is installed on a laptop or computer and the ultrasound scanner is connected directly to the computer or laptop.
+The user simply launches our suite of applications, selects the diagnostic application required, starts the scan and the
+software will automatically provide the metrics of the analysis and store the scans and results for later use. We have
+successfully sold our software to clients in Europe, USA and Africa.
+
+During this last year we have been working on improving integration and interoperability across a wide range of ultrasound
+scanners through a cloud based infrastructure. We have developed a TRL 6 prototype of Quipu Cloud based on a set of
+cloud services and special hardware that works with a wide range of ultrasound scanners. Quipu Cloud improves integration
+and makes it easier to share resources and data with peers. Through this PH1 we would like to study further the feasibility
+behind this concept and develop a business plan around this kind of service we will be offering to our clients.</objective>
+  <title>A suite of software applications hosted in the cloud for medical ultrasound diagnostics</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

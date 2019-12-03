@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207887</rcn>
+  <acronym>Mathador</acronym>
+  <objective>Verification of concurrent software is a notoriously difficult subject, whose complexities stem from the inability of the existing verification methods to modularize, and thus divide-and-conquer, the verification problem.
+
+Dependent types are a formal method well-known for its ability to modularize and scale complex mathematical proofs. But, when it comes to programming, dependent types are considered limited to the purely functional and terminating programming model.
+
+The grand challenge of this project is to remove the limitation and scale dependent types to support implementation of stateful concurrent programs, and their correctness proofs, simultaneously. By applying the modularizing power of dependent types to both programs and proofs, the project will obtain novel and scalable foundations for the field of concurrent software verification.
+
+Writing mechanized proofs of software, concurrent or otherwise, is generally considered infeasible. But if one chooses the right linguistic abstractions to express the proofs, we argue that it does not have to be so. This observation is supported by our encouraging preliminary results. The project will discover further novel linguistic abstraction that facilitate engineering of practically feasible formal proofs, and experimentally evaluate them by mechanically verifying extensive concurrent programs drawn from realistic applications, such as concurrent garbage collectors, OS kernels, and popular open-source concurrent libraries.
+
+The project is high risk because it proposes novel foundations for concurrent software verification, whose development requires deep intertwining of logic and program semantics theory, with significant hands-on implementation and experimentation with formal proofs. But it is also high gain, as scaling concurrent software verification is the most significant open problem of present-day programming languages and semantics research.</objective>
+  <title>Type and Proof Structures for Concurrent Software Verification</title>
+<identifier>ERC2016COG</identifier>
+</project>

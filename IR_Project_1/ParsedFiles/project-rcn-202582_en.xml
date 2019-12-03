@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>202582</rcn>
+  <acronym>QOM3D</acronym>
+  <objective>Optomechanics is a field that aims to detect and control mechanical motion with light, ultimately at the quantum level. Experiments reaching the mechanical quantum ground state established optomechanics as a rapidly growing new field. Now that the quantum ground state has been reached, what is the next step?
+
+The current goal of the field is quantum superposition states of motion. An example of this is a mechanical “Schrodinger cat” state, in which a drum is in a quantum superposition of vibrating up and vibrating down at the same time. From a technological perspective, such states could be used as a memory for storage of quantum information, or as a quantum bit itself, performing quantum calculations with a mechanical object. From a fundamental perspective, Schrodinger cat states could be used to explore the limits of macroscopic quantum mechanics and to look for the boundary between the quantum and classical worlds. Despite their recent success, the coupling between light and motion in current implementations is too weak to achieve non-classical motion. 
+
+Here, I propose a new optomechanical system coupling the motion of a millimeter-sized membrane to quantum microwave “light” in a three-dimensional superconducting cavity. In this new system, I will use the exceptional coherence photons in 3D cavities to strongly enhance the coupling of light and motion. To demonstrate the feasibility of this idea, I present preliminary data from a proof-of-concept device with coupling that is already close to state-of-the-art, with an outlook to scaling significantly beyond implementations shown to date.  
+
+With the team funded by this project, I will implement these feasible but challenging steps, creating a system with optomechanical coupling that can potentially reach the strong coupling regime for a single photon. Using this new strong coupling, I will bring optomechanics to a new regime where one can create and explore quantum superpositions of massive, macroscopic objects.</objective>
+  <title>Quantum Optomechanics in 3D</title>
+<identifier>ERC2015CoG</identifier>
+</project>

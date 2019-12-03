@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212574</rcn>
+  <acronym>MOMIT</acronym>
+  <objective>The MOMIT project will develop innovative products and solutions supporting the maintenance process of railway infrastructures. MOMIT concept is based on the exploitation of unmanned technologies as Earth Observation satellites and RPAS-borne sensors. 
+Starting from collected data analysis, MOMIT will bring at cutting edge level the remote sensing technology: developing advanced post processing chains, data fusion, automation, defining new indicators from estimated parameters, MOMIT will design new operational workflows able to support intelligent asset management.  
+MOMIT will adopt a multi scale approach: Satellite and RPAS data will be combined in order to maximize their benefits and characteristics. A first overall analysis (with satellite and over long sections) will guide the detailed analysis and trigger specific preventive actions. Thus, maintenance activities are guided by this combined analysis with a general optimization of resources.
+Effectiveness and efficiency of proposed solutions will be demonstrated by six main application cases, validated in a real operational environment: 
+- Ground movements: interferometry derived by SAR satellite data analysis will adopt to define tools and indicators supporting the user for detailed analysis and preventive actions planning
+- Hydraulic activities: a combination of optical and radar satellite data will be used to monitor soil moisture and water bodies close to the track 
+- Natural hazards: anomalies along the track related to natural phenomena (as vegetation growth) will be monitored by the use of satellite data.
+- Electrical system: RPASs will be equipped with innovative sensors to monitor electrical effects  impacting on the infrastructure efficiency
+- Civil engineering structures: a combination of satellite  and RPAS data will be used to identify possible criticalities to the infrastructure
+- Safety: anomalies and illicit activities along the track will be monitor  by the use of optical a radar satellite data</objective>
+  <title>Multi-scale Observation and Monitoring of railway Infrastructure Threats</title>
+<identifier>H2020S2RJUOC2017</identifier>
+</project>

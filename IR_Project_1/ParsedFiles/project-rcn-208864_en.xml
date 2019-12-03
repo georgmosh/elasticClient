@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208864</rcn>
+  <acronym>NK-52-2016</acronym>
+  <objective>The cost of cybercrime is rocketing—to $500 billion in 2015 according to The Economist. This is why European Commission introduced the Revised Directive on Payment Services (PSD2) to implement strong two-factor authentication for payments before 2018.
+
+There are already several MFA solutions on the market, however they are suboptimal - expensive to implement, slow to use and do not meet requirements for PSD2, eIDAS and modern EC-funded approaches to crypto libraries. 
+
+Notakey allows banks to implement a strong and scalable multi-factor authentication. The technology is made in a way that it can easily be implemented also in other industries, where there is need for protecting sensitive data.</objective>
+  <title>Next generation authentication for the digital age</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

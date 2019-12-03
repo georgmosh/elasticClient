@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194199</rcn>
+  <acronym>smart-MEMPHIS</acronym>
+  <objective>Smart-MEMPHIS project addresses the increasing demand for low-cost, energy-efficient autonomous systems by focusing on the main challenge for all smart devices - self-powering. The project aims to design, manufacture and test a miniaturized autonomous energy supply based on harvesting vibrational energy with piezo-MEMS energy harvesters. The project will integrate several multi-functional technologies and nanomaterials; lead-zirconate-titanate materials in MEMS-based multi-axis energy harvester, an ultra-low-power ASIC to manage the variations of the frequency and harvested power, a miniaturized carbon-nano material based energy storing supercapacitor, all heterogeneously integrated with new innovative flat panel packaging technologies for cost effective 3D integration verified through manufacturability reviews.
+
+The performance of the system will be demonstrated in two demanding applications: leadless bio-compatible cardiac pacemaker and wireless sensor networks (WSN) for structure health monitoring (SHM). For the pacemaker, a smart energy autonomous system will accelerate the paradigm shift from costly, burdensome surgical treatments to cost-effective and patient-friendly minimally invasive operations enabled by leadless pacemakers capable of harvesting energy from the heart beats. The key challenges for the energy harvesting arise from the extremely stringent reliability requirements, the low vibrational energies and frequencies and the small size required for a device implanted inside a heart.
+
+With the 2nd demonstrator the consortium consisting of multi-functional value chain will show a wider applicability for the technologies complementing the medical application. A WSN with acoustic sensor nodes will be demonstrated in SHM applications. SHM enables real-time monitoring of complex structures e.g. survey and detection of micro-cracks for example in composite aircraft wings, bridges or rails, or detection of corrosion or leakage in pipes solving.</objective>
+  <title>Smart MEMs Piezo based energy Harvesting with Integrated Supercapacitor and packaging</title>
+<identifier>H2020ICT20141</identifier>
+</project>

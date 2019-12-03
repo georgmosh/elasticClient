@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211582</rcn>
+  <acronym>CloudiFacturing</acronym>
+  <objective>Information and Communication Technology (ICT) is essential for the digitalization of the manufacturing sector; notwithstanding, less than 25% of the manufacturing companies in Europe profit from ICT-enabled solutions. In order to democratically boost the competitiveness of the European manufacturers (especially Small and Medium-sized Enterprises - SMEs), innovative solutions need to consider technological and commercial scalability from the beginning. From this perspective, the cloudification of services has become the ideal enabler in the manufacturing digitalization. Successful European initiatives such us CloudFlow, cloudSME or Fortissimo have demonstrated the benefits of cloudification for engineering services, by means of combining HPC resources, computational tools, and cloud computing platforms. Manufacturing SMEs are empowered to compute and solve problems that cannot be tackled without cloud and HPC technology, making them more competitive by reducing development times for innovative product with better performance. The results of these initiatives are fostering the engineering and to some extend the prototyping processes within the manufacturing workflow; however, monitoring and optimizing production processes have not yet greatly benefited from an integrated information workflow and simulation loop based on on-line factory data. 
+The core partners of CloudFlow (eu-cloudflow.eu) and cloudSME (cloudsme.eu) are joining forces to leverage factory data with cloud-based engineering tools: 
+a) paving the way toward manufacturing analytics, 
+b) enriching the manufacturing engineering process with on-line data, and 
+c) simulating and optimizing the production process with the vision to support it in real-time. 
+The consolidated platform between CloudFlow and cloudSME with extended capabilities to process factory data is going to be accessed through a central interface, enabling the stakeholders to interact, and collaborate.</objective>
+  <title>Cloudification of Production Engineering for Predictive Digital Manufacturing</title>
+<identifier>H2020FOF2017</identifier>
+</project>

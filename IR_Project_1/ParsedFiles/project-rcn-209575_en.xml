@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>209575</rcn>
+  <acronym>CRYO-EM TRPV5</acronym>
+  <objective>Ion channels are proteins composed of a hydrophillic pore that facilitate ion flow across a plasma membrane. This ionic permeability is controlled by a set of essential properties affecting the channel activation and inactivation in response to voltage, ligands, or intracellular second messengers. The focus of the present project proposal, the transient receptor potential vanilloid channel (TRPV5), forms a specific category within the large TRP familiy of ion channels as it comprises a unique high selectivity for calcium ions together with a calcium-dependent inactivation mechanism that is incompletely understood. Detailed analysis of the TRPV5 channel will provide new structural insights into channel gating that can be extrapolated to other TRP channels, as the current knowledge on the TRP protein structure and its impact on the regulation of the channel function is still limited. 
+The key objective of my project is to deliver the first detailed mechanistic view of TRPV5 by connecting Prof. Cheng’s expertise in structural biology with my biophysical background on TRP channel functioning. The following work packages will be addressed:
+1) Channel activation mechanism of TRPV5
+Elucidation of the 3D structure of integral TRPV5 by single-particle cryo-EM will provide critical structural and mechanistic insight into calcium-dependent regulation of channel function.
+2) Intramolecular regulation of TRPV5
+Reconstitution of TRPV5 into lipid nanodiscs and liposomes allows detailed study on lipid regulation and the mechanism of channel inactivation
+Taken together, this project focuses on the structure-function analysis of TRPV5, a distinctive calcium-selective TRP channel. The goal is to elucidate the structure of the TRPV5 channel, and to unravel functional domains that are involved in channel function at the mechanistic level. This will ultimately advance our understanding of the molecular differences of activation, ion permeation and gating of TRP channels.</objective>
+  <title>Structure-function analysis of the calcium channel TRPV5</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

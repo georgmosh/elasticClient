@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196309</rcn>
+  <acronym>GY</acronym>
+  <objective>GameYourself is a High-Tech Spin-Off company of the Humboldt University of Berlin specialized in the field of computer vision. The company developed a novel technology for 3D face reconstruction and face representation by combining and further developing the latest results of Prof. Peter Eisert’s research group. The developed method relies on image-based systems for context and information acquisition and it significantly outperforms the current state of the art solutions.
+Our automated method is capable of creating a virtual 3D model of a person’s face based on a (a) short video of it taken by a regular smartphone. With our method we made it possible for the first time to create a highly realistic 3D model of a real face based on a video recorded by a regular smartphone. The result is available within a couple of minutes without manual editing.
+Video game players usually spend hours a day in a game and are willing to pay for virtual tools and items. Individualizing their character (changing hair, clothes, colors etc.) plays a very important role, especially in social online games like Second Life. From the industry point of view one of the most important factors which contributes to the overall success of a particular game is the amount of the average time the users spend playing it. Hence it is in the interest of the game companies to engage their users more in their games and to gain advantage over their competitors by offering a technology that brings high value to their fanbase. 
+The business model of GameYourself is simple: Users pay per scanned face that is integrated into a game. Furthermore the technology can be licensed to game publishers as a white label solution.
+It has to be mentioned that the opportunities of the GameYourself technology are much broader: It can be used in different industries such as e.g. the cosmetic industry, personalized marketing or surgery.</objective>
+  <title>GameYourself - Create a virtual 3D model of a person’s face based on a short video taken with any smartphone cam.</title>
+<identifier>H2020SMEINST12014</identifier>
+</project>

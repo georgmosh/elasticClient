@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193684</rcn>
+  <acronym>R2RAM</acronym>
+  <objective>The project aims to realize a strong methodology for the development and design of a radiation hard non-volatile memory technology by using standard CMOS silicon processing. Since standard silicon memories, such as flash memories tend to fail under irradiation, a new approach is envisaged: the development of a specific memory technology, so called resistive random-access memory (RRAM), which is able to sustain heavy ions and other charged particles. The switching effect of RRAM devices is caused by chemical Redox-reactions, therefore, radiation effects like total ionizing dose and single event effects don’t affect the switching mechanism.
+Semiconductor memories, among rad hard integrated circuit scenario, are one of the most critical topics for space applications. Actually both volatile and nonvolatile memories, excluding few exceptions, are integrated using standard processes and standard architectures. This means that the final device is typically at least Rad tolerant and not Rad Hard and failure during mission is avoided using Error Correcting Code techniques including redundancy at the board level. The basic goal of the project is to give a methodology for the development of a new rad-hard nonvolatile RRAM memory with high-performance features like good retention, re-programmability and cycling, and realize a prototype (1Mbit RRAM memory) in order to validate the approach.</objective>
+  <title>Radiation Hard Resistive Random-Access Memory</title>
+<identifier>H2020COMPET2014</identifier>
+</project>

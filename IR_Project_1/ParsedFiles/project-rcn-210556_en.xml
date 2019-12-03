@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210556</rcn>
+  <acronym>ALEXANDRIA</acronym>
+  <objective>Mathematical proofs have always been prone to error. Today, proofs can be hundreds of pages long and combine results from many specialisms, making them almost impossible to check. One solution is to deploy modern verification technology. Interactive theorem provers have demonstrated their potential as vehicles for formalising mathematics through achievements such as the verification of the Kepler Conjecture. Proofs done using such tools reach a high standard of correctness.
+
+However, existing theorem provers are unsuitable for mathematics. Their formal proofs are unreadable. They struggle to do simple tasks, such as evaluating limits. They lack much basic mathematics, and the material they do have is difficult to locate and apply.
+
+ALEXANDRIA will create a proof development environment attractive to working mathematicians, utilising the best technology available across computer science. Its focus will be the management and use of large-scale mathematical knowledge, both theorems and algorithms. The project will employ mathematicians to investigate the formalisation of mathematics in practice. Our already substantial formalised libraries will serve as the starting point. They will be extended and annotated to support sophisticated searches. Techniques will be borrowed from machine learning, information retrieval and natural language processing.  Algorithms will be treated similarly: ALEXANDRIA will help users find and invoke the proof methods and algorithms appropriate for the task.
+
+ALEXANDRIA will provide (1) comprehensive formal mathematical libraries; (2) search within libraries, and the mining of libraries for proof patterns; (3)  automated support for the construction of large formal proofs; (4) sound and practical computer algebra tools. 
+
+ALEXANDRIA will be based on legible structured proofs. Formal proofs should be not mere code, but a machine-checkable form of communication between mathematicians.</objective>
+  <title>Large-Scale Formal Proof for the Working Mathematician</title>
+<identifier>ERC2016ADG</identifier>
+</project>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>209187</rcn>
+  <acronym>EXPECTATION</acronym>
+  <objective>Falling raindrops will likely move downwards; red brake lights up ahead will predict a car slowing down. While perception of the world around us feels rich in detail, our brains lack the capacity to analyze every ‘pixel’ at every time-point. Instead, the brain relies on expectations to compress the total amount of sensory information from the environment. A failure to rely on expectations about visual inputs would lead to catastrophic consequences. For example, an air traffic controller without the ability to predict the likely trajectories of two planes coming in for landing would spell certain disaster. Remarkably, despite the obvious role in adaptively guiding behavior, the cognitive and neural mechanisms supporting perceptual expectations remain poorly understood. I will concurrently measure human behavior and neural responses to address two fundamental, yet outstanding questions: How are expectations about visual input acquired, and what is the impact of behavioral relevance? I anticipate mechanisms of expectation to change with learning and behavioral relevance. For example, driving in the rain, expectations about break lights could amplify this immediately relevant information. Expectations about falling rain, on the other hand, could support the equally important task of suppressing this irrelevant information so you may return home safely.</objective>
+  <title>Emerging Visual Expectation in the Brain</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

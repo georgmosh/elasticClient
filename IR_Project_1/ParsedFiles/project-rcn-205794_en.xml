@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205794</rcn>
+  <acronym>IDAaaS</acronym>
+  <objective>The objective of the overall innovation project is to commercialize a trusted online service for identity assurance (IDAaaS - Identity Assurance as a Service). This service will be implemented according to European standards for electronic identity, including eIDAS and STORK. The new service will be based on several years of development of secure electronic identity and digital signatures in the Nordic market.
+
+The expected outcome will be a simplified and cost effective online service for identity assurance that can be used in regulated industries such as banks and financial institutions (hereafter referred to as banks). The purpose of the service will be to assure that a user is who she claims to be when signing up to a new online service.
+
+The lack of good solutions for trusted digital on-boarding of customers makes it difficult for new online-only players to enter the market, which could otherwise increase competition and improve the bank services in general. Large costs, trouble and hassle for both the bank client and the bank hamper innovation in the finance sector.
+
+Electronic identity is a prerequisite for digital on-boarding. The electronic identity in Europe is fragmented and the missing implementation of European standards in this field represents a major barrier to secure cross-country transactions. The problem of establishing the true identity of the onboarding customer must be solved using multiple tools and instruments.
+
+This tool box of multiple tools is the innovation of Signicat’s solution.</objective>
+  <title>Trusted online service for identity assurance</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212656</rcn>
+  <acronym>TransTurb</acronym>
+  <objective>Many out-of-equilibrium systems undergo transitions from one quasi-stationary state to a radically different one.
+Turbulent flows, for instance, exhibit sudden switches between attractors.
+It is crucial to understand this phenomenon, both for theoretical reasons and for potential applications to industrial or geophysical flows.
+Indeed, abrupt transitions or tipping points are a critical component of climate dynamics, which is a topic of major importance for society as a whole, in addition to being a  scientific subject of uttermost current interest.
+Over the past decades, outstanding progress has been achieved in non-equilibrium statistical physics thanks to the theory of large deviations, which provides a natural generalization of the core concepts of equilibrium statistical mechanics: like entropy or free energy, large deviation rate functions encode all the relevant statistical information about an observable, such as its most probable values but also the probability of small and large fluctuations and the transitions between steady-states.
+However, large deviation computations have been up to now mostly restricted to relatively simple systems.
+This project will further develop cutting-edge analytical and numerical tools to compute large deviations in complex systems such as turbulent flows and the climate.
+The new ingredients we will consider are on the one hand, time-dependent attractors, and on the other hand, a complex field structure, since both are key features of geophysical flows.
+The goal of the project is at the same time to be able to predict some universal features of rare but high-impact transitions in turbulent attractors or, ultimately, the climate, and to promote novel techniques in rare event simulations which are applicable in an increasingly large spectrum of problems.
+Due to the combination of skills from the parties involved, the project will build a fruitful bridge between the statistical mechanics and the climate communities.</objective>
+  <title>Large Deviations and Rare Transitions in Turbulent flows</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

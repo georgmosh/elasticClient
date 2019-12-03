@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196308</rcn>
+  <acronym>enControl-Intuo</acronym>
+  <objective>We propose a connected home solution that helps reduce energy costs while preserving comfort for occupants. Our solution, enControl™-Intuo, leverages the Internet-of-Things and integrates self-learning and adjusting capabilities for interacting with any climate system, from wall units to central heating and air conditioning to radiators.
+As an added service to our enControl™ energy service platform for utilities, the innovation project integrates a proprietary algorithm to offer seamless energy efficiency to residential utility customers - saving energy and reducing their carbon footprint. 
+The innovation will enable new business models for European utilities: 1.-New energy services to reduce consumption and carbon footprint in homes; 2.-User engagement &amp; customer satisfaction; 3.-Accelerate adaptation to new sources of energy. 
+
+The innovation is tailored not only to a home’s consumption patterns but also to its energy supply model. It optimizes energy usage with energy availability and variable energy tariffs considering the own-energy generation when computing the optimal policy. In addition, the algorithm learns user comfort preferences reducing user interaction with the system.
+Our solution allows interoperability of devices from different vendors. We address this challenge with a holistic, scalable and secure Cloud-based software that seamlessly integrates new home devices and equipment and enables users to make their home smarter and more self-sufficient in the future. The solution allows for fast scalability to reach the large and lucrative residential market. With a next-generation service and a recurring monthly revenue model that fits most household budgets, we expect our solution to quickly gain traction in early adopter segments in Europe. These elements will allow us to confidently approach venture capitalists and other outside investors who will provide the capital necessary to quickly expand to other European and global markets.</objective>
+  <title>ENergy-efficient CONTROL with INternet-of-Things connected home solUtiOn</title>
+<identifier>H2020SMEINST12014</identifier>
+</project>

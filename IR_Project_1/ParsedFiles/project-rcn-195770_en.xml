@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>195770</rcn>
+  <acronym>PALADIN</acronym>
+  <objective>Given the growth and aging of the world population, innovative solutions for sustainable energy and health are needed. Novel technologies play an enabling role in the realization of such solutions. Better devices for the detection of annihilation quanta resulting from positron annihilation are an example. In material science these detectors are needed for research on renewable energies and innovative energy storage using Positron Annihilation Lifetime Spectroscopy (PALS). In medicine they are required for diagnosis, staging, and treatment monitoring of diseases using Time-of-Flight Positron Emission Tomography (TOF-PET).
+In both fields time resolution is a key parameter. Sub-100 picosecond resolution is needed but not yet available. Improvement of time resolution, however, must not deteriorate other performance parameters. This project aims to overcome present physical limits. Monolithic scintillation crystals will be read out with digital photon counter (DPC) arrays coupled to each of its surfaces. Innovative data processing methods will be developed to eliminate the influence of scintillation photon propagation, currently the major bottleneck in large scintillation crystals that are nevertheless needed for high detection efficiency. We aim at coincidence resolving times (CRT) &lt; 100ps FWHM, 10% energy resolution, 1 mm isotropic spatial resolution, and 90% detection efficiency.
+The detector will be incorporated in a PALS setup. After the performance has been characterized, it will be used for TU Delft’s materials research on renewable energy. The detector characterization will also serve as a proof-of-concept for application in clinical TOF-PET devices. The results are furthermore expected to be of relevance to fields such as high-energy physics.
+To investigate options for further improvement of the already unprecedented time resolution, studies will be done towards exploiting the Cherenkov-effect in a detector based on a hybrid Cherenkov/scintillation material.</objective>
+  <title>Positron Annihilation Detection Beyond the Limits</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

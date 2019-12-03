@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213279</rcn>
+  <acronym>VoLTE-DM</acronym>
+  <objective>Voice over LTE (VoLTE) technology allows a voice call to be placed over an LTE/4G network. VoLTE is aimed at removing the shortcomings related to LTE networks:
+(1) it aims to eliminate the need to have voice on one network (2G/3G) and data on another (LTE), thus losing the need for parallel infrastructure (operational costs reduced by 30%)
+(2) a VoLTE call utilises 50-75% less radio spectrum, meaning that more of the scarce spectrum can be freed up for providing new innovative services.
+
+However, delivering VoLTE services has proved to be more difficult than anticipated. Deployment of VoLTE currently increases operators’ operational costs at an alarming rate, largely because it is difficult and expensive to configure and manage service parameters for different phone models and phone firmware versions. As a result, large-scale deployment of VoLTE is hindered and the challenges related to the operation of parallel networks and inefficient use of radio spectrum remain unsolved.
+
+Trivore’s VoLTE device management (DM) platform is an enabler for faster and more cost-efficient roll-out of VoLTE over LTE networks. The main task of VoLTE DM server is to configure the correct VoLTE settings on devices attached to the network. Our solution provides 75-90% cost savings in VoLTE deployment and operations, faster service roll-out, more efficient use of radio spectrum and investment payback time of 6-12 months. 
+
+The core product (client, server, user interfaces, and standard protocols) is ready and was piloted/ certified by mobile network provider and device manufacturer ZTE in 2016 (TRL6). Now we need to start preparing pilots with mobile operators. We have commercial contacts with more than 100 mobile network operators (28 of which are using our other product). We could meet our sales objectives by serving these potential customers alone. We aim to deploy our solution at 100 mobile network operators, generate cumulative revenues of €78 million and create 58 jobs by 2023.</objective>
+  <title>VoLTE device management platform: enabler for the transition to full-LTE mobile networks and more efficient use of the scarce radio spectrum</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

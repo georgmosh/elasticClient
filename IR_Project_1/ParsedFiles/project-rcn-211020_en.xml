@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211020</rcn>
+  <acronym>Super-Vaccine</acronym>
+  <objective>Live vaccines represent one of the most important and effective interventions against the spread of viral disease. As such, they are instrumental in addressing ongoing societal challenges in areas such as healthcare and global food security. However, their capacity to genetically recombine with wild type (WT) viruses circulating in the field remains a primary safety concern. Modifying live vaccine strains to reduce such occurrences would be highly desirable from a safety perspective. Also efforts to enhance the intrinsic potency of vaccine strains would be very beneficial. This would facilitate the use of much lower doses, while reducing the manufacturing resources required to meet market needs and the cost of vaccination programs.
+
+With this in mind, this project will explore a novel strategy to improve both the safety and efficacy of live viral vaccine strains by modifying them to express small-hairpin-RNAs (shRNAs), which can be designed to:
+
+i) Exclusively inhibit WT virus replication/propagation via RNA-interference (RNAi), thus reducing the levels of WT available for recombination with vaccine strains during vaccination i.e. improving safety
+
+ii) Increase live vaccine strain stimulation of the innate immune system by functioning as potent inducers of Type-1 Interferon (IFN-I) expression during vaccination i.e. enhancing efficacy
+
+This novel strategy will be explored by modifying an existing attenuated Cyprinid herpesvirus-3 vaccine strain to express appropriately designed shRNAs, followed by an assessment of their impact on both WT virus replication and IFN-I expression in-vitro, providing a basis for future progression to in-vivo trials.
+
+Ultimately, if feasible, this novel vaccine design strategy may be applied in the control of many economically important viruses. Also elements of this project are in harmony with the “Strategic European Roadmap for the Vaccines of Tomorrow” launched in 2016 to outline specific EU priorities in future vaccine innovation.</objective>
+  <title>Exploring the potential applications of live viral vaccine encoded small-hairpin-RNAs in improving both vaccine safety and efficacy through RNA-interference and stimulation of the innate immune system</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

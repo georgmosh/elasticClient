@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213195</rcn>
+  <acronym>Domino</acronym>
+  <objective>The primary objective of Domino is to develop a set of tools, a methodology and a platform to assess the coupling of ATM systems from a flight and a passenger perspective. The platform will allow ATM system designers to gain insight on the impact of applying new mechanisms. It will provide a view of the impact of deploying solutions in different manners, e.g., harmonized vs. local/independent deployment, and information on the criticality of elements in the system and how this might be different for different stakeholders.
+Domino will identify, test and validate metrics based on complexity science to understand the coupling of elements in the ATM systems, creating at toolbox to analyse the system. A generalizable and extendable agent-based model, capable of capturing the interactions between stakeholders and ATM elements, will be developed. Behavioural models will be created to capture the impact of modifying the operational context by introducing new mechanisms.
+Domino will define a set of case studies to test the methodology based on a few mechanisms: Dynamic Cost Indexing (DCI), User-Driven Prioritisation Process (UDPP) and Extended Arrival Manager (E-AMAN). These mechanisms will be modelled with different operational concepts and uptakes and in isolation or in conjunction.
+Two set of case studies will be used: investigative and adaptive. Investigative case studies will be defined early in the project and prioritised with a stakeholders’ consultation. The results of those investigative case studies along with potential modifications to mitigate or enhance some of the effects observed will be presented at a dedicated workshop. The output of that workshop with stakeholders will be the adaptive case studies, which will be tested in their turn.
+A key element of Domino is the continuous consultation process through the establishment of an Advisory Board composed by stakeholders and through interaction with stakeholders with dedicated consultations and targeted workshop.</objective>
+  <title>Novel tools to evaluate ATM systems coupling under future deployment scenarios</title>
+<identifier>H2020SESAR20162</identifier>
+</project>

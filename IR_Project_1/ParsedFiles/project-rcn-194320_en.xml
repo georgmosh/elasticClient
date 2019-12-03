@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194320</rcn>
+  <acronym>RobDREAM</acronym>
+  <objective>Sleep! For hominids and most other mammals sleep means more than regeneration. Sleep positively affects working memory, which in turn improves higher-level cognitive functions such as decision making and reasoning. This is the inspiration of RobDREAM! What if robots could also improve their capabilities in their inactive phases – by processing experiences made during the working day and by exploring – or “dreaming” of – possible future situations and how to solve them best?    
+In RobDREAM we will improve industrial mobile manipulators’ perception, navigation and manipulation and grasping capabilities by automatic optimization of parameters, strategies and selection of tools within a portfolio of key algorithms for perception, navigation and manipulation and grasping, by means of learning and simulation, and through use case driven evaluation. As a result, mobile manipulation systems will adapt more quickly to new tasks, jobs, parts, areas of operation and various other constraints. 
+From a scientific perspective the RobDREAM robots will feature increased adaptability, dependability, flexibility, configurability, decisional autonomy, as well as improved abilities in perception, interaction manipulation and motion. The technology readiness level (TRL) of the related key technologies will be increased by means of frequent and iterative real-world testing, validation and improvement phases from the very beginning of the project.
+From an economic perspective the Quality of Service and the Overall Equipment Efficiency will increase, while at the same time the Total Cost of Ownership for setup, programming and parameter tuning will decrease. These advantages will support the competitiveness of Europe's manufacturing sector, in particular in SME-like settings with higher product variety and smaller lot-sizes. They also support the head start of technology providers adopting RobDREAM’s technologies to conquer market shares in industrial and professional service robotics.</objective>
+  <title>Optimising Robot Performance while Dreaming</title>
+<identifier>H2020ICT20141</identifier>
+</project>

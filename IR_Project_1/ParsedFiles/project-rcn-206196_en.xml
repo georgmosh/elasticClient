@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206196</rcn>
+  <acronym>RECAP</acronym>
+  <objective>Large-scale computing systems are today built as distributed systems (for reasons of scale, heterogeneity, cost and energy efficiency) where components and services are distributed and accessed remotely through clients and devices. In some systems, in particular latency-sensitive or high availability systems, components are also placed closer to end-users (in, e.g., radio base stations and other systems on the edge of access networks) in order to increase reliability and reduce latency - a style of computing often referred to as edge or fog computing.
+However, while recent years have seen significant advances in system instrumentation as well as data centre energy efficiency and automation, computational resources and network capacity are often provisioned using best effort provisioning models and coarse-grained quality of service (QoS) mechanisms, even in state-of-the-art data centres. These limitations are seen as a major hindrance in the face of the coming evolution of(IoT and the networked society, and have even today manifested in, e.g., a limited cloud adoption of systems with high reliability requirements such as telecommunications infrastructure and emergency services systems.
+RECAP goes beyond the current state of the art and develop the next generation of cloud/edge/fog computing capacity provisioning via targeted research advances in cloud infrastructure optimization, simulation and automation. Building on advanced machine learning, optimization and simulation techniques. The overarching result of RECAP is the next generation of agile and optimized cloud computing systems. The outcomes of the project will pave the way for a radically novel concept in the provision of cloud services, where services are instantiated and provisioned close to the users that actually need them by self-configurable cloud computing systems.</objective>
+  <title>Reliable Capacity Provisioning and Enhanced Remediation for Distributed Cloud Applications</title>
+<identifier>H2020ICT20161</identifier>
+</project>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213143</rcn>
+  <acronym>PICKPLACE</acronym>
+  <objective>Pick and place are basic operations in most robotic applications, whether in industrial setups (e.g., machine tending,
+assembling or bin picking) or in a service robotic domain (e.g., agriculture or at home). In some structured scenarios and
+with certain types of parts, picking and placing is a mature process. However, that is not the case when it comes to
+manipulating parts with high variability or in less structured environments.
+Handling systems are present in any logistics system to interface between the storage and the transportation systems. For
+non-structured scenarios, picking, packing and unpacking systems do exist at laboratory level. However, they have not
+reached the market yet due to factors like the lack of efficiency, robustness and flexibility of currently available manipulation
+and perception technologies.
+The market demands systems that allow for a reduction of costs in the supply chain, increasing the competitiveness for
+manufacturers and bringing a cost reduction for consumers. Handling systems represent the highest impact in the short-tomidterm
+in warehouse-based systems (mainly at order picking and distribution centres) and in intra-logistics operations in
+factories and retail.
+The technology gap is the lack of flexible solutions that can handle objects of variable size, shape and weight as well as
+different surface properties and stiffness.
+PICKPLACE proposes combining human and robot capabilities to achieve a safe, flexible, dependable and efficient hybrid
+pick-and-package (PAK) solution. It includes dynamic package configuration planning, flexible grasping strategies using an
+innovative multifunctional gripper, robust environment perception and mechanisms and strategies for safe human-robot
+collaboration.
+These scientific and industrial objectives are motivated by the real requirements demanded by the industry, represented in
+this proposal by ULMA, System Provider, who will facilitate a realistic and relevant scenario for the validation</objective>
+  <title>Flexible, safe and dependable robotic part handling in industrial environments</title>
+<identifier>H2020ICT20171</identifier>
+</project>

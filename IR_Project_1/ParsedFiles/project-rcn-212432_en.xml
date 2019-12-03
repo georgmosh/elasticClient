@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212432</rcn>
+  <acronym>GOEASY</acronym>
+  <objective>GNSS user technology is now widely available in mass market devices including personal devices, connected vehicles, Internet of Things (IoT) objects, etc. The widespread availability of GNSS receivers, joint with ubiquitous communication capabilities of devices and the ability of cloud-based ICT platforms to federate with each other through open standards and APIs, is enabling a new generation of Location Based Services (LBS) able to support highly-scalable pervasive applications where large number of geographically-distributed users are engaged e.g. in immersive games and commercial services. While GNSS proves to be able to support such applications successfully, a major drawback prevents such approach to be used in more serious (and potentially highly rewarding) mass market applications i.e. the lack of authentication features, resulting in high difficulties in preventing users from spoofing position information to gain advantages or damage other users.
+GOEASY will leverage unique Galileo features such as increased trust and improved availability, joint with interoperability with existing Internet of Things (IoT) infrastructures to enable more secure and privacy-savvy mass-market applications of LBS.
+GOESY will be evaluated by means of two concrete use cases, namely the ApesMobility and the AsthmaWatch, both evaluated engaging real users in a medium-scale pilot in Torino (Italy) and Stockholm (Sweden).</objective>
+  <title>GalileO-based trustEd Applications for health and SustainabilitY</title>
+<identifier>H2020GALILEOGSA20171</identifier>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210148</rcn>
+  <acronym>CellTrack</acronym>
+  <objective>The research I propose here will provide an enabling technology; spatially resolved transcriptomics, to address important problems in cell- and developmental-biology, in particular: How are stem cells in the skin and gut proliferating without turning into cancers? How are differentiated cells related, in their transcriptome and spatial positions, to their progenitors?
+
+To investigate these problems on a molecular level and open up paths to find completely new spatiotemporal interdependencies in complex biological systems, I propose to use our newly developed DNA-origami strategy (Benson et al, Nature, 523 p. 441 (2015) ), combined with a combinatorial cloning technique, to build a new method for deep mRNA sequencing of tissue with single-cell resolution. These new types of origami are stable in physiological salt conditions and opens up their use in in-vivo applications.
+
+In DNA-origami we can control the exact spatial position of all nucleotides. By folding the scaffold to display sequences for hybridization of fluorophores conjugated to DNA, we can create optical nano-barcodes.  By using structures made out of DNA, the patterns of the optical barcodes will be readable both by imaging and by sequencing, thus enabling the creation of a mapping between cell locations in an organ and the mRNA expression of those cells.
+
+We will use the method to perform spatially resolved transcriptomics in small organs: the mouse hair follicle, and small intestine crypt, and also perform the procedure for multiple samples collected at different time points. This will enable a high-dimensional data analysis that most likely will expose previously unknown dependencies that would provide completely new knowledge about how these biological systems work. By studying these systems, we will uncover much more information on how stem cells contribute to regeneration, the issue of de-differentiation that is a common theme in these organs and the effect this might have on the origin of cancer.</objective>
+  <title>Cellular Position Tracking Using DNA Origami Barcodes</title>
+<identifier>ERC2016COG</identifier>
+</project>

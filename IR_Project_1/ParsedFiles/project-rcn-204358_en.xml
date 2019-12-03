@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204358</rcn>
+  <acronym>Full Electric Boats</acronym>
+  <objective>The goal of our project is to launch on the boating market a zero-emissions propulsion system that can be installed on boats up to 10-12 metres long. This goal will be reached by developing an electric propulsion system that is completely submerged in water.  With its wide range of power (10-25-50 Kw) and high endurance (over 2 hours), it will be able to be installed on both pleasure craft and passenger boats.
+The strength points of our solution will be:
+- integration of motor, propeller and power-assisted steering into a housing submerged in the water.  This latter feature is particularly important, since it significantly simplifies the mechanical design of the motor, which will no longer require a cooling system. The unit will be particularly compact, so the technology can be used even on small to mid-sized boats;
+- an operating endurance that can be varied to meet the individual requirements of final users by having the option of installing batteries that are more or less powerful and which can even be supplemented with other energy production technologies such as photocells, mini-wind power and a small endothermic generator for emergency use.        
+The new propulsion system drives the propeller shaft directly.  No reduction gear is used, thus mechanical losses are eliminated.
+A sophisticated software control system will be developed to allow manoeuvres in tight waterways, even using a joystick. More precisely, when two motors are installed in parallel, the system will allow each motor to turn independently, thus allowing lateral movement that would not otherwise be possible. To further enhance the project, a BMS (battery management system) has been specifically developed to control the batteries.   
+We plan to offer a solution that fully meets the needs of the market regarding boats up to 10-12 metres, which consists of more than 63,000 new boats sold every year and which totally produce approx. 113,000 tons of CO2.</objective>
+  <title>New full-electric propulsion system, completely submerged in water, for zero-emissions navigation</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213189</rcn>
+  <acronym>MERLIN</acronym>
+  <objective>The ambition of the MERLIN project is to improve in-depth diagnosis and therapeutic follow-up of diseases that impact the eye’s retina. To do so, the MERLIN partners will deliver a novel medical imaging device able to detect pathological alterations in the retina with highly enhanced sensitivity and specificity.
+The medical applications of this device encompass a wide range of retinal pathologies, including age-related macular degeneration (AMD), as well as chronic vascular conditions, including diabetes. AMD and diabetic retinopathy (DR) are the leading cause of blindness worldwide in people over 55 years of age. Such diseases slowly develop at the microscopic scale in the retina. Using current imaging techniques, it is difficult to detect them at early stage, and it often takes months to assess the effects of treatments. These limitations hinders both the clinical management of patients and the investigation of new therapies.
+In order to overcome these issues, the device developed in MERLIN will for the first time enable doctors to examine the retina with multiple imaging modalities at both the macroscopic and microscopic scales. Modalities will include ultrafast scanning laser ophthalmoscopy (SLO), optical coherence tomography (OCT) and OCT angiography (OCT-A), while ultrahigh resolution will be provided by adaptive optics technology. This unique combination will reveal previously invisible cellular and microvascular retinal detail in 3 dimensions. The project partners will also develop advanced image processing software for the visualization and quantitative analysis of microscopic structures, and conduct experimentations to optimize and validate performance in AMD and DR patients.
+As the feasibility of this diagnostic approach has previously been demonstrated in another European R&amp;D project (FP7 FAMOS, 2012-2017), MERLIN will translate the technology from a preexisting laboratory prototype to a nearly commercial device usable in clinical trials.</objective>
+  <title>Multi-modal, multi-scale retinal imaging</title>
+<identifier>H2020ICT20171</identifier>
+</project>

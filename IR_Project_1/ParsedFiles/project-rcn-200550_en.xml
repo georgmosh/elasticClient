@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200550</rcn>
+  <acronym>HV-EPSA</acronym>
+  <objective>The main objective of the HV-EPSA project is to break the current state-of-the-art in satellite electrical &amp; power subsystem, expand the present application domain of the classical technologies and perform a full system analysis and validation to optimize the electrical chain including the new electrical propulsion units and communication systems
+
+The electrical &amp; power subsystem (EPS) is mainly devoted to provide electrical power to all the active systems of a satellite. It generates and distributes a “primary power bus” whose characteristics are optimized to the mission needs. This bus is usually generated from solar arrays and electrochemical batteries. These power sources are controlled by a Power Conditioning Unit (PCU) which delivers the power bus. EPS is a major constituent of a satellite : its cost may reach up to 30% of the total platform cost.
+
+There is a large design variety of power buses, with voltage levels typically ranging from 28 to 100V. This state-of-the-art is well adapted to past and current needs in term of power conditioning &amp; distribution for science and telecommunication satellites. Nevertheless, a short-term need is raising for higher operating voltages, especially for the new electrical propulsion systems and high power payloads
+
+Increasing the bus voltage represents a real technical challenge. During its life, the satellite has to face many “harsh” environment constraints (radiations, pressure, plasma,…) which limit the choice of high voltage electronic parts and favor destructive electrical discharges or arcs. This study will consider: solar arrays, power conditioning and distribution units (PCDU), cables and connectors, up to the main driving units for high voltage feeds: the EPCs (Electrical Power Conditioner for radio frequency amplifiers  supply) and PPUs (Plasma Propulsion Unit for electric thrusters).
+
+This study will enable a full system analysis including units optimization and materials testing within representative environment.</objective>
+  <title>High Voltage Electrical Power System Architecture</title>
+<identifier>H2020COMPET2015</identifier>
+</project>

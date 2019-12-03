@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205887</rcn>
+  <acronym>JAM</acronym>
+  <objective>JAM is an IoT solution (hardware &amp; software), capable of reducing operational costs of businesses managing vehicle fleets by targeting the following key needs:
+
+- Fuel efficiency: fuel represented, in 2011, 32% of the total cost of fleet operation;
+- Maintenance costs: lack of maintenance shortens the vehicle lifetime and leads to excessive maintenance costs, fuel consumption, higher vehicle off-road time and losses in productivity;
+- Compliance with environmental regulations and reduction of CO2 emissions.
+
+JAM is connected to the mandatory vehicle interface for on-board diagnostics (OBD) and collects data from all vehicle sensors, using state of the art artificial intelligence to detect risks before malfunctions and breakdowns occur, allowing immediate interventions. Continuous monitoring of vehicle health allows the mechanical optimization of the fleet, reducing fuel costs and CO2 emissions.
+Although there are solutions in the market making use of the OBD interface to assess vehicles’ conditions, JAM introduces two breakthroughs.  
+
+JAM is integrated in the 18 Billion Euros worth commercial telematics market as an aftermarket solution. The market is expected to grow to 42,8 Billion Euros by 2020.
+
+JAM’s feasibility was assessed during a SME Instrument Phase 1 project, and with this Phase 2 project we will be able to have a market ready version of JAM. Project break-even is expected to be met by the end of Phase 2 and in the short-term this project will create 12 additional highly qualified jobs.</objective>
+  <title>JAM: vehicle predictive maintenance through Artificial Intelligence</title>
+<identifier>H2020SMEINST220162017</identifier>
+</project>

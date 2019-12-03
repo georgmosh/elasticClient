@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>197449</rcn>
+  <acronym>SynDiv</acronym>
+  <objective>Imagine building a living cell from basic components, a vesicle filled with biomolecules that can sustain itself and reproduce into similar offspring. Can this be done?
+This proposal addresses the most tantalizing aspect: synthetic cell division. We aim to build liposomes (lipid vesicles enclosing an aqueous solution with proteins and DNA) that can spontaneously divide through a contractile protein ring at the vesicle perimeter. To realize this, we employ an experimental biophysics approach that addresses both the actual division and the prerequisite spatial control, with:
+1. Cells in nanofabricated shapes. We will study cell-division proteins and DNA in live E.coli bacteria that are molded into user-defined arbitrary shapes and sizes. Clarifying the effects of cell shape will elucidate the guiding principles for the spatiotemporal organization of the cell-division machinery.
+2. Proteins and DNA in nanofabricated chambers. We will use a bottom up approach to study the basic divisome components in vitro exploiting the full control provided by nanochambers. This will resolve the spatial organization of the fascinating patterns of Min proteins and chromatin that dictate the localization of the division ring.
+3. Liposomes on chip. We will develop a chip-based technology to generate liposomes for exploring synthetic cell division. We will use both microfluidic constrictions and a biomimetic approach (encapsulation of divisome proteins such as FtsZ) to induce autonomous liposome splitting, thus enabling a simplified but tightly controlled form of synthetic cell division.
+To our knowledge, this nanofabrication-based approach to synthetic division is unique. We expect to be able to make important contributions to understanding cell division, and anticipate that on a 5-year scale we indeed can master synthetic division. We believe that our mix of nanophysics and synthetic biology is bound to yield deep insight into the biophysical underpinnings of cellular reproduction.</objective>
+  <title>A nanophysics approach to synthetic cell division</title>
+<identifier>ERC2014ADG</identifier>
+</project>

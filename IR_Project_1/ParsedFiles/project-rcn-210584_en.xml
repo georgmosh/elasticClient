@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210584</rcn>
+  <acronym>VULCAN.ears</acronym>
+  <objective>Volcanic activity has a big impact on the economy and society. Nowadays, volcano monitoring (VM) is mainly based on the analysis of the seismicity, specifically on some type of precursory events (or classes) which appear before an eruption. The variability of the volcano-seismic classes and the increase of the seismicity in a volcano crisis difficult the manual supervised classification carried out by expert technicians to detect an event and assign it to its proper class. Most of the VM observatories demand an automatic Volcano Seismic Recognition (VSR) to quickly detect and analyse the precursory seismicity and to correctly assess the population risk, avoiding human casualties. Nevertheless, only a few VM facilities have their own VSR prototypes designed to monitor their volcanoes.
+
+The aim of this proposal is to build an automatic VSR system focused on recognising events in unsupervised scenarios, robust enough to be integrated into the VM centre of any volcano, allowing online risk assessment by real-time seismicity analysis. It will be based on state-of-the-art VSR technologies: a) class description by statistical means (structured Hidden Markov Models) and b) Parallel System Architecture (PSA-VSR) composed of specialised recognition channels, each designed to detect and classify events of a given type. To accomplish this goal, two objectives have to be achieved:
+
+1. To build models robust enough, which requires gathering massive data from different types of volcanoes and searching the most efficient way to describe each class.
+2. To maximise the system applicability: the system will be integrated into several VM scenarios and eruption forecasting tools to obtain useful feedback information.
+
+The interaction between machine learning and volcanology will be the key to build this innovative, long-awaited, standard solution in the VM area: a collaborative framework software able to recognise events from any volcano in real-time.</objective>
+  <title>Volcano-seismic Unsupervised Labelling and ClAssificatioN Embedded in A Real-time Scenario</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

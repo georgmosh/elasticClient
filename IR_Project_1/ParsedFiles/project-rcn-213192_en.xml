@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213192</rcn>
+  <acronym>GATEMAN</acronym>
+  <objective>GNSS will become the primary means of navigation in the mid and long term. However, GNSS signals are vulnerable to threats, specially to jamming and spoofing, which may cause the total loss of navigation, and hence the management of those threaths is a safety must.
+
+This project will research multiple measures that could be deployed on most aircrafts to enable the management of those threats, either on their own or in a collaborative fashion with other aircrafts.
+
+The measures to be researched will cover the threats detection, localisation and mitigation, the latter either to keep the GNSS-based navigation operative or to revert to an alternate PNT technology based on 5G cellular stations networks.</objective>
+  <title>GNSS NAVIGATION THREATS MANAGEMENT</title>
+<identifier>H2020SESAR20162</identifier>
+</project>

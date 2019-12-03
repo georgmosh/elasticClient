@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211585</rcn>
+  <acronym>Corvid</acronym>
+  <objective>In April 2017, Uber announced that it expects to deploy flying taxis in Dallas-Fort Worth, Texas, and Dubai by 2020, and will partner with diverse companies such as Bell Helicopter and Embraer to make the vertical take-off and landing vehicles (VTOLs). Same month a full-size prototype of an electric personal two-seater aircraft designed by the Munich-based company Lilium made a successful first flight. There are more than 30 companies globally now, developing VTOLs—lightweight electric flying taxis that will transform our transportation patterns in the nearest future.
+At the same time, qualified pilots are already in short supply. Airbus predicts that given that additional 500,000-600,000 more will be needed by 2035 to keep pace with the aviation’s expected growth, especially given the nascent VTOL market. This shortage can only be covered by further automation of flight control, making it capable of replacing the human pilots altogether. With the current approach to development of avionics software this is not possible.
+Daedalean is a Swiss SME started by the cross-disciplinary team of Google, SpaceX, ETH Zürich &amp; Imperial College London alumni, which has designed the world’s first AI-based autonomous flight control system. This system is capable of passing the stringent certification tests devised for human pilots. The system will also be able to handle emergencies and unexpected situations as good as human pilots.
+Daedalean is aiming at servicing a 10-15% share of the forecasted €5.2bn global VTOL market, with revenues of up to €78mn by 2025 and 170+ people employed. Ultimately, Daedalean will create a tipping point for adoption of AI-based autopilots for commercial freight and passenger flights, reducing operational costs &amp; further increasing safety of the aviation industry.
+In this Phase 1 project, Daedalean will run an in-depth market assessment and devise a strategy to undergo certification processes successfully in multiple EU countries.</objective>
+  <title>AI-based autonomous flight control for the electric passenger aircraft of the nearest future</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

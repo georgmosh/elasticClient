@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>197956</rcn>
+  <acronym>E-LOCKS</acronym>
+  <objective>The demand of oil and gas including Liquefied Petroleum Gases (LPG) amounts to 766 million m3 in Europe, at a compound annual growth rate (CAGR) of 5.25% for the period 2009-2013.  Currently, distributors and governments are suffering important financial losses due to theft, smuggling, and fraud in the delivery and sale of oil and gas products, costing European companies an estimated range from 100€ million to 1,300€ million  every year.  
+In WACnGO, our activity started in 2008 with the development of a powerful system to provide an integral logistics management solution to the liquefied petroleum gases (LPG) and oil distribution companies, based on software (SW) tools and hardware (HW) devices to control, maintain and optimize the logistics and operation of this industry. In WACnGO we are focusing on this market segment through the offering of innovative solutions and by being adaptive to customer needs. 
+As one of the major issues to be tackled by oil/gas distribution companies is the prevention of the theft and fraud associated with the distribution of their products. We propose to prevent illegal practices and their direct economic consequences with an innovative security solution for oil/LPG tanks: the e-LockS solution. It is an integrated  SW and HW architecture system based on two main components:
+- Caplock®: cap with the electronic lock integrated to be installed in each tank. 
+- e-key®: intelligent key which will be managed from the Oil/LPG distribution management system (assignment of the permission to open a single tank and/or group of tanks).</objective>
+  <title>Electronic security for OIL/LPG tanks</title>
+<identifier>H2020SMEINST12014</identifier>
+</project>

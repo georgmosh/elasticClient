@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>215538</rcn>
+  <acronym>MAPIC</acronym>
+  <objective>This project aims at tackling pharmaceutical micropollutant capture (antibiotics, endocrine disruptors,…) from wastewater by developing a small, energy-efficient, high capture efficiency device that couples microfluidic technology  with β-Cyclodextrin polymer (β-CDP). β-CDP was recently shown to outperform all other adsorbants in water depollution test. Yet, like all adsorption methods, β-CDP efficiency is dependent on required elapsed time for interaction events to occur  in  between flowing pollutant and the adsorbant surface. This can be greatly improved by using microfluidics systems which reduce drastically both the diffusion distance and the related time while significantly minimizing the overall footprint. The proposed highly integrated microfluidic architectures target to treat up to 50 m3/day, and unlike conventional methods uses minimal energy (&lt;200Pa). The modular assembly will also enable multiplexed capture approaches through serial configuration. 
+This project will pave the way towards further possibilities for applications in biosensing, solvent recovery, and others fluid system remediation (Air, Gas, oils, etc,…).
+
+With the support of Blackholelab and its owned IP, two remediation demonstrators will be realized for domestic and industrial perspectives, with respectively targeted sizes of a Soda-Can and a suitcase.  This innovative solution to remove pharmaceuticals from wastewater can help in tackling some of our greatest challenges: water scarcity, energy saving, and antibiotic resistance.</objective>
+  <title>Microfluidic Active Pharmaceutical Ingredients Capture (MAPIC) System</title>
+<identifier>H2020MSCAIF2017</identifier>
+</project>

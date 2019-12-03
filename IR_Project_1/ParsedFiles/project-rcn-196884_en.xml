@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196884</rcn>
+  <acronym>corr-DFT</acronym>
+  <objective>By virtue of its computational efficiency, Kohn-Sham (KS) density functional theory (DFT) is the method of choice for the electronic structure calculations in computational chemistry and solid-state physics. Despite its enormous successes, KS DFT’s predictive power and overall usefulness are still hampered by inadequate approximations for near-degenerate and strongly-correlated systems. Crucial examples are transition metal complexes (key for catalysis), stretched chemical bonds (key to predict chemical reactions), technologically advanced functional materials, and manmade nanostructures.  
+I aim to address these fundamental issues, by constructing a novel framework for electronic structure calculations at all correlation regimes. This new approach is based on recent formal developments from my group, which reproduce key features of strong correlation within KS DFT, without any artificial symmetry breaking. My results on the exact infinite-coupling-strength expansion of KS DFT will be used to endow that theory with many-body properties from the ground up, thereby removing its intrinsic bias for weak correlation regimes.
+This requires novel combinations of ideas from three research communities: chemists and physicists that develop approximations for KS DFT, condensed matter physicists that work on strongly-correlated systems using lattice hamiltonians, and mathematicians working on mass transportation theory. The strong-correlation limit of DFT enables these links by defining a natural framework for extending lattice-based results to the real space continuum. On the other hand, this limit has a mathematical structure formally equivalent to the optimal transport problem of mathematics, enabling adaptation of methods and algorithms.
+The new approximations will be implemented with the assistance of an industrial partner and validated on representative benchmark chemical and physical systems.</objective>
+  <title>Improving the accuracy and reliability of electronic structure calculations: New exchange-correlation functionals from a rigorous expansion at infinite coupling strength</title>
+<identifier>ERC2014CoG</identifier>
+</project>

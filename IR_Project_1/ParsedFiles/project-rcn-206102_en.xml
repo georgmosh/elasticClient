@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206102</rcn>
+  <acronym>FACILITATORS</acronym>
+  <objective>The FACILITATORS goals are:
+-To Enable the highest possible level of validation of the common building blocks (developed by concurring operational grants) in the most relevant environment by adapting and providing the best available European test facilities, as well as 
+-To Guarantee coherence among the different test facilities and among the building blocks by establishing common implementation/validation scenarios (to be reproduced during ground testing) and common interfaces with the test facilities.
+
+More concretely, in order to achieve such goals, the objectives of our project are to:
+1. Analyse and identify the validation needs of each building block
+2. Identify and adapt the already-existing top-notch European test platforms that will form a “federation of facilities” which will host the validation tests of ALL building blocks in BOTH demonstration scenarios
+3. Characterize the facilities and provide representative datasets to support the design and development of the building blocks, carried out by concurring operational grants (OGs)
+4. Ensure coherence among the different building blocks by agreeing on common demonstration scenarios that will be carried out within the federation of facilities, as well as by preparing common interfaces in coordination with the SRC board and the other parallel OGs
+5. Provide easy access to the identified facilities, and ensure their availability when the building blocks will be tested
+6. Assist the building blocks validation tests’ execution by providing monitoring and measuring means, as well as giving on-site support.
+
+The “Federation of Facilities” concept lies in a network of coordinated, complementary and exchangeable state-of-the-art facilities across Europe, identified, made available to the SRC, adapted and (if needed) enhanced for the scope of: 
+-Validating the building blocks developed in the other parallel operational grants and
+-Providing regulated services to the space robotics community beyond this project.</objective>
+  <title>Facilities for testing orbital and surface robotics building blocks</title>
+<identifier>H2020COMPET2016</identifier>
+</project>

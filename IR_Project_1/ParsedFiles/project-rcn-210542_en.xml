@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210542</rcn>
+  <acronym>SOURCE</acronym>
+  <objective>"At all scales, biology presents an astounding diversity of discrete states or species that coexist with each other long times.
+At the sub-cellular scale, molecular competition and positive feedback maintain cells in specialized epigenetic states over very long time, allowing for embryonic development of complex multicellular organisms. On larger length scales, stable yet dynamic ecosystems emerge from competition between different species. This general pattern calls for research with a focus on diversity, and how competition can act as its "engine". Statistical mechanics of complex systems provides a framework for studying universality of collective and cooperative phenomena, usually through repeated action of identical agents. I want to extend this methodology by allowing these agents to diversify. And I want to focus on the emerging diversity as a main measure of complexity. I will explore the origin and sustainability of diversity, using model systems from biology. The hypothesis is that competition is the main driver of diversity, with randomness and cooperation playing auxiliary roles.
+
+The research will be guided by agent based models of biologically relevant examples of competition and diversity:  
+- Patterns of Competitive Regulation
+- Competition as an Engine of Ecosystem Diversity 
+- Diseases and host Immunity.
+These categories will include computational aspects of gene regulation, sustainable structures of ecosystems, mechanism of speciation facilitated by competition and defense systems including the interplay between diseases and host immune systems. My aim is both multidisciplinary and ambitious: To create a new paradigm that explicitly measures self organization in terms of its resulting diversity."</objective>
+  <title>Self Organization in Competition and Diversity</title>
+<identifier>ERC2016ADG</identifier>
+</project>

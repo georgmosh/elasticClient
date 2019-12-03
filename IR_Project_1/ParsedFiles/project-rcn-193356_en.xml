@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193356</rcn>
+  <acronym>DORA</acronym>
+  <objective>DORA project is aiming at design and establishment of an integrated information system that helps passengers to optimise travel time from an origin of the travel to the airplane at the departing airport as well as from the arrival airport to the final destination. With it, the DORA integrated information system, which will be created within the project together with necessary software platforms and end user applications, is aiming at reduction of overall time needed for a typical European air travel including necessary time needed for transport to and from the airports.
+To ensure this, the DORA system will provide mobile, seamless, and time optimised route recommendations for the travels to the airport and time optimised routing within the airports, leading the passengers through terminals to the right security and departure gates. The DORA will integrate all necessary real time information on disruptions in the land transport environments and on incidents in the airport terminals to provide the fastest route alternatives, ensuring the accessibility of airport and airplane at any time in accordance with individual passengers’ requirements. The DORA system will be designed in a generic way, to ensure that it can be widely adopted independently on passengers and airports locations.
+In the project, the DORA system will be implemented and tested in realistic environments involving cities of Berlin and Palma di Mallorca as well corresponding airports in both cities with involvement of at least 500 real end users – passengers – in the trials. To support the passengers’ route optimisation, the DORA project will investigate and design technologies for recognition of waiting queues and indoor location services in airports, which will be integrated into the DORA system and tested within the project trials.</objective>
+  <title>Door to Door Information for Airports and Airlines</title>
+<identifier>H2020MG2014TwoStages</identifier>
+</project>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211300</rcn>
+  <acronym>PROPHESY</acronym>
+  <objective>The advent of Industrie4.0 provides opportunities for adopting predictive maintenance (PdM), which represents the ultimate maintenance vision for manufacturers and machine vendors. Nevertheless, there are still barriers to successful deployment including the issues of data fragmentation, limited data interoperability, poor deployment of advanced analytics and lack of effective integration with other systems at the enterprise and field levels. PROPHESY will deliver and validate (in two complex demonstrators) in real plants a PdM services platform, which will alleviate these issues based on the following innovations:
+• A CPS platform optimized for PdM activities (PROPHESY-CPS), which will enable maintenance driven real-time control, large scale distributed data collection and processing, as well as improved production processes driven by maintenance predictions and FMECA activities. 
+• Novel Machine Learning and Statistical Data processing techniques for PdM (PROPHESY-ML), which will be able to identify invisible patterns associated with machine degradation and assets depreciation, while at the same time using them to optimize FMECA activities. 
+• Visualization, knowledge sharing and augmented reality (AR) services (PROPHESY-AR), which will enable remotely supported maintenance that can optimize maintenance time and costs, while increasing the safety of maintenance tasks.  
+• A PdM service optimization engine (PROPHESY-SOE), which will enable composition of optimal PdM solutions based on the capabilities provided by PROPHESY-CPS, PROPHESY-ML and PROPHESY-AR. Service optimization aspects will consider the whole range of factors that impact PdM effectiveness (e.g., OEE, EOL, MTBF and more). 
+PROPHESY will establish and expand an ecosystem of PdM stakeholders around the PROPHESY-SOE, which will serve as a basis for the wider update of the project’s results, as it will offer to the CPS manufacturing community access to innovative, turn-key solutions for PdM operations.</objective>
+  <title>Platform for rapid deployment of self-configuring and optimized predictive maintenance services</title>
+<identifier>H2020FOF2017</identifier>
+</project>

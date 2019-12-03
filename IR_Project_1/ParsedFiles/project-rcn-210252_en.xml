@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210252</rcn>
+  <acronym>ToDL</acronym>
+  <objective>Can we synthesise life de-novo in the lab? This is one of the Grand Challenges of contemporary Science. Overall objective of this project is to set important steps in turning chemistry into biology by building fully synthetic chemical systems that contain and integrate some of the essential elements of life: replication, metabolism and compartmentalisation. Functional coupling of any of life’s essential elements has not been achieved, at least not without making use of biomolecules. We now aim to achieve such coupling and develop fully chemical systems to become increasingly life-like. Specific aims are:
+1. Achieve and explore Darwinian evolution of a fully synthetic system of peptide-based self-replicating molecules.
+2. Develop self-replicating molecules that are capable of catalysing not only their own formation, but also other chemical reactions. We will specifically target chemical reactions that result in the production of building blocks which the replicators can utilize to replicate, thereby integrating replication with a rudimentary form of metabolism.
+3. Achieve self-reproducing compartments and develop ways to couple replication inside compartments with compartment division. Three parallel approaches will be explored, based on (i) vesicle-type compartments made from self-replicating molecules; (ii) coascervates and (iii) compartments made by surfactants that are produced by catalytically active self-replicators.
+4. Extend replication from peptide-based building blocks to ones containing nucleobases. We also plan to investigate reaction networks made from mixtures of peptide- and nucleobase-containing building blocks).
+5. Develop kinetic modelling tools that allow an efficient exploration of multi-parameter space of the reaction networks developed in 1-4. Through stochastic computational modelling we will address mechanistic issues that are experimentally intractable. Furthermore, modelling will allow a more efficient exploration of multi-parameter space.</objective>
+  <title>Systems Chemistry: Steps Towards De-Novo Life</title>
+<identifier>ERC2016ADG</identifier>
+</project>

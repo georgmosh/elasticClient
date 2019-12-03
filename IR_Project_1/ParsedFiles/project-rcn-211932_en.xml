@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211932</rcn>
+  <acronym>CellPrintArray</acronym>
+  <objective>The goal of this ERC-PoC project is to develop a prototype system that will enable the addition of libraries of drugs and biochemical molecules, reagents and cells from a 96 source plate directly to individual compartments of the target Droplet Microarray (DMA). The system should have controlled atmosphere (CO2, humidity, temperature) and should allow for dispensing controlled volumes (3-500 nL per experiment) and cell numbers (1-100 per experiment) into individual droplets. We aim to create and evaluate this system for applications commonly performed in pharmaceutical companies and screening centers to enable them to perform miniaturized and more predictive high throughput screenings using physiologically relevant cells such as primary cells, stem cells, biopsy-derived cells and other scarce cell types. The system should allow high-throughput screenings with patient derived cells and therefore will open new possibilities in drug discovery and personalized medicine.</objective>
+  <title>CellPrintArray – on-demand nano-scale printing of live cells and compounds for miniaturized cell screening applications</title>
+<identifier>ERC2017PoC</identifier>
+</project>

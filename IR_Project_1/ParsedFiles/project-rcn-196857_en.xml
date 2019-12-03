@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196857</rcn>
+  <acronym>MANGO</acronym>
+  <objective>Amyloid-like protein aggregation is a process of protein assembly via the formation of intermolecular β-structures by short aggregation prone sequence regions. This occurs as an unwanted side-reaction of impaired protein folding in disease, but also for the construction of natural nanomaterials. Aggregates appear to be strongly enriched in particular proteins, suggesting that the assembly process itself is specific, but the cross-seeding of the aggregation of one protein by aggregates of another protein has also been reported. 
+
+The key question that I aim to address in this proposal is how the beta-interactions of the amino acids in the aggregate spine determine the trade-off between the specificity of aggregation versus cross-seeding. To this end, I will determine the energy difference between homotypic versus heterotypic interactions and how differences in sequence translate into energy gaps. Moreover, I will analyse the sequence variations of aggregation prone stretches in natural proteomes to understand the danger of widespread co-aggregation. 
+
+To achieve these outcomes, I will study the interactions and cross-seeding of aggregating proteins and model peptides in vitro and in cells. I will extract the sequence and structural determinants of co-aggregation, and employ these to construct novel bioinformatics algorithm that can accurately predict co-aggregation and cross-seeding. I will use these to analyse co-aggregation cascades in natural proteomes looking for mechanisms that protect them from wide-spread cross-seeding. 
+
+This work will have a significant impact on the understanding of the downstream effects of protein aggregates and may reveal co-aggregation networks in human diseases such as the major neurodegenerative diseases or cancer, potentially opening up new research lines on the mechanisms underlying these pathologies and thus identify targets for novel therapies.</objective>
+  <title>The determinants of cross-seeding of protein aggregation: a Multiple TANGO</title>
+<identifier>ERC2014CoG</identifier>
+</project>

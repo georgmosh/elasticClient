@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212928</rcn>
+  <acronym>TWIGA</acronym>
+  <objective>Objectives: Provide currently unavailable geo-information on weather, water and climate for sub-Saharan Africa by enhancing satellite-based geo-data with innovative in situ sensors and developing related information services that answer needs of African stakeholders and the GEOSS community.
+Concept: A systematic feedback loop to reciprocally validate in situ measurements and satellite data in one integrated model. Over 500 in situ measurement stations using citizen science. 
+State of the art advancement &amp; Innovation potential: Building on and pushing further recent advances in sensor and communication technology to provide cheaper and more robust in situ measurements covering a wider area at a higher resolution in sub-Saharan Africa.
+Working with tech-hubs in Europe and Africa to feed creation and growth of European and African start-ups that develop sensors and geo-services, delivering complete value chains from sensor to customer-ready information delivery.
+Impact on call expectations:  
+-Integration of in situ components into models based on GEOSS and Copernicus data
+-OGC compliant science-grade geo-data (atmosphere, hydrosphere, biosphere) delivered to GEOSS, incl. near-real time statistically characterized soil moisture data from Africa that can be used operationally (not currently available) and radar derived soil moisture measurements also available under cloudy conditions, or vegetation overgrowth
+-at least 20 new products for use in food, water, energy security, climate change and resilience to natural hazards validated and ready for large-scale implementation by consortium partners and external stakeholders
+-based on at least 10 innovative, cost efficient, robust, sensors, including fast neutron coun-ter, track¬ing of convective storms with consumer lightning sensors and accelerometer for tree-crown weighing
+-(Bio-degradable) sensors reduced to one tenth to one hundredth of their current price, extremely low-maintenance, use of Unmanned Aerial Vehicles.</objective>
+  <title>Transforming Weather  Water data into value-added Information services for sustainable Growth in Africa</title>
+<identifier>H2020SC52017OneStageB</identifier>
+</project>

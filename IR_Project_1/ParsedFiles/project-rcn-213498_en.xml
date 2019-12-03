@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213498</rcn>
+  <acronym>D-SynMA</acronym>
+  <objective>Computing is changing from living on our desktops and in dedicated devices to being everywhere. In phones, sensors, appliances, and robots – computers (from now on devices) are everywhere and affecting all aspects of our lives. The techniques to make them safe and reliable are investigated and are starting to emerge and consolidate. However, these techniques enable devices to work in isolation or co-exist. We currently do not have techniques that enable development of real autonomous collaboration between devices. Such techniques will revolutionize all usage of devices and, as consequence, our lives. Manufacturing, supply chain, transportation, infrastructures, and earth- and space exploration would all transform using techniques that enable development of collaborating devices. 
+When considering isolated (and co-existing) devices, reactive synthesis – automatic production of plans from high level specification – is emerging as a viable tool for the development of robots and reactive software. This is especially important in the context of safety-critical systems, where assurances are required and systems need to have guarantees on performance. The techniques that are developed today to support robust, assured, reliable, and adaptive devices rely on a major change in focus of reactive synthesis. The revolution of correct-by-construction systems from specifications is occurring and is being pushed forward.
+However, to take this approach forward to work also for real collaboration between devices the theoretical frameworks that will enable distributed synthesis are required. Such foundations will enable the correct-by-construction revolution to unleash its potential and allow a multiplicative increase of utility by cooperative computation. 
+d-SynMA will take distributed synthesis to this new frontier by considering novel interaction and communication concepts that would create an adaptable framework of correct-by-construction application of collaborating devices.</objective>
+  <title>Distributed Synthesis: from Single to Multiple Agents</title>
+<identifier>ERC2017COG</identifier>
+</project>

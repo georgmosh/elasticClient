@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>198017</rcn>
+  <acronym>EXIST</acronym>
+  <objective>This project will research new technologies for CMOS image sensors that are needed in the next generation of several application domains.
+The image sensor research will focus on enhancing the capabilities of current imaging devices:
+• New design (architectures) and technology (e.g. 3D stacking) for better pixels (lower noise, higher dynamic range, new functionality within the pixel) and more pixels (higher spatial and temporal resolutions) at higher speed, time-of-flight pixels, local (on-chip) image processing, embedded CCD in CMOS TDI pixels.
+• Extended sensitivity and functionality of the pixels: extension into infrared, filters for hyper-and multi-spectral imaging, better colour filters, programmable filters with LCD cells.
+
+Application domains that will be covered are:
+• Digital Lifestyle: Broadcast, Digital Cinema &amp; Entertainment, Smart home (Grass Valley, Angenieux, Silios, Delft University of Technology, SoftKinetic).
+• Smart Production (IMEC, C-cam).
+• High-end Security (Adimec, Angenieux, Le2i, TNO).
+• Agriculture and food sorting using hyper- and multi-spectral imaging and programmable filters (Silios, Le2i).
+• Medical healthcare: diagnostics using multi-/hyper-spectral imaging and programmable filters (Adimec, TNO, Silios, Quest and Focal).
+• Gas detection using multi spectral IR imagers (Sofradir).
+• Security: gas sensing (Sofradir).
+
+The prototype CMOS image sensors for several application domains will be demonstrated together with the sensor related processing.</objective>
+  <title>Extended Image Sensing Technologies</title>
+<identifier>ECSEL20141</identifier>
+</project>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204460</rcn>
+  <acronym>Valleys</acronym>
+  <objective>The main objective of this research proposal is to realize new types of electronic devices based on the valley/spin degree of freedom in two-dimensional semiconductors from the transition metal dichalcogenide family. These materials are analogous to graphene but have a direct band gap. Together with the unique band structure, this allows manipulating the spin and valley degrees of freedom interchangeably. In addition, it can give rise to a mechanism for protecting the spin which could in future result in very high spin relaxation lengths. This proposal will explore various spin/valley injection mechanisms as well as detection mechanisms with the goal of realizing an all-electric valleytronic device with no need of optical excitation which is bulky and difficult to scale and implement on chip scale. Various new device architectures such as valley interconnects, amplifiers and diodes will be realized in the central part of the proposal.</objective>
+  <title>Valley and spin devices based on two-dimensional semiconductors</title>
+<identifier>ERC2015CoG</identifier>
+</project>

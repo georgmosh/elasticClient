@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206506</rcn>
+  <acronym>VOSTARS</acronym>
+  <objective>The idea of integrating the surgeon’s perceptive efficiency with the aid of new augmented reality (AR) visualization modalities has become a dominant topic of academic and industrial research in the medical domain since the 90’s. AR technology appeared to represent a significant development in the context of image-guided surgery (IGS).
+The quality of the AR experience affects the degree of acceptance among physicians and it depends on how well the virtual content is integrated into the real world spatially, photometrically and temporally. In this regard, wearable systems based on head-mounted displays (HMDs), offer the most ergonomic and easily translatable solution for many surgeries.
+Most of the AR HMDs fall into two categories according to the see-through paradigm they implement: video see-through (VST) and optical see-through (OST) HMDs. In OST systems, the user’s direct view of the real world is augmented with the projection of virtual information into the user’s line of sight. Differently, in VST systems the virtual content is merged with images captured by two external cameras anchored to the visor. With respect to technological and human-factor issues, both the approaches have their own strengths and shortcomings. In this project, we identified in a hybrid OST/VST HMD, a disruptive solution for improving surgical outcomes.
+The application driven device will be developed from existing systems and exploiting the knowhow acquired within the consortium on photonics KET technologies. The resulting device will undergo three clinical trials whose results will be fundamental towards a straight industrial exploitation comprising economic viability analysis.
+Video-Optical See Through AR surgical System (VOSTARS) will be the first hybrid see-through HMD surgical navigator. Further, albeit VOSTARS will be specifically designed for medical procedures, its design is aimed to evolve into a multi-purpose AR platform for HMDs.</objective>
+  <title>Video Optical See-Through Augmented Reality surgical System</title>
+<identifier>H2020ICT20161</identifier>
+</project>

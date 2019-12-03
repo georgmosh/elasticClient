@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207935</rcn>
+  <acronym>DEEPVIEW</acronym>
+  <objective>A tube is a prismatic component designed to carry fluids, used for a wide range of applications as cooling, lubrication, braking, and energy transmission systems. Are applied in several industries, from transport (automobile, railway, aircraft) to energy generation (wind, gas turbines, nuclear). In most cases these components are security elements. 
+The sealing between the tube and other subsystems (valve, heat exchanger, pump, tank, engine…) might be critical when it contains fluids at high pressures (up to 200 bar). In this case, a perfect tube shape and finishing is required to avoid leaking in order to ensure product safety and system efficiency.  
+Automobile industry is the largest tube consumer nowadays. In Europe alone, automotive industry produces over 400 million tubes annually. Leaking tube assemblies are a risk to product safety. Manufacturers take this responsibility seriously, for the great costs involved in product recall, orders cancellation and reputation. They spend a great amount of money in quality control through visual inspection. Industries with more stringent quality control standards carry on the inspection twice. 
+Human-related approaches cannot guarantee unforeseen outages considering that production accounts millions of units. Other approaches have been tried, but none of them gives 100% accuracy. Our innovative solution is based in the reflection of light, reaching 95% accuracy. 
+During +25 years, Tetralec has been supplying machinery for tubes and it has accumulated a great experience with the challenges related to defect detection. A multidisciplinary team has studied the available technologies and its limitations. In 2015, aimed thought a market-oriented demand, we have developed a novel defect identification pilot (hardware) based in staggered analysis of the reflected light for prismatic elements. Our system is able to detect defects &lt;0.001 mm in hoses, eliminating the need of visual inspection, and thereby increasing product quality</objective>
+  <title>High accuracy error detection in curved (prismatic) surfaces at high manufacturing speed</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

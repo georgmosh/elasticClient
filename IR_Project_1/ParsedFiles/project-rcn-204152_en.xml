@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204152</rcn>
+  <acronym>LogCorrelatedFields</acronym>
+  <objective>The proposed research deals with the extremes of logarithmically correlated fields, in both the Gaussian and non-Gaussian setups. Examples of such fields are branching random walks, the (discrete) two dimensional Gaussian free field, the set of points left uncovered by a random walk on the two dimensional torus at times close to the cover time of the torus, the (absolute) values of the characteristic polynomial of random matrices, Ginzburg-Landau models, and more. The proposal builds on recent progress in the study of the maximum and of the extremal process of the two dimensional Gaussian free field, which was made possible by Gaussian comparisons and the introduction of a refined version of the second moment method.   The proposed research will develop the tools needed for building a general and flexible theory applicable to general logarithmically correlated fields. Applications to the multiplicative chaos will also be considered.</objective>
+  <title>Extremes in logarithmically correlated fields</title>
+<identifier>ERC2015AdG</identifier>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205519</rcn>
+  <acronym>MANUWORK</acronym>
+  <objective>Future manufacturing will be characterized by the complementarity between humans and automation, especially regarding the production of highly customizable products.  This requires new methods and tools for the design and operation of optimized manufacturing workplaces in terms of ergonomics, safety, efficiency, complexity management and work satisfaction. MANUWORK aims to focus on the development of an integrated platform for the management of manufacturing workplaces of the future. This will be done through development, implementation and testing of the following technological components:
+1. A tool for determining optimal human-automation levels for load balancing, based on methods for the assessment of physical, sensorial and cognitive capabilities of humans, the prediction of evolution of human skills/capabilities using Petri Nets and the modeling of automation skills.
+2. A framework for the evaluation of worker satisfaction, safety and health, based on methods for evaluating psychometrics and socio-organizational parameters and the safe human-automation symbiosis.
+3. A framework for the adaptive shop-floor support and industrial social networking based on an Augmented Reality tool for the Human-Automation Interface, an industrial social networking platform and methods for knowledge capturing and social analytics.
+A critical target will be the active and passive use of information from workers, without storing any personal data, in order to maintain the confidentiality of the person involved. This will be done through the direct use of data for the calculation of factors of workplace models for the dynamic assignment of workers based on the groups they belong to (e.g. age group). Finally, MANUWORK will test and validate the research and technological developments in three industrial pilot demonstrators (aerospace, automotive and people with disabilities), following an industrial pre-pilot validation (machine tool sector).</objective>
+  <title>Balancing Human and Automation Levels for the Manufacturing Workplaces of the Future</title>
+<identifier>H2020FOF2016</identifier>
+</project>

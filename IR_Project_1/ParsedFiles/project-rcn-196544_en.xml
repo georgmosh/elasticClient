@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196544</rcn>
+  <acronym>SIMPLE</acronym>
+  <objective>The forthcoming European Space missions both for earth observation and science (e.g. Euclid, Metop-SG) are more and more demanding very high-speed data transmission (above Gbps) within the different units in satellite payloads and platform. As SpaceWire standard (ECSS-E-ST-50-12C) is no longer capable to meet such stringent requirements the European Space Agency (ESA) is finalizing a new standard for high-speed data links called SpaceFibre. Among the main features SpaceFibre defines high reliable and fast point-to-point or network connections 
+The definition of this new standard opens up a considerable business opportunity related to the implementation of Intellectual Property (IP) and systems compliant to it. In order to guarantee a high reliable transmission the SpaceFibre is rather complex, thus 2 main issues are expected to be faced by any developer: on one side the design and implementation of a system compliant with the standard and on the other side the need for a test equipment capable of validating such a design. 
+The proposed innovation project has the ambitious goal to solve both the problems by:
+1) Design, Development and Testing of a point-to-point interface controller IP, both synthesizable HW macrocell and relevant SW/Firmware, compliant with the new High Speed Serial Link standard developed by ESA under the name of SpaceFibre;
+2) Development of a test equipment (SpaceFibre Analyser) based on the outcome of the previous activity which serves as reference equipment for testing any design/product related to SpaceFibre.
+The final aim of the project is to provide the customer with a powerful instrument to simplify the development of his own system based on SpaceFibre technology, thus the acronym SIMPLE. 
+The company IngeniArs through the commercialization of the SpaceFibre technology is aiming to achieve 10% of the forecasted market size reaching a positive EBITDA during the first year of product commercialization and reaching the breakeven after 2 years.</objective>
+  <title>Spacefibre IMPLementation design  test Equipment</title>
+<identifier>H2020SMEINST12014</identifier>
+</project>

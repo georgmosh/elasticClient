@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212840</rcn>
+  <acronym>PANBioRA</acronym>
+  <objective>PANBioRA aims at providing a comprehensive solution for the time- and cost-effective risk assessment of i) new biomaterials under health or disease states or ii) a given biomaterial for each patient in a personalized manner. It will standardize the evaluation of biomaterials and open the venue for pre-implantation, personalized diagnostics for biomaterial based applications.   
+PANBioRA will provide a modular platform to assess risks at different aspects and length scales. This comprises antibody response, cytotoxicity/genotoxicity at cell level, systemic and local effects at tissue and connected tissues (organ-on-a-chip) level. Moreover, physicochemical and biomechanical characterisation as well as predictive modelling at systems level will complement the system. This will be achieved by connecting testing modules in a structure supported by web-based modelling and risk radar tools together with a biomechanical testing system.
+The platform will incorporate standardized protocols yielding significantly more information than the current methods for biomaterial risk assessment. Its accuracy will be demonstrated using known reference materials and validated in a pre-clinical setting.
+PANBioRA will for the first time, predict the patient specific response to a given biomaterial before its implantation. This measure will allow for the selection of the best suitable material, minimizing side effects and improving health outcomes. 
+It will also accelerate the process of validation of the biocompatibility of new devices by providing an automated, comprehensive process for the parallel assessment of risks at different scales aiding new biomaterial discovery and commercialisation. 
+Altogether, PANBioRA will lead to a substantial economic impact due to a reduction of the amount of tests, decrease in healthcare costs due to complications. It will provide the necessary tools proper risk management related to biomaterials.</objective>
+  <title>Personalized And/Or Generalized Integrated Biomaterial Risk Assessment</title>
+<identifier>H2020NMBP2017twostage</identifier>
+</project>

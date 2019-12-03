@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210561</rcn>
+  <acronym>GeoLocLang</acronym>
+  <objective>"I formulated recently a conjecture that should allow to geometrize the local Langlands correspondence over a non-archimedean local field. This mixes p-adic Hodge theory, the geometric Langlands program and the classical local Langlands correspondence. This conjecture says that given a discrete local Langlands parameter of a reductive group over a local field of equal or unequal characteristic, one should be able to construct a perverse Hecke eigensheaf on the stack of G-bundles on the "curve" I defined and studied in my joint work with Fontaine. 
+I propose to construct, study and establish the basic properties of the geometric objects involved in this conjecture, this stack of G-bundles being a "perfectoid stacks" in the framework of Scholze theory of perfectoid spaces. At the same time I propose to establish the first steps in the proof of this conjecture,  study particular cases in more details and explore consequences of this conjecture."</objective>
+  <title>GeoLocLang</title>
+<identifier>ERC2016ADG</identifier>
+</project>

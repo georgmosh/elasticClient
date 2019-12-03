@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>209548</rcn>
+  <acronym>MOD-PROT</acronym>
+  <objective>Translation of the genetic code into functional proteins is a fundamental biological process essential for cell survival and function. tRNAs are critical in this process because they recognize the codons on the messenger RNA and bring the cognate amino acid to the nascent peptide. To become functional, tRNAs undergo a series of processing steps and chemical modifications. Recently, my host group discovered that cells lacking wobble uridine modifications in the tRNA anticodon display translational slow down, a defect that triggers widespread protein aggregation in yeast and nematodes. These findings were the first to link tRNA metabolism to protein quality control and established tRNA metabolism as a novel layer in the regulation of protein homeostasis. However, the mechanisms underlying this phenomenon remain unknown.
+My goal is to elucidate how tRNA processing and modifications regulate protein quality control, by integrating genetic, biochemical, transcriptomic, translatomic and proteomic approaches.
+- First, I will identify tRNA biosynthesis genes that are critical for protein aggregation, by assessing global protein homeostasis in yeast cells lacking genes required for tRNA processing and modifications. 
+- Second, I will characterize transcriptome-wide translation by ribosome profiling to determine whether protein aggregation phenotypes are accompanied by translational defect. This will reveal which tRNA processing and modifications are essential for optimal co-translational protein folding. 
+- Finally, I will use yeast and nematode models of neurodegenerative diseases to test the functional importance of candidate steps of tRNA metabolism in disease-associated protein aggregation.
+My project will comprehensively address the link between tRNA metabolism and protein homeostasis. In particular, it will bridge RNA and protein quality control pathways and shed mechanistic insights into neurodegenerative diseases that originate from tRNA dysfunction.</objective>
+  <title>The role of tRNA processing and modifications in protein quality control.</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

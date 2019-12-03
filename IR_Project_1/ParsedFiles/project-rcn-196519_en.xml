@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196519</rcn>
+  <acronym>SmartGridEnable</acronym>
+  <objective>A critical challenge for smart grid ecosystems is to optimise the ROI for Utilities.  SmartGridEnable will addresses this by creating product solutions to help Power Utility Distribution Network Operators (DNOs) achieve their carbon reduction targets by enabling them to better manage their network in support of lower carbon footprint technologies &amp; new energy generation business models from green energy renewable sources. 
+Using patented current/voltage sensing technology MAC has identified two business opportunities that will greatly assist DNOs in the management of their Low Voltage (LV)  &amp; Medium Voltage (MV) Distribution networks. These include; (a) the development of a LV Network Monitoring System to support Demand Response Management Systems (DRMS). This solution will directly feed into &amp; support DRMS currently being put in place by all DNOs for better network management of lower carbon footprint technologies, such as e-cars &amp; renewable energy generation on their networks.  (b) development of a cost effective Phasor Measurement Unit (PMU) for mass deployment, that will help DNOs avoid grid instabilities,  &amp; monitor generators’ response to abnormal deviations in system frequency due to load variations  &amp; renewable energy connections.
+Mass deployment will also enable DNOs facilitate lower tariff offers on renewable energy generation to customers when peak supplies such as wind is available, thus reducing existing power plant outputs. The solution will assist European DNOs achieve their 2020 carbon reduction targets &amp; be carbon neutral by 2050, reducing networks outages duration  &amp; customer losses by 20%, &amp; improving overall management of the distribution grid by 15%.
+SmartGridEnable uses patented sensing technology that was developed for fault monitoring on MV neutral compensated networks. This technology could address the lucrative LV &amp; MV network monitoring market but requires detailed investigation &amp; business planning to bring this technology to market.</objective>
+  <title>SmartGrid Distributed Monitoring, Synchronization and Active Management</title>
+<identifier>H2020SMEINST12014</identifier>
+</project>

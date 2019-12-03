@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194255</rcn>
+  <acronym>SSICLOPS</acronym>
+  <objective>The SSICLOPS project will focus on techniques for the management of federated private cloud infrastructures, in particular cloud networking techniques (within software-defined data centres and across wide-area networks). Key deliverables from the project will include a meta data description language for workloads, resources and policies, a flexible scheduling system using meta data, workload-specific adaptations to TCP/IP stacks, and data center performance analysis tools.
+Addressing topics, such as dynamic configuration, automated provisioning and orchestration of cloud resources the SSICLOPS projects will investigate high-performance, vertically integrated network stacks for intra/inter-cloud communication and efficient, scalable, and secure intra/inter-DC and client-facing transport mechanisms. 
+The project will design, implement, demonstrate, and evaluate three specific use cases, namely a cloud-based in-memory database, the analysis of physics experiment data, and the prototypical extension of network stacks for a telecom provider in the SSICLOPS testbed.</objective>
+  <title>Scalable and Secure Infrastructures for Cloud Operations</title>
+<identifier>H2020ICT20141</identifier>
+</project>

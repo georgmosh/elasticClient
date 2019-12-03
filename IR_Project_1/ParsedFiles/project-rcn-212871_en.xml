@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212871</rcn>
+  <acronym>ViDaR</acronym>
+  <objective>In this project we will build ViDaR, an interface for integrating R with ViDa. R is among the leading data analytics environments (the leading open-source), and is heavily used by data and domain scientists and data analysts in their daily routine. ViDa, developed by an ERC grant, is the state-of-the-art query engine for raw data. It relies on data virtualization, i.e., abstracting data out of its form and manipulating it regardless of the way it is stored or structured, to enable efficient, scalable, querying and manipulation of data in-situ, at their raw format and shape. Integration of ViDa with R will have a positive impact on both systems. For ViDa, it will provide capabilities for data exploration, visualization, mining and analytics, as well as powerful libraries for numerical and statistical computing, thereby substantially growing its user base. For R, it will increase its scale and performance, and reduce the time and effort spent by data scientists on tedious data management tasks. The resulting solution will serve as a proof-of-concept of ViDa’s performance, capabilities, and flexibility for integration with any third-party software that needs to manage vast amounts of raw data.</objective>
+  <title>ViDaR: R-enabled large-scale data analytics in ViDa</title>
+<identifier>ERC2017PoC</identifier>
+</project>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>198310</rcn>
+  <acronym>HaemMetabolome</acronym>
+  <objective>It has long been realised that metabolism is central to cellular development, proliferation and homeostasis. Collectively, aberrations in metabolism are now recognised as a major hallmark of cancer, opening new avenues for personalised medicine. As haematological malignancies are multi-factorial diseases, our main emphasis will be on the integration of biomedical multi-omics data and computational systems modelling with the ultimate aim to understand metabolic regulation in haematological cancers. HaemMetabolism is design to unravel the regulatory mechanisms that link cell cycle control and metabolism. For this we will screen a panel of haematological cancer cell lines for the metabolic phenotypes and against a library of inhibitors. Gene-function analyses will be performed using shRNA libraries directed against key metabolome regulators. Validation will occur in primary patient samples in vitro and in vivo in preclinical humanized niche xenograft mouse models. A systems biomedicine approach will be integrated build genome-scale transcriptional models that explain deregulated metabolic pathways relevant for the development of haematological malignancies. This work will not only open new avenues for drug discovery but will also provide a multi-disciplinary framework for student training in biomedical technologies.</objective>
+  <title>Deciphering the Metabolism of Haematological Cancers</title>
+<identifier>H2020MSCAITN2015</identifier>
+</project>

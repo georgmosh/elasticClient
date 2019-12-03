@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205707</rcn>
+  <acronym>MPC-. GT</acronym>
+  <objective>The MPC-: GT project brought together a transdisciplinary team of SMEs, large industry and research institutes, experienced in research and application of design and control systems in the combined building and energy world. Based on prior research, supported by (joint) EU and national projects, and practical experience the bottlenecks where identified that prevent at this moment a real breakthrough of geothermal heat pumps (GEO-HP) combined with thermally activated building systems (TABS) - GEOTABS. Solutions, which need to be implemented in an integrated way, were identified and sufficient proof of concept was gathered to join forces in a RIA.
+The innovative concepts aim at increasing the share of low valued (low-grade) energy sources by means of using low exergy systems on the one hand and aim at upgrading low/moderate temperature resources on the other hand.
+The overall solution consists of an optimal integration of GEOTABS and secondary supply and emission systems.
+To allow for an optimal use of both the GEOTABS and the secondary system, a split will be made between a so-called “base load” that will be provided by the GEOTABS and the remaining energy needs that should be supplied by the secondary system. A generic rule, eliminating case-by-case simulation work, will be developed.
+The second part of the proposed solution aims at a white box approach for Model Predictive Control (MPC)  to generate a controller model with precomputed model inputs such as disturbances and HVAC thermal power to avoid case by case development. Research is needed to assess the overall performance and robustness of such an approach towards uncertainties.
+As such, the MPC-: GT consortium believes to have identified an integrated solution that will provide a near optimal design strategy for the MPC GEOTABS concept using optimal control integrated design. The solution will support the industry, especially the SME members, to expand their activities  and strengthen their competitiveness.</objective>
+  <title>Model Predictive Control and Innovative System Integration of GEOTABS;-) in Hybrid Low Grade Thermal Energy Systems - Hybrid MPC GEOTABS</title>
+<identifier>H2020EE2016RIAIA</identifier>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200426</rcn>
+  <acronym>PROTASIS</acronym>
+  <objective>Fueled by a string of high profile attacks and recent revelations about unprecedented cyber surveillance, interest in systems security is rising-not just among industry and governments, but even among individual citizens across Europe. Corporate organizations worry about the viability of their businesses, nation states about cyber attacks by other nation states or terrorist groups, and citizens about the trustworthiness of the ICT infrastructures. The long list of recent security incidents is eroding people's trust in the digital economy and shows that more research is needed.
+
+Unfortunately, expertise is fragmented  across many places, while the exchange of knowledge is lacking. If one group specializes in code-reuse attacks and another in embedded systems, ideally they should team up to detect code-reuse vulnerabilities in embedded devices. Today, however, the flow of ideas is limited to publications and ad-hoc collaborations. A more efficient exchange would occur if a researcher temporarily joins the other group to collaborate directly on-site.
+
+Over the past few years Europe has created several world-class research centers in systems security. They publish in the most prestigious venues and have a significant impact on both the scientific community and society at large. Nevertheless, in terms of numbers, most top groups are still  in the US and the ability to collaborate with them would be a tremendous boost for security research in Europe.
+
+We plan to foster such collaborations by supporting researchers from European institutes to spend time with their American counterparts in top universities. We will gather the research results in a repository that links all the exchanges and provides a valuable input for collaborative projects in itself.  We will focus our research efforts on both advanced attacks (e.g., exploits, malware, and exfiltration techniques), and defenses (e.g., developing secure software and protecting resource-constrained devices).</objective>
+  <title>Restoring Trust in the cyber space: a Systems Security Proposal</title>
+<identifier>H2020MSCARISE2015</identifier>
+</project>

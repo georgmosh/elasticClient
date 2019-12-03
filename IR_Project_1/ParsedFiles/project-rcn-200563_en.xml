@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200563</rcn>
+  <acronym>COPTRA</acronym>
+  <objective>SESAR implementation will result in an environment using extensive and intensive planning to address complexity imbalances and reduce potential conflicts. Accurate planning requires quantifying forecast accuracy at all planning horizons with the main challenge of combining trajectories with different levels of accuracy.A quality indicator giving the forecast accuracy could enhance the situation: It has to combine uncertainties associated to traffic predictions and to trajectory predictions composing traffic.
+COPTRA aims to propose, in a TBO, an efficient method to build probabilistic traffic forecasts on the basis of flight trajectory predictions. Its main objective is: Using the improvements brought to Trajectory Prediction by the future TBO environment; bring measurable improvements to Traffic Prediction in ATC Planning, specifically to the prediction of occupancy counts.
+COPTRA objective is refined in 3 sub-objectives corresponding to its research work packages:
+1. Define the concept of probabilistic trajectory and its prediction (WP2).
+2. Using the definition of probabilistic trajectory, define the concept of probabilistic traffic situation and study how probabilistic traffic situations can be built by combining probabilistic trajectories (WP3).
+3. Apply probabilistic traffic situations to ATC planning (WP4).
+The management work packages encompass project management (WP1), results dissemination (WP5) and project conclusion (WP6).
+To achieve its objectives, COPTRA brings together inter-disciplinary competencies where the partners are leading their respective area:
+• BR&amp;T-E and ITU are experts in trajectory prediction, including the important aspect of prediction uncertainty,
+• UCLouvain ICTEAM has a proven track in using advanced methods and techniques to address optimal control problems on modern dynamical systems.
+• In addition to CRIDA’s proven track in managing research projects, CRIDA and EUROCONTROL bring their expertise in ATC</objective>
+  <title>COmbining Probable TRAjectories</title>
+<identifier>H2020SESAR20151</identifier>
+</project>

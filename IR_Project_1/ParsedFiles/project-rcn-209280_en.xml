@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>209280</rcn>
+  <acronym>TISSUENEU</acronym>
+  <objective>Neutrophils follow daily cycles of release from and migration back into the bone marrow, where they are eliminated. After searching for the presence of neutrophils across multiple tissues of healthy mice under steady state, my host laboratory found neutrophils in most of the tissue analyzed. These findings require the study of the role of neutrophils in their tissue of destination. Several studies have shown that neutrophil clearance might be a significant source of homeostatic signals able to functionally modulate the tissues and organs where they are eliminated. In addition, specific functions for neutrophils in the spleen have already been described.  I hypothesize that neutrophils may have important roles for the homeostasis and functioning of the tissues that they infiltrate, and that they acquire tissue-specific phenotypes that favor their local functions.
+
+To understand neutrophil homeostatic functions within the tissue, I will first characterize the transcriptome of 7 different subsets of neutrophils population from intestine, lung, muscle, skin, spleen, blood and bone marrow by RNA-sequencing. In addition, to investigate weather neutrophil heterogeneity within the tissues is a stochastic or a tissue-educated mechanism I will perform single cell RNA sequencing (sc-RNA-seq) of blood neutrophils  to characterize the presence of a neutrophil tissue-specific signature in the blood. Moreover, I will combine next generation sequencing techniques with the use of different transgenic mouse models to uncover tissue specific regenerative functions of neutrophils in the skeletal muscle and the skin. 
+
+Results obtained in this proposal aim to challenge the classical conception about neutrophils as a homogenous population of terminally differentiated cells with functions restricted to inflammation and to explore their hetroogeneity and expand our knowledge about their specific functions during tissue homeostasis.</objective>
+  <title>Role of infiltrating neutrophils in tissue homeostasis</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

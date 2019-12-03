@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210707</rcn>
+  <acronym>MCodaq</acronym>
+  <objective>What: Fully automated, multiplexed, turnkey commercial routine system for analysis and confirmation of principal components for fraud detection in cosmetics, perfumes, candles and other consumer products, based on NMR (Nuclear Magnetic Resonance) technology and used by laboratory technicians without specific analytical chemistry skills. 
+
+Why: Latest developments in NMR make it suitable, for the first time, as a routine QC technique to be used in Quality Assurance laboratories. Latest room temperature benchtop NMR instruments have the necessary sensitivity, resolution, robustness, operation simplicity and low operating cost, when combined with software implementation of latest innovations in NMR signal processing, analysis, machine learning and chemometrics. 
+Users: Global retailers (e.g., Inditex SA, El Corte Ingles, Primark, Ulta, Sephora, etc. – Inditex declaration of interest in attachment) and the network of global, regional and local analytical contract laboratories used by the industry (e.g., SGS, TÜV SÜD, Bureau Veritas, and Underwriters Laboratory) 
+
+Who: The proposed members of a Phase 2 consortium are the leading benchtop NMR manufacturer (Magritek GmbH, Aachen, Germany), the leading NMR software developer (Mestrelab Research SL, Santiago de Compostela, Spain) and an experienced method development analytical lab (AMSLab, Lugo, Spain). We have advanced prototypes of the hardware and software needed to deliver the proposed solution, and deep understanding of the needs of Inditex SA. 
+
+Aim: The phase 1 project would seek to generalise this understanding to the rest of the market and to decide the most valuable turnkey solutions to be implemented in a fully automated finished product. Success of phase 1 would result in a phase 2 application in July, to fund the development of a final market ready system.</objective>
+  <title>Mcodaq is a new benchtop instrument for fraud detection in cosmetics, perfumes, candles and other consumer products, based on NMR and used by technicians without specific analytical chemistry skills</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

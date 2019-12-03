@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211032</rcn>
+  <acronym>McSAFE</acronym>
+  <objective>Considering the priority topics of NUGENIA and the achievements of the EU HPMC project, the overall objective of the McSAFE project is to move the Monte Carlo based stand-alone and coupled solution methodologies (advanced depletion, optimal coupling of MC-codes to thermal-hydraulic solvers, time-dependent Monte Carlo and methods and algorithms for massively parallel simulations) to become valuable and widespread numerical tools for realistic core design, safety analysis and industry-like applications of LWRs of generation II and III.
+
+On one hand, the envisaged developments will permit to predict important core safety parameters with less conservatism than current state-of-the-art methods and on the other hand, it will make possible the increase the performance and operational flexibility of nuclear reactors. Last but not least, this kind of projects fosters the dissemination of knowledge from experienced researchers to young engineers, scientists as well as master and doctoral students.
+
+The McSAFE project is planned to be a research and innovation action. Even though the applications foreseen for this period are all focused on Generation II, the codes and methods to be further developed and validated can be applied to Gen-III and Gen-IV reactors in a straight-forward manner. In addition, the McSAFE tools and methods are also applicable to research reactors (core design optimisation and safety features evaluation), where the complicated geometry and physics of the core can be adequately simulated only by Monte Carlo codes.</objective>
+  <title>High-Performance Monte Carlo Methods for SAFEty Demonstration- From Proof of Concept to realistic Safety Analysis and Industry-like Applications</title>
+<identifier>NFRP201620171</identifier>
+</project>

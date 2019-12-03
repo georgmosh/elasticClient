@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213155</rcn>
+  <acronym>SheaRIOS</acronym>
+  <objective>SheaRIOS is a solution for the Wind Turbine Blade (WTB) inspection industry that enables easier, faster and more accurate inspection utilising robotics and shearography, a high-quality method that is applied outside of the laboratory for the first time. A deployment platform will ascend on the wind turbine tower and deploy a work climber on the base of the blade. The climber will move on the blade by means of air-suction and carry out inspection with a shearography kit on a cantilever. The deployment platform will also act as the power and data link.
+
+Operational modeling is done by EDF, the end-users that drive this Innovation Action. Preliminary testing and validation of the market-readiness of SheaRIOS robotic application will take place at their site, both on-shore (EDF R&amp;D) and off-shore (EDF Renewables). Three competitive small and mid-scale technology companies from three European countries will contribute so Europe will (1) integrate more wind power, (2) reduce operational costs, (3) keep the technology lead, and (4) remain a major export. As per Wind Europe, these are the targets for enabling wind to become the backbone of our electricity generation system.
+
+Based on our analysis, the non-destructive testing service provider would save 1,055€ per wind turbine inspection and payback of SheaRIOS investment will be achieved after 152 inspections, or the first 2 years. The wind farm operator will save more than 1 full day per wind turbine inspection, because of the reduced inspection time, which directly translates to less revenue lost due to idle wind turbines. Finally, the cumulative savings for a period of the first 5 years will translate to €92.74m, assuming SheaRIOS will be successful in averting just 20% of the unforeseen WTB failures and contributing to increased health and safety for the rope access workers that are involved in hundreds of accidents each year.
+
+[1] Wind Europe, “Making transition work”, September 2016</objective>
+  <title>Wind Turbine Shearography Robotic Inspection On-blade System (SheaRIOS)</title>
+<identifier>H2020ICT20171</identifier>
+</project>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206390</rcn>
+  <acronym>Dreams4Cars</acronym>
+  <objective>Dreams4Cars takes inspiration from the Simulation Hypothesis of Cognition – notably in the sense of Hesslow – and in particular from the idea that thoughts are chains of simulated actions and simulated perceptions. 
+The main objective of Dreams4Cars is to set up an offline simulation mechanism in which robots, by recombining aspects of real-world experience, can produce an emulated world, with which they can collectively interact to safely develop and improve their Perception-Action systems, in particular focusing on the analysis of rare events. The Perception Action systems trained by simulations in this way will then be used for sensorimotor control in real interactions. 
+The application domain of Dream4Cars is automated driving, which – besides being a major economic sector for the EU – also poses the issue of developing systems capable of dealing with arbitrary and open-ended circumstances. Accidents are rare events and, to demonstrate that autonomous systems are safe enough (i.e. significantly safer than humans – which is not achieved today at high and full automation levels), extensive field operation tests would normally be required. The solution offered by Dreams4Cars, by focusing on variations of much more frequent near-miss accidents, can develop safe behaviours for hypothetical/unexperienced situations. Hence Dream4Cars will contribute by solving both the problem of discovering critical situations and the problem of updating safely the software.
+Dreams4Cars will compare the driving agents evolved by the simulation technology to a baseline agent which will have the same State of the Art skills developed by the latest EU project in driving automation (AdaptIVe), hence concretely verifying the added value of the robotic technology (with target TRL 6).</objective>
+  <title>Dream-like simulation abilities for automated cars</title>
+<identifier>H2020ICT20161</identifier>
+</project>

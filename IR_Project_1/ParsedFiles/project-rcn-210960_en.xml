@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210960</rcn>
+  <acronym>EnergySequence</acronym>
+  <objective>We are looking for a Building data scientis to help us dive deep into the very large amount of structured time series data pertaining to building energy use and help automate insights gleaned from sophisticated model based energy analys into scalable rule based recommendation system
+
+The Building Data Scientist will be responsible for modelling, but will work closely with Energy Efficiency Engineers and the Software Developers, also assist on new R&amp;D initiatives as needed.
+
+As a member of an innovative startup on a rapid growth path, the ideal candidate must be able to juggle multiple responsibilities, be comfortable in developing cutting-edge statistical and machine learning algorithms as well as have the ability to switch contexts rapidly between research literature searches, rapid algorithmic prototyping, as well as assisting in code testing and deployment.
+
+We have devised a career path for the 12 month grant to assure the best integration in the team, skills development and innovation results for the project.
+
+We expect an important impact resulting from the recruitment as far as the intelligence analysis features of the software platform is concerned. 
+Innovation resulting from the ability to assess energy efficiency remotely without going on site, therefore at a fraction of the time and cost. This innovation will be supported by the development of AI algorithms and building energy models using limited input information. 
+
+AI algorithms will enable us to perform a virtual energy audit, assessing energy end-use disaggregation (heating and cooling), time schedules, etc then establishing first energy saving recommendations measures: load shifting, abnormal consumption, energy equipment start and stop optimal sequencing, etc
+
+Building energy modelling determining the building energy demand and consumption forecast, identify the building energy baseline for energy conservation measures asessment and verification, and the energy base load, establishing energy ratios</objective>
+  <title>Building data scientist to help us dive deep into the very large amount structured time series data pertaining to building energy use</title>
+<identifier>H2020INNOSUP022016</identifier>
+</project>

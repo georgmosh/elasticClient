@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>195863</rcn>
+  <acronym>MARSS-5G</acronym>
+  <objective>The United Nations International Telecommunications Union (ITU) has recently reported that the number of mobile users is expected to surpass the world population. In fact, it is expected that by 2020 mobile users will exceed an astonishing 9 Billion subscribers. With this unprecedented market penetration and growth, many communication engineering challenges are anticipated. In particular, next generation 5G wireless systems must be designed using sophisticated and innovative strategies and techniques. While 5G applications are expected to be diverse, the network architectures and devices need to ensure and deliver reliable, pervasive, and high-speed interconnection for various data-intensive applications (e.g., interactive multimedia streaming). These requirements must be accomplished while necessitating limited resources for a continuously expanding consumer demographics. Thus, deploying such complex networks is a formidable engineering feat that requires novel ways of modeling, evaluating, and designing extremely dense radio systems.  
+
+This project aims, through the study of spatial geometry of randomly deployed mobile units, to develop several analytical tools to model, design, and analyze complex 5G networks, and validate them through experimental datasets. Ultimately, our broad goal is to conceptualize an engineering research idea, and then transitioning it into innovative applications that can be replicated for real-world cellular networks operated by established service providers and mobile manufacturers.</objective>
+  <title>Modeling and Analysis of Random Spatial Systems for 5G Networks</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

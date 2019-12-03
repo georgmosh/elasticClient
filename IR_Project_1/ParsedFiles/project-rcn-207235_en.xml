@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207235</rcn>
+  <acronym>PJ25 XSTREAM</acronym>
+  <objective>There are periods during the day when variation in aircraft arrival times combine to exceed the capacity of the destination airport to handle them without incurring airborne delay. Such delay causes increased emissions and noise in the vicinity of the airport, as well as increasing the aircraft operator’s fuel costs. Greater congestion increases the air traffic control workload and can result in less efficient aircraft profiles.
+To reduce airborne delays near the destination airport and the associated negative effects, two concepts can be used. One is to adjust an aircraft’s departure time by holding it on the ground so that its arrival time avoids the predicted peak in arriving traffic. Other methods involve trajectory extension or slowing down an aircraft in flight. This requires the arrival sequence to be calculated earlier than in current operations so that action can be taken early enough to have a meaningful effect.
+The XSTREAM project will demonstrate the benefits gained through this latter concept. These methods can be used in combination with the former concept, traditionally regarded as a network management action, but refined through the use of arrival management tools. The project will demonstrate the use of arrival management techniques for pre-departure aircraft, the calculation, updating and passing of arrival management actions for airborne aircraft such as target time, time-to-lose/gain, or speed advisory from the destination arrival management system to upstream control units, and the impact of multiple arrival constraints within an Upper Airspace Control unit.
+The operational demonstrations will be performed upon aircraft arriving at Paris CDG and Orly, London Heathrow and Gatwick, and Zurich. These optimized arrivals will be supported by several en-route Control units, which also will demonstrate how ‘multiple arrival constraints’ can be handled. The project will demonstrate the use of SWIM and remain aligned with engineering standardization work</objective>
+  <title>Cross Border SESAR Trials for Enhanced Arrival Management</title>
+<identifier>H2020SESAR20152</identifier>
+</project>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206252</rcn>
+  <acronym>PJ11 CAPITO</acronym>
+  <objective>Safety is at the core of ATC. However, safety is interrelated with efficiency. Air and Ground Safety Nets have been developed to increase the achieved level of safety. Necessarily, Ground and Air Safety Nets have to evolve to keep up with the challenges originating from ever increasing traffic density and complexity.
+
+ATM evolutions necessary to safely handle increasing traffic demand or to improve efficiency of air transportation impose new challenging requirements on existing Safety Nets. Future Air and Ground safety nets need to support Trajectory Based Operations and new separation modes: they must provide necessary alerts for actual or potential hazardous situations in an efficient way and avoid or minimise unnecessary alerts. 
+
+The SESAR 2020 PJ11-CAPITO project will anticipate these required evolutions to maintain, and if possible improve the level of safety. It will also support the safe integration of new airspace users such as Remotely Piloted Aircraft Systems (RPAS) in ATM.
+
+PJ11-CAPITO work is focussed on developing and validating requirements in five solutions: one addressing the ground safety nets (in particular Short Term Conflict Alert) and four focussing on the development of specific variants of the new generation of Airborne Collision Avoidance Systems: ACAS Xa for commercial aviation, ACAS Xu for RPAS, ACAS Xo for Specific operations such as parallel approaches, and ACAS Xp for General Aviation.
+
+Airborne Collision Avoidance Systems need to be interoperable worldwide, which is primarily ensured through the standardisation process. PJ11 CAPITO will federate European requirements’ capture and ensure that they are taken into account in the global standardisation processes.
+
+PJ11 CAPITO unites key European aviation partners including Air Navigation Service Providers, Ground Industry, Airborne industry and EUROCONTROL so that required complementary expertise is available to achieve these ambitious objectives.</objective>
+  <title>Enhanced Air and Ground Safety Nets</title>
+<identifier>H2020SESAR20152</identifier>
+</project>

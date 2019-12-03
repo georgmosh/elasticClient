@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205698</rcn>
+  <acronym>X2Rail-1</acronym>
+  <objective>X2Rail-1 addresses the S2R-CFM-IP2-01-2015 “Start-up activities for Advanced Signalling and Automation System” call issued by the Shift2Rail Joint Undertaking as part of the Innovation Programme 2 “Advanced Traffic Management &amp; Control Systems”.
+The X2Rail-1 project aims to research and develop six selected key technologies to foster innovations in the field of railway signalling and automation systems towards a flexible, real-time, intelligent traffic management and decision support system.
+The actions to be undertaken in the scope of X2Rail-1 are related to the following specific objectives:
+ To overcome the limitations of the existing communication systems by adapting radio communication systems which establish the backbone for the next generation advanced rail automation systems.
+ To improve the usable track capacity by introducing more Automatic Train Operation (ATO) systems and Moving Block systems.
+ To innovate the signalling architectures towards more decentralized and less cost intensive systems by incorporating Moving Block systems and Smart Wayside Objects. 
+ To minimize energy consumption and to improve train punctuality through more extensive use of Automatic Train Operation (ATO) systems.
+ To increase innovation in the field of lab testing by developing architectures for new lab test systems and simulations for control, command and communication systems in order to reduce costs. 
+ To ensure security among all connected signalling and control systems by developing new cyber security systems dedicated to railways.
+ To ensure the backward compatibility of ERMTS/ETCS technologies, notwithstanding of the required functional enrichment of the future signalling and control systems.</objective>
+  <title>Start-up activities for Advanced Signalling and Automation Systems</title>
+<identifier>H2020S2RJUCFM2015011</identifier>
+</project>

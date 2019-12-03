@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204135</rcn>
+  <acronym>GWT</acronym>
+  <objective>The classification of Fano manifolds is a long-standing and important open problem.  Fano manifolds are basic building blocks in geometry: they are `atomic pieces' of mathematical shapes.  We will take a radically new approach to Fano classification, combining Mirror Symmetry (a circle of ideas which originated in string theory) with new methods in geometry and massively-parallel computational algebra.  
+
+Our main geometric tool will be Gromov-Witten invariants.   The Gromov-Witten invariants of a space X record the number of curves in X of a given genus and degree which meet a given collection of cycles in X; they have important applications in algebraic geometry, symplectic topology, and theoretical physics.  We will develop powerful new methods for computing Gromov-Witten invariants, and will apply these methods to Fano classification and to questions in birational geometry.</objective>
+  <title>Gromov-Witten Theory: Mirror Symmetry, Birational Geometry, and the Classification of Fano Manifolds</title>
+<identifier>ERC2015CoG</identifier>
+</project>

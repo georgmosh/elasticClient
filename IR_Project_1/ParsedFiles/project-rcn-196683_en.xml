@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196683</rcn>
+  <acronym>PrecisionTools4LHC</acronym>
+  <objective>The CERN Large Hadron Collider (LHC) has opened a new exciting era in fundamental Particle Physics, by reaching energies never probed before in a collider experiment. The data collected in 2010-2013 already led to an historical achievement, the discovery a new-particle with properties very close to those predicted for the “Standard Model” Higgs boson. The pivotal role played by this particle calls for an extremely accurate study of its properties. Together with the search for direct signals of New Physics at the ~10 TeV scale, this will be the major topic of research over the next 20 years, throughout the whole duration of the LHC experiment.
+
+Especially in absence of striking signature pointing to Physics Beyond the SM (BSM), the success of this long-term programme relies on the capability of extracting precise informations from the measured data.
+In addition to extraordinarily sophisticated experimental equipment, accurate theoretical predictions for the sought-after signals and their known backgrounds are required.
+
+The goal of this research proposal is to push the precision of Monte Carlo programs needed to interpret LHC measurements to an unprecedented level. This will be achieved combining several novel techniques developed in the Monte Carlo community and results obtained in perturbative QCD. The realization of the specific objectives detailed in the proposal will allow to model more reliably signal and background processes relevant to perform a variety of overriding precision studies. 
+This will permit a more solid interpretation of future measurements and, in a longer timescale, will also be instrumental in continuing to improve the accuracy of simulation tools.</objective>
+  <title>High precision predictions and tools for LHC Physics</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

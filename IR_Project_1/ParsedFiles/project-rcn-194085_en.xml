@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194085</rcn>
+  <acronym>Sound of Vision</acronym>
+  <objective>Sound of Vision (Vision restoration through sound and haptics) will design, implement and validate an original non-invasive hardware and software system to assist visually impaired people by creating and conveying an auditory representation of the surrounding environment. This representation will be created, updated and delivered to a blind person continuously and in real time. This system will help visually impaired people in any kind of environment (indoor/outdoor), without the need for predefined tags/sensors located in the surroundings.
+
+The process of assisting visually impaired people proposed by Sound of Vision consists of a series of repetitive steps. The first step uses hardware and software for generating a 3D representation of the surrounding environment. In the second step, objects are identified within the 3D model and the information is then transformed into 3D sound and haptics sources. In the last step, all the 3D sound and haptics sources are combined and conveyed to the user, using specialized wearable hardware and algorithms.
+
+A functional prototype will be developed, followed by experimental validations and subsequent improvements, according to the feedback provided by visually impaired people, training specialists and neurologists. The product thus obtained will be sold as a hardware and software system, as well as some training courses that will help blind people use the system.
+
+The consortium has the necessary complementary competences to design and develop the proposed system, to test the prototype, establish training protocols and also to commercialize the system as an intuitive and accessible final product.
+
+Sound of Vision is a concept that goes beyond the state of the art of the visual sensory substitution systems, having the potential to become an affordable commercial product that will actually help blind people. This system can have an impressive social impact, improving the lifestyle of blind people, and also of their families and friends, on which they would otherwise depend.
+
+Free keywords (updated):
+Visual impairments; brain-computer interface (BCI); Neuroplasticity; Psychophysics; audio/video processing; wearable assistive devices; sonification; sound localization; haptic space perception.</objective>
+  <title>Natural sense of vision through acoustics and haptics</title>
+<identifier>H2020PHC2014singlestage</identifier>
+</project>

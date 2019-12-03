@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210525</rcn>
+  <acronym>TARANTO</acronym>
+  <objective>The TARANTO project targets to break  the technological barriers to the development of the next BiCMOS technology platforms, allowing the improvement of the performance of the HBT (Heterojunction Bipolar Transistors) with a much higher level of integration. This new generation of transistors HBT will be a key factor to meet the needs of high-speed communications systems and high data rate required for the integration of heterogeneous intelligent systems as well as for intelligent mobility systems that will be used in future fully automated transport systems. The main objectives of this project will be to develop transistors HBT  offering high maximum frequency (Fmax: 600GHz) built to very high density CMOS processes: 130 / 90nm for IFX, 55 / 28nm to ST, while IHP will work on the project to achieve maximum frequencies of 700GHz remaining compatible with IFX and ST BiCMOS processes.
+
+The project consortium gathers the main European players in the value chain for these applications at  very high frequencies, from laboratories to industrial users, thus ensuring the highest scientific level and the ability to validate the work carried out on appropriate demonstrators.</objective>
+  <title>TowARds Advanced bicmos NanoTechnology platforms for rf and thz  applicatiOns</title>
+<identifier>H2020ECSEL20161RIAtwostage</identifier>
+</project>

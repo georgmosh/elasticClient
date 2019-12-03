@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>209383</rcn>
+  <acronym>UCHIRAL</acronym>
+  <objective>Chirality, describing the “handedness” of a system, is a fundamental property of physical entities such as magnets, spins, the DNA double-helix, or circularly and elliptically polarized light. This proposal aims at employing intense ultrashort laser fields to control the chirality of two physical entities: photons of extreme-UV high harmonics, and free-flying electrons in a coherent pulsed beam.
+
+Specifically, the proposal “UCHIRAL” entails two main objectives: First, we develop a bright ultrafast source of circularly polarized extreme-UV high harmonics with optically controlled helicity (left vs. right) by combining the applicant's expertise with chiral harmonics with the host's efficient source. We will then use these chiral extreme-UV pulses for imaging of nanoscale magnetic features in ferromagnetic metals, which is currently inaccessible for high harmonics. The difference between images acquired with left- vs. right-circularly polarized extreme-UV radiation can isolate magnetic effects from a non-magnetic background.
+
+In a second system, we will coherently convert the chirality of optical near-fields into orbital angular momentum of a beam of free electrons. This interaction will be mediated by designed nanostructures exhibiting surface plasmon-polariton excitations with optically-controlled chirality. The envisaged mechanism relies on optical phase control of free electron wave functions in an ultrafast transmission electron microscope, which was recently established in the host institute.
+
+Both aspects of the proposal address fundamental interactions of chiral light with matter, currently at different levels of maturity, with expected scientific and potentially industrial applications. In particular, ultrafast chiral microscopy based on photons (first objective) and electrons (second objective) may enable future technologies by tracking chiral dynamics in nanosystems with intrinsic handedness, ranging from magnetic storage materials to biomolecules.</objective>
+  <title>Ultrafast opto-electronic twists: Controlling the chirality of electrons and extreme-UV photons byultrafast laser pulses (UCHIRAL).</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193598</rcn>
+  <acronym>STATOPINS</acronym>
+  <objective>Topological insulators (TI) are a novel class of materials with insulating bulk and conducting surface. The conduction of the surface is protected by the topological properties of the bulk, as long as a fundamental symmetry is present (for instance time-reversal symmetry). My goal is to investigate to what limits does the protection hold in cases where the protecting symmetry is broken, and only present in statistical sense, after averaging over the disordered ensemble. In a pilot study I showed that materials that are protected by such average symmetry, which I have called “statistical topological insulators” (STI) significantly extend the classification of topological phases of matter and promise new methods to robustly control the conducting surface properties. I plan to develop a general theory of STI for physically relevant symmetries, describe the observable properties of their protected surface states, invent ways to predict whether materials are expected to be STI, and explore the generalization of STIs to strongly interacting topological phases of matter. I expect that the outcome of my research will significantly extend our understanding of topological phases of matter, and provide new ways to design materials with robust properties.</objective>
+  <title>Theory of statistical topological insulators</title>
+<identifier>ERC2014STG</identifier>
+</project>

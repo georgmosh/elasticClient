@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>197568</rcn>
+  <acronym>LEONID</acronym>
+  <objective>The main scope of LEONID project is the development and validation of the clinical performance of a new diagnostic Nanostring-based device against existing standards (FISH and IHC) for the detection of in vitro biomarkers with predictive power of response to tyrosin kinase inhibitors used for lung cancer treatment. 
+The device will be the first CE-IVD kit that detects all ALK, ROS1 and RET rearrangements with known and unknown partners in one multiplex assay and that, at the same time, identify the main variants of EML4-ALK.
+The clinical validation will be extended to the associated software for secondary analysis of data that will guarantee the results standardization, avoiding any personal interpretation. The new diagnostic device-software combination, that passed the technical feasibility analysis and is ready for experimental verification, will be the easiest, cheapest, fastest and standardized solution for ALK, ROS1 and RET fusions detection without losing sensitivity, specificity, robustness and reproducibility.
+The end users will be all molecular pathology laboratories supporting hospitals where lung cancer patients are treated, that (are going to) perform the analysis of fusion genes and want to reduce hands-on-time, error rate, and costs, saving specialized technical expertise and increasing the throughput of biomarkers and samples. At least 85 European medium-high throughput labs running 450 lung samples per year can be considered as potential customers.
+For Diatech Pharmacogenetics, the new device will be complementary to the existing products for pharmacogenetics analysis in oncology and will boost the company’s approach of potential European distributors. GeneticLab can offer the test to low throughput labs and can speed up the entrance into the oncology business. BiMind can extend the panel of features of its proprietary oncology EHR dedicated to the analysis of laboratory tests’ results and can provide its new software through Diatech PGx or directly.</objective>
+  <title>Lung cancEr fusiOn geNes: a new dIagnostic Device</title>
+<identifier>H2020SMEINST22014</identifier>
+</project>

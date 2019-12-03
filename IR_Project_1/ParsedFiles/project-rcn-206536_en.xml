@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206536</rcn>
+  <acronym>EBAM</acronym>
+  <objective>Insplorion is a growing SME that develops and markets its proprietary technology NanoPlasmonic Sensing (NPS). Multipurpose NPS instruments are already sold to customers around the world. Utilizing their core NPS technology, Insplorion is now pursuing market expansion and this project will expedite this endeavour. Electric vehicle battery monitoring has been identified as a potential market segment, where Insplorion can bring most value to the customer. The segment has been selected based on i) a market need confirmed by communication with car and battery manufacturers (Volvo, AGM Batteries and Littelfuse); and ii) successful prototype tests. Insplorion has also received two supporting letters from one battery manufacturer, and one sensor manufacturer. The market for battery management systems is expected to increase with 20 % CAGR until 2022, with a total market value of $7.25 billion.
+
+Currently, current drawn from the battery is used to identify state of charge and state of health of batteries. This does not meet the industrial demand for precise control. Consequently, manufacturers are using oversized batteries (waste of resources and low cost-efficiency) and the safety is impaired  (e.g. battery fires). For passenger cars and busses the most critical aspects, that could be solved with better monitoring systems, are the driving distance and the charge rate, respectively.
+
+Insplorion’s NPS technology goes inside the battery cell to measure battery chemistry and provide more accurate information faster compared to the currently employed ‘external’ voltametric measurement. Enhanced battery control can increase extracted energy by 212 %, the power density by 22 %, and the charging rate by 50 %. Insplorion’s NPS sensor can be plugged in to existing batteries so that it does not disrupt the existing manufacturing processes.</objective>
+  <title>Electric vehicle battery monitoring</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>197508</rcn>
+  <acronym>R2POWER300</acronym>
+  <objective>R2POWER300 is committed to challenge the following Objectives: 
+•	Development and manufacturing of a multi-KET Pilot Line 
+   (i.e. Nanoelectronics, Nanotechnology, Advanced Manufacturing) 
+•	Energy Efficiency and CO2 Reduction megatrends.
+
+The project aims to achieve the following Goals:
+1.	Set the stage for the future extension to 300mm of the R2 Fab facility located in Agrate Brianza (Italy) - i.e. line’s specification, tools’ evaluation and screening, new process’s optimization and characterization, etc. 
+2.	To evaluate, characterize and optimize the equipments and process necessary to achieve the new BCD10 technology, featuring 90nm lithography, at 300mm wafer size. BCD (i.e. Bipolar + CMOS + DMOS) is a unique smart power technology invented by ST in the mid ‘80s (CMOS’s gate length was 4 m at that time!). As of today BCD is one of the key technology assets of ST and the indefatigable evolution and challenging roadmap makes ST a world-class leader on smart power ICs.
+3.	Advanced System in Packages: some SiP activity will be performed, with specific reference to Sintering based die-attach, thermal analysis and dedicated packaging solution for high density ALD capacitors.</objective>
+  <title>Preparing R2 extension to 300mm for BCD Smart Power</title>
+<identifier>ECSEL20142</identifier>
+</project>

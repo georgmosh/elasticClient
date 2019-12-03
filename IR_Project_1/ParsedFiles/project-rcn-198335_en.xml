@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>198335</rcn>
+  <acronym>COEGSS</acronym>
+  <objective>Global Systems Science – GSS – is an emerging research field focused on the risks and opportunities involved in global coordination problems. Examples of global systems include the internet, financial markets, intellectual property rights, global energy use and others. 
+Developing evidence and understanding in view of such systems and of related policies is rapidly becoming a vital challenge for modern societies. It requires capabilities for transdisciplinary work that cannot be mastered without massive use of ICT. By the nature of the problem, the relevant datasets are mostly very big, including data streams from social medi. To make things more complicated, the relevant algorithms do require the power of high-performance computing. High Performance Data Analysis (HPDA) is the key to success for GSS! 
+A key contribution of the Center of Excellence for Global Systems Science – COEGSS – will be the development of an HPC-based framework to generate customized synthetic populations for GSS applications. By blending GSS and HPC, we will be able to provide decision makers and civil society with real-time assessments of global risks and opportunities as well as with essential background knowledge about them. This will enable the HPC industry to supply hard- and software for applications well beyond the issues to which HPC has been dedicated so far.</objective>
+  <title>Center of Excellence for Global Systems Science</title>
+<identifier>H2020EINFRA20151</identifier>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205550</rcn>
+  <acronym>vf-OS</acronym>
+  <objective>The primary outcomes of vf-OS are an:
+- Open Operating System (vf-OS) and Software Development Kit (OAK) for Factories of the Future that aims to be the reference system software for collaborative manufacturing and logistics processes including its associated resources and data
+- Open vf-OS Platform, including a Multi-sided application marketplace and development studio, that aims to become the Apps Store for Manufacturing industry
+The multi-sided marketplace will allow Manufacturing Users, Manufacturing Resource providers, Service Providers and Software Developers to cooperate and demand, build, select, and use vf-OS applications with the vf-OS exploiters, like classical App stores, having a business model based on taking a share of purchases of applications and services from the platform.
+
+vf-OS is composed of a Virtual Factory System Kernel (vf-SK), a Virtual Factory Application Programming Interface (vf-API) and a Virtual Factory Middleware (vf-MW) for interoperable and secure collaboration among supply networks, enterprises, machines, data and objects. The Virtual Factory Platform (vf-P) will be a infrastructure, either in-cloud or on-premise, that supports the Manufacturing Apps Store and Virtual Machines. vf-OS especially addresses SMEs by providing a full functionality at affordable cost and with Cloud availability.
+
+The Manufacturing Apps will be developed with an Open Applications Development Kit (vf-OAK), freely provided to software developers, for rapid and cost effective deployment of advanced industrial applications running over vf-OS, allowing fast time-to-market and world-wide base industrial clients.</objective>
+  <title>Virtual Factory Open Operating System</title>
+<identifier>H2020FOF2016</identifier>
+</project>

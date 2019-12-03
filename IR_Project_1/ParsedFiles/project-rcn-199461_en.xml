@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199461</rcn>
+  <acronym>STAQAMOF</acronym>
+  <objective>This project aims at providing a new quantitative approach to financial regulation, notably in the context of high frequency trading. The key idea of our method is to build relevant statistical models through price and time scales, connecting the microstructure of financial markets to the long term behavior of prices.  Doing so, we will be able to understand and quantify the macroscopic consequences of regulatory measures modifying the microscopic design of the market. Succeeding in this modelling task will require to address several intricate statistical problems.  In particular new results will be needed in the fields of limit theory for semi-martingales, multifractal processes, rough stochastic differential equations, Hawkes processes and high-dimensional statistics. Hence, through this project, we not only have the hope to provide groundbreaking tools for worldwide regulation of financial markets but, concurrently, to answer important and challenging mathematical problems. In term of analyzing concrete regulatory measures, particular attention will be devoted to the issue of the choice of a proper tick value, that is the minimal price increment allowed on a financial market. Indeed, the tick value is the tool which seems to be favored by most policy makers in order to regulate high frequency trading.</objective>
+  <title>Statistical modelling across price and time scales: a quantitative approach to modern financial regulation</title>
+<identifier>ERC2015STG</identifier>
+</project>

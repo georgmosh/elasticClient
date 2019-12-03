@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207619</rcn>
+  <acronym>HyperMu</acronym>
+  <objective>The proton radius extracted from the measurements of the 2S-2P energy splitting in muonic hydrogen
+(μp) has attracted great attention because of a 7σ discrepancy with the values extracted from
+electron scattering and hydrogen (H) spectroscopy. Hundreds of publications have been devoted to the
+so called “proton radius puzzle” ranging from studies of physics beyond the standard model, to reanalysis
+of electron scattering data, refinements of bound-state QED calculations, new theories describing
+the proton structure, and proposals for new scattering and H spectroscopy experiments.
+As next step, I plan two new (i.e., never before attempted) measurements: the ground-state hyperfine
+splitting (1S-HFS) in both μp and μ3He+ with 1 ppm relative accuracy by means of pulsed laser
+spectroscopy. From these measurements the nuclear-structure contributions (two-photon-exchange)
+can be extracted with a relative accuracy of 100 ppm which in turn can be used to extract the corresponding
+Zemach radii (with a relative accuracy of 0.1%) and polarizability contributions. The Zemach radii
+can provide magnetic radii when form-factor data or models are assumed.
+These radii are benchmarks for lattice QCD and few-nucleon theories. With the polarizability contribution
+they impact our models of the proton and of the 3He nucleus. Moreover, the μp measurement
+can be used to solve the discrepancy between the magnetic radii values as extracted from polarized and
+unpolarized electron scattering and to further test bound-state QED predictions of the 1S-HFS in H.
+These two experiments require a muon beam line, a target with an optical cavity, detector, and laser
+systems. As weak M1 transitions must be probed, large laser-pulse energies are needed, thus cutting-edge
+laser technologies (mainly thin-disk laser and parametric down-conversion) need to be developed.
+Laser schemes of potentially high industrial impact that I have just patented will be implemented and
+refined.</objective>
+  <title>Hyperfine splittings in muonic atoms and laser technology</title>
+<identifier>ERC2016COG</identifier>
+</project>

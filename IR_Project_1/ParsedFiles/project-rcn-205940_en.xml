@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205940</rcn>
+  <acronym>Q-RAPIDS</acronym>
+  <objective>Context. Software quality is an essential competitive factor for the success of IT companies nowadays. Recent technological breakthroughs such as cloud technologies, the emergence of IoT and technologies such as 5¬G, pose demanding quality challenges in software development.
+
+Problem. Optimal software quality asks for the appropriate integration of quality requirements (QRs) in the software life-cycle.However, software development methodologies still provide limited support to QR management which is utterly important in rapid software development processes (RSDP): faster and more frequent release cycles should not compromise software quality.
+
+Concept. Q-Rapids defines an empirical-based, data-driven quality-aware rapid software development methodology. QRs are incrementally elicited and refined based on data gathered both during development and at runtime. This data is elaborated into quality-related key indicators presented to decision makers through a strategic dashboard with advanced capabilities. Selected QRs are integrated with functional requirements for their unified treatment in the RSDP.
+
+Outcome. A TRL7 validated Q-Rapids framework, including cutting-edge tools and methods to smartly manage QRs along with functional requirements in a similar rapid and holistic manner.
+
+Impact. Increase of software quality levels through continuous data gathering and analysis. Significant productivity increase to the software life-cycle by means of smooth and tool-supported integration of QRs in the RSDP. Shorter time to market due to reduction of quality-related maintenance efforts and more informed decision making in the planning of release cycles. Impact will be measured through 11 project indicators with defined target values. 
+
+Consortium. 3 research organisations,1 SME, 2 mid-caps and 1 corporative with balanced geographical distribution. The consortium combines long research tradition in software development and cutting-edge technological knowhow in versatile ICT sectors</objective>
+  <title>Quality-Aware Rapid Software Development</title>
+<identifier>H2020ICT20161</identifier>
+</project>

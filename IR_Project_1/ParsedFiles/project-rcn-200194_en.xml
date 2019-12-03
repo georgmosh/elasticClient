@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200194</rcn>
+  <acronym>INDIGO</acronym>
+  <objective>In Europe, different prognosis show an increase in cooling demand of almost 60% in 2030 with respect to nowadays. District cooling (DC) can play a part in satisfying this demand in a sustainable way (since can offer 5 to 10 times higher efficiency solutions than on‐site stand‐alone distributed systems). Even if DC captures only minor portion of the prospective market, this will translate into a dramatic increase in the size of the global DC sector.
+INDIGO aims to develop a more efficient, intelligent and cheaper generation of DC systems by improving system planning, control and management, anticipating the aforementioned scenario. This target will be achieved through the following specific objectives:
+• Contribute to the wider use of DC systems and motivate the competiveness of European DC market by the development of two open-source tools:
+o A planning tool for DC systems with the aim of supporting their optimal design
+o A library with thermo-fluid dynamic models of DC System components which will provide the designers detailed information about their physical behaviour
+• Primary energy reduction over 45% addressed by a ground breaking DC system management strategy focused mainly on energy efficiency maximization but also on energy cost minimization. Its main characteristics is the predictive management but it also will address other challenges such as:
+o Integration of Renewable Energy Sources
+o Dealing with different types of cooling sources 
+o Suitable coupling between generation, storage and demand
+All this, with the help of intelligent and innovative component controllers (Predictive Controllers) to be developed at all DC system levels. Some of them include embedded self-learning algorithms, allowing components to respond appropriately to the set-points established.
+Developments carried out within INDIGO will be validated in a real District Heating and Cooling installation with appropriate conditions for testing the new functionalities.</objective>
+  <title>New generation of Intelligent Efficient District Cooling systems</title>
+<identifier>H2020EE20152RIA</identifier>
+</project>

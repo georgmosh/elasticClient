@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213299</rcn>
+  <acronym>NeuroPsyCAD</acronym>
+  <objective>NeuroPsyCAD is a cloud-based reporting service that provides an accurate and early diagnosis of neuropsychiatric disorders. To achieve high accuracies, NeuroPsyCAD statistically compares a brain scan of a patient with a normative, human, and population representative database using machine-learning algorithms. It also analyses the brain as a whole and the connections between its parts to define patterns of changes in the brain related to each disorder (and can integrate information from different image sources, if needed). Finally, it can integrate information from different imaging sources.
+The NeuroPsyCAD’s target market are patients that come to clinical services with one of the following neuropsychiatric diseases: Alzheimer’s Disease (AD), Parkinson’s Disease (PD), Schizophrenia Spectrum Disorder (SSD), or Autism Spectrum Disorder (ASD). NeuroPsyCAD’s worldwide total market is 130 million. This value takes into account the worldwide total number of patients having one of the four diseases. 
+Te annual excess spend for Alzheimer’s and Parkinson’s patients is €10,000 per year due to misdiagnosis which occur in about 17% of cases. Multiplying this by the number of new patients per year in the US and EU, results in a cost of €2.3 billion per year that can be saved by using NeuroPsyCAD. Additionally, studies show that early treatment of Alzheimer’s Disease patients delay institutionalization and generates further savings of also about €10,000 per patient . 
+NeuroPsyAl is a new innovative spin-off start-up from the Institute of Biophysics and Biomedical Engineering and at the Institute of Molecular Medicine, of the University of Lisbon, Portugal. Whilst we incorporated in May 2017 after all the relevant IP was transferred to us from IBEB and iMM Lisboa, we started to create our core and only product NeuroPsyCAD in 2012.</objective>
+  <title>Artificial Intelligence for early and accurate neuropsychiatric diagnosis</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

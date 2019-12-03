@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211661</rcn>
+  <acronym>ImmerSAFE</acronym>
+  <objective>In many contexts – heavy work machines, emergency response, control centres – human operators face complex and demanding situations where their decisions can have far-reaching consequences on productivity, environment, and even human lives. In order to deal with such challenges, the operator needs full situational awareness, which can be achieved by sensing relevant visual data about the operating environment, refining it into mission-critical information, and presenting it in an immersive, intuitively comprehensible manner. This can be achieved by Immersive Visual Technologies (IVT) delivering ultra-realistic and interactive visual experience. 
+
+The aim of ImmerSAFE is to train multi-disciplinary experts, who have an understanding of the core imaging technologies, the requirements set to them by the safety-critical applications and who can account for the human user in the design of such systems. We will advance the state of the art by working towards three specific objectives: (1) Develop new robust and reliable IVT; in particular novel approaches to sensing, visualisation and reliable data transmission. (2) Determine optimal implementation of IVT under challenging conditions and integration into existing frameworks in two example use cases: mobile work machines and control centres. (3) Increase knowledge on the human factors affecting the adoption and use of IVT through user experience testing, task performance metrics and organisational level studies.
+
+To achieve our ambitious goals, we have brought together a unique combination of leading academic technology and psychology experts as well as high-tech SMEs, industry and end-users. This network will bring together the critical mass of complementary expertise available in Europe to train the next generation of successful researchers able to seize the great opportunity for innovations offered by the emerging field of IVT for Europe’s high-tech industries.</objective>
+  <title>Immersive Visual Technologies for Safety-critical Applications</title>
+<identifier>H2020MSCAITN2017</identifier>
+</project>

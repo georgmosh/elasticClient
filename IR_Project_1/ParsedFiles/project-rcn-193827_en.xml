@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193827</rcn>
+  <acronym>mapKITE</acronym>
+  <objective>The first objective is to build a mature prototype of a novel tandem terrestrial-aerial mapping system based on a terrestrial vehicle (TV) and on an unmanned aircraft (UA), both equipped with remote sensing payloads. The UA will follow the TV at a constant flying height above ground while geodata are acquired simultaneously from the TV and the UA. The final product is high resolution, oriented, calibrated and integrated images of a corridor and its environment.
+The second objective is to demonstrate services; i.e., the technical/commercial feasibility of the concept.
+The third objective is to develop the market: at the end of the project, contracts or negotiations shall be in place so the prototype can be used in operational conditions.
+MapKITE targets corridor mapping. It is a terrestrial-aerial surveying system that combines the advantages of the terrestrial and airborne (manned or unmanned) ones.  It responds to corridor mapping market needs only fulfilled by much more expensive separate terrestrial and aerial missions.
+An enabling component is the navigation payload based on EGNOS and the E5 AltBOC Galileo signal, superior to existing/planned GPS signals and of particular interest for robustness/integrity.
+An octocopter of UAVision will be modified and equipped with the avoidance collision system of CATUAV.
+Due to the low weight of the UA (less than 5 kg), to its low flying altitude (range between 30 m and maximum allowed height) and to its inbuilt line of sight [TV to UA] keeping feature, mapKITE does not suffer from the regulations affecting UAS civilian use. Its design is dominated by safety and abidance to current and foreseeable rules for small UA. Unrestricted testing will be conducted in a segregated airspace area that has been recently awarded by the Spanish aviation authorities.
+MapKITE is highly innovative: new surveying paradigms, new mathematical models, new ways of fusing sensors and a new “map” product. It is protected by the Spanish patent 2012312</objective>
+  <title>EGNOS-GPS/GALILEO-based high-resolution terrestrial-aerial sensing system.</title>
+<identifier>H2020Galileo20141</identifier>
+</project>

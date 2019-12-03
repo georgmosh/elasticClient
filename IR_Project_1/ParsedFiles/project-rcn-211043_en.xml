@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211043</rcn>
+  <acronym>SCONE</acronym>
+  <objective>The prediction of Open Rotor and UHBR Fan broadband noise on realistic configurations is still an open challenge. The two major sources of broadband noise are the trailing edge noise and the wake interaction noise. The first source is related to a strong vortex shedding at the blade trailing edge and the second to the interaction of the front blades wake turbulence with the rear blades leading edge. Up to now, semi-analytic models used in the industry for the prediction of the broadband noise of these two sources are based essentially on turbulence statistics from steady low-resolution simulations which yield to inaccurate results. The SCONE project proposes to improve the Open Rotor and UHBR Fan broadband noise prediction by using high-fidelity Large-Eddy Simulation (LES). The turbulence statistics obtained with this high-fidelity approach will allow to directly compute the noise but also to provide enhanced inputs to improve semi-empirical models. In order to reduce the cost of LES simulations, optimized numerical methods will be developed. Therefore, the SCONE project deals with three objectives: to build improved turbulence statistics data to feed the semi-analytic models by the use of high fidelity CFD methods, to provide validated high-fidelity methods for direct broadband noise computation and to improve existing semi-analytic models. This project will contribute to the development of ‘quiet’ CROR and UHBR engines.</objective>
+  <title>Simulations of CrOr and fan broadband NoisE with reduced order modelling</title>
+<identifier>H2020CS2CFP04201602</identifier>
+</project>

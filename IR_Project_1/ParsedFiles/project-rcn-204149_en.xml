@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204149</rcn>
+  <acronym>INTERMODEL EU</acronym>
+  <objective>The main objective of this Project is the development of a methodology and ICT tools which will allow an advanced simulation of intermodal railway logistics platforms models in order to support tasks related to both design and planning phases.
+
+Using the combination of demand/economic/capacity models as main inputs, an evaluation of scenarios will be possible by means of the comparison of an underlying Building Information Modeling output composed of different data sets such as CAPEX, OPEX or energy efficiency. 
+
+Moreover, using these new design tool an improvement of the QOS and boost transhipment operations between rail and road transport will be achieved.
+
+Above BIM2Operate translate and demonstrate the benefits of BIM during the operational phase, the tools can be extended with a specific simulator to get other indicators about the performance of the operations.
+ 
+The scope of this proposal addresses two of a maximum of five aspects expected by the European Commission:
+
+-	Development of whole system planning environments (based e.g. on virtual design concepts such as BIM - Building Information Modeling) to support the streamlined delivery of infrastructure projects from concept to deployment. In this respect, the rail sector deserves particular attention.
+-	Solutions for advanced infrastructure capacity planning and modeling for all transport modes.</objective>
+  <title>Simulation using Building Information Modeling Methodology of Multimodal, Multipurpose and Multiproduct Freight Railway Terminals Infrastructures.</title>
+<identifier>H2020MG2015TwoStages</identifier>
+</project>

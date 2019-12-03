@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199838</rcn>
+  <acronym>SPEXOR</acronym>
+  <objective>Low-back pain is the leading cause of worker absenteeism after the common cold, accounting for 15% of sick leaves and hundreds of millions of lost work days annually [Walking 2.0, Nature, 2015].
+
+Most of today's robotic assistive devices are in forms of exoskeletons that augment the motion of legs and arms and neglect the role of spinal column in transferring load from the upper body and arms to the legs. In SPEXOR we will fill this gap and design a novel and revolutionary spinal exoskeleton to prevent low-back pain in able bodied workers and to support workers with low-back pain in vocational rehabilitation.
+
+The concept to realize the objectives of SPEXOR is driven by several interdisciplinary ideas that push current understanding of low-back pain intervention through several innovative research and technological stages. First, robot-centred requirements for low-back pain prevention are determined and a musculoskeletal stress monitoring system is developed to unobtrusively measure the associated key variables. Then, optimal design parameters and sensorimotor strategies are provided with respect to the robot-centred requirements and their associated key variables. Based on these aspects, a spinal exoskeleton mechanism and its actuation is developed and adaptive control architecture is employed. Such research and development cycle is enclosed by multi-phase end-user evaluation, usability and satisfaction studies.
+
+The project builds upon the partner's extensive experience with work ergonomics, modelling and optimization of human movement, design, control and evaluation of exoskeletons. Several beyond-the-state-of-art scientific approaches and technologies will be employed through a colourful mixture of research, industrial, SME and end-user partners of the consortium.
+
+Ultimately, the results of SPEXOR will have a significant impact well beyond the current scientific understanding and technological capabilities of assistive robots used in daily life and health care.</objective>
+  <title>Spinal Exoskeletal Robot for Low Back Pain Prevention and Vocational Reintegration</title>
+<identifier>H2020ICT2015</identifier>
+</project>

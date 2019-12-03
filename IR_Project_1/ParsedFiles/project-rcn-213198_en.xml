@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213198</rcn>
+  <acronym>PODIUM</acronym>
+  <objective>The PODIUM project comprises four complementary, large scale demonstrations, taking place in  Denmark, France and the Netherlands where more than 185 drone flights will be conducted. Its partners’ quick wins integrated UTM solution will be demonstrated in a broad range of realistic operational conditions of drone operations (VLOS and BVLOS) in VLL airspace (controlled &amp; uncontrolled airspace; urban, rural and in the vicinity of airports) interacting with manned traffic. Each of its four sites has its own specificities (e.g. routine day to day operations, emphasis on UTM/ATM communication, normal/abnormal conditions).
+
+The demonstrations will notably enable its safe and secure use by various categories of users (e.g. authorities, drone operations, drone pilots) and for many types of drone operations (e.g. electricity line inspection, emergency services). Together the four sites demonstrations ensure a comprehensive and extensive demonstration of the full potential and technology readiness level of the PODIUM UTM functionalities (from Before-flight to Post-flight with a special focus on in-flight dynamic geo-fencing). PODIUM is a U-Space compliant demonstration.
+
+Under EUROCONTROL leadership, PODIUM consortium comprises 10 members,17 linked third parties and 4 sub-contractors, including many in-kind contributions. By bringing together drone actors (UTM provider, drone operators, drone trackers manufacturers), ATM actors (ANSPs, ATM system integrator &amp; others) and infrastructure providers (drone demonstrations centers, telecommunication network) supported by their local authorities in its Advisory Board, PODIUM project will naturally improve the links between the drone and the ATM communities therefore contributing to a safer integration of drone operation in the European airspace and maximising the outreach of the project at regulatory and standardisation levels.</objective>
+  <title>Proving Operations of Drones with Initial UTM Management</title>
+<identifier>H2020SESAR20162</identifier>
+</project>

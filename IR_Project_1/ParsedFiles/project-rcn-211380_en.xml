@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211380</rcn>
+  <acronym>Z-BRE4K</acronym>
+  <objective>Maintenance in general and predictive maintenance strategies in particular should now face very significant challenges to deal with the evolution of the equipment, instrumentation and manufacturing processes they should support. Preventive maintenance strategies designed for traditional highly repetitive and stable mass production processes based on predefined components and machine behaviour models are no longer valid and more predictive-prescriptive maintenance strategies are needed.
+The Z-Break solution comprises the introduction of eight (8) scalable strategies at component, machine and system level targeting (1) the prediction occurrence of failure (Z-PREDICT), (2) the early detection of current or emerging failure (Z-DIAGNOSE), (3) the prevention of failure occurrence, building up, or even propagation in the production system (Z-PREVENT), (4) the estimation of the remaining useful life of assets (Z-ESTIMATE), (5) the management of the aforementioned strategies through event modelling, KPI monitoring and real-time decision support (Z-MANAGE), (6) the replacement, reconfiguration, re-use, retirement, and recycling of components/assets (Z-REMEDIATE), (7) synchronizing remedy actions, production planning and logistics (Z-SYNCHRONISE), (8) preserving the safety, health, and comfort of the workers (Z-SAFETY).
+Z-Bre4k impact to the European manufacturing industry and the society can be summarised in the following: (i) increase of the in-service efficiency by 24%, (ii) reduced accidents, (iii) increased Verification according to objectives, (iv) 400 new jobs created and (v) over €42M ROI for the consortium.
+To do that we have brought together a total of seventeen (17) EU-based partners, representing both industry and academia, having ample experience in cutting-edge technologies and active presence in the EU manufacturing.</objective>
+  <title>Strategies and Predictive Maintenance models wrapped around physical systems for Zero-unexpected-Breakdowns and increased operating life of Factories</title>
+<identifier>H2020FOF2017</identifier>
+</project>

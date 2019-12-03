@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211947</rcn>
+  <acronym>DOMINOES</acronym>
+  <objective>The DOMINOES project aims to enable the discovery and development of new demand response, aggregation, grid management and peer-to-peer trading services by designing, developing and validating a transparent and scalable local energy market solution. The market can be leveraged to share local value, increase renewable energy accessibility and make better use of local grids by Distribution System Operators (DSO), Prosumers/Consumers, Energy Retailers and other key stakeholders. The project will show how DSOs can dynamically and actively manage grid balance in the emerging future where microgrids, ultra-distributed generation and energy independent communities will be prevalent. Best value will only emerge if these resources and stakeholders can be connected to both DSO activities and the centralized market mechanism. The project will establish solutions for this challenge by addressing the following steps:
+
+1. Design and develop a local energy market architecture
+2. Develop and demonstrate ICT components enabling the local market concept 
+3. Develop and demonstrate balancing and demand response services supporting the local markets 
+4. Design and validate local market enabled business models
+5. Analyze and develop solutions for secure data handling related to local market enabled transactions
+
+With these steps, the DOMINOES project is able to address all the requirements of the LCE-01-2017 call. The project will deliver 1. new business models for demand response and virtual power plant (VPP) operations; 2. tools and technology validation for demand response services; 3. services based on smart metering; 4. methods to utilize VPPs and microgrids as active balancing assets; 5. secure data handling procedures in local markets. These results will be validated in three validation sites in Portugal and Finland. A DSO environment in Évora (Portugal), a VPP site distributed across bank branches in Portugal and a microgrid site in Lappeenranta (Finland).</objective>
+  <title>Smart Distribution Grid: a Market Driven Approach for the Next Generation of Advanced Operation Models and Services</title>
+<identifier>H2020LCE2017SGS</identifier>
+</project>

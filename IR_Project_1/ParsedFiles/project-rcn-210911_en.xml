@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210911</rcn>
+  <acronym>CASCAde</acronym>
+  <objective>"This proposal aims to create a new generation of security assurance. It investigates whether one can certify an inter-connected dynamically changing system in such a way that one can prove its security properties without disclosing sensitive information about the system's blueprint. 
+
+This has several compelling advantages. First, the security of large-scale dynamically changing systems will be significantly improved. Second, we can prove properties of topologies, hosts and users who participate in transactions in one go, while keeping sensitive information confidential. Third, we can prove the integrity of graph data structures to others, while maintaining their their confidentiality. This will benefit EU governments and citizens through the increased security of critical systems.
+
+The proposal pursues the main research hypothesis that usable confidentiality-preserving security assurance will trigger a paradigm shift in security and dependability. It will pursue this objective by the creation of new cryptographic techniques to certify and prove properties of graph data structures. A preliminary investigation in 2015 showed that graph signature schemes are indeed feasible. The essence of this solution can be traced back to my earlier research on highly efficient attribute encodings for anonymous credential schemes in 2008.
+
+However, the invention of graph signature schemes only clears one obstacle in a long journey to create a new generation of security assurance systems. There are still many complex obstacles, first and foremost, assuring ""soundness"" in the sense that integrity proofs a verifier accepts translate to the state of the system at that time. The work program involves six WPs: 1) to develop graph signatures and new cryptographic primitives; 2) to establish cross-system soundness; 3) to handle scale and change; 4) to establish human trust and usability; 5) to create new architectures; and 6) to test prototypes in practice."</objective>
+  <title>Confidentiality-preserving Security Assurance</title>
+<identifier>ERC2016STG</identifier>
+</project>

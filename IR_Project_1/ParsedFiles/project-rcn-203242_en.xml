@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>203242</rcn>
+  <acronym>CSP-Infinity</acronym>
+  <objective>The complexity of constraint satisfaction problems (CSPs) is a field in rapid development, and involves central questions in graph homomorphisms, finite model theory, reasoning in artificial intelligence, and, last but not least, universal algebra. In previous work, it was shown that a substantial part of the results and tools for the study of the computational complexity of CSPs can be generalised to infinite domains when the constraints are definable over a homogeneous structure. There are many computational problems, in particular in temporal and spatial reasoning, that can be modelled in this way, but not over finite domains. Also in finite model theory and descriptive complexity, CSPs over infinite domains arise systematically as problems in monotone fragments of existential second-order logic.
+
+In this project, we will advance in three directions:
+(a) Further develop the universal-algebraic approach for CSPs over homogeneous structures. E.g., provide evidence for a universal-algebraic tractability conjecture for such CSPs.
+(b) Apply the universal-algebraic approach. In particular, classify the complexity of all problems in guarded monotone SNP, a logic discovered independently in finite model theory and ontology-based data-access.
+(c) Investigate the complexity of CSPs over those infinite domains that are most relevant in computer science, namely the integers, the rationals, and the reals. Can we adapt the universal-algebraic approach to this setting?</objective>
+  <title>Homogeneous Structures, Constraint Satisfaction Problems, and Topological Clones</title>
+<identifier>ERC2015CoG</identifier>
+</project>

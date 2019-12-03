@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>202865</rcn>
+  <acronym>InfTy</acronym>
+  <objective>Infinite objects are ubiquitous in computer science, e.g., an interactive program may be modelled as taking for input a stream (an infinite list) of requests and producing a stream of responses. In theoretical computer science infinite objects play an important role e.g. in automata theory and exact real number arithmetic. Representing and reasoning about infinite computations is crucial in designing safe software systems.
+
+The objective of InfTy is to devise mathematical methods for reasoning about programs manipulating infinite objects, developing compositional typed formalisms and integrating them with infinitary rewriting techniques. Our methods will be compositional and applicable to higher-order programs, while still adopting the operational perspective of rewriting, thus opening up a new viewpoint on higher-order typed formalisms for corecursion. We will extend Pure Type Systems with coinductive types, providing a general yet simple theory for type systems with infinite objects and unifying previous type-based and rewriting-based work on productivity. By establishing infinitary normalisation and infinitary confluence for typable terms, we will construct Böhm models for type systems with corecursion.
+
+Recently, a coinductive approach to infinitary rewriting has been proposed by Endrullis et al., and coinductive proofs for some results in infinitary rewriting have been developed by the fellow. The coinductive approach simplifies investigations in infinitary rewriting and thus it is our chosen methodology. This approach, which we will further develop, is by itself of high interest to the rewriting community, but our work will also be relevant to the typed lambda calculus and programming languages communities. The supervisor has strong expertise in rewriting, particularly infinitary rewriting. He developed much of the theory of Infinitary Combinatory Reduction Systems crucial for the present proposal.</objective>
+  <title>Infinitary Rewriting for Type Systems</title>
+<identifier>H2020MSCAIF2015</identifier>
+</project>

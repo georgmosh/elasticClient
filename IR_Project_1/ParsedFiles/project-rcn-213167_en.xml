@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213167</rcn>
+  <acronym>micro-ROS</acronym>
+  <objective>Micro-ROS will be a Robotic framework targeting embedded and deep embedded robot components with extremely constrained computational resources. These devices have special characteristics: minimum real time operating system or no operating system, battery powered, wireless low bandwidth connections, and intermittent operation with sleep periods.
+
+Micro-ROS will be compatible with the Robot Operating System (ROS 2.0), the de facto standard for robot application development. Micro-ROS will enable the interoperability of traditional robots with IoT sensors and devices, creating truly distributed robotic systems using a common framework.
+
+Micro-ROS empowers these computational devices with constrained resources to become first class participants of the ROS ecosystem allowing to create smaller robots using the same tools as well as taking advantage of the increasing overlapping between robotics, smart embedded devices and IoT.</objective>
+  <title>micro-ROS: Platform for seamless integration of resource constrained devices in the robot ecosystem</title>
+<identifier>H2020ICT20171</identifier>
+</project>

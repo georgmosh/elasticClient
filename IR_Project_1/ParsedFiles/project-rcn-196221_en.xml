@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196221</rcn>
+  <acronym>CSAR</acronym>
+  <objective>Third Party Interferences (TPIs) are responsible for a large part of all failures in transmission pipelines. Examples of TPIs are excavations, construction activities, dredging, etc.. An efficient monitoring service for (short lived) TPIs requires high resolution data, a high revisit rate and needs to be dependable. These requirement cannot be filled by any single satellite mission alone. A feasibility study is proposed to investigate the quality of detection of TPIs when combining Sentinel-1 images at a high revisit frequency with higher resolution data acquired with a low revisit frequency. 
+The results of this study will be integrated in the existing Orbital Eye infrastructure for pipeline integrity monitoring. This will result in a system that is fully automatic and continuously operational, can monitor both long and short lived TPIs and has an operational cost that is considerably lower compared to existing solutions. No such system currently exists on the European market, creating a unique business opportunity.</objective>
+  <title>Ensuring pipeline integrity using Earth Observation Data</title>
+<identifier>H2020SMEINST12014</identifier>
+</project>

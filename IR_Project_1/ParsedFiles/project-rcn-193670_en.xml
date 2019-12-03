@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193670</rcn>
+  <acronym>Strained2DMaterials</acronym>
+  <objective>"We will use strain engineering as an enabling tool to study previously inaccessible or hard-to-study phenomena in two-dimensional atomic crystals (2DACs: graphene, bilayer graphene, and monolayer transition metal dichalcogenides). In our first objective, we develop unique experimental tools to control and characterize mechanical strain in 2DACs. These are the distinguishing features of our approach: (i) The use of very low disorder suspended devices; (ii) Both uniform and controlled non-uniform strain will be induced; (iii) The level of strain will be precisely adjusted and determined in-situ during measurements. We will then use controllably-strained samples to study electrical, mechanical, thermal, and optical properties of 2DACs:
+
+Application of strain in suspended graphene will be shown to control amplitudes and dispersion relation of flexural out-of-plane phonons (FPs), a mode unique to 2D and quasi-2D materials. We will demonstrate, for the first time, that FPs dominate electrical, thermal, and mechanical of suspended graphene. Moreover, we will show dramatic mechanical softening of graphene in the regime of weak strain, similar to "entropic spring" behaviour seen in polymers.
+
+We will engineer strain distributions in high-mobility suspended graphene devices that translate into near-constant "pseudomagnetic field" and observe Quantum Hall-like quantization at zero external magnetic field.
+
+Strain-induced changes in topology of the band structure of bilayer graphene will be shown to affect Quantum Hall states and the Berry phase.
+
+Through strain engineering, we will controllably adjust - and even make spatially dependent - the band gap energy and binding energies of excitons in monolayer transition metal dichalcogenides (TMDCs). We will study complex interplay between and direct and indirect excitons and look for emergence of a new phase of matter, an excitonic insulator, in strained narrow-bandgap TMDC."</objective>
+  <title>Unlocking new physics in controllably strained two-dimensional materials</title>
+<identifier>ERC2014STG</identifier>
+</project>

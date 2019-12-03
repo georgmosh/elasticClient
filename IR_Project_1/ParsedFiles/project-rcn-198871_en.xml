@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>198871</rcn>
+  <acronym>KareShare</acronym>
+  <objective>The poor efficiency and lack of interoperability of the legacy Hospital Information Systems &amp; Electronic Medical Records modules are creating an urgent need for a holistic health management platform. Unfortunately, data and exam duplications are still common. There is a lack of automatic solutions extracting relevant information from the patient´s medical history. It is also vital to engage and empower the patient to become an active participant in the care process. 
+Based on our 34-year experience in medical ICT we will bring to market a holistic health management platform KareShare that integrates our Hospital Information System modules, with a natively collaborative Electronic Medical Records. It features a Holistic Synoptic Visualisation of patient history based on Natural Language Processing and a Univiewer to display images of different DICOM and non-DICOM modalities, waveforms and videos, while maintaining total data security &amp; confidentiality for the patient. 
+In Europe in 2015 the HIS market revenue is €3.809M, having penetration rates as high as 80% in administrative and financial systems and around 45% in clinical systems while growing at 3.2% CAGR. In the coming years the trend will tweak towards more demand of new HIS solutions because the old legacy systems are not interoperable and the clinicians and administrative staff need to work with several interfaces. 
+Our target client segment are the 4300 small to medium size private hospitals in the EU and we aim to reach 1% of market penetration in 5 years after the completion of Phase 2 project with a revenue of €25.6M by 2022. 
+In this Phase 1 our technical feasibility study will cover issues related to the clinical issues and technical characterisation of the platform; regulatory and administrative issues as well as usability and patient engagement. In our financial feasibility study we will investigate the commercial feasibility of KareShare platform and develop an extensive business plan.</objective>
+  <title>KareShare Platform for Effective  Collaborative Clinical Care Management</title>
+<identifier>H2020SMEINST12015</identifier>
+</project>

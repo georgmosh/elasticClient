@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>203409</rcn>
+  <acronym>NanoStaph</acronym>
+  <objective>Staphylococcus aureus is a leading cause of hospital-acquired infections, which are often complicated by the ability of this pathogen to grow as biofilms on indwelling medical devices. Because biofilms protect the bacteria from host defenses and are resistant to many antibiotics, biofilm-related infections are difficult to fight and represent a tremendous burden on our healthcare system. Today, a true molecular understanding of the fundamental interactions driving staphylococcal adhesion and biofilm formation is lacking owing to the lack of high-resolution probing techniques. This knowledge would greatly contribute to the development of novel anti-adhesion therapies for combating biofilm infections.
+
+We recently established advanced atomic force microscopy (AFM) techniques for analyzing the nanoscale surface architecture and interactions of microbial cells, allowing us to elucidate key cellular functions. This multidisciplinary project aims at developing an innovative AFM-based force nanoscopy platform in biofilm research, enabling us to understand the molecular mechanisms of S. aureus adhesion in a way that was not possible before, and to optimize the use of anti-adhesion compounds capable to inhibit biofilm formation by this pathogen.
+
+NanoStaph will have strong scientific, societal and economical impacts. From the technical perspective, force nanoscopy will represent an unconventional methodology for the high throughput and high resolution characterization of adhesion forces in living cells, especially in bacterial pathogens. In microbiology, the results will radically transform our perception of the molecular bases of biofilm formation by S. aureus. In medicine, the project will provide a new screening method for the fast, label-free analysis of anti-adhesion compounds targeting S. aureus strains, including antibiotic-resistant clinical isolates that are notoriously difficult to treat, thus paving the way to the development of anti-adhesion therapies.</objective>
+  <title>Force nanoscopy of staphylococcal biofilms</title>
+<identifier>ERC2015AdG</identifier>
+</project>

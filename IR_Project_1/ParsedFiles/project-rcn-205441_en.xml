@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205441</rcn>
+  <acronym>5G CHAMPION</acronym>
+  <objective>The 5G CHAMPION project ambitions to deliver the first 5G system proof-of-concept in conjunction with the 2018 South Korean Winter Olympics. Key novel 5G building blocks will be developed and implemented into a new architectural approach providing an efficient end-to-end system performance encompassing cutting edge 5G radio-access, core-network and satellite technologies.
+It will be the first time ever that state-of-the art terrestrial wireless communication, including future key enablers such as mmWave access, will be seamlessly combined with a disruptive satellite communication, forming a ‘multi RAT capable’ 5G network optimised to serve user equipment in various deployment context. The novel building blocks will rely on innovations in RF, antenna and radio protocols design for mmWave access and backhaul network, efficient virtualization through NFV/SDN functions enabling a flexible packet core implementation and satellite based communication and navigation solutions for extended coverage and ubiquitous high precision location estimation. Emphasize is furthermore laid on an efficient standardization strategy and on the resolution of key certification hurdles. 
+The proposed technologies will finally be improving Latency in the ms range and provide high throughput in very dense user environment, cost effective network management, QoS improved in high speed mobility conditions, high precision/integrity location and timing estimation, ubiquitous service provisioning as well as flexibility in equipment reconfiguration through software which are listed among the main challenges for the design of the 5G network. These technologies are of particular interest for High speed mobile broadband and Internet of things and the respective integration of heterogeneous technologies in a common framework.</objective>
+  <title>5G Communication with a Heterogeneous, Agile Mobile network in the Pyunchang wInter Olympic competioN</title>
+<identifier>H2020EUK20161</identifier>
+</project>

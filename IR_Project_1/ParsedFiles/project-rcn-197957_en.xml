@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>197957</rcn>
+  <acronym>SOMAPI</acronym>
+  <objective>A part of developing more sustainable lifestyles is to extend the life time of items and foster re-use of the items. The first preference would be to acquire a pre-owned item and only if that is not feasible, purchasing a newly manufactured item produced in a sustainable way.
+ 
+Currently, the challenge in acquiring pre-owned items through peer-to-peer internet sites is that people need to see effort to photograph and list their items and then if someone buys their item, they need to pack and ship the items.
+ 
+Swap.com provides an on-line consignment department store for pre-owned items in a cost-efficient and easy-to-use way. Items that are no longer needed are sent to Swap.com's fulfillment center where they are sorted, photographed, packed and stored. Swap.com solves customer issues regarding the selling effort by so that customer can pack the items into a box and send the items to Swap.com's fulfillment center.
+ 
+This project targets to develop an industrial scale capability for selling and trading relatively inexpensive pre-owned (i.e. second-hand) items on-line in massive scale. This means that items with values as low as 2 EUR can be processed so that customers selling their items through Swap.com can get their share and Swap.com can make profitable business.
+ 
+The approach is to scale-up the fulfillment center operations to a more efficient multi-processing flow where key parts are optimized and automatized further. The project also develops recommendations and search mechanisms in the customer front side (Swap.com service) so that customers find specifically what they are looking for.
+ 
+Swap.com’s concept will encourage re-use of items instead of dumping them into landfills, and will therefore help to enable the transition towards a circular economy. Swap.com’s goal is to be the world’s leading on-line department store for pre-owned items.</objective>
+  <title>Swap.com On-line department store for Massive Amount of Pre-owned Items</title>
+<identifier>H2020SMEINST22014</identifier>
+</project>

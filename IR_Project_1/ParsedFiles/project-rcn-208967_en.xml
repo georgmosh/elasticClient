@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208967</rcn>
+  <acronym>quasiTENS</acronym>
+  <objective>Tensor Network States (TNS) are a class of variational wave functions whose number of parameters can be increased systematically in order to improve the accuracy of the approximation. In effectively one dimensional systems, such as certain magnetic insulators, TNS reproduce the macroscopic properties of the ground state by 1 part in 10 million. TNS are expected to eventually give rise to similar accuracies in higher dimensions, though, in this case, their numerical implementation is much more sophisticated.
+
+The overall aim of this action is to establish TNS as a standard tool to tackle strongly correlated systems. In order to do so, we want to show that for several outstanding problems in Condensed Matter Physics they allow to approximate the relevant wave functions with unprecedented accuracy.
+
+First, we want to use TNS to tackle realistic chiral topological systems, which are characterised by a quantised transport property and might eventually be used to build quantum computers. Our second objective is to employ TNS to describe many-body localised systems, characterised by the absence of heat transport. In particular, we want to analyse different situations that are relevant to experiments, namely heat diffusion when the system is weakly coupled to a heat bath,
+the effect of symmetries, periodically driven (Floquet) systems, and many-body localisation in two dimensions. Another objective is to use a simple TNS ansatz to approximate the phase diagram of the Fermi-Hubbard model, which is believed to describe high-temperature superconductivity. We expect that the simplicity of the ansatz will shed more light on the physical properties of its phases. 
+
+Finally, we also want to apply TNS in High Energy Physics, specifically to Lattice Gauge Theories, describing the most fundamental interactions between the particles that appear in nature. Our objective is to represent realistic gauge groups to make TNS suitable for variational calculations of Lattice Gauge Theories.</objective>
+  <title>Quantum Systems Investigated through Tensor Network States</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

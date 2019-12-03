@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194217</rcn>
+  <acronym>SHARCS</acronym>
+  <objective>Developing new security paradigms, architectures, and software, for more secure and trustworthy ICT systems and services has clear social, scientific, and market motivation. This motivation is becoming stronger due to the changing threat landscape; over the past decade we are witnessing an ever-increasing amount of cyberattacks on the Internet.
+We believe that to advance the field of cybersecurity, we must act proactively and in synergy, instead of being reactive to cyberattacks.
+
+We propose SHARCS, a framework for designing, building and demonstrating secure-by-design applications and services, that achieve end-to-end security for their users. SHARCS will achieve this by systematically analyzing and extending, as necessary, the hardware and software layers in a computing system. This holistic approach is necessary, as no system can truly be secure unless every layer is secured, starting from the lowest one. We will measure the effectiveness of the SHARCS framework by using it on a diverse set of security-critical, real-word applications. The applications have been chosen from three different domains, medical, cloud and automotive, to demonstrate the platform independence capabilities of SHARCS. SHARCS will provide a powerful foundation for designing and developing trustworthy, secure-by-design applications and services for the Future Internet.</objective>
+  <title>Secure Hardware-Software Architectures for Robust Computing Systems</title>
+<identifier>H2020ICT20141</identifier>
+</project>

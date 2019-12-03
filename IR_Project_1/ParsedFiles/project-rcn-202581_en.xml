@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>202581</rcn>
+  <acronym>INFORMATIVEPRICES</acronym>
+  <objective>This project studies information aggregation in multiple-linked auction markets with large numbers of goods and bidders. Past work assumes bidders trade in a single, centralized, frictionless auction market. Instead, I study bidders with unit demand who decide to purchase one of many possible goods which are on auction in distinct markets. The goods traded in each market are identical, common-value objects and the price is determined by a uniform-price auction. Bidders receive imperfect signals about the state of the world and select to bid in one of the auction markets. The markets differ in institutional structure and therefore frictions. Market frictions result from imperfect competition, government interventions, informational frictions, and preference heterogeneity. All such frictions render the gains from trade uncertain.
+
+I address the following questions: How do market frictions affect information aggregation if bidders can strategically choose between markets? What are the mechanisms through which market imperfections disrupt information aggregation? Which market’s price is a better statistic for market participants’ information? Which market attracts better-informed bidders? Do prices aggregate beliefs more accurately in good times or in bad?
+
+Initial findings suggest that the proposed framework can prove particularly fruitful in addressing these questions. Specifically, I show if the gains from trade are uncertain in even one market, then prices do not aggregate information in any of the markets. In contrast, if all markets are frictionless, then the price in each market aggregates information. These findings are driven by how bidders self-select across markets: Better-informed bidders select frictional markets while uninformed, pessimistic bidders select the safety of frictionless markets. These findings suggest a novel mechanism through which market imperfections in one market can have widespread effects across all linked markets.</objective>
+  <title>Market Selection, Frictions, and the Information Content of Prices</title>
+<identifier>ERC2015CoG</identifier>
+</project>

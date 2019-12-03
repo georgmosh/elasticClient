@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210270</rcn>
+  <acronym>DATASOUND</acronym>
+  <objective>More and more, organizations are generating huge amounts of data, which need to be stored and processed in order to gain useful insights and achieve competitive advantage. While the storage and analysis are nowadays mostly carried out by computers, the interpretation of data is still performed by humans through visual means. 
+
+This research project proposes a novel and complementary approach to data interpretation by means of sound, and aims to address the scientific question of “Can sound be used for Data Science?”. Its results will be of relevance to identify patterns in real-time continuous data, and it will be tested in the context of real-time energy monitoring in a building. The project will provide the researcher the resources and training for creating and managing a pioneering research lab on data Sonification at the Data Science Institute, Imperial College London.</objective>
+  <title>DATASOUND: Understanding data with sound</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

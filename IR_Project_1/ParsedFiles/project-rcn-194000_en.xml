@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194000</rcn>
+  <acronym>iKaaS</acronym>
+  <objective>iKaaS – (intelligent Knowledge-as-a-Service) Platform, will develop an intelligent, privacy preserving and secure Smart City Platform based on a Big Data resource and an analytics engine built atop heterogeneous cloud platforms with data collected from a variety of sensors from Internet of Things (IoT) environments deployed as mobile terminals, smart devices, and smart homes. 
+We envisage that these data and the analytics engine – a knowledge base – would be fundamental building blocks for cross-border business-to-government (B2G), business-to-business (B2B) and business-to-consumer (B2C) applications, such as lifestyle recommendation, future city planning, academic research and analysis, location-and behaviour-specific targeted services and so on.
+The platform features will be demonstrated by means of Smart City applications promoting self-management of health and safety of citizens, as well as an information system improving data analysis for a smarter life in the city.</objective>
+  <title>intelligent Knowledge-as-a-Service Platform</title>
+<identifier>H2020EUJ2014</identifier>
+</project>

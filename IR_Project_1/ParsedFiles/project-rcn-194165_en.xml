@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194165</rcn>
+  <acronym>SAGE-CARE</acronym>
+  <objective>The aim of this project is to bring together subject matter experts from the academic and non-academic sectors to create a holistic informatics platform for rapidly integrating genomic sequences, electronic health records (EHRs) and research repositories to enable personalised medicine strategies for malignant melanoma treatment.
+
+The consortium has engaged in a pre-proposal process with active clinical end users who have highlighted the need for more innovative approaches for the treatment of cancer - in particular the treatment of malignant melanoma, including inter alia the ability to rapidly query of geno-phenotype associations in melanoma such as the recently discovered rs2301641 SNP variability   with ABCB5 function and CDK4 gene indicators. 
+
+Hence we aim to develop a scalable HPC framework that allows the semantic interlinking between spatially distributed electronic patients’ health records, associated genomic sequences and published research, thereby allowing clinicians to make reasoned queries over vast knowledge bases for the diagnosis, treatment and management of malignant melanoma.</objective>
+  <title>SemAntically integrating Genomics with Electronic health records for Cancer CARE</title>
+<identifier>H2020MSCARISE2014</identifier>
+</project>

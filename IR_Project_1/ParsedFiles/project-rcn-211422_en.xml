@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211422</rcn>
+  <acronym>Clear5G</acronym>
+  <objective>Clear5G’s objective is to design, develop, validate, and demonstrate an integrated convergent wireless network for Machine Type and Mission Critical Communication (MTC/MCC) services for Factories of the Future (FoF). Clear5G will deliver technical solutions addressing the challenges of massive deployment of connected devices, security, ultra-low latency and ultra-high reliability in FoF applications, like remote maintenance and closed loop control systems. The requirements of these complex scenarios will be met through the convergence of different wireless technologies, enabled by protocol and architecture enhancements proposed by Clear5G.
+Clear5G will focus on providing PHY, MAC, and architectural enhancements to meet the strict requirements of FoF applications in terms of KPIs: latency, reliability, connection density, spectrum, and energy efficiency, thus contributing to the ITU-R objectives (e.g. 1000 fold connection density) for the next generation mobile network.
+The Clear5G team comprises a combination of European and Taiwanese successful, innovative, and well known major corporations, SMEs, as well as research and academic institutions. The partners have proven know-how in architecture, resource management, protocol enhancements, standardization, prototyping, and demonstration. Proof of concepts will be tested on the 5GIC testbed in Europe, while the final system demonstration, showing the tight integration and cooperation of manufacturing and the Clear5G enhanced network, will be implemented on the III testbed in Taiwan.
+Clear5G brings together a strong and diverse set of European and Taiwanese partners, including partners from the FoF sector; the complementarity of team, skills and expertise will bring added value to 5G research on both sides and will deepen international cooperation, serving as a showcase of 5G empowering vertical industries. The partners will contribute to relevant standardisation in both the communication and the manufacturing domains.</objective>
+  <title>Converged wireless access for reliable 5G MTC for factories of the future</title>
+<identifier>H2020ICT20162</identifier>
+</project>

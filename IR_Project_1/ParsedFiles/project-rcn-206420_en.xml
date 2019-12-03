@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206420</rcn>
+  <acronym>SafeClouds.eu</acronym>
+  <objective>SafeClouds is a research project supported by EASA and powered by a full spectrum of aviation stakeholders (Airlines, Airports, ANSPs, Eurocontrol, Research Entities, Safety Agencies) that develops cutting-edge technologies for aviation safety assurance in a cost-effective manner. SafeClouds proposes a data-driven approach to achieve a deeper understanding of the dynamics of the system, where risks are pro-actively identified and mitigated in a continuous effort to enhance the already excellent European aviation safety records.
+
+SafeClouds develops an innovative aviation safety data analysis approach. Currently each stakeholder owns different isolated datasets and data-sharing paradigms are rare. However, the combination of those datasets is critical in discovering unknown safety hazards and in understanding and defining a performance-based system safety concept. The new data-driven paradigm, capable of extracting safety intelligence in a fast, connected and inexpensive way requires the collaboration of aviation and IT entities sharing their raw datasets, tools, techniques and information.
+
+SafeClouds high level objectives are:
+
+- To define a user-requirement driven approach for data mining in aviation safety, covering several current safety challenges within airlines and runway operations.
+- To develop novel data structures and safety intelligence representation. Given the complexity of the datasets, SafeClouds aims to solve their current challenges in data handling and knowledge discovery.
+- To develop the proof of concept and validate in a laboratory the safety data analysis paradigms, at different levels: historical analysis, predictive analytics, automatic safety data monitoring and unknown hazards identification.
+- To assemble a group of entities that encompasses the entire data-cycle for a unified, achievable vision for the future of safety analytics in Europe, including: users, data providers, data infrastructure researchers, operators and data scientists.</objective>
+  <title>Data-driven research addressing aviation safety intelligence</title>
+<identifier>H2020MG2016SingleStageINEA</identifier>
+</project>

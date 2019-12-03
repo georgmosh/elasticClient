@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210104</rcn>
+  <acronym>QCLAB</acronym>
+  <objective>In the 2000s, the application of quantum chemistry became available to various industries due to the successful findings resulting from years of research. Nowadays several pharmaceuticals are using quantum chemical methods to develop medicine molecules by replacing difficult and expensive tests with simulation techniques, therefore making the development process more efficient, faster and more cost-effective.
+
+Quantum chemical methods require a huge computational demand, which is the biggest difficulty of its spread. According to the latest trend of computer studies the solution for the quantum chemistry calculations is the multi processor Graphic Processing Unit - GPU, which requires special programming models’ adaptation.
+
+The aim of the project is the establishment of a GPU-optimized Gauss based, efficient, parallel quantum chemical integrator module, which could solve one of the speed limitation of quantum chemistry calculations, the calculation of integrals.
+
+With our revolutionary product new R&amp;D fields can be available, moreover pharmaceutical and manufacturing companies could significantly reduce the required time of the market launch, saving hundreds of millions of Euros, helping chemists find the perfect candidate with the perfect features and reducing the chance of molecules’ failing during further phases of the development. Currently, there is no computer software which has the required capacity.
+
+The complete software will be available as a licensed module for companies, which are seeking general quantum chemical software. With this module they are going to be able to execute specific calculations (e.g.: SCF, DFT, (RI)-MP2, CC, etc.) more efficiently than their competitors.</objective>
+  <title>Revolutionary new quantum chemical software for molecular simulations</title>
+<identifier>H2020SMEINST220162017</identifier>
+</project>

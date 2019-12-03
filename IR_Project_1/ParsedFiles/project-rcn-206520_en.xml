@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206520</rcn>
+  <acronym>CyberSure</acronym>
+  <objective>CyberSure is a programme of collaborations and exchanges between researchers aimed at developing a framework for creating and managing cyber insurance policy for cyber systems. The purpose of creating such policies will be to enhance the trustworthiness of cyber systems and provide a sound basis for liability in cases of security and privacy breaches in them. The framework will be supported by a platform of tools enabling an integrated risk cyber system security risk analysis, certification and cyber insurance, based on the analysis of objective evidence during the operation of such systems. 
+CyberSure will develop its cyber insurance platform at TRL-7 by building upon and integrating state of the art tools, methods and techniques. These will include: (1) the state of the art continuous certification infrastructure (tools) for cloud services developed by the EU project CUMULUS; (2) the risk management tool of NIS enhanced by the NESSOS risk management methodology; and (3) insurance management tools of HELLAS.
+The development of the CyberSure platform will be driven by certification, risk analysis and cyber insurance scenarios for cyber system pilots providing cloud and e-health services. Through these, CyberSure will address the conditions required for offering effective cyber insurance for interoperable service chains cutting across application domains and jurisdictions.</objective>
+  <title>CYBER Security InSURancE — A Framework for Liability Based Trust</title>
+<identifier>H2020MSCARISE2016</identifier>
+</project>

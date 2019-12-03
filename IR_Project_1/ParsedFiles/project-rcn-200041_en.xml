@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200041</rcn>
+  <acronym>REDOXCYCLE</acronym>
+  <objective>Aberrant cell cycle and redox regulation are hallmarks of cancer. While cell cycle and redox signaling are extensively studied, it remains poorly understood how both communicate in physiological conditions. One reason is the emphasis on oxidative stress as a signature of cancer cells. Only recently, emerging evidence indicates that reactive oxygen species (ROS) also function as signaling molecules in physiological conditions, and that some of their key targets are cysteine residues on cell cycle proteins. This indicates that more subtle changes in redox signaling can affect proliferation and have the potential to promote cancer. 
+
+I propose to investigate how the cell cycle and redox homeostasis are coupled in a spatial-temporal manner and reveal the differences that distinguish physiological from pathological redox signaling. I will use genetic engineering to label endogenous cell cycle and redox proteins with fluorescent markers. I will measure relative and absolute molecule numbers of cell cycle and redox proteins, relate this to cell cycle and redox states, and determine the cysteines modified on cell cycle proteins. To functionally investigate the pathological potential of identified modifications I will use mammary 3D cell culture – a model that recapitulates many aspects of mammary architecture in vivo and is used to study early steps of breast tumorigenesis.
+
+I expect our work to provide us with a quantitative description of the interface between cell cycle and redox regulation. Although intracellular cell behavior is never completely deterministic, a reasonable quantitative model should be predictive to some degree and reveal how different levels of ROS can affect cell cycle decisions. Shedding light on the cell cycle targets of ROS will indicate the nodes that can be hijacked by cancer cells. Together, this work will provide a significantly improved basis for our understanding of redox signaling in tumorigenesis and indicate new strategies for treatment.</objective>
+  <title>The molecular interface between cell cycle and redox regulation</title>
+<identifier>ERC2015STG</identifier>
+</project>

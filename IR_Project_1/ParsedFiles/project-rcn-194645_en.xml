@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194645</rcn>
+  <acronym>EO-FARM</acronym>
+  <objective>EOFARM project will cover the topic of Precision Farming (PF), one of the main applications of Earth Observation in the agriculture industry; it makes use of satellite images to help farmers in monitoring and managing crops from planting to harvesting. One of the main needs of farmers, in particular smaller ones which account  for  80% of the UAA in EU27, is the possibility to increase yields while reducing the costs and environmental impacts of current crop production processes. 
+EOFARM main objective is to launch in the market an innovative PF service which targets small farms (average size between 5-30ha), addressing a clear user need, and to enter in the emerging market of commercial applications of EO downstream services in agriculture, estimated to be worth approximately € 43 million in 2015.
+EOFARM will be based on: 
+-an innovative algorithm able to integrate the algorithm indexes derived from NDVI(Normalized Difference Vegetation Index), LAI (LEAF AREA INDEX) and OSAVI (Optimized Soil-Adjusted Vegetation Index) for the production of 3 different kind of maps at the same time: crop vigor maps, vegetation status maps, green leaf maps,
+- free satellite data derived from the constellation Copernicus (sentinel 2) and Landsat 8
+- Open Geo, an open source solution
+The impact on the  EU Market of agriculture will be huge, considering that the current market for commercial applications of EO downstream services in agriculture is about € 34 million and the estimated EO downstream services Total Addressable Market (TAM) for the Agriculture sector amounts to approximately € 0,4 billion. 
+In this context The EOFARM project is expected to boost IPTSAT growth in terms of turnover, EBIDTA and employment opportunity.
+Additionally EOFARM will have positive impacts on the small farmers by increasing productivity and sustainability by means of improved resource efficiency: it will possible to use less water, energy, fertilisers (especially phosphorus and nitrogen) and pesticides.</objective>
+  <title>EARTH OBSERVATION FARMING</title>
+<identifier>H2020SMEINST12014</identifier>
+</project>

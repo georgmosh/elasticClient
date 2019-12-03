@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205812</rcn>
+  <acronym>EUNADICS-AV</acronym>
+  <objective>Aviation is one of the most critical infrastructures of the 21st century. Even comparably short interruptions can cause economic damage summing up to the Billion-Euro range. As evident from the past, aviation shows certain vulnerability with regard to natural hazards. The proposal EUNADICS-AV addresses airborne hazards (environmental emergency scenarios), including volcano eruptions, nuclear accidents and emergencies and other scenarios where aerosols and certain trace gases are injected into the atmosphere. Such events are considered rare, but may have an extremely high impact, as demonstrated during the European Volcanic Ash Crisis in 2010. 
+Before the 1990s, insufficient monitoring as well as limited data analysis capabilities made it difficult to react to and to prepare for certain rare, high-impact events. Meanwhile, there are many data available during crisis situations, and the data analysis technology has improved significantly. However, there is still a significant gap in the Europe-wide availability of real time hazard measurement and monitoring information for airborne hazards describing “what, where, how much” in 3 dimensions, combined with a near-real-time European data analysis and assimilation system. The main objective of EUNADICS-AV is to close this gap in data and information availability, enabling all stakeholders in the aviation system to obtain fast, coherent and consistent information. This would allow a seamless response on a European scale, including ATM, ATC, airline flight dispatching and individual flight planning. 
+
+In the SESAR 2020 Programme Execution Framework, EUNADICS-AV is a SESAR Enabling project (project delivering SESAR Technological Solutions). The project aims at passing a SESAR maturity level V2, which includes respective service validation activities, including validation exercises. Work will be also done to prepare a full V3 validation.</objective>
+  <title>European  Natural  Airborne  Disaster  Information and Coordination System for Aviation</title>
+<identifier>H2020MG2016SingleStageINEA</identifier>
+</project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212765</rcn>
+  <acronym>INFLUENCE</acronym>
+  <objective>Decision-theoretic sequential decision making (SDM) is concerned with endowing an intelligent agent with the capability to choose actions that optimize task performance. SDM techniques have the potential to revolutionize many aspects of society and recent successes, e.g., agents that play Atari games and beat a world champion in the game of Go, have sparked renewed interest in this field.
+
+However, despite these successes, fundamental problems of scalability prevents these methods from addressing other problems with hundreds or thousands of state variables. For instance, there is no principled way of computing an optimal or near-optimal traffic light control plan for an intersection that takes into account the current state of traffic in an entire city. I will develop one in this project.
+
+To achieve this, I will develop a new class of influence-based SDM methods that overcome scalability issues for such problems by using novel ways of abstraction. Considered from a decentralized system perspective, the intersection’s local problem is manageable, but the influence that the rest of the network exerts on it is complex. The key idea is that by using (deep) machine learning methods, we can learn sufficiently accurate representations of such influence to facilitate near-optimal decisions.
+
+This project will construct a theoretical framework for such approximate influence representations and SDM methods that use them. Scalability of these methods will be demonstrated by rigorous empirical evaluation on two simulated challenge domains: traffic lights control in an entire city, and robotic order picking in a large-scale autonomous warehouse.
+
+If successful, INFLUENCE will produce a range of influence-based SDM algorithms that can, in a principled manner, deal with a broad range of very large complex problems consisting of hundreds or thousands of variables, thus making an important step towards realizing the promise of autonomous agent technology.</objective>
+  <title>Influence-based Decision-making in Uncertain Environments</title>
+<identifier>ERC2017STG</identifier>
+</project>

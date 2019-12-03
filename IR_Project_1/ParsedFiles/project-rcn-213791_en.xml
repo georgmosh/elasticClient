@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213791</rcn>
+  <acronym>XLS</acronym>
+  <objective>During the past decades Synchrotron Radiation facilities have seen an impetuous growth as a fundamental tool for the study of materials in a wide spectrum of sciences, technologies, and applications. The latest generation of light sources, the Free Electron Lasers, capable of delivering high-intensity photon beams of unprecedented brilliance and quality, provide a substantially novel way to probe matter and have very high, largely unexplored, potential for science and innovation. Currently, the FELs operating in EU are three, FERMI, FLASH and FLASH II, operating in the soft X-ray range and two are under commissioning, SwissFEL and EuroXFEL, which will operate in the hard X-ray scale.
+While most of the worldwide existing FELs use conventional normal conducting 3 GHz S-band linacs, others use newer designs based on 6 GHz C-band technology, increasing the accelerating gradient with an overall reduction of the linac length and cost. 
+With CompactLight we intend to design a hard X-ray FEL facility beyond today’s state of the art, using the latest concepts for bright electron photo injectors, very high-gradient X-band structures at 12 GHz, and innovative compact short-period undulators. If compared to existing facilities, the proposed facility will benefit from a lower electron beam energy, due to the enhanced undulator performance, be significantly more compact, as a consequence both of the lower energy and of the high-gradient X-band structures, have a much lower electrical power demand and a smaller footprint.
+CompactLight gathers the world-leading experts in these domains, united to achieve two objectives: disseminate X-band technology as a new standard for accelerator-based facilities and advance undulators to the next generation of compact photon sources, with the aim of facilitating the widespread development of X-ray FEL facilities across and beyond Europe by making them more affordable to build and to operate.</objective>
+  <title>CompactLight</title>
+<identifier>H2020INFRADEV20171</identifier>
+</project>

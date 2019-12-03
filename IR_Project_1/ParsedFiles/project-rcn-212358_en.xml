@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212358</rcn>
+  <acronym>HOLISDER</acronym>
+  <objective>HOLISDER introduces a Holistic Demand Response Optimization Framework that will enable significant energy costs reduction (~45%) at the consumer side, while introducing buildings as a major contributor to energy networks’ stability in response to network constraints and conditions. 
+HOLISDER brings together a wide range of mature technologies and integrates them in an open and interoperable framework, comprising in a fully-fledged suite of tools addressing the needs of the whole DR value chain. In this way it will ensure consumer empowerment/transformation into active market players, through the deployment of a variety of implicit and hybrid DR schemes, supported by a variety of end-user applications for Personalized Informative Billing, Human-Centric Energy Management, Load Scheduling and Intelligent Controls, Self-consumption promotion and cost-effective storage, Predictive Maintenance, along with Context-Aware Automation.
+The backbone of HOLISDER project consists in an “open” and modular interoperability and data management framework that will enable open standards-based communication along the DR value chain. It will integrate two main commercial technologies/ products (JACE, EF-i) to ensure seamless information exchange, communication and operation on top of any Building and District EMS, as well as, Smart Home systems/devices.
+On the business side HOLISDER will focus on the definition of new business models for intermediaries and third parties (aggregators, energy retailers, facility managers, ESCOs) that will facilitate consumers’ involvement into energy markets by acting on their behalf and making the most out of their flexibility value.
+The HOLISDER framework will be validated in 4 large-scale demonstrators/pilot sites, located in Greece, UK, Finland and Serbia, incorporating diverse building types, heterogeneous home, building and district EMS and devices, a variety of energy carriers and spanning diverse climatic conditions, demographics and cultures.</objective>
+  <title>Integrating Real-Intelligence in Energy Management Systems enabling Holistic Demand Response Optimization in Buildings and Districts</title>
+<identifier>H2020EE2017PPP</identifier>
+</project>

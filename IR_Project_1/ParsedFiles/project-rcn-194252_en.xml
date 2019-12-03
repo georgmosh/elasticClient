@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194252</rcn>
+  <acronym>PROTEUS</acronym>
+  <objective>Water management requires massive, low-cost monitoring means coping with differentiated and evolving requirements. However, the majority of multifunctional water sensors only supports predefined goals hindering interoperability, with a high cost, impeding large scale deployments. 
+Addressing this, PROTEUS aims at offering x10 reduction in both size and unit function cost compared to state of the art. To this end, an increased number of functions will be integrated at a reduced cost and PROTEUS will deliver a reconfigurable microfluidic-and nano-enabled sensor platform for cognitive water quality monitoring. Innovative embedded software will provide reconfigurability of the sensing board to support several differentiated applicative goals while cognitive capabilities will manage evolving requirements during exploitation. Energy autonomy will be made by harvesting water flow energy. In addition, low cost of additional sensing components will enable redundancy increasing life span of the systems.
+The main challenge relates to the heterogeneous integration into a monolithic, microfluidic sensing chip of carbon-nanotubes-based resistive chemical sensors, of MEMS physical and rheological resistive sensors and of a multifunctional adaptive deep-submicron CMOS system on chip. 
+Upstream, high level system design addressing industrial use cases, manufacturability and cost-effectiveness, packaging, energy budget and interfaces between building blocks, will enable consistency and efficiency of the whole approach. 
+Downstream, system validation will be carried out at different levels: benchmarking, reliability assessment to guarantee service time, model deployments and field testing.
+The consortium brings together renowned actors along the whole value chain, including system integration and end users. This will contribute to post-project exploitation prepared by ensuring appropriate inclusion of business requirements within the system design.</objective>
+  <title>AdaPtive micROfluidic- and nano-enabled smart systems for waTEr qUality Sensing</title>
+<identifier>H2020ICT20141</identifier>
+</project>

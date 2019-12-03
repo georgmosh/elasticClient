@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>214858</rcn>
+  <acronym>EU-SENSE</acronym>
+  <objective>The EU-SENSE project will provide an innovative technical solution to deal with selected shortcomings in CBRNe protection indicated in the ENCIRCLE Catalogue of Technologies. The created system will be a step-forward in chemical detection by developing a novel network of sensors that exploits advanced machine-learning and modelling algorithms for improved performance. 
+The salient objectives of the project include development of an adaptable and multipurpose threat detection system (network of sensors, comprising both stationary and person-worn sensor nodes supported by environmental noise learning algorithm for false alarm rate reduction) and tools for enhancing situational awareness based on the sensor data (threat source location estimation and hazard prediction solutions). In general, the developed system will improve the threat detection capabilities and will increase state-of-the-art sensors reliability by networking and novel algorithms.
+Moreover, the project will implement a dedicated mode covering CBRNe practitioners training aspect. The mode will be an integral part of the system and will allow for familiarization with the equipment (the system) as well as training and rehearsal for specific situations.
+The EU-SENSE will be strongly user-driven and the demonstration of the developed system will be conducted in the realistic working conditions, in the professional firefighters training centre and with the use of chemical simulants. The project will also consider the issue of interoperability between various chemical sensors and will propose a concept for standardisation of sensor network description.</objective>
+  <title>European Sensor System for CBRN Applications</title>
+<identifier>H2020SEC201620172</identifier>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194726</rcn>
+  <acronym>GALNIMBUS</acronym>
+  <objective>The objective of GALNIMBUS is to improve irrigation-water use efficiency up to 30% by developing a cloud-based irrigation controller able to perfectly match irrigation and fertigation doses to crop needs.
+The system in order to perform detailed real-time forecasts for crop water requirements
+-Defines irrigation needs based on crop specific data bases 
+-Analyses real time data from the field (soil moisture, solar radiation, pH, plant stress, etc ) to evaluate crop status. 
+-Checks online weather forecasts to readjust irrigation doses
+-Satellite images 
+Thanks to GALNIMBUS irrigation tasks are fully automatized, and the grower can monitor the crop or activate irrigation valves remotely anywhere at anytime.</objective>
+  <title>Disruptive cloud-based irrigation controller to optimize water use efficiency in agriculture</title>
+<identifier>H2020SMEINST12014</identifier>
+</project>

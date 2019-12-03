@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205683</rcn>
+  <acronym>ALGeSMo</acronym>
+  <objective>The primary objective of the Advanced Landing Gear Sensing and Monitoring (ALGeSMo) project is to bring together a world-class team from across Europe to deliver a state-of-the-art optically-based load monitoring system for aircraft landing gear. This will yield a step change in the way landing gear is utilised and managed in operational and flight situations, leading to a new paradigm in aircraft availability and operability. This will assist the development of European capability within this domain such that Europe will be well-positioned to provide state-of-the-art equipment to future aircraft development.
+The goal of this proposal is to satisfy the topic requirements (JTI-CS2-2015-CFP02-SYS-02-09) as set out by Airbus (Topic Manager) in the second Call for Proposals (CFP02) released in July 2015. This falls under WP4 (Landing Gear) of the Systems ITD. Specifically this call requires the development and delivery of the following:
+
+• A Fibre Bragg Grating (FBG) optical sensor system using Wavelength Division Multiplexing (WDM) techniques to accurately detect and translate landing gear strain and torque to the aircraft control systems.
+• A state-of-the-art and highly accurate integrated photonics fibre-optic interrogator that will result in the smallest system currently available anywhere in the world. This will make integration and certification of the system highly achievable compared to existing optical interrogator systems. 
+• Detailed design of system architecture and integration to ensure that the appropriate Design Assurance Level (DAL) requirement can be achieved.
+• Definition and build of loading and calibration rigs in order to characterise sub-system and system components using a full landing gear slider tube assembly.
+• A safe-for-flight qualification to appropriate aerospace standards (MIL-STD 810 and DO-160) to de-risk the technology and ensure safe operation prior to delivery to Airbus for flight test by the end of the project in 2019 (TRL6).</objective>
+  <title>Advanced Landing Gear Sensing and Monitoring</title>
+<identifier>H2020CS2CFP02201501</identifier>
+</project>

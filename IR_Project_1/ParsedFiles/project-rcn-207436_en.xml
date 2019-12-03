@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207436</rcn>
+  <acronym>CLONETS</acronym>
+  <objective>"A scientific and technological paradigm change is taking place, concerning the way that very high performance time and frequency reference signals are distributed, moving from radio signal broadcasting to signal transport over optical fibre networks. The latter technology demonstrates performance improvements by orders of magnitude, over distances up to continental scale. Research infrastructures are developing several related technologies, adapted to specific projects and applications. 
+The present project aims to prepare the transfer of this new generation of technology to industry and to strengthen the coordination between research infrastructures and the research and education telecommunication networks, in order to prepare the deployment of this technology to create a sustainable, pan-European network, providing high-performance ""clock"" services to European research infrastructures. Further this core network will be designed to be compatible with a global European vision of time and frequency distribution over telecommunication networks, enabling it to provide support to a multitude of lower-performance time services, responding to the rapidly growing needs created by developments such as cloud computing, Internet of Things and Industry 4.0.
+The project aims at partnership building and innovation for high performance time and frequency (clock) services over optical fibre networks and to prepare the implementation of such a European backbone network.
+"</objective>
+  <title>CLOck NETwork Services: Strategy and innovation for clock services over optical-fibre networks</title>
+<identifier>H2020INFRAINNOV20161</identifier>
+</project>

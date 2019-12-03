@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213548</rcn>
+  <acronym>SEMIoTICS</acronym>
+  <objective>SEMIoTICS aims to develop a pattern-driven framework, built upon existing IoT platforms, to enable and guarantee secure and dependable actuation and semi-autonomic behaviour in IoT/IIoT applications. Patterns will encode proven dependencies between security, privacy, dependability and interoperability (SPDI) properties of individual smart objects and corresponding properties of orchestrations involving them. The SEMIoTICS framework will support cross-layer intelligent dynamic adaptation, including heterogeneous smart objects, networks and clouds, addressing effective adaptation and autonomic behaviour at field (edge) and infrastructure (backend) layers based on intelligent analysis and learning. To address the complexity and scalability needs within horizontal and vertical domains, SEMIoTICS will develop and integrate smart programmable networking and semantic interoperability mechanisms. The practicality of the above approach will be validated using three diverse usage scenarios in the areas of renewable energy (addressing IIoT), healthcare (focusing on human-centric IoT), and smart sensing (covering both IIoT and IoT); and will be offered through an open API.
+
+SEMIoTICS consortium consists of strong European industry (Siemens, Engineering, STMicroelectronics), innovative SMEs (Sphynx, Iquadrat, BlueSoft) and academic partners (FORTH, Uni Passau, CTTC) covering the whole value chain of IoT, local embedded analytics and their programmable connectivity to the cloud IoT platforms with associated security and privacy. The consortium is striving for a common vision of creating EU’s technological capability of innovative IoT landscape both at European and international level.</objective>
+  <title>Smart End-to-end Massive IoT Interoperability, Connectivity and Security</title>
+<identifier>H2020IOT2017</identifier>
+</project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208713</rcn>
+  <acronym>FASTR 3D SIM</acronym>
+  <objective>FASTR 3D SIM: Focus on Advancing the Spatial and Temporal Resolution of 3D Structured Illumination Microscopy
+
+Super-resolved structured illumination microscopy (SR-SIM) is an important method to surpass the resolution limit in fluorescence microscopy. SR-SIM is compatible with many fluorescent labels and ensures low photo-damage, making it an ideal candidate for live-cell imaging. However, to be truly applicable, very fast 3D imaging has to be realized, as the cellular structuring is 3D in nature and fast dynamics have to be captured. In addition, many biological processes occur at length scales below 100nm, beyond SR-SIMs two-fold resolution improvement.
+
+I will develop an advanced 3D SR-SIM microscope able to capture 3D images at video rate, i.e., 25 3D images per second, 10 times quicker  than the fastest currently available systems. The extreme speed-up is achieved by a unique multi-focal optics approach available at the host institute, and will also reduce the photo-toxicity to the sample. My  SIM reconstruction code (www.fairsim.org) will be extended to 3D imaging, and include new algorithms tackling low light levels and strong out-of-focus light.
+
+I will also develop a revolutionary combination of SIM with super-resolution optical fluctuation imaging (SOFI), a specialty of the Dedecker lab. SOFI is employed to create non-linear effects, allowing SIM to surpass its 2x resolution enhancement. This enables rapid and repeatable 3D imaging of cells with a spatial resolution approx. 60 nm in x,y and 150 nm in z.
+
+I will apply the tools to an acute biological question, the dynamics of mitochondrial and ER interactions, used by the cell as signaling scaffolding points. Here both the temporal and spatial resolution of the proposed system is required to observe the very fast dynamics.</objective>
+  <title>Focus on Advancing Spatial and Temporal Resolution of 3D Structured Illumination Microscopy</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

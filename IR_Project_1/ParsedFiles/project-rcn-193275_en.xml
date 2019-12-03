@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193275</rcn>
+  <acronym>PROSPECT</acronym>
+  <objective>The past decade has seen significant progress on active pedestrian safety, as a result of advances in video and radar technology. In the intelligent vehicle domain, this has recently culminated in the market introduction of first-generation active pedestrian safety systems, which can perform autonomous emergency braking (AEB-PED) in case of critical traffic situations. PROSPECT will significantly improve the effectiveness of active VRU safety systems compared to those currently on the market. This will be achieved in two complementary ways: (a) by expanded scope of VRU scenarios addressed and (b) by improved overall system performance (earlier and more robust detection of VRUs, proactive situation analysis, and fast actuators combined with new intervention strategies for collision avoidance).
+
+PROSPECT targets five key objectives:
+i. Better understanding of relevant VRU scenarios 
+ii. Improved VRU sensing and situational analysis
+iii. Advanced HMI and vehicle control strategies 
+iv. Four vehicle demonstrators, a mobile driving simulator and a realistic bicycle dummy demonstrator
+v. Testing in realistic traffic scenarios and user acceptance study
+
+The consortium includes the majority of European OEMs (Audi, BMW, DAIMLER, TME and Volvo Cars) currently offering AEB systems for VRU. They are keen to introduce the next generation systems into the market. BOSCH and CONTI will contribute with next generation components and intervention concepts. Video algorithms will be developed by UoA and DAIMLER. Driver interaction aspects (HMI) are considered by UoN and IFSTTAR. Euro NCAP test labs (IDIADA, BAST, TNO) will define and validate test procedures and propose standardization to Euro NCAP and UN-ECE. Accident research will be performed by Chalmers, VTI and BME, based on major in-depth accident databases (GIDAS and IGLAD) and complemented by East Europe data. The work will be done in cooperation with experts in Japan (JARI, NTSEL) and the US (VTTI, UMTRI, NHTSA).</objective>
+  <title>PROactive Safety for PEdestrians and CyclisTs</title>
+<identifier>H2020MG2014TwoStages</identifier>
+</project>

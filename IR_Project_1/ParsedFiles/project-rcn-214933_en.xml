@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>214933</rcn>
+  <acronym>NEMO</acronym>
+  <objective>NEMO, NEtwork MOtion, is an inter-disciplinary proposal centered on network dynamics. The inter-disciplinarity spans from communication engineering to mathematics, with an innovative interplay between the two.
+NEMO’s focus is on stochastic geometry. This emerges as one of the most important new conceptual  and operational tools of the last 10 years in wireless networking, with a major academic and industrial impact on architecture, protocol design, planning and economic analysis.
+Nevertheless, the state of the art is unable to cope with the dynamics introduced in recent and future network functionalities. NEMO’s aim is to introduce dynamics in wireless stochastic geometry. The dynamic versions of stochastic geometry to be developed will capture these new functionalities and specifically tackle two core promises and challenges of the future of wireless networking: that of ultra-low latency networking, required for enabling the unfolding of future real time interactions, and that of draining to the Internet the unprecedented amount and structure of data stemming from
+the Internet of Things.
+Several fundamental types of random network dynamics underpinning these functionalities are identified. General mathematical tools combining stochastic geometry, random graph theory, and the theory of dynamical systems will be developed to analyze them. This will provide parametric models mastering the complexity of such networks, which will be instrumental in addressing the above challenges. The aim is to have, through these dynamical versions, the same academic and industrial impact on wireless networks as static stochastic geometry has today.
+NEMO will leverage structural interactions of INRIA with Ecole Normale Supérieure on the mathematical side, and with Nokia Bell Labs and Orange on the engineering side. This will create in Europe a group focused on this mathematics-communication engineering interface, and to become the top innovation group of the field worldwide.</objective>
+  <title>Network Motion</title>
+<identifier>ERC2017ADG</identifier>
+</project>

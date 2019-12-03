@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>203380</rcn>
+  <acronym>GPSART</acronym>
+  <objective>"Recent years have seen an explosion of applications of geometric and pathwise ideas in probability theory, with motivations from fields as diverse as quantitative finance, statistics, filtering, control theory and statistical physics. Much can be traced back to Bismut, Malliavin (1970s) on the one-hand and then Doss, Sussman (1970s), Foellmer (1980s) on the other hand, with substantial new input from Lyons (from '94 on), followed by a number of workers, including Gubinelli (from '04 on) and the writer of these lines (also from '04 on). Most recently, the theory of such ``rough paths"" has been extended to ``rough fields"", notably in the astounding works of M. Hairer (from '13 on). The purpose of this project is to study a number of important problems in this field, going beyond the rough path setting, and with emphasis on geometric ideas. 
+
+(i) The transfer of concepts from rough path theory to the new world of Hairer's regularity structures.
+
+(ii) Applications of geometric and pathwise ideas  in quantitative finance.
+
+(iii) Obtain a pathwise understanding of the geometry of Loewner evolution and more generally explore the use of rough path-inspired ideas in the world of Schramm-Loewner evolution.
+
+(iv) Investigate the role of geometry in the pathwise analysis of non-linear evolution equations."</objective>
+  <title>Geometric aspects in pathwise stochastic analysis and related topics</title>
+<identifier>ERC2015CoG</identifier>
+</project>

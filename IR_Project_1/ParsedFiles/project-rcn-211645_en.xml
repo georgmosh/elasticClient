@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211645</rcn>
+  <acronym>HEART</acronym>
+  <objective>HEART is a multifunctional retrofit toolkit within which different subcomponents – ICT, BEMS, HVAC, BIPV and Envelope Technologies – cooperate synergistically to transform an existing building into a Smart Building.
+Based on a whole-building performance approach, the toolkit is conceived to achieve extremely high levels of energy efficiency in the existing residential building stock, with particular reference to Central and Southern Europe, where climate change and energy transition have boosted electricity consumption peaks both during summer and winter seasons. However, it may be extended equally well to new residential and commercial buildings.
+The system’s central core consists of a cloud-based computing platform which concentrates managing and operational logic to support decision-making in planning and construction as well as energy performance enhancement and monitoring during operation. The Toolkit provide energy saving, energy fluxes optimization, data exchange, stakeholders’ active involvement and Smart Grid interactivity.
+Interoperable building technologies and installations are also integrated in the toolkit: envelope solutions (thermal insulation and windows) ensure a reduction of thermal loads, while technical systems (BEMS, BIPV, heat pump, fan-coils, power controller, storage systems) ensure energy efficiency and RES exploitation.
+All technical systems and building components are structured as a function of their affordability, interactivity, practicality, reduced installation time and non-invasiveness.
+HEART's contribution to the improvement of the building renovation process can be briefly summarized through its main features:
+• Retrofit planning and implementation optimization;
+• Reduction of total energy consumption;
+• Reinforcement of RES exploitation; 
+• Rationalization of energy flows inside the building and between building and Smart Grids;
+• Active involvement of stakeholders;
+• Support to energy financing.</objective>
+  <title>Holistic Energy and Architectural Retrofit Toolkit</title>
+<identifier>H2020EEB2017</identifier>
+</project>

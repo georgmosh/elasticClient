@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>214325</rcn>
+  <acronym>BEHAVFRICTIONS</acronym>
+  <objective>BEHAVFRICTIONS will use novel models focussing on information-processing frictions to explain choice patterns described in behavioral economics and psychology. The proposed research will provide microfoundations that are essential for (i) identification of stable preferences, (ii) counterfactual predictions, and (iii) normative conclusions.
+
+(i) Agents who face information-processing costs must trade the precision of choice against information costs. Their behavior thus reflects both their stable preferences and the context-dependent procedures that manage their errors stemming from imperfect information processing. In the absence of micro-founded models, the two drivers of the behavior are difficult to disentangle for outside observers. In some pillars of the proposal, the agents follow choice rules that closely resemble logit rules used in structural estimation. This will allow me to reinterpret the structural estimation fits to choice data and to make a distinction between the stable preferences and frictions.
+(ii)  Such a distinction is important in counterfactual policy analysis because the second-best decision procedures that manage the errors in choice are affected by the analysed policy. Incorporation of the information-processing frictions into existing empirical methods will improve our ability to predict effects of the policies.
+(iii) My preliminary results suggest that when an agent is prone to committing errors, biases--such as overconfidence, confirmatory bias, or perception biases known from prospect theory--arise under second-best strategies. By providing the link between the agent's environment and the second-best distribution of the perception errors, my models will delineate environments in which these biases shield the agents from the most costly mistakes from environments in which the biases turn into maladaptations. The distinction will inform the normative debate on debiasing.</objective>
+  <title>Behavioral Implications of Information-Processing Frictions</title>
+<identifier>ERC2017COG</identifier>
+</project>

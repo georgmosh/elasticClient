@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211988</rcn>
+  <acronym>ElecOpteR</acronym>
+  <objective>In this proposal we plan to bring to a development stage TRL 3 an electro-optical device working at room temperature and based on polaritons (an hybrid photon-exciton particle) made of 2D perovskites and of an optical surface mode in a Distributed Bragg Reflector waveguide. Such a device could lead to extremely compact and ultrafast electro-optical modulators that can be fully integrated in a microchip to allow for fast signal communications between each peripheral component of a processor. As a matter of fact one of the major bottlenecks in processing speed is caused by retardations and dissipations in the interconnections between the CPU and the memory elements as well as other interconnect functions. Conversion of the electrical signal into an optical one can allow for faster and more efficient processing. Our prototype can allow for switching and routing of guided optical beams via electrical signals using the intrinsic nonlinearities of the hybrid photon-exciton states.</objective>
+  <title>Electro-optical polariton router</title>
+<identifier>ERC2017PoC</identifier>
+</project>

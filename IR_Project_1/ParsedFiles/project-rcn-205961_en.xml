@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205961</rcn>
+  <acronym>Platforms4CPS</acronym>
+  <objective>Support for development and integration of Cyber-Physical Systems is seen as essential for the future. As the embedded world meets the Internet world there will be an increasing number of interacting systems with strong connectivity utilised in both society and in industry. Platforms4CPS targets the transport, manufacturing, energy and health sectors. Europe is a world leader in the area of time-critical and safety-critical systems and to maintain this position there is a need to be able to design, develop and deploy highly distributed and connected digital technologies. There is a move towards increased autonomy and a need to meet demanding safety, security, power efficiency, performance, size and cost constraints. Underlying this is a need to develop a foundational background to create the “science of systems integration” to manage the complexity of future CPS. Platforms for CPS deployment are also seen as being key for the future, however, these can only become successful if a supporting ecosystem of developers and users is created. Platforms4CPS thus aims to “create the vision, strategy, technology building blocks and supporting ecosystem for future CPS applications” with three key objectives to: 
+- Create a vision and strategy for future European CPS by analyzing the ecosystem and market perspective and strategically updating and validating existing CPS roadmaps across multiple domains
+- Promote platform building, bringing together industry and academic experts and create a repository of CPS technology building blocks 
+- Build an ecosystem by creating a constituency and through cooperating with ECSEL, ITEA, and ARTEMIS projects on the foundations of CPS engineering, and consensus-building on societal and legal issues related to the deployment of CPS
+The overall objective directly addresses the call objectives in ICT 1-2016b to maintain and develop Europe’s competitive lead in CPS by capitalizing and bringing together expertise for successful exploitation of ICT</objective>
+  <title>Creating the CPS Vision, Strategy, Technology Building Blocks and Supporting Ecosystem for Future CPS Platforms</title>
+<identifier>H2020ICT20161</identifier>
+</project>

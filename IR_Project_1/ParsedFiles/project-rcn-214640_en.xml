@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>214640</rcn>
+  <acronym>PIXEL</acronym>
+  <objective>Ports are a great example of heterogeneous information hubs. Multiple stakeholders operate inside and outside them with different motivations and businesses. Although document and data interchange is already in place through Port Community Systems (PCS), the interchange is limited to official documentation and services of the Port Authority, such as custom declarations, import/export of cargo, and other formal documents. However, an effective integration of operational data is far from optimal in most ports, and especially so in medium or small ports, where budget is limited and IT services usually is outsourced.
+
+In contrast, the available operational data (resources tracking, container status, vessel operations, surface or berth available, air/water quality measurements,...) is constantly increasing and technology is getting inexpensive and widely available. However, the application of such systems is still single-entity centric, since the information is not shared, keeping the real potential of the Internet of Things (IoT) and Industry 4.0 hidden. The same holds for geographic areas surrounding ports, where Smart Cities  integrate various data systems and provide valuable services to citizens and  authorities.
+
+PIXEL will enable a two-way collaboration of ports, multimodal transport agents and cities for optimal use of internal and external resources, sustainable economic growth and environmental impact mitigation, towards the Ports of the Future. PIXEL will leverage technological enablers to voluntary exchange data among ports and stakeholders, thus ensuring a measurable benefit in this process. The main outcome of this technology will be efficient use of resources in ports, sustainable development and green growth of ports and surrounding cities/regions.
+
+Built on top of the state-of-the art interoperability technologies, PIXEL will centralise data from the different information silos where internal and external stakeholders store their operational information.</objective>
+  <title>Port IoT for Environmental Leverage</title>
+<identifier>H2020MG2017TwoStages</identifier>
+</project>

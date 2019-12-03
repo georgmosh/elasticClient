@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210028</rcn>
+  <acronym>EPGR</acronym>
+  <objective>General relativity has been introduced by A. Einstein in 1915. It is a major theory of modern physics and at the same time has led to fascinating mathematical problems. The present proposal focusses on two aspects of the evolution problem for the Einstein equations which has been initiated by the pioneering work of Y. Choquet-Bruhat in 1952.
+
+The Einstein equations form a nonlinear system of partial differential equations of hyperbolic type whose complexity raises significant challenges to its mathematical analysis. The goal of this project is to strengthen our understanding of two important themes concerning the evolution problem in general relativity. On the one hand, the control of low regularity solutions of the Einstein equations, a topic which is intimately linked with the celebrated cosmic censorship conjectures of R. Penrose, a major open problem in the field. On the other hand, the question of the stability of particular solutions of the Einstein equations in the wake of the groundbreaking proof of the stability of the Minkowski space-time due to D. Christodoulou and S. Klainerman. These directions are extremely active and have recently led to impressive results. More specifically, this project proposes to consider the following two work packages
+
+-Going beyond the bounded L2 curvature theorem. This result has been recently obtained by the PI in collaboration with S. Klainerman and I. Rodnianski and is the sharpest result in so far as low regularity solutions of the Einstein equations are concerned. Yet, the fundamental quest towards a scale invariant well-posedness criterion for the Einstein equations remains wide open.
+
+-The black hole stability problem. This problem concerns the stability of the Kerr metrics which form a 2-parameter family of solutions to  the Einstein vacuum equations. Many results have been obtained concerning various versions of linear stability, but significant challenges remain in order to tackle the nonlinear stability result.</objective>
+  <title>The Evolution Problem in General Relativity</title>
+<identifier>ERC2016COG</identifier>
+</project>

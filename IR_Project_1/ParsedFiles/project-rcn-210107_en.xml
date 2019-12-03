@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210107</rcn>
+  <acronym>DATATRANS</acronym>
+  <objective>The execution of database migrations traditionally involves costs and risks that are difficult to evaluate previously. 40% of all migrations fail or exceed their budget and schedules. This prevents many organizations from implementing necessary changes to integrate better technologies, resulting in an extremely negative effect on their competitiveness in the long term.
+
+Major database vendors offer database migration tools to facilitate the adoption of their newest products, however, these tools focus only on database transformations to the vendor’s products and are only commercialized attached to the vendor package, which reinforces the vendor lock-in. Furthermore, migration tools focus on minimizing the impact of the migration process, without taking appropriate actions to avoid post-migration operational risks.
+
+At Proventa, we have gradually developed a series of custom utilities, based on commercial Open Source software, specifically for the purpose of database transformations. These tools have been progressively bundled into one single standalone package, called Datatrans. Datatrans constitutes a revolutionary standalone framework that drastically facilitates the transformation process for all the major database management systems.
+
+By releasing Datatrans as a commercial product, we will minimize migration project risks and encourage database transformations towards state-of-the art Open Source across all industries. This will result in a reduction of license costs, an improvement of general productivity and cost-efficiency. Additionally, this will also contribute to the general sustainability of Open Source database management software.
+For Proventa, on top of boosting our product revenues, it will also attract new customers and complement our current offer of consulting services. We estimate that Datatrans will allow us to double our revenue to almost €40 million by 2024, requiring us to hire at least 40 additional full time professionals.</objective>
+  <title>PROVENTA Smart Database Transformation Framework</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

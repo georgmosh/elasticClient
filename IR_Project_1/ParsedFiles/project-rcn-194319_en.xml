@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194319</rcn>
+  <acronym>MIKELANGELO</acronym>
+  <objective>MIKELANGELO is a project, targeted to disrupt the core underlying technologies of Cloud computing, enabling even bigger uptake of Cloud computing, HPC in the Cloud and Big Data technologies under one umbrella. The vision of MIKELANGELO is to improve responsiveness, agility and security of the virtual infrastructure through packaged applications, using lean guest operating system OSv and superfast hypervisor SuperKVM. In short, the work will concentrate on improvement of virtual I/O in KVM, using additional virtio expertise, integrated with the light-weight operating system OSv and with enhanced Security. The HPC in the Cloud focus will be provided through involvement of a large HPC centre, with the ability and business need to cloudify their HPC business. The Consortium consists of hand-picked experts (e.g., the original creator of KVM - Avi Kivity) who participate in the overall effort to reduce one of the last performance hurdles in the virtualisation (I/O). Other layers of inefficiency are addressed through OSv (thin operating system) and all packaged under the OpenStack or OpenNebula. Such approach will allow for use of MIKELANGELO stack on heterogeneous infrastructures, with high responsiveness, agility and better security. The targeted audience are primarily SMEs (e.g. simulation dependent SMEs). Finally, the use-cases have clear owners, thus directly contributing to the exploitation.</objective>
+  <title>MIcro KErneL virtualizAtioN for hiGh pErfOrmance cLOud and hpc systems</title>
+<identifier>H2020ICT20141</identifier>
+</project>

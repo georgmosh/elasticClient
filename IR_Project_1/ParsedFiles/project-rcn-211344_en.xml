@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211344</rcn>
+  <acronym>SPICY</acronym>
+  <objective>The objective of this project is to experimentally realize a 100-particle quantum simulator with complete quantum control at the single-particle level that will be used for investigating models of interacting spins in two dimensions. 
+
+The experimental platform is a two-dimensional crystal of laser-cooled ions held in a radio-frequency trap. In this approach, the quantum state of a spin is encoded in two electronic levels of an ion. Effective spin-spin interactions are induced by laser fields coupling the ions’ electronic levels to excitations of the crystal lattice. Single-particle quantum control will be achieved by manipulating individual ions with a strongly focused steerable laser beam. Single-shot quantum measurements with near-unit detection efficiency will enable measurements of arbitrary spin correlation functions.
+
+The main goals of SPICY are:
+
+1. Trapping and laser-cooling of two-dimensional ion crystals to millikelvin temperatures in a radio-frequency trap. 
+2. Realization of quantum spin models with particle numbers for which the simulation becomes intractable by numerical techniques.
+3. Development of methods for validating quantum simulators 
+4. Investigation of various models with spin-frustration in two-dimensional geometries.
+
+SPICY builds on my experience with small-scale one-dimensional trapped-ion simulators. The exploration of two-dimensional lattice geometries will overcome difficulties in scaling up one-dimensional trapped-ion systems and enable the experimental investigation of the rich physics of two-dimensional spin models.</objective>
+  <title>Simulating 2d Spin Lattices with Ion Crystals</title>
+<identifier>ERC2016ADG</identifier>
+</project>

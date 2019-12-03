@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212488</rcn>
+  <acronym>EXTEND</acronym>
+  <objective>Current brain and neural interfacing technologies still face significant limitations to become accessibility tools that can benefit people. On the one hand, non-invasive neural interface technology (e.g. EEG, EMG) is intrinsically unidirectional and of limited capacity. On the other hand, invasive technology (e.g. percutaneous EMG, implanted nerve electrodes or intracranial electroencephalography) while allowing two-directionality and better performance still relies on complex surgical procedures.
+EXTEND aims at developing the novel concept of Bidirectional Hyper-Connected Neural Systems (BHNS) to extend the capabilities of neural interfaces with minimally invasive communication links between multiple nerves in the body and multiple external devices. EXTEND will realise BHNS by developing disruptive wireless neuromuscular (injectable) interface technology that enables distributed stimulation, sensing, processing and analysis of neuromuscular activity, the ultimate stance of the neural code of movement.
+
+
+The EXTEND project will showcase the advantages of this new technology in two applications: (1) tremor management in essential tremor (ET) and Parkinson disease (PD), and (2) neural interfaced assistive wearable robots for spinal cord injury (SCI). EXTEND will also work towards a community hub that brings together stakeholders to create an innovation ecosystem that can nurture the fast development of neural interfaces around the new concept.</objective>
+  <title>Bidirectional Hyper-Connected Neural System</title>
+<identifier>H2020ICT20171</identifier>
+</project>

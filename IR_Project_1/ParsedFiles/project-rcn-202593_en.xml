@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>202593</rcn>
+  <acronym>ErgComNum</acronym>
+  <objective>The last decade has witnessed a new spring for dynamical systems. The field - initiated by Poincare in the study of the N-body problem - has become essential in the understanding of seemingly far off fields such as combinatorics, number theory and theoretical computer science. In particular, ideas from ergodic theory played an important role in the resolution of long standing open problems in combinatorics and number theory. A striking example is the role of dynamics on nilmanifolds in the recent proof of Hardy-Littlewood estimates for the number of solutions to systems of linear equations of finite complexity in the prime numbers. The interplay between ergodic theory, number theory and additive combinatorics has proved very fruitful; it is a fast growing area in mathematics attracting many young researchers. We propose to tackle central open problems in the area.</objective>
+  <title>Ergodic theory and additive combinatorics</title>
+<identifier>ERC2015CoG</identifier>
+</project>

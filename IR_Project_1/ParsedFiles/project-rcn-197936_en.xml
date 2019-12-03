@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>197936</rcn>
+  <acronym>ExaNoDe</acronym>
+  <objective>ExaNoDe will investigate, develop integrate and validate the building blocks (technology readiness level 5) for a highly efficient, highly integrated, multi-way, high-performance, heterogeneous compute element aimed towards exascale computing. It will build on multiple European initiatives for scalable computing, utilizing low- power processors and advanced nanotechnologies. ExaNoDe will draw heavily on the Unimem memory and system design paradigm defined within the EUROSERVER FP7 project, providing low-latency, high-bandwidth and resilient memory access, scalable to Exabyte levels.
+
+The ExaNoDe compute element aims towards exascale compute goals through:
+•	Integration of the most advanced low-power processors and accelerators (across scalar, SIMD, GPGPU and FPGA processing elements) supported by research and innovation in the deployment of associated nanotechnologies and in the mechanical requirements to enable the development of a high-density, high-performance integrated compute element with advanced thermal characteristics and connectivity to the next generation of system interconnect and storage;
+•	Undertaking essential research to ensure the ExaNoDe compute element provides necessary support of HPC applications including I/O and storage virtualization techniques, operating system and semantically aware runtime capabilities and PGAS, OpenMP and MPI paradigms;
+•	The development of a hardware emulation of interconnect to enable the evaluation of Unimem for the deployment of multiple compute elements and to leverage the potential of the ExaNoDe approach for HPC applications.
+
+Each aspect of ExaNoDe is aligned with the goals of the ETP4HPC. The work will be steered by first-hand experience and analysis of high-performance applications and their requirements; investigations being carried out with “mini-application” abstractions and the tuning of their kernels.</objective>
+  <title>European Exascale Processor  Memory Node Design</title>
+<identifier>H2020FETHPC2014</identifier>
+</project>

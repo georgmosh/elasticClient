@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206255</rcn>
+  <acronym>PJ06 ToBeFREE</acronym>
+  <objective>The Free Routing concept enables Airspace Users (AU) to fly as close as possible to their preferred trajectory, without being constrained by fixed airspace structures or fixed route networks.
+Free Routing (FR) implementation represents a step towards a less fragmented European airspace foreseen by Single European Sky (SES) and provides the AUs with the possibility to fly their user preferred routes in accordance with their business needs or mission requirements.  FR will result in a seamless airspace enabling more efficient flight, a reduction in AU costs and will promote cheaper travel, increasing personal mobility and trade. In addition, implementing Free Routing Airspace (FRA) will reduce the greenhouse gas emissions that currently contribute to global warming, thereby creating a greener airspace.
+
+FR was addressed within the SESAR 1 programme but additional R&amp;D activities are required to support the implementation of FRA in high and very high complexity airspace (The EU Regulation No 716/2014 mandates FRA above FL 310 from 1 January 2022) and also to extend this implementation below FL310 thereby allowing other AUs to benefit (The European Air Traffic Management Master Plan version 2015 identifies the need for R&amp;D work to support the management of performance-based Free Routing in lower airspace)
+
+The partners in PJ06 will validate both the benefit to AUs and the impact on ATM of this extension of FRA into complex airspace and lower vertical limits through modelling and Real Time Simulations.  The results will seek to provide evidence that FRA can be implemented, cost effectively, in all the SES airspace.
+ 
+The PJ06 Consortium involves key stakeholders of ground industry, Air Navigation Services Providers, universities and EUROCONTROL and includes a wide range of expertise and competence, all committed to delivering high-quality results.</objective>
+  <title>Trajectory based Free Routing</title>
+<identifier>H2020SESAR20152</identifier>
+</project>

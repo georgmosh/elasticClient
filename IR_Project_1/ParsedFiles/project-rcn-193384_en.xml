@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193384</rcn>
+  <acronym>AGILE</acronym>
+  <objective>AGILE targets multidisciplinary optimization using distributed analysis frameworks. The involvement of many disciplinary analyses ranging up to high levels of fidelity and agile workflow management are considered to be state-of-the-art and starting point for AGILE. 
+
+Advanced optimization techniques and strategies will be developed in order to exploit available computing systems and to gain faster convergence to optimal solutions. Surrogates, decomposition, robust design and uncertainties, global-local optimization, mixed fidelity optimization and system-of-system optimization are central fields of research.
+
+Operating the coupled numerical system and interpreting the high fidelity results requires collaboration of heterogeneous specialists. Techniques for collaboration are the second scientific objective of AGILE using the research on optimization techniques as use case. The interactions between humans and the interactions of the design team with the numerical system both are investigated.
+
+Knowledge-enabled information technologies will be developed in order to support the collaboration process constituting the third, outer-most layer of the nested research concept. 
+
+Novel technologies are iteratively implemented, tested and enhanced. Use cases are realistic overall aircraft design tasks for conventional, strut-braced, box-wing and BWB configurations.
+
+The project is set up to proof a speed up of 40% for solving realistic MDO problems compared to today’s state-of-the-art.
+The resulting technologies will be made available; amongst others via an Open MDO Test Suite.
+
+Reduced development costs and reduced time to market will enable a more agile way of collaboration and joint development and experimenting on innovative products. 
+
+AGILE pronounces the collaboration of SME, RES and HES in order to contribute to IND-centred virtual extended enterprises. AGILE considers all pre-existing conventions and will contribute to the CRESCENDO results and dissemination plan.</objective>
+  <title>Aircraft 3rd Generation MDO for Innovative Collaboration of Heterogeneous Teams of Experts</title>
+<identifier>H2020MG2014TwoStages</identifier>
+</project>

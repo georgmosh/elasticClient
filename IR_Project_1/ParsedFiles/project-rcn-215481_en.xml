@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>215481</rcn>
+  <acronym>simpetmr</acronym>
+  <objective>Imaging of physiological functions in the living brain provides a unique possibility to study biological processes during disease or drug interventions. Functional magnetic resonance imaging (fMRI) and Positron Emission Tomography (PET) are important tools that enable brain imaging. Whereas PET enables determination of molecular target densities, fMRI provides information about brain hemodynamic responses to, e.g., a drug intervention. 
+
+There are several research questions where the synergy between these modalities combined provides unique opportunities, including drug development and pharmacokinetic modeling. With the development of imaging systems that simultaneously acquire PET and fMRI signals, a need for analytical tools to interpret the recorded data has become paramount. My proposal focuses on the development of quantification schemes that use both signals.
+
+I will investigate two areas where simultaneous PET-MR can make a significant difference: 1) assessment of drug effects by coupling drug binding to a receptor to its downstream effect in tissue, 2) using cerebral blood flow estimates to inform modeling of PET data. I will develop models that serve for quantification of simultaneous PET- and fMRI data, validate them via simulations, and evaluate them using experimental data.
+
+The project will serve to leverage usage of simultaneous PET-MR, and assist in future studies with task- or drug-induced interventions. The project seeks to establish quantification methods that serve not only the imaging society, but specifically address the pharmaceutical companies' need to test their compounds prior to clinical trials.
+
+By transitioning to hybrid imaging, I have the possibility to use my strong background in PET to impact a young field under development. The host institution is world leading in applied simultaneous PET-MR studies, thus the MSCA fellowship presents a unique possibility for me to gain invaluable knowledge of the next generation of medical imaging.</objective>
+  <title>Development of quantification procedures for simultaneous PET-MR data for human brain imaging</title>
+<identifier>H2020MSCAIF2017</identifier>
+</project>

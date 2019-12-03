@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196102</rcn>
+  <acronym>SoWHat</acronym>
+  <objective>Observations of solar wind (SW) turbulence have usually emphasized magnetohydrodynamic (MHD) scales where the Kolmogorov scaling f −5/3 of the magnetic spectra is frequently observed. These spectra are
+thought to result from strongly nonlinear interactions. However, the question as to how turbulence of the MHD scales terminates its cascade at smaller (kinetic) scales is still hotly debated. Answering this
+question is indeed fundamental to understanding the processes of particle acceleration and plasma heating in the SW and in other astrophysical plasmas. This project aims at studying the mechanisms of energy dissipation in solar wind. We will use a innovative multiple approach that combines in-situ fields and particles data available from the multispacecraft missions, numerical simulations and theories to model the complex behavior of turbulence cascade at kinetic scales where it is dissipated.</objective>
+  <title>Solar Wind Heating and Turbulence</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199919</rcn>
+  <acronym>assymcurv</acronym>
+  <objective>Real cell membranes are essentially asymmetric and non-planar. Outer leaflets of the plasma membranes contain neutral lipids and glycolipids, while the inner leaflets host practically all anionic lipids and phosphoinositides. In addition to asymmetric composition the membranes are usually curved due to spontaneous curvature of the membrane lipids and an influence of membrane proteins and cytoskeleton. There are many cellular phenomena, which are influenced by the asymmetry and the membrane curvature such as formation of synaptic vesicles, blebs and apoptotic bodies, membrane fusion and splitting, budding of enveloped viruses, endo and exocytosis, etc.
+	In this work we propose comprehensive interdisciplinary study of the influence of membrane asymmetry and curvature on the functioning of integral membrane proteins and the transmembrane transport of therapeutic compounds (such as cisplatin and its derivatives). 
+        The goal is to reveal major physical factors, which distinguish asymmetric and curved membrane environment and govern interactions, orientation and diffusion of the small molecules (drugs) and large integral proteins.
+	The combination of experimental methods (“wet” biochemistry and molecular biology, enhanced infrared and Raman spectroscopy) and computer simulations (coarse-grained and atomistic molecular dynamics, quantum chemistry) would be used in the project in complimentary manner.</objective>
+  <title>The influence of the cell membrane asymmetry and curvature on the functioning of membrane proteins and the transport of therapeutic compounds</title>
+<identifier>H2020MSCARISE2015</identifier>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211154</rcn>
+  <acronym>Hi-OMICS</acronym>
+  <objective>The Hi-OMICS PoC aims to pave the road to commercialisation of the Hi-OMICS Controller, a Software Defined Infrastructure Controller (SDI) specifically designed to efficiently manage Computational Genomics workloads running on upcoming SDI platforms. 
+
+The necessary activities  to achieve this status are structured in two blocks: 1) Market analysis, Commercialisation Plan and the definition and implementation of a IPR protection  plan for the Hi-OMICS Controller; and 2)  Software development efforts to bring Hi-OMICS Controller to a Commercial Readiness Level 6. 
+
+The PoC will build on top of the research conducted within the Hi-EST project (ERC Starting Grant, GA 639595). It will close the gap between the research results of the Hi-EST Starting grant and the production of a commercial software solution (Hi-OMICS Controller) for the Computational Genomics sector. In particular, the solution will target facilities running Computational Genomics pipelines for genomic or transcriptomic sequences derived mostly, but not only, from Next Generation Sequencing. The result of this effort will be the achievement of a market-ready Hi-OMICS Controller.</objective>
+  <title>High Performance Genomics for Software Defined Infrastructures</title>
+<identifier>ERC2017PoC</identifier>
+</project>

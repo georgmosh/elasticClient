@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193435</rcn>
+  <acronym>PREVIEW</acronym>
+  <objective>The objective of PREVIEW is to develop a Cyber Physical System (CPS) for plastic injection manufacturing processes monitoring, control and optimization, by incorporating several innovative and cutting edge technological solutions: advanced artificial intelligence and machine learning techniques, robust industrial wireless communication, IoT and indoor location. PREVIEW is a middleware solution that facilitates easy, ubiquitous, holistic and fast sharing of product and process information across the entire injection production process.
+
+PREVIEW development incorporates several innovative technological solutions:
+
+-PREVIEW Advanced Predictive system offers a powerful knowledge based system for data analysis. Based on the data analysis results compared to historical data, the system will provide feedback, closing the loop by recommending actions to improve productivity; 
+
+-PREVIEW will develop and implement the Data acquisition modules to collect the data from the in-mould cavity pressure and temperature sensors as well to collect data from the injection machine PLC;
+
+-Thanks to the data acquisition modules and the industrial wireless communication capabilities developed in the project, mould and machine become IoT-capable, allowing for interoperability at intra-plant level with other devices, including the PREVIEW server, database and mobile devices such as tablets and smartphones;
+
+-PREVIEW system offers the possibility to share among the Cloud the mould-DNA functionalities as well as the Setup Predictive System. These functionalities enable to reuse historical data when setting up a mould in another location.
+ 
+PREVIEW deploys a set of technologies and enablers (Information and communication technologies, manufacturing strategies, modelling, simulation and forecasting methods and tools), for process optimization of manufacturing assets in the injection sector.</objective>
+  <title>PREdictiVe system to recommend Injection mold sEtup in Wireless sensor networks</title>
+<identifier>H2020FoF2014</identifier>
+</project>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208842</rcn>
+  <acronym>Debrasa</acronym>
+  <objective>Objective: The overarching goal of proposed project is to provide necessary knowledge about neurobiology of Major Depression Disorder (MDD), which would lead to higher efficacy in treatment of this affective disorder. The research objectives of the action are 1) identification of electrophysiological biomarkers of functional brain abnormities in treatment resistant depression (TRD) and 2) suggestion of novel targets for neurostimulation in patients with TRD.
+Methods: Twenty patients with major Depression Disorder (MDD) and 20 healthy controls will undergo a resting-state high-density EEG recording (HD-EEG). Microstate analysis will be performed to identify possible biomarkers of functional brain abnormity in MDD. Source activity will be obtained for regions of interest (ROI) using individual head model and a distributed linear inverse solution. Directed functional connectivity using Granger causal modelling will be applied to the source signals of ROI to identify abnormally interconnected nodes.
+Relevance: If new biomarkers of functional brain abnormity in MDD are identified, better characterisation of pathophysiology of depression will be made. If abnormal nodes of large-scale brain neuronal network are identified, new and individually specific targets for deep brain stimulation (DBS) will be suggested. These findings will support future implementation of highly individualised DBS treatment of TRD.</objective>
+  <title>Deep brain targets for neurostimulation in affective disorders</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

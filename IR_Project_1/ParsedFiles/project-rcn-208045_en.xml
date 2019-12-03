@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208045</rcn>
+  <acronym>CORDIAL</acronym>
+  <objective>The overall objective of the CORDIAL project is to develop a new compact drilling and fastening unit for One Way Assembly. The effector has to be used by operator or lightweight industrial robots. Six sub-objectives contribute to achieve such a goal:
+- To define how robots and operators can interact in an OWA cell. 
+- To evaluate a typical assembly layout and endeavour new OWA opportunities and risks assessment.
+- To develop compact automated effector(s) for drilling, fastening and counteracting
+- To establish a test plan according to requirements for commercial aircraft structures.
+- To demonstrate the technology, realize specimens and test the proof of concept under real conditions.
+- To disseminate the results widely to maximise the impacts of the CORDIAL project.
+
+To complete the project, the capabilities of the partners include:
+-SONACA Engineering, industrialization, qualifying and manufacturing means for small subassemblies such as slats of landing gear doors, including composite manufacturing.
+-AEROSPLINE innovative engineering in robotics and drilling and fastening effectors. Including innovative fastener with sealant feeding, which permits to simplify and lighten any effector.
+-XLIM Advanced sensor vision technologies using small size vision sensors and capable of multiple information computation: coordinate positioning, centring, normality, hole and fastener quality.
+
+The CORDIAL project is perfectly in line with the Clean Sky 2 objectives since it will contribute to develop eco-friendly processes (reduction of the impacts on health, creation of sustainable capabilities), to demonstrate new technologies (human/robot close collaboration in the aeronautics, new structures design), improve the European competitiveness (lighten the assembly process, cost reduction and shorten time-to-market) and create market opportunities (technology transfers, innovation stimulation and attraction of elite in Europe) and new skilled jobs like cobotics engineering.</objective>
+  <title>Collaborative OWA robots for drilling and fasteners insertion in assembly lines</title>
+<identifier>H2020CS2CFP03201601</identifier>
+</project>

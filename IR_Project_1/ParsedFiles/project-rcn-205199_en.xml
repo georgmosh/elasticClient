@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205199</rcn>
+  <acronym>DYCON</acronym>
+  <objective>This project aims at making a breakthrough contribution in the broad area of Control of Partial Differential Equations (PDE) and their numerical approximation methods by addressing key unsolved issues appearing systematically in real-life applications. 
+To this end, we pursue three objectives: 1) to contribute with new key theoretical methods and results, 2) to develop the corresponding numerical tools, and 3) to build up new computational software, the DYCON-COMP computational platform, thereby bridging the gap to applications.
+The field of PDEs, together with numerical approximation and simulation methods and control theory, have evolved significantly in the last decades in a cross-fertilization process, to address the challenging demands of industrial and cross-disciplinary applications such as, for instance, the management of natural resources, meteorology, aeronautics, oil industry, biomedicine, human and animal collective behaviour, etc. Despite these efforts, some of the key issues still remain unsolved, either because of a lack of analytical understanding, of the absence of efficient numerical solvers, or of a combination of both. 
+This project identifies and focuses on six key topics that play a central role in most of the processes arising in applications, but which are still poorly understood: control of parameter dependent problems; long time horizon control; control under constraints; inverse design of time-irreversible models; memory models and hybrid PDE/ODE models, and finite versus infinite-dimensional dynamical systems.
+These topics cannot be handled by superposing the state of the art in the various disciplines, due to the unexpected interactive phenomena that may emerge, for instance, in the fine numerical approximation of control problems. The coordinated and focused effort that we aim at developing is timely and much needed in order to solve these issues and bridge the gap from modelling to control, computer simulations and applications.</objective>
+  <title>Dynamic Control and Numerics of Partial Differential Equations</title>
+<identifier>ERC2015AdG</identifier>
+</project>

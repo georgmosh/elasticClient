@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205150</rcn>
+  <acronym>SFOOT</acronym>
+  <objective>Current trends in IT require increasing data transfer speeds in fixed and mobile networks, cloud services and virtualization that all require several high bandwidths communication channels to come closer to the end user. This need is not adequately serviced by traditional two fibre data transport systems that are designed to create large backbone (country wide) transport systems with high number of channels.
+
+Xenya d.o.o. proposes a solution in data communication over optical fibre that will enable cost effective solutions of transporting data for small to medium scale data transport systems that cover short to medium distances. The proposal applies to: SMEInst-01-2016-2017: Open Disruptive Innovation Scheme programme.
+
+Compared to the traditional systems that are built on a pair of optic fibres the proposed solution uses a single optic fibre.
+Consequently, significant reduction in communication system complexity (less equipment, simpler design, simpler implementation, higher reliability, effective network operation management) is achieved.
+
+The economic impact of the solution on lower costs for data transport over optical fibres is evident at first sight but all impacts are quite complex to de defined and have two aspects: the cost reduction and the consequent market growth. The solution is targeting SMEs, as it allows the users to appropriately align the supporting IT and communication technology with the business (right performance for affordable costs). 
+
+Estimated time for the development: 1,5 years
+Funds requested: 0,9 million EUR</objective>
+  <title>SFOOT - Development of single fibre data transport system</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

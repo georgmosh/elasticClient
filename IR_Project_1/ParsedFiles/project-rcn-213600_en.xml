@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213600</rcn>
+  <acronym>BADASS</acronym>
+  <objective>In array-based sensing, synthetic receptors are appended with chromophores (reporters) and arrayed in various formats. The arrays are treated with analytes that displace the reporter to different extents and the outputs are interpreted by computers to identify the analyte. This has not been demonstrated for arrays of structured de novo designed peptides, which have many advantages over the synthetic small molecules currently used. Through an ERC Advanced Grant, ABEL (340764), we have designed peptides that form novel protein barrels. 
+
+We have proof of principle results that show that protein barrels can be used for this kind of array sensing. Through this award, we will employ an expert peptide design chemist to address technical issues needed to translate the protein barrels into a technology platform. They will: make and test many variants of the barrels in array formats; establish the best surfaces and attachment chemistries for barrel arrays; and develop algorithms for analysing the outputs. Second, we would employ an expert in biotechnology innovation and management to conduct customer discovery to understand better the market and potential route to exploitation for our technology.</objective>
+  <title>Barrel Array Diagnostics And SenSing</title>
+<identifier>ERC2017PoC</identifier>
+</project>

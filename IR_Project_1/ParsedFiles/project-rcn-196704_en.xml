@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196704</rcn>
+  <acronym>EarthServer-2</acronym>
+  <objective>EarthServer-2 makes Agile Analytics on Big Earth Data Cubes of sensor, image, simulation, and statistics data a commodity for non-experts and experts alike through
+• navigation, extraction, aggregation, and recombining of any-size space/time data cubes;
+• easy to install &amp; maintain value-adding services extending the existing portfolio of data and compute centers;
+• based on open standards, in particular: the OGC Big Data standards and the forthcoming ISO SQL/MDA (“Multi-Dimensional Arrays”) standard.
+
+In the Joint Research Activity, the project will advance the existing, world-leading rasdaman Array Database technology wrt. query functionality, inter-federation data processing with automatic data and query distribution, tape archive integration, and 3D/4D visualization based on NASA’s virtual globe technology.
+
+In the Services Activity, large data centers (ECMWF, PML, MEEO/ESA, GeoScience Australia, JacobsUni) will set up water, air, weather, and planetary services on 3D &amp; 4D data cubes up to Petabyte-size with user-tailored clients for both visual and textual ad-hoc mix&amp;match.
+
+In the Networking Activity, the project will advance open Big Data standards in OGC, RDA, and ISO (in particular: write ISO SQL/MDA). Further, all adequate channels will be used for strong dissemination &amp; exploitation, specifically: writing a monograph explaining OGC Big Geo Data standards; scientific publications &amp; active conference organization; Earth science data user workshops for each domain addressed; actively contributing technology &amp; experience to GEO / GEOSS and further bodies; establish standardized Big Geo Data benchmark and run it against EarthServer-2 and further relevant systems.
+
+Altogether, EarthServer-2 will maintain and extend the lead in Big Earth Data services established in the highly successful EarthServer-1 project. Being already supported by ESA, rasdaman will form an enabling building block for COPERNICUS / Sentinel.</objective>
+  <title>Agile Analytics on Big Data Cubes</title>
+<identifier>H2020EINFRA20142</identifier>
+</project>

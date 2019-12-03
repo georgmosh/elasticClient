@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199765</rcn>
+  <acronym>MAGICAL</acronym>
+  <objective>Spin Transfer Torque Magnetic memories (STT-MRAM) are receiving a growing R&amp;D effort within the microelectronic industry aiming at the replacement of DRAM or SRAM at sub-20nm nodes. 
+MAGICAL seeks to significantly innovate through groundbreaking advances in ultra-low power multifunctional systems based on hybrid CMOS/magnetic technology. With the development of portable electronics and of the Internet of Things (IOT), more and more functions must be embedded on chips: logic/memory, sensing, communication, etc. The current hurdles with today's technology are power consumption, communication bandwidth, processing/ packaging costs. MAGICAL will demonstrate that these limitations can be largely overcome through hybrid CMOS/magnetic technology.
+The project will follow three main goals:
+- Firstly, we will strengthen the STT-MRAM technology by investigating two novel ideas aiming at solving two remaining difficulties in sub-20nm STT-MRAM development: the nanostructuration of magnetic tunnel junctions and the long-term data retention. This will open the path to high density (&gt;Gbit) STT-MRAM.
+-Secondly, we will demonstrate that Digital, analog (3D magnetic field sensing for orientation sensor), RF communication functions can be realized with the same baseline technology as the one developed for STT-MRAM. As a result, these three types of functions can be homogeneously integrated in a single chip, a major improvement compared to conventional heterogeneous integration. The prime benefits expected from MAGICAL are: ultralow power thanks to MRAM non volatility and on-chip computation capability, greatly improved communication functionalities (cloud as well as intrachip communication), reduced process/packaging costs. 
+-Thirdly, through various actions, MAGICAL will aim at narrowing the cultural gap that still exists between magnetism and microelectronics communities.
+The project could definitely help the European microelectronic systems industry improve its leadership position.</objective>
+  <title>CMOS/magnetoelectronic Integrated Circuits wil Multifunctional Capabilities</title>
+<identifier>ERC2014ADG</identifier>
+</project>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194248</rcn>
+  <acronym>TAMS4CPS</acronym>
+  <objective>Smart systems, in which sophisticated software/hardware is embedded in physical systems are part of everyday life.  From simple products with embedded decision making software to massive systems in which hundreds of systems, each with hundreds or thousands of embedded processors, interoperate, the growth of cyber-physical systems (CPS) is likely to accelerate.  For Europe to benefit from this expansion, while avoiding the pitfalls that such complexity creates, there must be advances in the modelling and simulation (M&amp;S) of CPS.  Collaborative research with the US will be an opportunity to advance European M&amp;S capabilities for CPS.  The overall aim of TAMS4CPS is to lay the foundations for concrete EU-US collaboration in modelling and simulation for cyber-physical systems. To achieve this, Loughborough and Newcastle Universities (M&amp;S) will work with Steinbeis Innovation (road mapping) and leading researchers in the field at top US universities to create:
+- A strategic research and collaboration agenda, endorsed by researchers in EU and US
+- A set of test cases for model developers to perform collaborative evaluation
+- A state of the art web-based report to act as a baseline for collaborative research
+Taking a consultative approach, we will engage industry and academic researchers and M&amp;S users in workshops and web-based meetings to prioritise M&amp;S research challenges and to create a constituency of future collaboration partners for pre-competitive research in the Artemis themes, of:
+- Architectures principles and models for safe secure Cyber-Physical Systems
+- Systems design, modelling and virtual engineering for Cyber-Physical Systems
+- Autonomous adaptive and cooperative of Cyber-Physical Systems
+- Computing platforms and energy management for Cyber-Physical Systems
+To which is added the exploitation and enabling theme of:
+- Integration of socio/legal/governance models within modelling frameworks  
+Thus, this project directly addresses European priorities in CPS.</objective>
+  <title>Trans-Atlantic Modelling and Simulation For Cyber-Physical Systems</title>
+<identifier>H2020ICT20141</identifier>
+</project>

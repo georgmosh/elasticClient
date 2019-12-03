@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212754</rcn>
+  <acronym>ATOMICAR</acronym>
+  <objective>The goal of ATOMICAR is to achieve the ultimate sensitivity limit in heterogeneous catalysis: 
+Quantitative measurement of chemical turnover on a single catalytic nanoparticle.
+
+Most heterogeneous catalysis occurs on metal nanoparticle in the size range of 3 nm - 10 nm. Model studies have established that there is often a strong coupling between nanoparticle size &amp; shape - and catalytic activity. The strong structure-activity coupling renders it probable that “super-active” nanoparticles exist. However, since there is no way to measure catalytic activity of less than ca 1 million nanoparticles at a time, any super-activity will always be hidden by “ensemble smearing” since one million nanoparticles of exactly identical size and shape cannot be made. The state-of-the-art in catalysis benchmarking is microfabricated flow reactors with mass-spectrometric detection, but the sensitivity of this approach cannot be incrementally improved by six orders of magnitude. This calls for a new measurement paradigm where the activity of a single nanoparticle can be benchmarked – the ultimate limit for catalytic measurement.
+
+A tiny batch reactor is the solution, but there are three key problems: How to seal it; how to track catalytic turnover inside it; and how to see the nanoparticle inside it? Graphene solves all three problems: A microfabricated cavity with a thin SixNy bottom window, a single catalytic nanoparticle inside, and a graphene seal forms a gas tight batch reactor since graphene has zero gas permeability. Catalysis is then tracked as an internal pressure change via the stress &amp; deflection of the graphene seal. Crucially, the electron-transparency of graphene and SixNy enables subsequent transmission electron microscope access with atomic resolution so that active nanoparticles can be studied in full detail.
+
+ATOMICAR will re-define the experimental limits of catalyst benchmarking and lift the field of basic catalysis research into the single-nanoparticle age.</objective>
+  <title>ATOMic Insight Cavity Array Reactor</title>
+<identifier>ERC2017STG</identifier>
+</project>

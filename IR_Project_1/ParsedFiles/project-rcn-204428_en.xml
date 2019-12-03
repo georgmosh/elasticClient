@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204428</rcn>
+  <acronym>TADIL and DITEL</acronym>
+  <objective>TADIL is an ARTIFICIAL INTELLIGENCE software applied to the automatic development of tracings of linear infrastructures. TADIL stands for Techniques for the Automatic Design of New Linear Infrastructures.
+The currently available modules are targeted at the study of infrastructures of roads and / or highways, (Tadil-Road), and at the study of railway lines, (Tadil-Railway).
+DITEL, is a complementary software applied to the three-dimensional design of tunnels and linear structures, (viaducts), and bridges. DITEL stands for Intelligent Design of Tunnels and Linear Structures. It is also based on Artificial Intelligence.
+TADIL allows obtaining in a very fast way the tracing of infrastructure alternatives, providing the definition of the axis in plant and profile according to regulations, the cross sections with its measurement, the earthwork plant, expropriations, the balance sheet of lands, the budget, the public or private feasibility and the subjective evaluation of alternatives. 
+TADIL has been created as a module of Autocad making use of available tools in this software.</objective>
+  <title>TADIL and DITEL</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

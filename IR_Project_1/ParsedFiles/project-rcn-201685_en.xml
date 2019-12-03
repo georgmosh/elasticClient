@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>201685</rcn>
+  <acronym>OCEAN-IDs</acronym>
+  <objective>Through the 2012-2017 ERC Advanced Grant project ICE&amp;LASERS, we have developed an innovative glacier probe, which includes an embedded laser spectrometer. It will drill down the Antarctic ice sheet in a single run, to measure in situ and real-time the depth profile of water isotopes and methane in trapped gases, with the aim to solve a major challenge in paleoclimate science.
+ 
+To test the performance of the laser spectrometer in a realistic and non-controlled environment, in 2014 it was deployed for measuring dissolved methane in seawater (an easier environment to access compared with Antarctica). As a result of a fast response time of only 30 seconds (compared to 15-20 min for commercially available instruments), a unique continuous profile of dissolved methane was measured to a depth of 600 m within 10 min. Finances from an Innovation Fast Track incubator were obtained in July 2015 to explore the commercial potential of this dissolved methane sensor and to build a demonstrator allowing for real-time 3D mapping.
+
+However, the true potential and uniqueness of our technology is that it can be developed to measure – in situ and real-time – multiple dissolved gases (like CH4, N2O, C2H6) and isotopic ratios (e.g., D/H, 13C/12C), which would mean a major step forward for oceanographic research and exploration.
+
+OCEAN-IDs aims to proof the concept (not scheduled to be funded by the ERC AdG project) of measuring multiple dissolved gases and isotopic ratios from seawater using our state-of-the-art laser spectrometer technology combined with novel sample extraction methods and real-time data visualisation. The objective is to develop a new generation of in-situ oceanographic instruments at TRL7 that can be taken to market.</objective>
+  <title>OCEAN in-situ Isotope and Dissolved gas sensing</title>
+<identifier>ERC2015PoC</identifier>
+</project>

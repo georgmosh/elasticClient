@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204154</rcn>
+  <acronym>DAMOCLES</acronym>
+  <objective>Atmospheric aerosol particles play a key role in regulating the climate, and particulate matter is responsible for most of the 7 million deaths per year attributed to air pollution. Lack of understanding of aerosol processes, especially the formation of ice crystals and secondary particles from condensable trace gases, hampers the development of air quality modelling, and remains one of the major uncertainties in predicting climate. 
+The purpose of this project is to achieve a comprehensive understanding of atmospheric nanocluster and ice crystal formation based on fundamental physico-chemical principles. We will use a wide palette of theoretical methods including quantum chemistry, reaction kinetics, continuum solvent models, molecular dynamics, Monte Carlo simulations, Markov chain Monte Carlo methods, computational fluid dynamics, cluster kinetic and thermodynamic models. We will study non-equilibrium effects and kinetic barriers in atmospheric clustering, and use these to build cluster distribution models with genuine predictive capacity.
+Chemical ionization mass spectrometers can, unlike any other instruments, detect the elemental composition of many of the smallest clusters at ambient low concentrations. However, the charging process and the environment inside the instrument change the composition of the clusters in hitherto unquantifiable ways. We will solve this problem by building an accurate model for the fate of clusters inside mass spectrometers, which will vastly improve the amount and quality of information that can be extracted from mass spectrometric measurements in atmospheric science and elsewhere.
+DAMOCLES will produce reliable and consistent models for secondary aerosol and ice particle formation and growth. This will lead to improved predictions of aerosol concentrations and size distributions, leading to improved air quality forecasting, more accurate estimates of aerosol indirect climate forcing and other aerosol-cloud-climate interactions.</objective>
+  <title>Simulating Non-Equilibrium Dynamics of Atmospheric Multicomponent Clusters</title>
+<identifier>ERC2015AdG</identifier>
+</project>

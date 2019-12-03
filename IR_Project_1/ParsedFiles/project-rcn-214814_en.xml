@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>214814</rcn>
+  <acronym>ExtComb</acronym>
+  <objective>A central theme of extremal combinatorics is the interplay and relationship between the parameters of combinatorial objects. The first and most immediate question which arises in this context is that of the (i) existence of objects with a given set of parameters. Once this has been answered, the next step is to seek for (ii) the number of such objects - i.e. to ask for a counting result. This is of central importance in the context of many combinatorial questions arising in statistical physics. A very effective approach here is to seek asymptotic results - rather than exact formulas. This asymptotic approach sometimes makes it possible to go even further and ultimately uncover the (iii) typical structure of the objects in such a given class. 
+ 
+In this project, we will consider the above perspective with a focus on inter-related topics involving combinatorial designs, decompositions, Latin squares as well as matchings in graphs and hypergraphs. The project themes have close connections e.g. to statistical physics, probability, algebra and theoretical computer science.
+ 
+A common feature of the structures considered in this proposal is that the constraints describing them are of a "global nature". This makes their study extremely challenging. However, recently initiated methods have opened up completely new avenues, bringing questions within reach that were considered inaccessible until now. (In fact, one of the objectives involves the study of algebraic structures which had been conjectured not even to exist.)
+
+The aim of the project is the development of general tools and approaches which make the asymptotic study of such structures far more accessible. These tools will be mostly of a probabilistic nature. Indeed, the probabilistic perspective has already been the driving force behind recent advances which underpin the proposal. But it seems that overall, this development is still in its early stages - a situation we aim to address in the current project.</objective>
+  <title>Extremal Combinatorics: existence, counting and typical structure</title>
+<identifier>ERC2017ADG</identifier>
+</project>

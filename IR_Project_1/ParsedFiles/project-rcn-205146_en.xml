@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205146</rcn>
+  <acronym>ASTERIX</acronym>
+  <objective>The productivity in agriculture has improved enormously for the last 50 years. However, the increased yield comes at a cost. The fields producing our food are sprayed throughout the seasons with herbicides, fungicides and insecticides. We are facing major problems with resistant weeds and pesticide residues in food, soil and water. Farming needs to become more sustainable.
+We want to contribute to a change of paradigm, starting with row crops. We are introducing an autonomous field robot, designed for tending of vegetables. The robot uses machine vision and our ultra-precise nozzle technology to shoot droplets of herbicide on each individual weed - not on the crop - not on the soil. This will reduce the amount of herbicide used by appx 95%. 
+There are many hundreds of different row crops, most too small to make it economically viable to develop specific herbicides. This, in combination with environmental problems and herbicide resistant weeds, means that the farmer has very few or no available herbicides. Our ability to only spray the weed will change this. Some weeds can also be left unsprayed, reducing genetic selection on herbicide resistance. 
+The system can also reduce insecticide application, observe plant stress and crop development. Our vision is that these robots are working days and nights, recording data from its fields, looking for problems to solve. 
+Adigo AS (www.adigo.no), is performing R&amp;D within mechatronics in B2B relationships. We have been working for more than 10 years within precision farming, developing field robots for research and machine vision based sensors. We believe the timing now is very good for launching new products and methods in this market.</objective>
+  <title>Robot shoots herbicide only on weeds, reducing usage by more than 90%</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213981</rcn>
+  <acronym>ThermOutOfEq</acronym>
+  <objective>I propose to study phases of matter that emerge in quantum systems far away from equilibrium. This is a very challenging and urgent problem as the recent experimental advances in cold atoms, trapped ions and solid-state physics in general, put us in front of possibilities that we never had in the past. The degree of control that we have nowadays on single atoms, the temperatures we are able to reach and the capability to keep an exact quantum evolution for long times, are only some of the several advances with the potential to disclose new physical phenomena with huge impact on society in the next years. Experiments and industry are moving fast towards building new devices, but most of the theoretical understanding still needs to be developed. 
+The idea of this proposal is to consider systems where the number of particles is very large so that after a transient time, they can equilibrate and many observable quantities become time-independent. In this situation, universality can emerge and we can start to develop new general principles that can be applied in different situations. As for macroscopic systems at equilibrium, we do not need to follow the time evolution of each particle but only the laws of thermodynamics, is it possible to deduce out-of-equilibrium laws that describe complex quantum matter?
+I will focus on problems of transport and on polarization properties of magnetic materials, where the theory of conduction has an experimental counterpart and can rapidly lead to groundbreaking technological developments. 
+These problems have a wide range of applications: from the next steps in the realization of a quantum computer, up to increasing the sensibility of Magnetic Resonance Imaging, with impact on medical research and cancer diagnostics.</objective>
+  <title>Thermalization of out-of-equilibrium quantum matter</title>
+<identifier>H2020MSCAIF2017</identifier>
+</project>

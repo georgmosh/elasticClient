@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212786</rcn>
+  <acronym>ANTIViR</acronym>
+  <objective>Interferons (IFNs), which are signalling proteins produced by infected cells, are the first line of defence against viral infections. IFNs induce, in infected and neighbouring cells, the expression of hundreds of IFN-stimulated genes (ISGs). The ISGs in turn induce in cells a potent antiviral state, capable of preventing replication of most viruses, including Human Immunodeficiency Virus type 1 (HIV-1) and influenza A virus (FLUAV). Identifying the antiviral ISGs and understanding their mechanisms of action is therefore crucial to progress in the fight against viruses. 
+ISGs playing a role in the antiviral state have been identified, such as human MX1, a well-known antiviral factor able to restrict numerous viruses including FLUAV, and MX2, an HIV-1 inhibitor. Both proteins bind to viral components but their detailed mechanisms of action, as well as the consequences of restriction on the activation of the innate immune system, remain unclear. Moreover, our preliminary work shows that additional anti-HIV-1 and anti-FLUAV ISGs remain to identify. 
+In this context, this proposal seeks an ERC StG funding to explore 3 major aims: 1) unravelling the mechanisms of antiviral action of MX proteins, by taking advantage of their similar structure and engineered chimeric proteins, and by using functional genetic screens to identify their cofactors; 2) investigating the consequences of incoming virus recognition by MX proteins on innate immune signalling, by altering their expression in target cells and measuring the cell response in terms of gene induction and cytokine production; 3) identifying and characterizing new ISGs able to inhibit viral replication with a combination of powerful approaches, including a whole-genome CRISPR/Cas9 knock-out screen.
+Overall, this proposal will provide a better understanding of the molecular mechanisms involved in the antiviral effect of IFN, and may guide future efforts to identify novel therapeutic targets against major pathogenic viruses.</objective>
+  <title>Molecular mechanisms of interferon-induced antiviral restriction and signalling</title>
+<identifier>ERC2017STG</identifier>
+</project>

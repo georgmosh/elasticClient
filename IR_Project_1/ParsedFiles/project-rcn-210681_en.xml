@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210681</rcn>
+  <acronym>PACS</acronym>
+  <objective>Electro-mobility offers a variety of benefits. However, the electrification of road freight transport is not viable by using on-board storage of electricity. The electric roads can solve this problem by providing electrical power to the truck as it is driving through overhead electrical cables.
+However, the critical problem of electric roads is how to connect the truck, through the pantograph, to the power source. At speeds of 90 km/h, trucks must know the position of the cables 100-150m ahead in order to adjust the pantograph’s position in time to ensure that it correctly engages with the electrical cables.
+When using current solutions such as Radar, Lidar or Cameras trucks cannot travel at more than 30km/h and even so, often disengage from the cables. This is inefficient, dangerous and can significantly damage the cables. Today there is no technology that can detect and guide a pantograph at high speed and with the accuracy required to effectively charge the truck.
+At Qamcom Research and Technology AB, we have designed and tested an innovative solution named the Pantograph Active Control System (PACS) that enables fast communication between the energy source and trucks.
+PACS is composed of two elements:
+- Communicating devices located on every pole that transmits its position as well the position of the upcoming pole to approaching trucks
+- A high frequency radar located on top of the truck’s cabin that detects the transponder signals
+And exhibits the following characteristics:
+- Modulation of radar signals
+- Short reading times enabling high speed data transmission
+- Detection of the geographical position of the data sources
+PACS has been tested within the e-highway context on an e-highway test strip in Sweden and has shown excellent results. We now what to use the SME instrument to develop the solution alongside truck OEMs and bring PACS to the market. Market estimates predict that by 2024 there will be over 100,000 electric trucks with over 40,000 Km of e-roads</objective>
+  <title>Pantograph Active Control System for e-Highways</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

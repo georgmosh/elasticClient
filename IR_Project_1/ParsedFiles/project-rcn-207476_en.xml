@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207476</rcn>
+  <acronym>HISTO-MRI</acronym>
+  <objective>The main objective of HISTO-MRI project is to develop the technologies that will enable the non-invasive visualization of individual human cells in vivo and in real time, based on a radical new Magnetic Resonance Imaging concept: High Frequency Pulsed MRI. To accomplish this ambitious objective, several new challenging multidisciplinary technologies will have to be developed: 1) new method for the production of magnet coils, based on additive manufacturing technology, in order to stand very high currents at very high frequencies; 2) novel high frequency high voltage pulse power sources, based of semiconductor switches, to feed those magnet coils; and new pulse sequencing and computer algorithms to deal with and analyse the enormous amount of data. Therefore, this project has a foundational character, establishing the basis for a new field of research, pulsed MRI in the high frequency regime, which will radically advance MRI performance to micron resolution.
+A Proof of Concept of the new technology will be accomplished through the visualization of a mouse brain at the neuron level. This new technology will enable transformative research in the fields of neurosciences, bioengineering, biophysics and experimental oncology</objective>
+  <title>IN SITU IMAGING OF LIVING TISSUES WITH CELLULAR SPATIAL RESOLUTION</title>
+<identifier>H2020FETOPEN120162017</identifier>
+</project>

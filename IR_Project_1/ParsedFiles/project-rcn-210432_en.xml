@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210432</rcn>
+  <acronym>AdiScale</acronym>
+  <objective>The overall goal for the innovation project is to offer a 3D model scaling service for 3D print service bureaus and architectural offices. Architects use 3D printed scale models (e.g. 1:100) to showcase projects. Current state-of-the-art software cannot automatically convert the architects’ 3D drawings to a 3D printable scale model, because this typically creates features that are too small to print. Today it takes several weeks to manually prepare the scale model for 3D printing and it easily costs several thousand euros. Our intelligent scaling service, which selectively scales features, can speed up this process drastically.
+
+The main barrier to manufacturing 3D printed scale models is not the equipment, but rather the weeks and trouble it takes to perform the scaling. The potential demand is several hundreds of thousands of scale models per year, and even the current demand indicates a market potential of tens of millions of euros per year.
+
+The objective of the feasibility study are to adjust and elaborate our business plan by establishing test agreements with two print service bureaus and by evaluating the business potential directly through at least 15 scaling jobs. Furthermore, we will perform a freedom to operate analysis and use the test scalings to further mature the prototype.</objective>
+  <title>Intelligent scaling service for 3D printed architectural models</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

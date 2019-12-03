@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>209925</rcn>
+  <acronym>TheONE</acronym>
+  <objective>The phenomenon of high-temperature (high-Tc) superconductivity (SC) is one of the most exciting, thoroughly investigated yet still unresolved problems in physics. A major difficulty in understanding high-Tc systems lies in the complexity of the materials and phase diagram. The delicate balance between material specific properties, disorder and the number of electronic phases superimpose makes it hard to identify the leading interactions. Consequently, theoretical models attempting to describe the high-Tc SC are significantly disparate and identifying the mechanism of SC at elevated temperatures is full of hardship.
+Due to the proximity of the antiferromagnetic phase, the strong electronic interactions, the appearance of a pseudogap etc., the electronic phase is considered to be exotic, a non-Fermi Liquid and the coupling mechanism for Cooper pairs strange. Based on my recent experiments, here I propose a change of paradigm:
+•that the charge carriers which couple to give high temperature superconductivity follow the well-known Fermi-liquid behavior
+•that the pseudogap phenomenon corresponds to a gradual (Mott-like) localization of exactly ONE charge carrier per unit cell
+•the “Glue” for pairing stems from a bosonic excitation of ONE localized carrier leading to a novel excitonic mechanism for SC.
+These hypotheses will be tested primarily on the model compound Hg1201, which features a simple tetragonal structure, minimal disorder effects, and the highest Tc in its class of single-layer compounds. Fermi-liquid aspects will be probed by novel approaches to (magneto)transport, optical conductivity. The relation between SC and The ONE will be explored by unique experimental setups that combine uniaxial-pressure with local/structural probes.
+If the above conjectures are indeed confirmed it would give an enormous boost to this field. Beyond finding the solution of a 30-year-old enigma, it would enable an educated search for new materials with potentially even higher Tc's.</objective>
+  <title>The Janus-face of the localized carrier in cuprates: Generating the pseudogap and high temperature superconductivity</title>
+<identifier>ERC2016COG</identifier>
+</project>

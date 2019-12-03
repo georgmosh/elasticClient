@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210095</rcn>
+  <acronym>EuroEXA</acronym>
+  <objective>To achieve the demands of extreme scale and the delivery of exascale, we embrace the computing platform as a whole, not just component optimization or fault resilience. EuroEXA brings a holistic foundation from multiple European HPC projects and partners together with the industrial SME focus of MAX for FPGA data-flow; ICE for infrastructure; ALLIN for HPC tooling and ZPT to collapse the memory bottleneck; to co-design a ground-breaking platform capable of scaling peak performance to 400 PFLOP in a peak system power envelope of 30MW; over four times the performance at four times the energy efficiency of today’s HPC platforms. Further, we target a PUE parity rating of 1.0 through use of renewables and immersion-based cooling.
+
+We co-design a balanced architecture for both compute- and data-intensive applications using a cost-efficient, modular-integration approach enabled by novel inter-die links and the tape-out of a resulting EuroEXA processing unit with integration of FPGA for data-flow acceleration. We provide a homogenised software platform offering heterogeneous acceleration with scalable shared memory access and create a unique hybrid geographically-addressed, switching and topology interconnect within the rack while enabling the adoption of low-cost Ethernet switches offering low-Latency and high-switching bandwidth.
+ 
+Working together with a rich mix of key HPC applications from across climate/weather, physics/energy and life-science/bioinformatics domains we will demonstrate the results of the project through the deployment of an integrated and operational peta-flop level prototype hosted at STFC. Supported by run-to-completion platform-wide resilience mechanisms, components will manage local failures, while communicating with higher levels of the stack. Monitored and controlled by advanced runtime capabilities, EuroEXA will demonstrate its co-design solution supporting both existing pre-exascale and project-developed exascale applications.</objective>
+  <title>Co-designed Innovation and System for Resilient Exascale Computing in Europe: From Applications to Silicon</title>
+<identifier>H2020FETHPC2016</identifier>
+</project>

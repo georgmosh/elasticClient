@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206993</rcn>
+  <acronym>OPTINT</acronym>
+  <objective>As technology moves further away from the desktop setting, it is becoming increasingly clear that conventional interfaces (i.e., mice and keyboards) are no longer adequate means for interaction and that the traditional computing paradigm will be replaced or complemented by new forms of interaction such as wearable computing, head-worn displays, AR and VR. 
+
+The main goal of OPTINT is to lay the foundations of design and implementation of 21st century interactive technologies. While contemporary user interface (UI) design techniques have been developed for the era of the PC, modern user interfaces are much more diverse and have to be designed for challenging contexts such as embedded and wearable computers, augmented and virtual reality (AR/VR), the Internet of the Things (IoT) and intelligent robotics. Furthermore, instead of flat, rectangular 2D devices, things will be flexible and of custom shape; instead of mass-produced we’ll use 3D printing to customize all types of technology and end-user designed interactive objects are becoming a reality. Designing in such context requires expertise in a large and diverse set of domains ranging from hardware-level sensor design all the way to user experience aspects. These requirements go largely beyond traditional UI design techniques, calling for next generation tools that can integrate all of them in a unified manner. Embracing these challenges, I argue for a novel approach to the design of interactive devices, leveraging optimization algorithms allowing the designer to focus on user experience instead of having to worry about technical details. OPTINT will deliver an optimization-based framework and a set of easy to use tools that allow user-experience (UX) designers and domain experts to develop a broad range of interactive technologies.</objective>
+  <title>OPTINT: Optimization-based Design of Interactive Technologies</title>
+<identifier>ERC2016STG</identifier>
+</project>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200675</rcn>
+  <acronym>SEQOO</acronym>
+  <objective>The main goal of SEQOO is to realize hybrid quantum systems based on NV-centers in diamond and nanomechanical oscillators.
+
+Hybrid quantum systems combine two or more physical systems (e.g. spins, photons, phonons), with the goal of harnessing the advantages and strengths of the different systems in order to better explore new phenomena and potentially bring about novel quantum technologies. While spins and phonons are ideal candidates to store quantum information, photons are ideal carriers of quantum information over long distances. Additionally, mechanical systems can be influenced by a wide variety of small forces and, therefore, present themselves as natural interconnects to realize hybrid systems. Here we focus two realizations of hybrid systems based on Nitrogen Vacancy color center in diamond (NV-center) coupled to a mechanical resonator.
+
+The first system consists of an optomechanical crystal (OMC) structure with co-localized photonic and phononic modes, which is formed around the NV defect in the diamond host material. This hybrid system realizes a Spin-Photon-Interface (SPI) operating in the low loss Telecommunications band (TeSPI), which allows for low loss transmission via optical fibres and thereby for connecting spatially separate quantum systems. This is extremely important to realize large-scale quantum networks. The second system consists of a levitated nanodiamond containing a NV-center in a strong magnetic field gradient. The field gradient renders the NVs electronic spin energy dependent on the nanodiamond position and enables cooling of the nanoresonator or preparation of non-classical mechanical states through spin-dependent forces. The Spin Controlled Levitated nanodiamond (SCoL) opens up exciting routes toward studying quantum mechanical effects in macroscopic objects.
+The proposed research will be carried out in a concerted effort between myself (Dr. Jan Gieseler), Prof. Mikhail Lukin (Harvard University) and Prof. Romain Quidant (ICFO).</objective>
+  <title>Single-Emitter Quantum Optics and Optomechanics</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211240</rcn>
+  <acronym>MammoWave</acronym>
+  <objective>Breast cancer is the most common cancer in females. Regular screening is of paramount important for early diagnosis to reduce the incidence and increase the outcome of a cure. Current techniques based on ionizing radiation cannot be used in many cases. MammoWave is a mammography device based on safe microwave that enable a fast and accurate breast
+imaging allowing for an early detection of breast cancer, based on simple technology and low cost.
+    MammoWave can be used any time, at any age and in any condition (pregnancy, specific illness etc.) for all patients since it does not use ionizing radiation. Defer to traditional mammography only cases positive for a first screening MammoWave, limiting the use of harmful radiation.
+The breast scanner consist of a cup that hold the breast of the patient in a prone position and of two antennas, one to transmit the microwave signal and one to receive. The breast is exposed to completely safe wave field. 
+ Both antennas are configured to be moved around the azimuth, to capture reflected electromagnetic field in all directions and measured by the
+receiving antenna. MammoWave is based on an innovative image reconstruction algorithm that processes the microwave signals according to the Huygens' principle: the result is able to identify the presence of any suspected tumor in the breast tissue.
+    MammoWave addresses the market of hospitals, clinics and private doctors replying to their need of enhancing the specificity of mammography screening in breast cancer detection to battle the increasing rate of false-positive and false-negative results, which implies additional cost for the healthcare system and unnecessary distress for women. 
+    The Phase 1 project will be focused on establishing a complete supply chain, a sound business model and commercialization strategy, a planning of all activities for performing the clinical trials in hospital departments, as well as the elaboration of an industrialization and marketing plan</objective>
+  <title>The first ultra-high sensitive breast imaging device based on non-ionizing safe microwave</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

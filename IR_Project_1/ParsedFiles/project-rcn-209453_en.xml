@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>209453</rcn>
+  <acronym>RADAR-CNS</acronym>
+  <objective>Background: Long term conditions require monitoring of patients, traditionally conducted in the clinic, to monitor treatment effects, adverse events and disease course. This can be inefficient and cumbersome – clinic visits may be too infrequent to identify individuals at risk of significant changes in disease state (e.g. relapse) and place unnecessary burden on patients and providers.
+
+Smartphone and wearable technologies have led to an exponential growth in the amount of information which can be collected on patients unobtrusively and at low cost. Sensors collect data passively, and active monitoring, using experience sampling, provides information on multiple parameters. Such technologies could monitor long term outcomes of patients, at scale, and provide fine-grained information on outcomes, available in real time and at low-cost, enabling services to offer more responsive and efficient care.  
+
+Whilst there is growing interest in the application of RMT in health, the field is in its infancy. The private-public partnership fostered by IMI2 is an ideal way to overcome the inherent challenges of this field.
+
+Our ultimate goal is to improve patient outcomes through remote assessment. To achieve this we will create a pipeline for developing, testing and implementing RMT in depression, multiple sclerosis and epilepsy. The pipeline will include a data management and modelling infrastructure applicable to other disorders and with the flexibility of design to be future-proofed against further technological innovation. We will provide data on implementation barriers and facilitators gleaned from patients, clinicians, regulator and payers which will optimise the pathways for regulatory approval and uptake. 
+
+Program of Work: In order to test the feasibility and predictive power of RMT four main components are required: (1) Excellent project oversight, management, and a dissemination and exploitation strategy; (2) an end-to-end technological platform with advanced real-time analytics capability; (3) well characterised clinical cohorts of diseases under study; and (4) a pathway to implementation.  
+
+Our consortium will address each of these areas in 11 workpackages grouped in 4 clusters. 
+
+Oversight, management and dissemination cluster provides the infrastructure to ensure the project succeeds and maximises impacts.
+WP1: Consortium Management and Governance will be ensure contractual duties are carried out, ensure consortium members abide by good practice of resource management and set up an effective communication infrastructure. 
+WP11: Dissemination, Exploitation and Communication will raise public and scientific awareness of RADAR-CNS by facilitating networking and communication both to the scientific community and the public.  We will manage the processes for the capture and the protection of intellectual property and ensure efficient exploitation of project results to achieve maximum benefit for scientists, industry and European society.
+
+Technological platforms cluster provides the technical expertise to develop an end-to-end platform for data acquisition, aggregation and analysis.
+WP7: Devices and Platform will develop a generalizable aggregation capability of participant data from multiple classes of devices. We will ensure enhanced modularity and adaptability as new sensors become available to the project, ensuring the platform is future-proofed and generalisable.  We will make data available for other applications in the smartphone in order to provide patient feedback and develop server-side infrastructure that will enable data ingestion from user devices, data quality assurance features to provide reports about the successful transmission of sensor and trial data. 
+
+WP8: Data Integration, Analysis and Biosignatures will advance the analysis methodology that can be applied to remote monitoring technology to understand disease and predict relapse, including tools for evaluating performance improvements; pa</objective>
+  <title>Remote Assessment of Disease and Relapse in Central Nervous System Disorders</title>
+<identifier>H2020JTIIMI2201503twostage</identifier>
+</project>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199105</rcn>
+  <acronym>SBSI</acronym>
+  <objective>Until recently it was believed to be impossible to perform optical imaging with resolution beyond the fundamental resolution limit. However, in the past few years, our team was able to algorithmically enhance the resolution of optical imaging, bringing it to below one fifth of the optical wavelength. This achievement is based on the prior knowledge that the image is “sparse”, that is, the image can be represented in a compact form in an appropriate mathematical basis. The purpose of this PoC is to develop an algorithmic platform – a software demonstration prototype - that would lead to commercialization of two (closely connected) applications:  (1) Improving the resolution of Scanning Electron Microscope (SEM), used in the micro-chip industry for defects detection; (2) Improving high-resolution florescent microscopy (STORM) by reducing the number of exposures (iterations) required.</objective>
+  <title>Structure-based subwavelength imaging</title>
+<identifier>ERC2015PoC</identifier>
+</project>

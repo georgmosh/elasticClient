@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211071</rcn>
+  <acronym>TERAPOD</acronym>
+  <objective>The saturation of wireless spectrum access is leading to innovations in areas such as spectrum resource usage. It is widely thought however that the low hanging fruits of innovation for wireless communication are all but exploited with only marginal gains possible. For a real step change towards the coveted 1Tbps wireless transmission, new areas of the spectrum must be utilized. Recent breakthroughs in terahertz systems are overturning the “Terahertz gap” stigma associated with the previously difficult to access spectrum. With the emergence of viable THz communications systems on the horizon, it is crucial to develop a technology roadmap for THz communication for beyond the 5G timeframe. 
+The aim TERAPOD is to investigate and demonstrate the feasability of ultra high bandwidth wireless access networks operating in the Terahertz band. The project will focus on end to end demonstration of the THz wireless link within a Data Centre Proof of Concept deployment, while also investigating other use cases applicable to beyond 5G such as wireless personal area networks, wireless local area networks and high bandwidth broadcasting. The project seeks to bring THz communication a leap closer to industry uptake through leveraging recent advances in THz components, a thorough measurement and characterization study of components and devices, coupled with specification and validation of higher layer communication protocol specification.</objective>
+  <title>Terahertz based Ultra High Bandwidth Wireless Access Networks</title>
+<identifier>H2020ICT20162</identifier>
+</project>

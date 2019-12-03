@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194927</rcn>
+  <acronym>THOR</acronym>
+  <objective>Five years ago, a global infrastructure to uniquely attribute to researchers their scientific artefacts (articles, data, software…) appeared technically and socially infeasible. Since then, DataCite has minted over 3.5m unique identifiers for data. ORCID has deployed an open solution for identification of contributors with over 850,000 registrants in less than 2 years. 
+
+THOR will leverage these emerging global infrastructures to support the H2020 goal to make every researcher ‘digital’ and increase creativity and efficiency of research, while bridging the R&amp;D divide between developed and less-developed regions. We will establish interoperability between existing resources, linking digital identifiers across platforms and propagating attribution information.
+
+We will integrate PID services across the research lifecycle and data publishing workflows in four advanced research communities, and then roll-out core services and service building blocks for the wider community. These open resources will foster an open and sustainable e-infrastructure across stakeholders to avoid duplications, give economies of scale, richness of services and the ability to respond rapidly to opportunities for innovation.
+
+THOR is not just relevant to the EINFRA-7-1024 Call, but will become a pervasive element of the EINFRA family of e-Infrastructure resources over the next 3 years. It will allow data-management and curation services to exploit knowledge of data location and attribution; provide robust and persistent mechanism for linking literature and data; enable search and resolving services and generate incentives for Open Science; deliver provenance and attribution mechanisms to underpin data exchange; and provide minting and resolving services for data citation workflows.
+
+Its impact will enable third-party services, no-profit and commercial, to leverage the scholarly record.</objective>
+  <title>THOR – Technical and Human Infrastructure for Open Research</title>
+<identifier>H2020EINFRA20142</identifier>
+</project>

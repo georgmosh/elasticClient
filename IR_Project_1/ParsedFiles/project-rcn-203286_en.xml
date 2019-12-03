@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>203286</rcn>
+  <acronym>TRANSEP</acronym>
+  <objective>The vision spelled out in this proposal is to overcome the failure of Computational Fluid Dynamics to tackle one of the central unsolved fluid physics problems, namely predicting the sensitive flow physics associated with laminar-turbulent transition and flow separation. A recent, highly influential report by NASA (Slotnick et al., 2014) clearly states that the major shortcoming of CFD is its “… inability to accurately and reliably predict turbulent flows with significant regions of separation”, most often associated with laminar-turbulent transition.   
+
+The research proposed here will address this shortcoming and develop and utilize computational methods that are able to predict, understand and control the sensitive interplay between laminar-turbulent transition and flow separation in boundary layers on wings and other aerodynamic bodies. 
+
+We will be able to understand enigmas such as the recent results from the experiments of Saric et al. at the Texas A&amp;M Univeristy where the laminar area of a wing grows after a smooth surface have been painted (increased roughness), or the drastic changes of laminar-turbulent transition and separation locations on unsteady wings, or the notoriously difficult interaction of multiple separation and transition regions on high-lift wing configurations. For such flows there have been little understanding of flow physics and few computational prediction capabilities. Here we will perform simulations that give completely new possibilities to visualize, understand and control the flow around such wings and aerodynamic bodies, including the possibility to compute and harness the flow sensitivities. 
+
+We will tackle these outstanding flow and turbulence problem using the new possibilities enabled by multi-peta scale computing.</objective>
+  <title>Flow physics and interaction of laminar-turbulent transition and flow separation studied by direct numerical simulations</title>
+<identifier>ERC2015AdG</identifier>
+</project>

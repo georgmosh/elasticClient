@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>209499</rcn>
+  <acronym>TOPONANOP</acronym>
+  <objective>One of the most fascinating phenomena in nature is the interplay between quantum mechanics and the flow of electrons in solids. A tangible example is the quantum hall effect, where electrons flow with virtually zero dissipation. That is because electrons can flow only in one direction, which makes them move around objects without scattering, representing robustness by topological protection. Essential for this effect is the magnetic field that breaks time-reversal symmetry.
+
+Recently, however, with the advent of novel exotic quantum materials, completely new concepts for topological and non-reciprocal phenomena have appeared on the horizon, without the need to apply any magnetic field. These materials exhibit intrinsic topological character due to quantum mechanical interferences. TOPONANOP’s vision is to exploit these extraordinary quantum properties in order to control light at the nanoscale in a radically new way. One of the main objectives is to generate nanoscale optical fields (plasmons) that propagate in only one direction and implement topologically protected plasmons such that they move around defects and corners. At the same time, visualizing and controlling electromagnetic excitations will be used as a tool to unravel extraordinary phenomena in exotic quantum materials. 
+
+To this end, TOPONANOP will apply novel low-temperature, THz and infrared, near-field imaging and spectroscopy techniques to directly spatially visualize the plasmon non-reciprocity and topological character.
+Topological nano-photonics is a new paradigm for novel quantum materials and will enable novel future applications in miniaturized photonic isolators, diodes and logic circuits and could lead to completely new concepts for communication systems, optical transistors and optical information processing.</objective>
+  <title>Topological nano-photonics</title>
+<identifier>ERC2016COG</identifier>
+</project>

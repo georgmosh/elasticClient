@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>201771</rcn>
+  <acronym>gmSCAN</acronym>
+  <objective>The slaughtering sector in the EU28 plays a key role in the meat industry. It embraces over 3,300 pig abattoirs, which process yearly 252 million pig carcasses, and generate a turnover of €73b. In a context of strong market competitiveness, and driven by the demand of meat processors, abattoirs are increasingly interested in new strategies to improve their product segmentation, which allow them to optimize the production value. 
+The segmentation of fresh pigmeat products is mainly performed based on its lean meat content. Based on this parameter, and according to EU regulations, all carcasses are routinely sorted following the SEUROP scheme. While the SEUROP classification is useful for defining an objective payment criterion for the farmer, it is insufficient to perform a segmentation of the production and to estimate the real market value of the carcass. In particular, the SEUROP classification does not take into account the lean meat content of the primal cuts (ham, loin, belly and shoulder). 
+Over the past decades, automatic pig carcass grading systems have risen the interest of the sector, due to its potential to improve the accuracy of meat segmentation. However, existing commercial solutions present limitations in terms of (1) limited accuracy and robustness, when dealing with different pig breeds or genetic variations; (2) complex integration in abattoirs; and (3) significant system and integration costs. 
+We aim at addressing the market demand for a more accurate, reliable and cost-competitive solution to accurately grade and sort carcasses according to the lean meat content in the four primal cuts. The proposed technology was previously developed in a Collaborative EU Research Project, which allowed validating the technology at pilot line level (TRL7). After defining a detailed business plan, which was carried out during the Phase I project, we aim now at obtaining a qualified system (TRL9), and to obtain the SEUROP certification at two key target markets.</objective>
+  <title>Automatic scanner for determing lean meat distribution in pig carcasses</title>
+<identifier>H2020SMEINST22015</identifier>
+</project>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212447</rcn>
+  <acronym>ENSPACE</acronym>
+  <objective>The use of GNSS in space applications enables the main following applications: (a) navigation in space, (b) timing determination (c) precise orbit determination (d) attitude determination.
+Most of future space missions (LEO, MEO, GEO/IGSO orbits, interplanetary missions and launchers) are considering to adopt GNSS as baseline requirements for orbit determination or vehicle position and time estimation in space. In parallel, cost/size reduction, flexibility and the need to increase security are key requirements to sustain the evolution of the satellite business towards mega constellations and small satellites.
+ENSPACE (Enhanced Navigation in Space) captures this needs developing an innovative software application for enhanced space navigation, positioning and time. The aim is to: (a) become a reference product for low cost, secure and flexible space navigation, positioning and time, and (b) enable existing high grade space applications to enhance GNSS security.
+ENSPACE has the advantage to be multi application and multi mission, low cost, secure and robust, fully Software. 
+The use of Galileo, and particularly the features of authentication, guarantees highly accurate positioning and robust navigation, not feasible so far with current GNSS. 
+ENSPACE will be the future concept of space navigation and will test all possibilities of Galileo beyond the limits of the original service design.</objective>
+  <title>Enhanced Navigation in Space</title>
+<identifier>H2020GALILEOGSA20171</identifier>
+</project>

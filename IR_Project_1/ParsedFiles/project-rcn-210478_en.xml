@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210478</rcn>
+  <acronym>SIRMIO</acronym>
+  <objective>Precision small animal radiotherapy (RT) research is a young emerging field aiming at unravelling complex in-vivo mechanisms of radiation damage in target and non-target tissues, for translation into improved clinical treatment strategies.
+
+For commonly used X-rays, commercial small animal radiation research platforms were recently developed to provide precision imaged-guided RT comparable to state-of-the-art human treatment. Conversely, such platforms are not yet existing for proton beams, which are increasingly used in RT due to their superior ability to concentrate beam energy in the tumour and spare normal tissue. Pre-clinical research is thus carried out at the few available proton therapy facilities, lacking adequate beam quality and image-guidance for small animal treatment. 
+
+To fill this gap, this project will realize and demonstrate the first prototype system for precision small animal proton irradiation at existing experimental beamlines of clinical facilities. Improved beam quality for targeting small structures will be achieved via a dedicated magnetic focusing system. Innovative in-situ image-guidance will combine ion-specific solutions of proton-transmission imaging (for treatment planning) and thermoacoustics (for verification of the beam range) with established ultrasound (for real-time morphological confirmation) and positron-emission-tomography (for functional assessment). The resulting multi-modal “sight” will be used to foster new workflows of treatment adaptation. The system will be thoroughly tested and finally deployed in a first in-vivo study in different orthotopic mouse cancer models, in comparison to reference X-ray RT at a commercial small animal platform. 
+
+SIRMIO will deliver the first, compact and cost-effective precision small animal proton irradiator for advancing molecular oncology and animal-based proton RT research, thereby providing new experimental insights in biological in-situ responses towards proton and photon irradiation.</objective>
+  <title>Small animal proton Irradiator for Research in Molecular Image-guided radiation-Oncology</title>
+<identifier>ERC2016COG</identifier>
+</project>

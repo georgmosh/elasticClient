@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196623</rcn>
+  <acronym>AEROARMS</acronym>
+  <objective>AEROARMS proposes the development of the first aerial robotic system with multiple arms and advanced manipulation capabilities to be applied in industrial inspection and maintenance (I&amp;M). The objectives are:
+
+1. R&amp;D on aerial manipulation to perform I&amp;M. This  includes:  1.1 Based on previous partner results, developing systems  which are able to grab and dock with one or more arms and perform dexterous accurate manipulation with another arm. Also develop helicopter-based aerial manipulators, with greater payload and flight endurance, and with a dexterous arm to provide  advanced manipulation capabilities by means of force interactions and hand-eye coordination using a movable camera with another light arm; 1.2 New methods and technologies for platforms which can fly and manipulate with the coordinated motion of the arms addressing constrained scenarios in which it is dangerous to use the helicopter and where it is not possible to grab to perform I&amp;M operation.
+
+2. Validation of 1.1  in two applications: 1) Installation and maintenance of permanent NDT sensors on remote components; 2) Deploy and maintain a mobile robotic system permanently installed on a remote structure. 
+
+To achieve the above objectives AEROARMS will develop the first aerial telemanipulation system with advanced haptic capabilities able to exert significant forces with an industrial robotic arm, as well as autonomous control, perception and planning capabilities. Special attention will be paid to the design and system development in order to receive future certification taking into account ATEX and RPAS regulations.
+
+AEROARMS is strongly related to ICT 23–2014: Robotics enabling the emergence of aerial robots, with manipulation capabilities to operate in industrial I&amp;M, which will be validated in in oil and gas plants to reach TRL5.
+
+The consortium combines excellent capabilities in aerial robotics with leadership in aerial manipulation and key partners for the successful application of I&amp;M.</objective>
+  <title>AErial RObotic system  integrating  multiple ARMS and advanced manipulation capabilities for inspection and maintenance</title>
+<identifier>H2020ICT20141</identifier>
+</project>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193818</rcn>
+  <acronym>LARA</acronym>
+  <objective>The LARA system, the main outcome of the project is a mobile device for utility field workers. The hand-held device integrates different technologies such as: positioning and sensors (GNSS), Augmented Reality (AR), GIS, geodatabases, etc. In practise, this device will guide the field workers in underground utilities to ‘see’ what happening underworld, like an “x-ray image” of the underground infrastructure. The system is using AR interfaces to render the complex 3D models of the underground utilities infrastructure such as water, gas, electricity, etc. in an approach that is easily understandable and useful during field work. The 3D information is acquired from 3D GIS geodatabases.</objective>
+  <title>LBS  Augmented Reality Assistive System for Utilities Infrastructure Management through Galileo and EGNOS</title>
+<identifier>H2020Galileo20141</identifier>
+</project>

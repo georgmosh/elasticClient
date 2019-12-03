@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213426</rcn>
+  <acronym>DerSympApp</acronym>
+  <objective>We propose a program that aims at providing new developments and new applications of shifted symplectic and Poisson structures. It is formulated in the language and framework of derived algebraic geometry after Toën–Vezzosi and Lurie. 
+
+On the foundational side, we will introduce the new notion of shifted symplectic groupoids and prove that they provide an alternative approach to shifted Poisson structures (as they were defined by the PI together with Tony Pantev, Bertrand Toën, Michel Vaquié and Gabriele Vezzosi). Along the way, we shall be able to prove several conjectures that have recently been formulated by the PI and other people. 
+
+Applications are related to mathematical physics. For instance: 
+- We will provide an interpretation of the Batalin–Vilkovisky formalism in terms of derived symplectic reduction. 
+- We will show that the semi-classical topological field theories with values in derived Lagrangian correspondences that were previously introduced by the PI are actually fully extended topological field theories in the sense of Baez–Dolan and Lurie. 
+- We will explain how one may use this formalism to rigorously construct a 2D topological field theory that has been discovered by Moore and Tachikawa. 
+
+Quantization problems will also be discussed at the end of the proposal. 
+
+This project proposal lies at the crossroads of algebraic geometry, mathematical physics (in its algebraic and geometric aspects) and higher algebra.</objective>
+  <title>Derived Symplectic Geometry and Applications</title>
+<identifier>ERC2017COG</identifier>
+</project>

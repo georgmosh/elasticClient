@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>202850</rcn>
+  <acronym>GTR</acronym>
+  <objective>In this project I will use Single Molecule Pull-down (SiMPull) for studying activity and regulation of human gamma-tubulin ring complexes (gamma-TuRCs). Gamma-TuRCs are the main nucleators of microtubule (MT) polymerization. Additionally, gamma-TuRCs may play a role in modulating MT dynamics. Regulation of gamma-TuRC activity is key to organizing the dynamic MT arrays needed for essential processes in various cell types. Progress in understanding gamma-TuRC regulation at the molecular level is currently hampered by a lack of information about subunit stoichiometries and interactions, and by technical difficulties that have prevented reconstitution of gamma-TuRCs in vitro. I will tackle these challenges by using SiMPull to immunoprecipitate and immobilize gamma-TuRCs to a glass surface directly from cell extracts collected at different cell cycle stages, and analyze individual gamma-TuRCs using high resolution microscopy. I will express tagged gamma-TuRC subunits in cells to isolate wildtype and mutant gamma-TuRCs. Using fluorescent protein tags and antibodies I will visualize and quantify components in individual gamma-TuRCs and, by incubation in pure tubulin and GTP, determine how gamma-TuRC composition is related to its ability to nucleate MTs and modulate MT dynamics. Together, the proposed research will expand the field’s toolbox, thereby allowing new, molecular level insight into gamma-TuRC activity and its regulation.</objective>
+  <title>Dissecting gamma-TuRC composition and activity by Single Molecule Pull-down</title>
+<identifier>H2020MSCAIF2015</identifier>
+</project>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212484</rcn>
+  <acronym>IoTCrawler</acronym>
+  <objective>The Internet of Things offers an incredible innovation potential for developing smarter applications and services, transforming business models and impacting our society both positively. 
+
+To be able to unlock IoT’s full potential many fundamental technological challenges still need to be solved. Today we see solutions in the development of vertical applications and services reflecting what used to be the early days of the web, leading to fragmentation and intra-nets of Things.
+
+To achieve an open IoT ecosystem of systems and platforms, several key enablers are needed: adaptive and scalable crawling, indexing, semantic data/service search and integration, privacy and security, combined with real world and large-scale enablers and products driven by innovative use-case scenarios and new business models.
+
+IoTCrawler will focus on integration and interoperability across different platforms, dynamic and reconfigurable solutions for discovery and integration of data and services from legacy and new systems, adaptive, privacy-aware and secure algorithms and mechanisms for crawling, indexing, search in distributed IoT systems.
+
+IoTCrawler will provide extensive development and demonstrations with a focus on Industry 4.0, Social IoT, Smart City and Smart Energy. 
+
+IoTCrawler will seek to provide high impact through research excellence, innovation and technology advancement. It will address open challenges and issues in crawling, discovery, indexing, semantic integration and security/privacy/trust for an IoT ecosystem. 
+
+IoTCrawler will achieve this through end-user engagement via its industry and city partners, trials and collaborative scenario developments, validations and show casing. 
+
+IoTCrawler will also offer new business models and will extend the product line of industry and SME partners, and will create a wider awareness and third-party exploitation via dissemination and standardisation activities and by providing open and generic enablers and APIs.</objective>
+  <title>IoTCrawler</title>
+<identifier>H2020IOT2017</identifier>
+</project>

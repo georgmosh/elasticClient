@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>197904</rcn>
+  <acronym>OSIRIS</acronym>
+  <objective>OSIRIS project, a Research and Innovation Action (RIA), aims at improving substantially the cost effectiveness and performance of gallium nitride (GaN) based millimetre wave components. The project proposes to elaborate innovative SiC material using isotopic sources. This material will offer thermal conductivity improvement of 30% which is important for devices dissipating a lot of power, in particular in SiC power electronics and in microwave device using GaN high electron mobility transistors (HEMT) grown on SiC semi-insulating substrates. OSIRIS project will allow reinforcing GaN technology penetration into the market by cost effectiveness of the SiC substrates and circuit performances improvement thanks to better heat spreading close to the dissipative area.
+For microwave GaN/SiC HEMT this isotopic approach could create a complete shift in the currently used substrate / GaN epi-wafer technology; it intends to grow high thermal conductivity (+30%) semi-insulating SiC on top of low cost semiconducting SiC substrates (widely used by the power electronics and LED industries). Reduced layer thickness is necessary as only the top 50 to 100µm SiC wafer is really useful as the substrate itself is currently thinned to realise microstrip waveguided microwave circuits. 
+For power electronics, this isotopic innovation will be essentially focused on thermal improvement, i.e. better electron mobility at a given power dissipation as mobility and drift mobility decrease with temperature and also better carrier transport thanks to lower scattering rates. Schottky and p-i-n diodes will be tested using this material, which however will have to be doped while microwave devices need semi-insulating materials.
+The improved thermal SiC properties will be obtained by using single isotopic atoms for silicon and carbon, namely 28Si and 12C. The SiC wafer size will be targeted to 100mm (4-inches) which is today widely used on industry.</objective>
+  <title>Optimal SIC substR ates for Integrated Microwave and Power CircuitS</title>
+<identifier>ECSEL20141</identifier>
+</project>

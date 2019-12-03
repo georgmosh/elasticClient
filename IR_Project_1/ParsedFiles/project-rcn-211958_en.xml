@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211958</rcn>
+  <acronym>Spine</acronym>
+  <objective>Spine project will create a toolbox for modelling integrated energy systems. The Toolbox will be modular and adaptable, making the toolbox suitable for both detailed modelling of complex features in energy systems as well as for large-scale problems. This is a novel approach to energy system modelling, which allows a much broader set of problems being addressed within a single modelling tool.
+
+The adaptability comes from a design where the input data defines the temporal, spatial, technological, regulatory and sectoral dimensions of the model instance. Model instances can also be chained in order to allow iterative approaches for solving especially large problems (e.g. planning a large system while considering high operational detail).
+
+The Spine Toolbox will support the full modelling chain from data acquisition to processing of results. Through automated features of the toolbox it will be easy to generate a large number of scenarios from user-defined data collections. It can connect to different tools and models, both external and internal. The internal tools developed in the project include an input data verification tool, a tool to post-process outputs, parallelization service and the actual Spine Model.
+
+The Spine Toolbox and the Spine Model will be deployed by open sourcing all the developments. The project will initiate, grow and support a user community where the project partners will participate as they will replace many of their existing tools with the Spine Toolbox. 
+
+The Spine project will use the toolbox to contribute to the expected impacts of the call. A series of case studies will help the project to expand specific modelling capabilities in the Spine Model, deploy the Toolbox to potential users, and produce analysis relevant to the expected impacts of the call. Policy and business relevant results will be communicated to the relevant stakeholders, demonstrating the future uses of the toolbox in policy-support and business decision-support.</objective>
+  <title>Open source toolbox for modelling integrated energy systems</title>
+<identifier>H2020LCE2017SGS</identifier>
+</project>

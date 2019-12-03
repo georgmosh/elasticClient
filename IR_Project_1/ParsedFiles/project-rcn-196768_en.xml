@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196768</rcn>
+  <acronym>ImmRisk</acronym>
+  <objective>In the last few years genome-wide association studies have revealed thousands of genetic variants associated to immune-mediated diseases, such as rheumatoid arthritis and Crohn's disease. Although it is evident that non-genetic factors can also trigger these diseases, presumably by interacting with the risk SNPs, we do not know what these factors are or how they affect risk-SNPs.
+
+I hypothesize that environmental factors that increase disease risk also mediate the downstream molecular effects of disease-associated genetic variants. Since I am able to identify the downstream molecular effects of many risk-SNPs, and can identify molecular pathways regulated by specific exogenous factors like viral, bacterial or fungal stimuli, I now propose to combine these two approaches into a new analytical framework that will allow me to identify some of the exogenous factors that interact with risk-SNPs and together predispose to immune-mediated diseases.
+
+My aim is to determine how exogenous triggers alter molecular pathways that are critical in immune-mediated diseases. For this we will generate single-cell RNA-seq data on white blood cells from 100 individuals (~1,000 cells per person) and conduct expression QTL analyses. We will then use this information to identify exogenous risk factors for immune-mediated diseases by re-analysing public RNA-seq data from &gt;20,000 samples generated in the presence and absence of different (disease) stimuli.
+
+This project is given direction by three developments by my research group: (1) our collection and integration of large functional genomics datasets, (2) our ability to develop computational frameworks for identifying the downstream consequences of SNPs using such datasets, and (3) my methodology to identify context-specific eQTLs.
+
+This research will improve insight into the complex interplay between risk-SNPs and exogenous factors in modulating the molecular pathways that are crucial for the development of immune-mediated diseases.</objective>
+  <title>Defining how environmental factors influence downstream effects of immune-mediated disease risk-SNPs</title>
+<identifier>ERC2014STG</identifier>
+</project>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206397</rcn>
+  <acronym>MONICA</acronym>
+  <objective>The SoundCity Project MONICA aims to provide a very large scale demonstration of multiple existing and new Internet of Things technologies for Smarter Living. The solution will be deployed in 6 major cities in Europe.
+MONICA demonstrates a large scale IoT ecosystem  that uses innovative wearable and portable IoT sensors and actuators with closed-loop back-end services integrated into an interoperable, cloud-based platform capable of offering a multitude of simultaneous, targeted applications.
+All ecosystems will be demonstrated in the scope of large scale city events, but have general applicability for dynamically deploying Smart City applications in many fixed locations such as airports, main traffic arterials, and construction sites. Moreover, it is inherent in the MONICA approach to identify the official standardisation potential areas in all stages of the project.
+MONICA will demonstrate an IoT platform in massive scale operating conditions; capable of handling at least 10.000 simultaneous real end-users with wearable and portable sensors using existing and emerging technologies (TRL 5-6) and based upon open standards and architectures. 
+It will design, develop and deploy a platform capable of integrating large amounts of heterogeneous, interoperable IoT enabled sensors with different data capabilities (video, audio, data), resource constraints (wearables, Smartphones, Smartwatches), bandwidth (UWB, M2M), costs (professional, consumer), and deployment (wearable, mobile, fixed, airborne) as well as actuators (lights, LED, cameras, alarms, drones, loudspeakers).
+It will demo end-to-end, closed loop solutions covering everything from devices and middleware with semantic annotations through a multitude of wireless communication channels to cloud based applications and back to actuation networks. Humans-in-the-Loop is demonstrated through integrating Situational Awareness and Decision Support tools for organisers, security staff and sound engineers situation rooms.</objective>
+  <title>Management Of Networked IoT Wearables – Very Large Scale Demonstration of Cultural  Societal Applications</title>
+<identifier>H2020IOT2016</identifier>
+</project>

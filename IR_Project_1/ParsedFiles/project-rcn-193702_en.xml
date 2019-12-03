@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193702</rcn>
+  <acronym>FLARECAST</acronym>
+  <objective>Space weather can have detrimental, and in some cases catastrophic, effects upon a multitude of technologies on which we depend as part our daily lives. Adverse space weather is now known to result from solar flares and coronal mass ejections released from the turbulent and highly complex magnetic fields of active regions. Understanding how active region magnetic fields evolve and produce these events is therefore of fundamental importance to developing accurate and reliable space-weather monitoring and forecasting capabilities.
+
+We therefore propose to develop an advanced flare prediction system (Flare Likelihood And Region Eruption Forecasting; FLARECAST) that is based on automatically extracted physical properties of active regions coupled with state-of-the-art flare prediction methods and validated using the most appropriate forecast verification measures.
+
+Active region properties, such as area, magnetic flux, shear, magnetic complexity, helicity and proxies for magnetic energy, will be extracted from solar magnetogram and white-light images in near-realtime using advanced image-processing techniques. Once active region properties have been extracted, they will be correlated with solar flare activity and used to optimize prediction algorithms based on statistical, unsupervised clustering and supervised learning methods. This will enable us to validate our image processing and flare prediction algorithms before launching a near-realtime flare forecasting service, the first of its kind in the world.
+
+FLARECAST will therefore form the basis of the first quantitative, physically motivated and autonomous active region monitoring and flare forecasting system, which will be of use to space-weather researchers and forecasters in Europe and around the globe.</objective>
+  <title>Flare Likelihood and Region Eruption Forecasting</title>
+<identifier>H2020PROTEC2014</identifier>
+</project>

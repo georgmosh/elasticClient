@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212350</rcn>
+  <acronym>AIRPASS</acronym>
+  <objective>This proposal addresses “Topic 03: Aircraft Systems” of the SESAR ER RPAS call. Drones appear in a large variety of types, configurations and sizes. They are operated in a large variety of operational environments (i.e. locations, classes of airspace). However, it is essential that they interoperate with other drones as well as with manned aircraft. This proposal addresses the on-board technologies for drones that are required in order to implement the Unmanned Traffic Management (UTM) concept for drone operations at Very Low Level (VLL) and within the Visual Flight Rules (VFR) environment. The project will cover Detect And Avoid (D&amp;A) systems for cooperative and non-cooperative traffic, auto-pilot systems as well as Communication, Navigation and Surveillance (CNS) systems. This project will identify the available CNS infrastructure and on-board technologies to formulate an implementation approach. Based on this an on-board system concept will be developed and evaluated.</objective>
+  <title>Advanced Integrated RPAS Avionics Safety Suite</title>
+<identifier>H2020SESAR20161</identifier>
+</project>

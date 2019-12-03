@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200160</rcn>
+  <acronym>SPQRel</acronym>
+  <objective>The development of scalable quantum devices that generate and distribute quantum entanglement over distant parties will bring about a revolution in communication science and technology. Epitaxial quantum dots (QDs) embedded in conventional diodes are arguably the most attractive quantum devices, since they combine the capability of QDs to deliver triggered and high-quality entangled photons with the tools of the mature semiconductor technology. However, it is at present impossible to use remote QDs for the distribution of entangled photons over large distances, mainly due to the lack of control over their electronic structure.
+Recently, the PI has grasped that the solution to this problem resides in hybrid technologies. He has conceived and developed a novel class of semiconductor-piezoelectric quantum devices where different external fields are combined to reshape the electronic structure of any arbitrary QD so that single and polarization-entangled photons can be generated with unprecedented quality, efficiency, and speed, a major breakthrough for solid-state-based quantum communication.
+In this project the PI will make the next pioneering step and develop the hybrid technology to the limit where advanced quantum communication protocols previously inaccessible to QDs can now be performed. The objective of the proposal is mainly to i) develop the first electrically-controlled wavelength-tunable source of indistinguishable and entangled photons, which can be exploited to ii) teleport entanglement over two distant QD-based qubits (the quantum relay) and to iii) attempt the construction of a quantum network where entangled photons from remote quantum relays are interconnected using warm atomic vapours.  
+The new hybrid technology that will be developed in this project to achieve i) will open new grounds in research fields well beyond quantum optics and quantum communication, and in particular the whole research area of strain-engineering of semiconductor thin-films.</objective>
+  <title>Entanglement distribution via Semiconductor-Piezoelectric Quantum-Dot Relays</title>
+<identifier>ERC2015STG</identifier>
+</project>

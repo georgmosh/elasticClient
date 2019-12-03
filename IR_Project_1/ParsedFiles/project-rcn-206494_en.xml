@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206494</rcn>
+  <acronym>FLICs</acronym>
+  <objective>Thin-film transistor technologies are present in many products today that require an active transistor backplane e.g. flat-panel displays and flat-panel photodetector arrays. Unipolar n-type transistors based on amorphous Indium-Gallium-Zinc-Oxide (a-IGZO) as semiconductor is currently the most promising technology for next generation products demanding a  high-performant, low power transistor, manufacturable on flexible substrates enabling curved, bendable and even rollable displays. a-IGZO is a wide bandgap material characterized by extremely low off-state leakage currents and electron mobility of ~20 cm2/Vs. IGZO transistors fabricated on flexible substrates will also find their use in applications that require flexible integrated circuits. 
+
+The goal of this FLICs proposal is to develop disruptive technology and ground-breaking design innovations with amorphous oxide TFTs on plastic substrates, targeting large scale or very large scale flexible integrated circuits with unprecedented characteristics in terms of power consumption, supply voltage and operating speed, for applications in IoT and wearable healthcare sensor patches.
+
+We introduce a new logic style, “quasi-CMOS”, which is based on unipolar, oxide dual-gate thin-film transistors. This logic style will drastically decrease the power consumption of unipolar logic gates in a novel way by taking advantage of dynamic backgate driving and of the transistor’s unique low off-state leakage current, without compromising on switching speed. In addition, we also introduce downscaling of the transistor’s dimensions, while remaining compatible with upscaling to large-area manufacturing platforms. Finally, we will investigate novel ultralow-power design techniques on system-level, while exploiting the quasi-CMOS logic gates.
+
+We will demonstrate the power of this innovation with circuits for item-level Internet-of-Things, UHF RFID, and wearable health sensor patches.</objective>
+  <title>Enabling flexible integrated circuits and applications</title>
+<identifier>ERC2016STG</identifier>
+</project>

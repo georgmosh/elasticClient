@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>215849</rcn>
+  <acronym>NeuroMotive</acronym>
+  <objective>The work proposed aims at the development of a service in Traction Control for the automotive industry, building upon innovation from the NeuroRobotics Platform (NRP, HBP-SP10). The service will use the platform’s capacity to synthesize sophisticated neural control laws. Controllers developed will be tested on a unique infrastructure, the Siemens Mobility Test Setup (SMTS), which allows physical emulation of a wide range of road conditions for any car connected. This System-in-the-Loop (SyL) setup will support machine learning processes, allowing tuning of the traction controller to a high standard of performance, and provide early control-function validation and performance assessment. The work proposed involves: A limited amount of Technical Work, to connect NRP and SMTS, and develop the required service provision tools, Market Analysis and business plan development for the envisioned service, and a heavy emphasis on Outreach and Engagement of stakeholders and potential interested end-users.</objective>
+  <title>NeuroRobotics Platform Application to Traction Control for Automotive Industry</title>
+<identifier>H2020FETOPEN420162017</identifier>
+</project>

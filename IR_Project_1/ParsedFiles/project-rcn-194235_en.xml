@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194235</rcn>
+  <acronym>CloudSocket</acronym>
+  <objective>Business and IT Alignment is important challenge, as we are facing a dramatic change in the way we rely, depend and interact with ICT that influences our everyday life. Although “digital natives” will soon enter the workforce, there is still a huge gap between the business domain and ICT domain in terms of awareness, common understanding or expertise. This hampers the take-off of technology such as Cloud Computing. Hence, we are facing a competition, between global-market players who quicker succeed in changing business into the Cloud to raise ICT efficiency and reduce costs. This is particularly true for SMEs that have started to embrace virtualisation or at best IaaS offers but the exploding and dynamic market of components available on the PaaS or SaaS level demands for expertise and time typically not available at SMEs.
+Business processes are commodity when defining business activities in human understandable way in form of “sequences of manual, semi-automatic or automated tasks with the aim to achieve the company’s goal”.
+Previous work in plugIT mapped business processes on static ICT configurations available at a company’s site, assuming ICT is still mainly configured on platform or component level.
+CloudSocket envisions the idea of “Business Process as a Service”, where domain-specific business processes like employee registration at social insurance, tax report, or legal verification are supported by workflows that optimally match the ICT support for the selected process. The ICT support is expected to be realized by available platforms or software components from PaaS or SaaS platforms.
+CloudSocket introduces the concept BPaaS that fulfills the business process needs thanks to smart alignment techniques, packages this BPaaS as “extended Cloudlets” that are autonomously deployable and include adaptive rules to appropriately react in a multi-cloud environment by keeping SLAs and process-based billing. Hence, the vision is to “plug business” into the “Cloud”.</objective>
+  <title>Business and IT-Cloud Alignment using a Smart Socket</title>
+<identifier>H2020ICT20141</identifier>
+</project>

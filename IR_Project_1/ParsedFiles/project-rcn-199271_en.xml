@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199271</rcn>
+  <acronym>APOLLO</acronym>
+  <objective>The overall objective of APOLLO is to develop a commercial platform that will provide a suite of farm management advisory services specifically designed to address the needs of small farmers. APOLLO will use state-of-the-art methodologies for the calculation of agricultural parameters based on EO data, taking advantage of the improved spatial and temporal coverage of the new Sentinels. 
+APOLLO will produce data on agricultural parameters through available EO, meteorological, and auxiliary data. Especially for the calculation of soil moisture, SAR images will be used for the first time with Sentinel-1, making it possible to obtain maps with a spatial and temporal resolution not achievable before. Based on the agricultural parameters calculated, a suite of farm management services (tillage scheduling, irrigation scheduling, crop growth monitoring, and crop yield estimation) will be developed, and will be delivered through a web and mobile interface. The service requirements will be elaborated in close collaboration with end users. 
+APOLLO services will be cost-effective and affordable, thanks to access to free and open Copernicus data, an automated processing chain for the delivery of agricultural variables, independence from the need for ground-based sensors, and the pioneering use of Sentinel-1 data for estimating soil moisture information. 
+The APOLLO platform and business case will be validated through pilot testing in Spain, Greece, and Serbia, with the participation of small farmers, agricultural consultants, farmers’ associations, and SMEs providing farm management services.
+A business strategy for the take-up of APOLLO will be developed, assessing the operational sustainability of the platform based on market revenues. According to the preliminary business plan developed, APOLLO has the potential for a Return On Investment (ROI) of 18% - 51% in 3 years (for the low and high uptake scenario, respectively).</objective>
+  <title>Advisory platform for small farms based on earth observation</title>
+<identifier>H2020EO2015</identifier>
+</project>

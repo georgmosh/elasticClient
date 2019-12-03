@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>198809</rcn>
+  <acronym>FAST</acronym>
+  <objective>Additive Manufacturing (AM) market has grown with trends higher than 20% every year in the last 10 years. Their fast uptake is due to different innovative factors such as no shape limits in manufacturing process, full customisation on the single artefact, localised production and no waste material. In particular the ability to print any shape allows to design the products not following the constricting conventional manufacturing processes but just focalising on their function. This “Design for Function” feature is one of the main drivers for AM uptake on a wider scale production and the limited number of “functional” materials that can be printed or the limit in controlling gradient and surface properties are showing to be an important barrier. This is particularly true in manufacturing of tissue engineering (TE) scaffolds where the technology has a promising growth over the last decade. Scaffolds production for tissue regeneration is one of the main fields where the “Design for Function” feature of AM make the difference relative to the other production techniques if in the production process all the needed “Functions” can be introduced: mechanics, geometry (porosity and shape), biomaterial, bio-active molecules and surface chemical groups.
+The FAST project aims to integrate all these “Functions” in the single AM process.
+This integration will be obtained by the hybridisation of the 3D polymer printing with melt compounding of nanocomposites with bio-functionalised fillers directly in the printing head and atmospheric plasma technologies during the printing process itself. Final objective of the project is to realize a demonstrator of the proposed hybrid AM technology in order to achieve a small pilot production of scaffolds for bone regeneration with the novel smart features to be tested in some in-vivo trials.</objective>
+  <title>Functionally graded Additive Manufacturing scaffolds by hybrid manufacturing</title>
+<identifier>H2020NMPPILOTS2015</identifier>
+</project>

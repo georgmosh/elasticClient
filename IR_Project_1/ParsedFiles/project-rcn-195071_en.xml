@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>195071</rcn>
+  <acronym>BIHC</acronym>
+  <objective>With current consumer-grade personal computers, it is possible to display 3d virtual scenes with thousands of animated individual entities at interactive frame rates. Crowd simulations are, however, too often limited to characters lacking individuality and wandering in an environment without a specific goal. This situation is particularly problematic in the field of cultural heritage in real-time simulations of the past where the  realism of individual behavior is critical. This proposal, through a collaboration across the computer science and the archaeology fields, seeks to address this problem. It aims at exploring bio-mimicking techniques in the development of a generative model for heterogeneity and spontaneity in behavioral animation of crowds. More specifically, the goals can be defined as (i) the development of a bio-inspired model of agency for virtual humans (which upgrades a previous prototype, part of my earlier research), (ii) the development of an authoring tool to interact with the parameters of that model and develop context-specific behaviors/animations, and finally (iii) the development of a proof-of-concept - the simulation of a historical  environment, with the assistance of non-programmers using the authoring tool developed earlier.</objective>
+  <title>BIHC- Bio-inspired models of human crowds</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

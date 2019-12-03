@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213162</rcn>
+  <acronym>PROMETHEUS</acronym>
+  <objective>Privacy-preserving cryptographic protocols allow users to take common daily life actions online (e.g, purchases, reservations or voting) without leaking sensitive personal information. They typically combine various tools such as digital signatures, homomorphic encryption or zero-knowledge proofs. While practical solutions exist under RSA or discrete logarithm assumptions, they are all completely vulnerable to quantum attacks, so that working quantum computers would immediately make them obsolete.
+
+To address this threat, the PROMETHEUS project will enable users' privacy in the post-quantum world by providing a complete toolbox of innovative, efficient and quantum-secure cryptographic techniques adapted to modern services. It will provide new building blocks in relation with international competitions and standardisation processes, as well as advanced properties dedicated to the design of sophisticated protocols.
+
+To this end, PROMETHEUS will focus on lattice-based cryptography and first conduct an in-depth study of the hardness of lattice problems in the quantum world, which will drive the development of better basic tools for lattice-based cryptography. Then, it will give a new set of practical primitives (signatures, public-key encryption, pseudorandom functions, etc) and suitable methods to combine them with efficient zero-knowledge proofs. These new tools will lead to the design of practical advanced protocols, like anonymous credentials, digital cash or electronic voting, that maintain users' privacy against quantum adversaries. The security of these protocols will be considered in its entirety, from theoretical definitions allowing quantum accesses to certain functionalities to practical implementations accounting for side-channel leakages.
+
+As a concrete outcome, PROMETHEUS will highlight the feasibility of post-quantum privacy via demonstrators for several real-life use cases, including electronic payments, e-voting and cyberthreat intelligence.</objective>
+  <title>PRivacy preserving pOst-quantuM systEms from advanced crypTograpHic mEchanisms Using latticeS</title>
+<identifier>H2020DSLEIT2017</identifier>
+</project>

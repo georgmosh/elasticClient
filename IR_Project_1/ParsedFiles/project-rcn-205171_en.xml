@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205171</rcn>
+  <acronym>AMBER</acronym>
+  <objective>Over recent years the ubiquity of mobile platforms such as smartphones and tablets devices has rapidly increased. These devices provide a range of untethered interaction unimaginable a decade previously. With this ability to interact with services and individuals comes the need to accurately authenticate the identity of the person requesting the transaction many of which carry financial/legally-binding instruction. Biometric solutions have also seen increased prominence over the past decade with large-scale implementations in areas such as passport and national ID systems. The adoption of specific biometric sensors by mobile vendors indicates a long-term strategy as a means of authentication. This adoption is is at critical point – users need to be confident of biometrics in terms of usability, privacy and performance; compromise in any one of these categories will lead to mistrust and a reluctance to adopt over and above conventional forms of authentication. The design, implementation and assessment of biometrics on mobile devices therefore requires a range of solutions to aid initial and continued adoption. The EU needs to have experts trained specifically in the field to ensure that it participates, competes and succeeds in the global market. 
+
+AMBER comprises 11 partners with recognised expertise from across the EU. The specific objectives are to:
+
+• Address a range of current issues facing biometric solutions on mobile devices requiring timely research and development.
+• Collate Europe-wide complementary expertise to investigate these issues and provide a structure and environment to effectively facilitate training.
+• Train and equip the next generation of researchers to define, investigate and implement solutions, and provide transferable skills to enable effective planning, management and communication of research ideas and outcomes.
+• Develop solutions and theory to ensure secure, ubiquitous and efficient authentication whilst protecting privacy of citizen.</objective>
+  <title>AMBER - enhAnced Mobile BiomEtRics</title>
+<identifier>H2020MSCAITN2015</identifier>
+</project>

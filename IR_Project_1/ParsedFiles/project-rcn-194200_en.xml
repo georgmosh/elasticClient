@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194200</rcn>
+  <acronym>PERGAMON</acronym>
+  <objective>PERGAMON aims to facilitate the matching between providers of innovative ICT technologies on the supply side and the creative industry operating in the field of serious games on the demand side. Specifically, the PERGAMON project aims to support the adoption by the creative industry of an innovative technology framework for the development of pervasive serious games able to provide a personalized gaming experience.
+
+PERGAMON’s main objectives are:
+• To implement and pilot test a gaming framework that helps the creative SME to develop pervasive serious games in an effective and efficient way.
+• To develop new emotional and engaging serious game concepts integrated with personalized user assistance by means of a Virtual Coach and Artificial Intelligent functions. 
+• To set up a flexible gaming framework that is expandable so that additional services can be added at any time.
+• To connect the creative SME with the business network operating into the serious games international market.
+• To facilitate strategic business alliance between creative SMEs and providers of leading edge ICT technologies.
+
+The pervasive serious game framework will be built on the following components:
+• A Sensor Network for monitoring the player by means of wireless sensors.
+• A virtual Coach delivering personalized assistance to the player in the real life.
+• A Game Guide that adapts the challenges presented in the game and their level of difficulty to the data collected by the sensor network and to the user's interaction with the game itself.
+• A Dashboard accessible through a web site.
+• Social and pervasive game dynamics that encourages players to engage in challenges of increasing difficulty.
+
+The new concept of digital game can be used in various application contexts (health care, corporate training, education, government etc.) but will initially be implemented  and tested for the empowerment of chronic disease patients.</objective>
+  <title>PERvasive Serious GAMes suppOrted by Virtual CoachiNg</title>
+<identifier>H2020ICT20141</identifier>
+</project>

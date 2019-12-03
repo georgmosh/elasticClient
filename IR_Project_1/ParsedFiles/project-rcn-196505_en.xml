@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196505</rcn>
+  <acronym>NIRIS</acronym>
+  <objective>The goal of Non-Intrusive Resident Identification Sensor (NIRIS) project is to introduce the first affordable NIRIS to the market, which is the key component to enable true intelligence in smart buildings. Currently available smart buildings rely on user input and manual micromanagement to function correctly, which is neither efficient nor user friendly. Our sensor, on the other hand, non-intrusively identifies users passing through a doorway, which enables automatic adaptation and optimization of house appliances management, i.e. true smart buildings.
+
+Moreover, an array of NIRIS sensors can monitor users’ room-level location and detect anomalies, increasing safety and security of inhabitants and enabling a range of new applications, e.g. tele-medicine. Artificial intelligence method embedded in our NIRIS (developed in E-doorman project) accurately predicts users’ room-level location based on past behaviour. User-presence prediction can be used to lower household’s running costs by up to 30% and at the same time increase comfort of inhabitants. This means more than €300 in savings for an average European household per year. We intend to sell our sensor for less than €50 per unit, at an average of 3 sensors per house; this means that consumer’s payback period will be less than 6 months.
+
+All required intellectual property rights (IPR) are owned by Elgoline or are in public domain; the most important IPR is already protected by a patent filed on July 30th 2014 at the Slovenian patent office. Within the NIRIS project we will analyse opportunities for sensor applications, elaborate on business plan and connect with appropriate partners to bring NIRIS to the masses.</objective>
+  <title>Non-Intrusive Resident Identification Sensor</title>
+<identifier>H2020SMEINST12014</identifier>
+</project>

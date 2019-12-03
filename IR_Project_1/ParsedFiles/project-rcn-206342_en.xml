@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206342</rcn>
+  <acronym>An.Dy</acronym>
+  <objective>Recent technological progress in robot physical interaction permitted robots to actively and safely share with human a common workspace. Thanks to these technologies, Europe nowadays leads the robotic market in the niche of safety certified robots by endowing them with the ability to react to unintentional contacts. ANDY leverages these technologies and strengthen the European leadership by endowing robots with the ability to control physical collaboration through intentional interaction. These advances necessitate progresses along three main directions: measuring, modeling and helping humans engaged in intentional collaborative physical tasks. First, ANDY will innovate the way of measuring human whole-body motions developing the ANDYSUIT, a wearable force and motion tracking technology. Second, ANDY will develop the ANDYMODEL, a technology to learn cognitive models of human behavior in collaborative tasks. Third, ANDY will propose the ANDYCONTROL, an innovative technology for helping humans through predictive physical collaboration.
+ANDY will accelerate take-up and deployment by validating its progresses in realistic scenarios. In the first validation scenario the robot is identified with an industrial collaborative robot (i.e. robot=cobot) which adapts its ergonomy to individual workers. In the second validation scenario the robot is identified with an assistive exoskeleton (i.e. robot=exoskeleton) optimizing human comfort and reducing physical stress. In the third validation scenario the robot is identified with a humanoid (i.e. robot=humanoid) offering assistance to a human while maintaining the balance of both.</objective>
+  <title>Advancing Anticipatory Behaviors in Dyadic Human-Robot Collaboration</title>
+<identifier>H2020ICT20161</identifier>
+</project>

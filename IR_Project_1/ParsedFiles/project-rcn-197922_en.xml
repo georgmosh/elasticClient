@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>197922</rcn>
+  <acronym>COMP-MICR-CROW-MEM</acronym>
+  <objective>Cell membranes form a highly complex and heterogeneous mixture of membrane proteins and lipids. Understanding the protein-lipid interplay that gives rise to the lateral organisation principles of cell membranes is essential for life and health. Thus, investigations of these crowded membranes is emerging as a new and exceptionally exciting frontier at the crossroads of biology, life sciences, physics, and chemistry.
+
+However, our current understanding of the detailed organisation of cellular membranes remains rather elusive. Characterisation of the structural heterogeneity in-vivo remains very challenging, owing to the lack of experimental methods suitable for studying these fluctuating nanoscale assemblies of lipids and proteins with the required spatio-temporal resolution. In recent years, computer simulations have become a unique investigatory tool for understanding the driving forces governing the lateral organisation of cellular membrane components and this “computational microscopy” has become indispensible as a complement to traditional microscopy methods.
+
+In this ERC project I will, using advanced computational microscopy, study the interaction of lipids and proteins in complex, crowded, membrane patches, to enable the driving forces of membrane protein sorting and clustering to be unravelled at conditions closely mimicking real cellular membranes. The specific objectives are:
+
+• To develop a novel computational microscopy framework for simulating biomolecular processes at multiple resolutions.
+• To use this new computational microscopy framework to investigate the driving forces of membrane protein sorting and clustering.
+• To provide a molecular view of realistic, crowded, biological membranes composed of hundreds of different lipids and proteins.
+
+The outcomes will enable subsequent studies of many different types of cell membranes based on forthcoming lipidomics studies and progress in structural characterisation of membrane proteins.</objective>
+  <title>Computational Microscopy of Crowded Membranes</title>
+<identifier>ERC2014ADG</identifier>
+</project>

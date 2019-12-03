@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212914</rcn>
+  <acronym>FLAMINGO</acronym>
+  <objective>The success of Galileo will largely depend on its uptake in LBS and IoT markets. Leveraging on Galileo’s features that improve performance in urban environment, FLAMINGO will unleash GNSS mass-market potential.
+
+The overarching objectives of FLAMINGO are to develop and deliver high accuracy and reliable positioning and navigation services for mass market uptake, to demonstrate the potential by developing and showcasing ready to market applications on both Smartphone and IoT devices within major European cities, and to foster a new community of E-GNSS consumers and applications. FLAMINGO shall produce a service targeting accuracies of 50cm (95%) and better, employing multi-constellation, PPP and RTK mechanisms, power consumption optimisation techniques as well as the GNSS raw measurements availability. 
+
+FLAMINGO will deliver hardware and software that utilise the service to its full potential. Technology triggers for mobile devices will be provided by Google through the provision of an Android-N build that provides continuous carrier phase measurements (a prerequisite for the highest order accuracy GNSS positioning) and by BQ who developed the first European Galileo-ready Smartphone to hit the market.  IoT devices currently provided by three of the consortium partners will be modified, enhanced, and made available for the validation activities. The project will develop and deliver a series of market-ready Galileo enabled IoT and commercial LBS applications in three urban areas that support European ambitions on Smart Cities namely Barcelona (ES), Toulouse (F) and the Gdansk/Gdynia/Sopot Tricity (PL).  In addition the E-GNSS user base and markets will be stimulated through a tiered FLAMINGO Hackathon process which will bring together a mixed community of E-GNSS users, consumers, application developers, GIS and data scientists. 
+
+FLAMINGO involves nine leading organisations who specialise in location technology, including five SMEs.</objective>
+  <title>Fulfilling enhanced Location Accuracy in the Mass-market through Initial GalileO services</title>
+<identifier>H2020GALILEOGSA20171</identifier>
+</project>

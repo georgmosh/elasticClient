@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212217</rcn>
+  <acronym>ROMI</acronym>
+  <objective>All over Europe, young farmers are starting small market farms. These farms can be found both in rural, peri-urban and urban areas. They grow a large variety of crops (up to 100 different varieties of vegetables per year) on small surfaces (0.01 to 5 ha) using organic farming practices. These farms have proven to be highly productive, sustainable and economically viable. But, a lot of work is done manually, resulting in physically challenging work conditions. 
+
+ROMI will develop an open and lightweight robotics platform for these microfarms. We will assist these farms in weed reduction and crop monitoring. This will reduce manual labour and increase the productivity. Thanks to ROMI’s weeding robot, farmers will save 25% of their time. This land robot will also acquire detailed information on sample plants and will be coupled with a drone that acquires more global information at crop level. Together, they will produce an integrated, multi-scale picture of the crop development that will help the farmer monitor the crops to increase efficient harvesting. For this, ROMI will have to adapt and extend state-of-the-art land-based and air-borne monitoring tools to handle small fields with complex layouts and mixed crops.
+
+To achieve this, we will: (i) develop and bring to the market an affordable, multi-purpose, land-based robot, (ii) develop a weeding app for this robot that is adapted for organic microfarms, (iii) apply advanced 3D plant analysis and modelling techniques to in-field data acquisition, (iv) integrate these analysis techniques in the robot for detailed plant monitoring, (iv) integrate these techniques also in the aerial drone N-E-R-O for multi-scale crop monitoring, (v) extend the robot with novel, adaptive learning techniques to improve sensorimotor control of the plant monitoring app, and (vii) test the effectiveness of our solution in real-world field conditions.
+
+A spin-off will be created to bring the robot and the drone to the market of micro-farms.</objective>
+  <title>RObotics for MIcrofarms</title>
+<identifier>H2020SFS20171</identifier>
+</project>

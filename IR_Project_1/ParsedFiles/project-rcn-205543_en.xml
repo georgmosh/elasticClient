@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205543</rcn>
+  <acronym>ZAero</acronym>
+  <objective>In the aerospace industry very high quality standards have to be met. For the manufacturing of carbon fibre parts this is currently solved through extended end-of-line inspection in combination with re-work processes to deal with defective parts. Also, in-situ visual inspection is used for quality control, which is currently causing huge productivity losses (30%-50%) during lay-up and has become a real bottleneck in carbon fibre parts manufacturing.
+
+The project will provide a solution by developing inline quality control methods for the key process steps: automatic lay-up (dry fibre placement and automatic dry material placement) and curing. At the system level decision support systems will be developed that assist human decision-making when assessing defects and when planning the part flow through the production line. These will be supported by simulation tools for part verification and logistical planning. 
+The future manufacturing of the A320neo wing covers will be provide the background for the developments. Each such wing cover consists of two parts, that each cost several hundred thousand Euros in manufacturing. Assuming the planned production rates of 60 planes per month from 2025, savings of 150 MEUR in production costs can be obtained per year.
+
+The consortium consists of all key players that will play a future role in the manufacturing of such large carbon fibre parts. Airbus with its research centers Airbus Group Innovations and FIDAMC will play a leading role in the consortium as far as the multi-stage manufacturing process is concerned. Machine builders (MTorres, Danobat) and research centers will develop the inline quality control, while Dassault Systémes will provide simulation support.</objective>
+  <title>Zero-defect manufacturing of composite parts in the aerospace industry</title>
+<identifier>H2020FOF2016</identifier>
+</project>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>209294</rcn>
+  <acronym>BNSmergers</acronym>
+  <objective>The research project will pave the way for a better understanding of the binary neutron star (BNS) merger process with a view on the detection of gravitational waves (GWs) and electromagnetic (EM) signals. 
+To achieve this goal, a large number of numerical relativistic simulations will be used to improve and develop GW models and to compute EM counterparts of BNS mergers.
+
+For the first time it is possible to investigate systematically the BNS parameter space, because the total mass, mass-ratio, eccentricity, spin, and the equation of state (EOS) can be varied simultaneously. I will perform numerical simulation of generic BNS systems with the focus on precessing configurations, i.e.~those where the spin of the neutron stars is not aligned with the orbital angular momentum. Based on the numerical simulations, semi-analytical models for the GW signal will be constructed. 
+This is of great importance for GW astronomy, because although a GW from a BNS system may be detected any time in the next years, essential tools needed for the scientific exploitation of such events and determination of the elusive EOS are still missing. 
+In addition to GW modeling, I will compute electromagnetic (EM) counterparts produced during the merger of the two neutron stars.  Knowledge about the influence of the binary parameters on the GW and the EM signals allows to combine two independent observational methods, which crucially supports the emergent field of multi-messenger astronomy.</objective>
+  <title>Gravitational Waves and Electromagnetic Counterparts from Generic Binary Neutron Star Systems</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

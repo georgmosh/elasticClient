@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207071</rcn>
+  <acronym>CONNECT</acronym>
+  <objective>"Networks are present in our lives in numerous different environments: to name just a few, networks can model social relationships, they can model the Internet and links between web pages, they might model the spread of a virus infection between people, and they might represent computer processors/sensors that have to exchange information.
+This project aims to obtain new insights into the behaviour of networks, which are studied from a geometric and computational perspective. Thereto, the project brings together researchers from different areas such as computational geometry, discrete mathematics, graph drawing, and probability. Among of the topics of research are enumerative problems on geometric networks, crossing numbers, random networks, imprecise models of data, restricted orientation geometry. Combinatorial approaches are combined with algorithms. Algorithmic applications of networks are also studied in the context of unmanned aerial vehicles (UAVs) and in the context of musical information retrieval (MIR).
+The project contains the work packages: “Geometric networks”, ""Stochastic Geometry and Networks"", “Restricted orientation geometry”, “Graph-based algorithms for UAVs and for MIR”, and “Dissemination and gender equality promotion”. 
+The project connects researchers from 14 universities located in Austria, Belgium, Canada, Chile, Czech Republic, Italy, Mexico, and Spain, who will collaborate and share their different expertise in order to obtain new knowledge on the combinatorics of networks and applications."</objective>
+  <title>Combinatorics of Networks and Computation</title>
+<identifier>H2020MSCARISE2016</identifier>
+</project>

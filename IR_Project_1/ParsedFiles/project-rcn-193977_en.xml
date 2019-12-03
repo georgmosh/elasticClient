@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193977</rcn>
+  <acronym>ACT5G</acronym>
+  <objective>The rapid growth in mobile network data traffic contributed to the unprecedented speed of 4G LTE adoption, creating the need of sustainable capacity growth in next generation of wireless systems, namely 5G. A key success factor of 5G is network and management system design for flexibility by prediction and adaptation. To this end, anticipation is a promising new approach. By predicting and adapting to upcoming events at various time scales, an anticipatory network improving the operation quality and efficiency. First, network resources ranging from spectrum and buffers can be managed optimally to meet users’ requirements. Second, network operators can jointly plan how to share infrastructures and resources to meet their demands at lower costs and better energy efficiency. 
+
+The ACT5G project addresses these challenges by two parallel research thrusts which we identify as Network Prediction and Reaction Mechanisms. The research in these thrusts ranges from analytic methods and models for anticipatory networks, to optimization in resource management and infrastructure sharing.
+
+To achieve the objectives, ACT5G engages in a four-year research program centered around four industrial PhDs. Half of the duration of the involvement of the early stage researchers (ESRs) in the program will be spent at the site of Alcatel Lucent Bell-Labs, giving the core industrial aspect of the ACT5G project.
+
+ACT5G brings together a consortium of complementary research skills, ensuring that the involved ESRs conduct top-level beyond-state-of-the-art research, while enjoying a well-structured program for industrial-oriented doctoral studies. The added value of ACT5G is the creation of a critical mass of trained researchers, working together under joint industrial/academic supervision. The outcomes of the project are have a direct impact on the evolution towards 5G networks, the career perspectives of the ESRs, and the human capital of the European Research Area.</objective>
+  <title>Anticipatory Networking Techniques in 5G and Beyond</title>
+<identifier>H2020MSCAITN2014</identifier>
+</project>

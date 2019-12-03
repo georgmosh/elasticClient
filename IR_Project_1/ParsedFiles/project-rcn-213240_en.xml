@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213240</rcn>
+  <acronym>HomeEnergyStorage</acronym>
+  <objective>Photovoltaic (PV) electricity microgeneration is becoming an increasingly profitable solution, because electricity costs for consumers are expected to rise and the PV panel prices to fall.
+However, in the residential market, there is a time-shift (i.e. the duck curve) between the electricity consumption curve and the PV electricity production, with largest consumption in the morning and evening, while most PV production is during daytime. Currently, these differences are managed in the following way: during the day, excess PV electricity production is fed into the utility grid, and the producer receives a payment based on the Feed-in Tariff. At night, electricity consumption is maintained by the utility grid at normal costs. In the past decade, this system was supported by attractively high Feed-in Tariffs. However, due to very large number of PV installations the Feed-in costs for utility grids have grown exponentially and new payment models have now much lower or even zero Feed-in Tariffs for microgeneration in residential buildings, in most EU countries. Thus, there is now an economical incentive for electricity storage.
+With this innovation project, we aim to pave the way for market introduction of the most cost-effective solution for storage of locally produced PV energy at residential buildings. To reach this goal, VisBlue is developing a storage system based on Vanadium Redox Flow Batteries. The ultimate value proposition for end-users is the lowest cost in terms of EUR/kWh/cycle on the market, ensuring as low as 9 years of payback time, which is significantly lower than any of the competing solutions.
+Furthermore, the successful implementation of the innovation project is expected to boost the company’s growth, placing VisBlue in a strong position to generate around €25.6 million in revenue and a profit of €8.6 million over five years’ post-project.</objective>
+  <title>Cost-effective battery for storage of locally produced Photovoltaic energy at residential buildings</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

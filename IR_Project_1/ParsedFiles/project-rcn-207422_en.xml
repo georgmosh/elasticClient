@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207422</rcn>
+  <acronym>DEGOO</acronym>
+  <objective>This innovation project will create Degoo Backup, a novel cloud backup service that will redefine the established business model on the international cloud backup market. The idea is to create the service that breaks the monopolized position of the multinational players, such as Google, Amazon, Microsoft or Apple, by changing their status from the players that control the market for cloud infrastructure as a service (IaaS) and thus dictate cloud backup prices to providers of storage space that have to compete with smaller and national players.  This will be enabled though a novel functionality for dynamic, rule-based distribution of data to the data centres where the data is stored.
+
+The key targeted users for the service with the new data routing functionality are private individuals who need a low-cost, fast-uploading, secure and reliable service for cloud backup of digital content. Users seek a solution for the problem of dynamically expanding size of their digital data and growing need for large storage capacity. The commercial potential of Degoo Backup lies in the opportunity to accelerate the growth of the international backup market with the needs of the end-uses as the major flywheel.
+
+The Phase 1 feasibility assessment will develop a business plan that will guide the upcoming technological efforts and commercialisation/exploitation efforts. The implementation, demonstration and testing of this new functionality will take place in the Phase 2 project. 
+
+The EU aims at regulating this market through its data protection directive and the data protection regulation. The project supports those efforts by delivering the first cloud backup service that truly enables the European citizens to store their data in Europe, in full compliance with the applicable rules and regulations. Furthermore, Degoo backup service fosters a competition culture as it creates a truly consumer-driven market.</objective>
+  <title>Degoo backup – the first back-up service based on dynamic routing of transfer data to data centres</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

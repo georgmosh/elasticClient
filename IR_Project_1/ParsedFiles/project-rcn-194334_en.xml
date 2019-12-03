@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194334</rcn>
+  <acronym>AXIOM</acronym>
+  <objective>"AXIOM introduces the first professional, extendable, affordable and modular cinema camera platform based on Free Software, Open Design, Open Hardware, transparent development processes and extensive documentation. The project establishes an ecosystem that offers a sustainable basis for a broad spectrum of audiovisual applications and empowers enthusiasts, videographers as well as developers in the technology and creative industry sectors.  
+
+AXIOM is not meant to be just one fixed product but rather an open platform stimulating the collaboration of the creative industry with a viable ecosystem for innovative (value-added) products and services. The project aims to show a best-practice example in European Open Hardware development and documentation. There is no comparable product on the market yet.
+AXIOM targets the demand for emerging technologies in the creative industry and imaging sectors (eg. cinema, broadcast, science or medical use): high-resolution (4K), high frame-rate (HFR), global shutter, open design (Open Hardware, FLOSS), modular system, using only open standards.
+
+AXIOM is a project of ground-breaking nature. We are expecting the project to be a best-practice-example, with very high potential to disrupt the creative industries in the imaging and video sectors. 
+
+AXIOM is:
+-) a system between industrial and high end digital cinema camera, for a fraction of the price
+-) highly modular: customizable (software, hardware, FPGA)
+-) using open standards exclusively
+
+The proposed action includes prototyping, testing, demonstrating and piloting the AXIOM Open Integrated Modular Cinema Camera dubbed "AXIOM Gamma". AXIOM will be presented at the international M.I.T. Open Hardware Summit 2015, research data and results will be released under a free licence."</objective>
+  <title>Apertus° eXtendable Integrated Open Modular Cinema Camera</title>
+<identifier>H2020ICT20141</identifier>
+</project>

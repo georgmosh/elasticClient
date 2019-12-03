@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193833</rcn>
+  <acronym>e-Airport</acronym>
+  <objective>The main goals of the e-Airport project are:
+• The development of an airport operations monitor application based on European GNSS to increase the efficiency, safety and security  of  aircraft services and cargo processes 
+• Application demonstrations in two European airports using EGNOS and Galileo Early services.
+
+Eurocontrol statistics indicates that 70 % of all flight delays in Europe are caused by airlines or their ground handlers, airports or other parties involved in the turn around process which includes cabin service, catering, fuelling, cargo operations, passenger boarding etc.
+On the other hand, ICAO Annex 14 recommends to provide apron management service to increase airport capacity in low visibility conditions and at complex, high-density aerodromes.
+To cope with these efficiency and safety goals different R&amp;D projects in Europe have developed applications focused on improving particular aspects of Airport Operations. 
+The e-Airport project aims at:
+• evolve GPS based solutions developed in previous projects in multicostellation based solutions exploiting GPS, EGNOS/EDAS and Galileo services
+• integrate the applications developed to monitor aircraft services and cargo processes in a single wider application able to measure the global Airport performance Key Performance Indicators according to the SESAR guidelines
+Moreover e-Airport project will propose an evolution of the current CEN standard for provision of EGNOS CS/EDAS based services to include the use of Galileo services and it will release the associated client SW tool to the GNSS developer community with free open source license.
+
+Airport Operators and one Air Navigation Service Provider are part of the e-Airport project team to drive the application development with actual operational user needs and to validate the application demonstration in:
+• “Karol Wojtyła” International Airport of Bari-Palese
+• “Henri Coandă” International Airport of Bucarest</objective>
+  <title>Increase airport capacity, safety and security using European GNSS</title>
+<identifier>H2020Galileo20141</identifier>
+</project>

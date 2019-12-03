@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194986</rcn>
+  <acronym>GEOGRAL</acronym>
+  <objective>The aim of GEOGRAL is to strengthen the bonds of the geometric theory of nonlinear PDEs (and, in particular, integrable systems and equations of Monge-Ampère type) with the geometry of  Lagrangian Grassmannians and their submanifolds. In spite of the evident parallelism between these two disciplines, attempts have been rare, yet sophisticated, to cast a bridge between them, and the Applicant himself already gave his own contribution in this direction: he clarified the structure of the space of non-maximal integral elements of the contact planes in jet spaces and studied 3rd order Monge-Ampère equations (which turn out to be of key relevance in topological field theories) through the so-called meta-symplectic structure on the 1st prolongation of a contact manifold.
+GEOGRAL has a wide applicative scope, as its theoretical results can be tested on equations and variational problems of key importance for Natural Sciences, Technology and Economy. Tailored to the Applicant's scientific profile and designed in continuity with his previous and current research activities, GEOGRAL consists of four research lines:
+[MOV] Regard Lagrangian Grassmannians as homogeneous spaces and and use Cartan's method of moving frame to classify their submanifolds, as in D. The's work, and characterise the corresponding invariant equations, in continuity with D. Alekseevsky's work.
+[HYD] Continue the study of certain rational normal curve bundles on Lagrangian Grassmannians, and their bisecant varieties, which are associated with integrable systems of hydrodynamic type, discovered by E. Ferapontov.
+[HMA] Geometric study of multi-dimensional and higher-order Monge-Ampère equations, initiated by G. Manno and the Applicant.
+[FBV] Study some examples of Cauchy problems and variational problems with free boundary values by exploiting the geometric structures on the spaces of isotropic flags and non-maximal isotropic elements of a meta-symplectic space, in continuity with the Applicant's own work.</objective>
+  <title>Geometry of Grassmannian Lagrangian manifolds and their submanifolds, with applications to nonlinear partial differential equations of physical interest</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

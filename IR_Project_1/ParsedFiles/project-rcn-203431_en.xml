@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>203431</rcn>
+  <acronym>POWVER</acronym>
+  <objective>Twenty years ago we were able to repair cars at home. Nowadays customer services repair coffee machines. By installing software updates. Soon you will no longer be able to repair your bike.
+
+Embedded software innovations boost our society; they help us tremendously in our daily life. But we do not understand what the software does, regardless of how well educated or smart we are. Proprietary embedded software has become an opaque layer between functionality and user. That layer is thick enough to possibly induce malicious or unintended behaviour.  Proprietary embedded software locks us out of the products we own.
+
+We need a turn to open and hence customisable embedded software. However, a minor customisation might well have strong unexpected impact, for instance on the longevity of an embedded battery, or the safety of the battery charging process. We thus need means to detect, quantify and prevent such implications.
+
+The POWVER project lays the foundations. It provides quantitative verification technology for system-level correctness, safety, dependability, and performability. In this endeavour, POWVER takes up a hard scientific challenge, a challenge where discrete and continuous, real-time, stochastic as well as data- and user-dependent aspects are all deeply intertwined: embedded software for electric power management. Electric power is intricate to handle by software, is safety-critical, but vital for mobile devices and their longevity. Since ever more tools, gadgets, and vehicles run on batteries and use power harvesting, power management is a pivot of the future.
+
+POWVER will demonstrate that quantitative verification of open embedded software is feasible, and can ensure safe and dependable operation of safety-critical devices. A proof of concept will target the field of electric mobility, set up as a blueprint for other battery-powered appliances. As such, POWVER is the nucleus for a radical change in the way embedded software quality is assured in general.</objective>
+  <title>Power to the People. Verified.</title>
+<identifier>ERC2015AdG</identifier>
+</project>

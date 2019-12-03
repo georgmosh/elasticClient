@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>195816</rcn>
+  <acronym>MCMQCT</acronym>
+  <objective>Quantitative assessment of cellular phenotypes can result from various processes such as genetic manipulation, gene silencing, drug application or environmental changes. In many biological processes evident development of phenotypes often requires a long-term study of the sample, which can capture events at high-resolution and high frame rates. The essential working tool for this kind of studies is the optical microscope, which is essentially limited by a small field of view of the sample in two-dimensional (2D) environment, unsuitable for the quantitative assessment of cells in a more natural environment, in which they develop and evolve within complex communities. For this task, I purpose a novel platform based on a holographic on-chip microscopy which represents a new generation of computational microscopes, by integrating transformative technologies, which will ultimately enable five-dimensional, photodamage optimized at diffraction limited resolution, quantitative cell tracking. We believe that these functionalities and the platform's cost effectiveness will enable next generation high-throughput scientific research on the influence of drugs, genome modification and environmental changes, developing new models for cell locomotion, such as viral plague growth assays performed in hospitals and clinics, detection of parasites and bacteria in food/water and for education purposes, including in developing countries.</objective>
+  <title>Multi-functional Computational Microscopy for Quantitative Cell Tracking</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

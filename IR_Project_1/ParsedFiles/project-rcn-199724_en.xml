@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199724</rcn>
+  <acronym>HYPERDIAMOND</acronym>
+  <objective>Non-invasively imaging small numbers of molecular probes, to help image particular targets or pathways in vivo, is currently undergoing a technological revolution. Recent breakthroughs in molecular hyperpolarization proved &gt; 10,000-fold increase in sensitivity on conventional magnetic resonance imaging (MRI) systems, thus providing insight into previously unseen metabolic processes with enormous potential for socioeconomic relevant diseases. E.g. pyruvate-based hyperpolarized imaging was clinically demonstrated to be effective for prostate cancer diagnostics in human patients. However, the current state-of-the-art hyperpolarization methods are expensive and cumbersome, limiting the access to hyperpolarization technology, and require long hyperpolarization times of 60-90 minutes per dosage; hyperpolarization probes exhibit short hyperpolarization duration (1-5 minutes), limiting the usage of hyperpolarization to metabolic imaging. A quantum technological breakthrough, Nitrogen-Vacancy defects (NV centres) in diamonds, is set to revolutionize the field of hyperpolarization for both hyperpolarizer and probes. 
+The primary objective of HYPERDIAMOND is the development and commercialization of two new molecular imaging technologies for sensitive diagnosis and treatment monitoring, based on NV centres:
+The Diamond Hyperpolarizer will offer a cost- and time-effective solution for hyperpolarization that easily fits current MRI layouts, hyperpolarizes within 5 minutes, and improves clinical viability. The Nano-diamond (ND) Probe will introduce the first targeted MRI probe capable of achieving comparable molecular sensitivity to positron emission tomography (PET) with MRI systems, exhibiting extremely long hyperpolarization duration (~1 hour), and enabling non-metabolic hyperpolarized imaging. 
+ HYPERDIAMOND will bridge the gap between novel quantum and nanotechnology and their applications in hyperpolarized imaging, producing innovation not feasible with current technology.</objective>
+  <title>The Diamond Revolution in Hyperpolarized MR Imaging – Novel Platform and Nanoparticle Targeted Probe</title>
+<identifier>H2020PHC2015twostage</identifier>
+</project>

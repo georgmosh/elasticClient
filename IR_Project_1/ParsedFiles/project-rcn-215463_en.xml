@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>215463</rcn>
+  <acronym>EuSuper</acronym>
+  <objective>The ongoing demand for computing-power and data-storage is quickly approaching the physical limits of conventional silicon-based electronics. To overcome this limit different approaches beyond conventional complementary metal-oxide-semiconductor (CMOS) technology are nowadays under investigation. On one hand, quantum computers, based on non-classical superposition of logic units (bit), offer bright perspectives. On the other hand, energy-efficient superconducting circuits based on Josephson junctions have already demonstrated a computational speed two orders of magnitude larger than conventional CMOS-based ones. The complete implementation of a supercomputer based on this technology is currently limited by the lack of memories operating at cryogenic temperatures, i.e. in close contact and compatible with the superconducting processor. 
+Starting from the growth of thin films of FI/S bilayers, transferred from the state-of-the-art technology of the host institution (MIT), the first objective of this project will be the design of new architectures to control the magnetic configuration of the FI/S interfaces. 
+The successful miniaturization and patterning of these materials will enable the realization of a prototype of FI/S-based superconducting magnetic-RAM (SMRAM), thus providing the missing building block towards the implementation of the superconducting computer. This will be achieved in the last objective of the project dedicated to demonstrate the scalability (including all the write and read protocols) to make the SMRAM technology ready for the large-scale market. 
+Besides, from a fundamental physics point of view, the results obtained within my project will clarify the interplay between ferromagnetism and superconductivity in FI/S mesoscopic junctions.</objective>
+  <title>Superconducting Magnetic RAM for Next Generation of Supercomputers</title>
+<identifier>H2020MSCAIF2017</identifier>
+</project>

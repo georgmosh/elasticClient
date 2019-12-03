@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213052</rcn>
+  <acronym>GRASSHOPPER</acronym>
+  <objective>The GRASSHOPPER project aims to create a next-generation MW-size Fuel Cell Power Plant unit (FCPP), which is more cost-effective and flexible in power output, accomplishing an estimated CAPEX below 1500 EUR/kWe at a yearly production rate of 25 MWe.
+Large MW size PEM FCPP have been demonstrated, such as in the DEMCOPEM-2MW project, however at too high Capex level and without dynamic operation features for grid support. Grasshopper tackles these issues enabling a controlled, renewables-based energy infrastructure.
+The power plant will be demonstrated in the field as 100 kW sub-module pilot plant, implementing newly developed stacks, MEA’s and BoP system components, combining benefits of coherent design integration.
+Cost and technical optimisation will be achieved with improvements targeting MEAs (increasing current density, active area, reducing material costs incl. Pt loading), stack design (increasing stack size, power density and operating pressures, while streamlining manufacturability) and overall system balance of plant (modular design, simplified header and manifolds for gas distribution, high efficiency PV inverters, using off-the-shelf equipment where possible).
+This unit will be operated continuously for 8 months in industrially-relevant environment for engaging grid support modulation as part of an established on-site Demand Side Management (DSM) programme.
+This consortium unites component suppliers (JMFC, NFCT), research institutions (ZBT, Polimi) and integrators (AI, INEA) who will partner with existing energy market stakeholders (DSO, TSO) and EU smart grid projects committed to participate as advisory board members. This collaboration maximises the business case value proposition, by ensuring the delivered technology will respond to grid services’ requirements for flexible dynamic power operation. Innovative DSM programmes will be completed to establish the best path forward for commercialization of the technology for a fast response FCPP.</objective>
+  <title>GRid ASsiSting modular HydrOgen Pem PowER plant</title>
+<identifier>H2020JTIFCH20171</identifier>
+</project>

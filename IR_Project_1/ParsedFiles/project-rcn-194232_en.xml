@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194232</rcn>
+  <acronym>INPUT</acronym>
+  <objective>The INPUT Project aims at designing a novel infrastructure and paradigm to support Future Internet personal cloud services in a more scalable and sustainable way and with innovative added-value capabilities. The INPUT technologies will enable next-generation cloud applications to go beyond classical service models, and even to replace physical Smart Devices, usually placed in users’ homes (e.g., set-top-boxes, etc.) or deployed around for monitoring purposes (e.g., sensors), with their virtual images, providing them to users “as a Service.” Virtual and physical SDs will be made available to users at any time and at any place by means of virtual cloud-powered Personal Networks, which will constitute an underlying service model. These Personal Networks will provide users the perception to be always in their home LAN with their own smart digital (virtual and physical) devices. 
+The INPUT project will overcome current limitations in the cloud service design due to the underlying obsolete network paradigms and technologies, by:
+• Using the computing and storage capabilities of network appliances to allow users create private clouds “in the network”;
+• Exploiting the energy consumed in network appliances more efficiently than in traditional cloud computing scenarios;
+• Moving cloud services much closer to end-users and smart-devices, thus avoiding useless network infrastructure overloading. 
+The INPUT Project will foster future-proof Internet infrastructures that will be “smarter,” fully virtualized, power vs. performance optimised, and vertically integrated with cloud computing, with a clear impact on OPEX and CAPEX of Telecoms, of Service Providers, and of end-users. The INPUT project will extend the programmability of network devices to make them able to host cloud service applications, which will cooperate with the ones in users’ terminals and datacenters to realize the aforementioned cloud services.</objective>
+  <title>In-Network Programmability for next-generation personal cloUd service supporT</title>
+<identifier>H2020ICT20141</identifier>
+</project>

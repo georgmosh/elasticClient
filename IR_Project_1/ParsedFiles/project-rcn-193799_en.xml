@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193799</rcn>
+  <acronym>eDrug</acronym>
+  <objective>Computer simulations are taking over in design processes. Nevertheless, complex projects will largely benefit from human intuition and team-work. We aim to combine computer and human power into the next generation of fully interactive computational tools for drug design. The goal of eDRUG is prove the potential of this novel computational solution in the current pipeline of drug development and the prospective interest that it will raise in the pharmaceutical industry.
+We aim at merging human knowledge with state of the art affordable computational resources to create an interactive and (capable of) intuition-guided software solution. The idea seats on three technological pillars: 1) the PELE software allowing fast biophysical characterization of drug-target interactions, 2) advances in computational hardware providing more computational performance in reduced space, requiring lower power consumption and acquisition cost, and 3) better graphical devices allowing a richer and faster human(team) data analysis and software interaction.
+The goal matches with increasing and future needs from pharmaceutical companies to improve rational drug design (in response to cell/virus mutations, personalized medicine, etc.). One worldwide leading pharmaceutical company, and a local biotech SME, will be counseling the developing team and testing the prototypes, to meet a product that fulfills industry expectations.</objective>
+  <title>Drug eDesign: Building the next generation of software solutions for drug design</title>
+<identifier>ERC2014PoC</identifier>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208307</rcn>
+  <acronym>PEPCo</acronym>
+  <objective>Extremal and probabilistic combinatorics is a central and currently maybe the most active and fastest growing area in discrete mathematics. The field can be traced back to the work of Turán and it was established by Erdős through his fundamental contributions and his uncounted guiding questions. Since then it has grown into an important discipline with strong ties to other mathematical areas such as theoretical computer science, number theory, and ergodic theory.
+
+The PI proposes a variety of extremal problems for hypergraphs and for sparse random and pseudorandom graphs. The work for hypergraphs is motivated by Turán’s problem, maybe the most prominent open problem in the area. After solving an analogous question for graphs, Turán asked to determine the maximum cardinality of a set E of three-element subsets of a given n-element set V such that for any 4 elements of V at least one triple is missing in E. This innocent looking problem seems to be out of reach by our current methods and despite a great deal of effort over the last 70 years, our knowledge is still very limited.
+
+We suggest a variant of the problem by imposing additional restrictions on the distribution of the three-element subsets in E. These additional assumptions yield a finer control over the corresponding extremal problem. In fact, this leads to many interesting and hopefully more manageable subproblems, some of which were already considered by Erdős and Sós. We suggest a unifying framework for these problems and one of the main goals would be the development of new techniques for this type of problems. These additional assumptions on the hyperedge distribution are closely related to the theory of quasirandom discrete structures, which was pioneered by Szemerédi and became a central theme in the field. In fact, the hypergraph extension by Gowers and by Rödl et al. of the regularity lemma provide essential tools for this line of research.</objective>
+  <title>Problems in Extremal and Probabilistic Combinatorics</title>
+<identifier>ERC2016COG</identifier>
+</project>

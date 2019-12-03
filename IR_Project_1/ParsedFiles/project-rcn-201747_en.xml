@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>201747</rcn>
+  <acronym>MIDRAULICS</acronym>
+  <objective>The Company Hydronit, founded in 2003, develops its activity in the field of hydraulics, producing high quality energy efficient components for both fixed and mobile installations, where we focus in powering hydraulics. Hydronit has made significant achievements since its creation and is recognized as one of the most innovative players in its sector, continuously investing in RDI actions through different collaborations with the most prestigious research centres in Italy, and operating in 40+ countries with daughter companies in China, UK and (recently) in the US. Our passion for hydraulics power and our commitment with our customers let us reach €4M turnover in 2014, 80% of which coming from exports.
+
+Hydronit has always pursued a full new concept of hydraulics that joins modularization and the integration of all necessary pieces of knowledge, something that makes most hydraulic equipment manufacturers resort to multiple subcontracts to produce the final equipment, as hydraulics knowledge and electric/electronics knowledge are not usually found together in our sector.
+
+We intend to solve this specific problem offering equipment manufacturers MIDRAULICS, a full portfolio of modular intelligent mini/micro power packs comprising hydraulics, power distribution electronics, control feedback electronics, programmable local intelligence to autonomously manage the systems in the local module (state machine approach) and communication buses, protocols and API to ease the building of complex systems upon these modules (distributed state machine approach) and means to wirelessly configure, calibrate and update the behavior of our systems over the air through a secure wireless communication channel (secure NFC).
+
+MIDRAULICS is the starting point for us before deploying a complete portfolio of safety-driven modular and intelligent solutions for the mobile industry. Thanks to MIDRAULICS, we expect to create ~€10 Million sales within the first 5 years of business.</objective>
+  <title>Modular Intelligent hyDRAULICS</title>
+<identifier>H2020SMEINST12015</identifier>
+</project>

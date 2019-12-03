@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200610</rcn>
+  <acronym>SMAC</acronym>
+  <objective>E-commerce, modern-day government auctions, the sharing economy – these all have in common the optimization of resource allocation through the combination of economics and computation. This trend holds enormous socio-economic opportunity: for example, it allows online auctions, personalized advertising that supports the internet ecosystem, government repacking of radio spectrum to support growing communication needs, and flexible pricing that reflects true demand. It also poses an enormous challenge due to the sophisticated treatment of resources it requires, a challenge which theoretical computer science and algorithmic game theory in particular are uniquely positioned to address. 
+
+Economists have known for decades that when resource allocation involves complex constraints or preferences, there will be market failures and failed auctions. At the heart of these failures is the presence of complements, which occur when economically-efficient allocation of one resource depends on that of another; in mathematical language this can be described as lack of convexity. Remarkably, this economic phenomenon is closely linked to hardness of computation, which has been extensively studied in theoretical computer science for the past 50 years.
+
+The goal of this interdisciplinary research program is to apply the theoretical understanding of non-convexity achieved in computer science, coupled with the flexibility provided by computational markets, in order to design smarter economic mechanisms. As increasingly more resource allocation in our society takes place by interaction with computational mechanisms, a unified computational and economic approach is necessary to prevent market failures and enable the full realization of the potential to boost social welfare.</objective>
+  <title>Smart Markets via Computation</title>
+<identifier>H2020MSCAIF2015</identifier>
+</project>

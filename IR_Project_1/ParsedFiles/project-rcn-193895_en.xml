@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193895</rcn>
+  <acronym>FREEWAT</acronym>
+  <objective>"FREEWAT aims at promoting water management and planning by simplifying the application of the Water Framework Directive and other EU water related Directives. FREEWAT will be an open source and public domain GIS integrated modelling environment for the simulation of water quantity and quality in surface water and groundwater with an integrated water management and planning module.
+Specific objectives of the FREEWAT project are:
+- to coordinate previous EU and national funded research to integrate existing software modules for water management in a single environment into the GIS based FREEWAT;
+- to support the FREEWAT application in an innovative participatory approach gathering technical staff and relevant stakeholders (in primis policy and decision makers) in designing scenarios for the proper application of water policies.
+FREEWAT will initiate a process aimed at filling the gap between EU and US on widespread-standardised ICT tools and models for management of water quantity and quality and will set a well recognisable and flagship initiative. The open source characteristics of the platform allow to consider this an initiative "ad includendum" (looking for inclusion of other entities), as further research institutions, private developers etc. may contribute to the platform development.
+Through creating a common environment among water research/professionals, policy makers and implementers, FREEWAT main impact will be on enhancing science- and participatory approach and evidence-based decision making in water resource management, hence producing relevant and appropriate outcomes for policy implementation.
+The Consortium is constituted by partners from various water sectors from 11 EU countries, plus Switzerland, Turkey and Ukraine. Synergies with the UNESCO HOPE initiative on free and open source software in water management greatly boost the value of the project. Large stakeholders involvement guarantees results dissemination and exploitation."</objective>
+  <title>FREE and open source software tools for WATer resource management</title>
+<identifier>H2020WATER2014onestage</identifier>
+</project>

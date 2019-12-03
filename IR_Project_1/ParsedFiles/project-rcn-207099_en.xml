@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207099</rcn>
+  <acronym>Gridsense</acronym>
+  <objective>Feasibility study to design and market condition monitoring sensors fitted directly on High/Medium voltage lines of Distribution System Operators . These sensors will monitor environmental parameters (wind, snow accetion, temperature) as well as electrical ones (load, voltage, faults), communicate real time with DSO's SCADA and data communication backbone, in order to help them pro-actively perform preventive maintenance and increase lines' availability to facilitate Renewables integration. Such sensors will communicate Real Time using Radio or GSM communication (or other IoT protocols), be completely autonomous, low cost, and easy to install. 
+They will allow DSOs to increase their grid's availability and efficiency, in order, amongst other things, to increase Renewables penetration.
+Several key players of the industry (EDF in France, Elia and Ores in Belgium, CREOS in Luxembourg) have already shown interest in this project.
+If the Phase 1 evaluation is successful, Ampacimon intends to proceed to apply to a SME-Instrument Phase 2 to allow the full development of these products.</objective>
+  <title>Sensors monitoring environmental and electrical parameters of electrical high voltage lines</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

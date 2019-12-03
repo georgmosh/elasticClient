@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212693</rcn>
+  <acronym>LIMA</acronym>
+  <objective>LIMA’s overall objective is to develop and validate technologies and tools to include liquid biopsies in the clinical workflow, aiming at introducing a more precise and dynamic genetic characterization of tumor at the diagnosis and during treatment phases. This will be done by combining molecular information from liquid biopsies and direct in-vivo tumor characterization from advanced MR imaging, taking into account the current clinical workflow.
+The LIMA project will be based on following 5 conceptual pillars:
+1. A robust method to measure and genomically analyze ct-DNA for tumor-driving mutations, which can be measured in a quantitative manner allowing therapy response prediction and monitoring.
+2. A workflow for Circulating Tumor Cell isolation and computational model-based quantitative signal pathway analysis on single CTC mRNA expression levels. This allows for assessment of tumor heterogeneity in pathway activity (to relate back to tumor heterogeneity), targeted therapy response prediction and monitoring
+3. Correlation of computational, model-based cancer pathway activity assessment from cancer tissue samples before and after neoadjuvant treatment and from liquid biopsies with MR imaging features.
+4. Advance in MR imaging to better probe and image the cancer lesion and its microenvironment 
+5. Clinical analysis, correlating liquid biopsy/imaging –based results to clinical outcome, that is the response to (targeted drug) neoadjuvant therapy in selected breast cancer and rectal cancer patients.
+These 5 pillars will be investigated in longitudinal observational studies that will follow patients undergoing neoadjuvant treatment (either chemotherapy or targeted therapy or the combination) for primary rectal and breast cancer. LIMA will demonstrate that prediction of drug therapy response, monitoring of response and detection of resistance can be improved over the current state of the art.</objective>
+  <title>Liquid biopsies and Imaging for improved cancer care</title>
+<identifier>H2020SC12017TwoStageRTD</identifier>
+</project>

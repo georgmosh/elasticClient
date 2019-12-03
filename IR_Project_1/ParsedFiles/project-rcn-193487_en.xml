@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193487</rcn>
+  <acronym>HyMoCo</acronym>
+  <objective>The meaning of solar energy for future decentralized power supply will largely depend on both efficiency and cost of solar to electrical power conversion. All kinds of conversion strategies including photovoltaics, concentrated solar power, solar to fuel and others would benefit from efficiently collecting solar power on large areas. For this reason luminescent solar concentrators have been developed for over thirty years, but due to waveguide losses their maximum size is still limited to a few centimeters.
+
+The proposed project suggests the exploitation of a new type of electromagnetic waveguide in order to realize passive planar concentrators of unsurpassed collection efficiency, size, concentration, lifetime and costs.
+ 
+A dielectric TE1-mode shows a node, a position in the waveguide where no intensity is found. A thin film placed in this node remains largely “invisible” for the propagating mode. Such dielectric node modes (DNMs) have been investigated by the applicant in previous work, but only recently a silver island film (SIF) was for the first time placed in such a node. The resulting extremely low waveguide losses cannot be explained by our current understanding of waveguide modes and hint to a hybridization between the SIF-bound long-range surface plasmon polaritons (LRSPPs) and the DNMs into what we call hybrid node modes (HNMs).
+ 
+The SIFs strongly interact with incident light. An appropriate nanopatterning of SIFs enables efficient excitation of low-loss HNMs modes collecting solar power over square meters and concentrating it. To achieve this goal new technological methods are used that enable patterning on the nanometer scale and low cost roll-to-roll processing at the same time. New measurement techniques and numerical simulation tools will be developed to investigate the HNMs – a novel kind of electromagnetic modes – and their exploitation in the passive solar concentrators.</objective>
+  <title>Hybrid Node Modes for Highly Efficient Light Concentrators</title>
+<identifier>ERC2014STG</identifier>
+</project>

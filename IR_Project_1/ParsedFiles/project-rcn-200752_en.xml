@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200752</rcn>
+  <acronym>QuModQu</acronym>
+  <objective>The interpretation of linguistic expressions has been investigated from various theoretical perspectives, ranging from linguistics and philosophy to logic and cognitive science, leading to many applications in computer science. At the heart of this enterprise is a simple yet powerful notion of meaning as truth-conditional content. Despite its merits, this view has a fundamental limitation: while suitable for statements, it does not apply to other sentence types, like questions.
+This limitation has recently led the applicant and his collaborators to propose a more general notion of meaning, giving rise to a new semantic framework called inquisitive semantics. This framework opens up new horizons for all disciplines concerned with linguistic meaning. The present project explores these horizons in logic and linguistics, also making substantial connections with philosophy and computer science.
+In linguistics, besides providing a framework for the analysis of questions, the new approach suggests that inquisitive content plays a role in the semantics of statements as well, which sheds new light on recent linguistic observations that are highly puzzling from a purely truth-conditional point of view.
+In logic, the enriched notion of meaning also opens up new, exciting possibilities. While logic is standardly concerned with reasoning processes that involve concrete pieces of information, our new perspective also allows us to consider reasoning processes involving types of information. Relations between types of information play a central role in natural sciences, and also in various applicative domains in computer science.
+The project will explore in detail how the inquisitive perspective extends the boundaries of logic and linguistics, with a particular focus on the domains of quantification and modality, which are central to both enterprises. The approach will be highly inter-disciplinary in nature, forging cross-fertilization between the two fields.</objective>
+  <title>Quantification and modality in the realm of questions</title>
+<identifier>ERC2015STG</identifier>
+</project>

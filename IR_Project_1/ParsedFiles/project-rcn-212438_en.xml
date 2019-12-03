@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212438</rcn>
+  <acronym>MiGANSOS</acronym>
+  <objective>"MiGaNSOS proposal targets its activities to address the following objectives:
+
+·        First Objective is to assess and space-evaluate a ""state of the art"" GaN/Si process for open foundry use, which will lead to new industrial products greatly influencing European companies’ competitiveness. The process to be evaluated is the 100 nm GaN/Si technology developed by OMMIC; a preliminary evaluation will also be performed on the 60 nm GaN/Si process as being optimized by OMMIC as the natural extension for higher frequency applications. This objective shall be realised via the realisation of test vehicles dedicated to the evaluation process and basic monolithic functionalities such as Low Noise Amplifiers (LNAs), High Power Amplifiers (HPAs) and Single-Pole Double-Throw Switches (SPDT) and their Single-Chip integration (Single-Chip Front-End, SCFE) as demonstrators of the technology.
+
+·        Second Objective consists in the demonstration of the simultaneous use of 100 nm and 60 nm GaN/Si technologies. This opens up the possibility to use them not only for the realization of the same wafer run but also within the same circuit, Such unique feature, unprecedented to date in available commercial foundry processes, represents a real technological breakthrough, increasing circuit design flexibility and resulting circuit performance.
+
+·        Third objective of MiGaNSOS resides in the demonstration of future application of the developed technologies in advanced space equipment. In particular, a Ka Band Synthetic Aperture Radar (SAR) antenna shall be taken as reference and the fully integrated SCFE shall be integrated in a demonstrator replicating the basic building block of the Ka Band active antenna.
+
+·        Finally, the fourth objective consists in disseminating the obtained results, making available the evaluated technology to the scientific and industrial communities and addressing new market opportunities
+"</objective>
+  <title>Millimetre wave Gallium Nitride Space evaluation and application to Observation Satellites</title>
+<identifier>H2020COMPET2017</identifier>
+</project>

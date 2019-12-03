@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194845</rcn>
+  <acronym>OPTEMUS</acronym>
+  <objective>Optimised energy management and use (OPTEMUS) represents an opportunity for overcoming one of the biggest barriers towards large scale adoption of electric and plug-in hybrid cars: range limitation due to limited storage capacity of electric batteries.
+
+The OPTEMUS project proposes to tackle this bottleneck by leveraging low energy consumption and energy harvesting through a holistic vehicle-occupant-centred approach, considering space, cost and complexity requirements. Specifically, OPTEMUS intends to develop a number of innovative core technologies (Integrated thermal management system comprising the compact refrigeration unit and the compact HVAC unit, battery housing and insulation as thermal and electric energy storage, thermal energy management control unit, regenerative shock absorbers) and complementary technologies (localised conditioning, comprising the smart seat with implemented TED and the smart cover panels, PV panels) combined with intelligent controls (eco-driving and eco-routing strategies, predictive cabin preconditioning strategy with min. energy consumption, electric management strategy).  
+
+The combined virtual and real-life prototyping and performance assessment in a state of the art, on-the-market A-segment electric vehicle (Fiat 500e) of this package of technologies will allow demonstrating a minimum of 32% of energy consumption reduction for component cooling and 60% for passenger comfort, as well as an additional 15% being available for traction, leading to an increase of the driving range in extreme weather conditions of at least 44 km (38%) in a hot ambient (+35ºC and 40% rH) and 63 km (70%) in a cold ambient (-10ºC and 90% rH).</objective>
+  <title>Optimised Energy Management and Use</title>
+<identifier>H2020GV2014</identifier>
+</project>

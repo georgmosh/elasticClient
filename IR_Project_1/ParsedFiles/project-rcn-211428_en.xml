@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211428</rcn>
+  <acronym>DroC2om</acronym>
+  <objective>The key objective of the DroC2om project is to contribute to the definition of integrated cellular-satellite data link specifications for UASs. Major focus will be on the design and evaluation of data links based on experimental radio investigations and system simulations. The primary goal is to design a cellular-satellite system architecture concept, which ensures reliable and safe operation for remote controlled, semi-autonomous and fully autonomous small UAS.
+
+The DroC2om project will design and evaluate an integrated cellular-satellite system architecture concept for data links in order to support reliable and safe operation of UAS based on real drone measurements and modelling. 
+The diversity of the project partners ensures a balanced and high quality expertise in all relevant technological areas. 
+• Thales Alenia Space is a key player in aerospace air/ground communications.
+• Nokia is one of the major mobile service and infrastructure providers worldwide. 
+• atesio provides solutions for automatic planning and optimization algorithms of multi-layer multi-service cellular telecommunication networks. 
+• Aalborg University has a well-established research centre for mobile communications systems.
+To meet its objectives, the approach of DroC2om is to structure the work around four main building blocks that will be communicating with each other along the execution of the project following a continuous delivery approach:
+1. Definition of scenarios and requirements
+2. Software-based evaluation environment for aerial drone communication
+3. Aerial communication system architecture
+4. Drone flight and measurements
+All these four building blocks will be structured by a tight and rigorous management action from the project manager (PM) and the technical manager (TM), and complemented with a particular action devoted to ensure the proper dissemination of all activities, results, and outcomes of the project to maximize impact and visibility of the actions carried out.</objective>
+  <title>Drone Critical Communications</title>
+<identifier>H2020SESAR20161</identifier>
+</project>

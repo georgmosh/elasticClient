@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204212</rcn>
+  <acronym>ELEMENT</acronym>
+  <objective>This project focus on the analysis of different shielding configurations to protect a rear-end structure of an open rotor aircraft from an engine failure. The analysis will be performed against simple panels in the first place. The best configurations will then be studied as aircraft representative structures. Two different types of impactor will be considered from the engine failure, a metallic fragment (which will be related to an engine core part) and a composite fragment (which represents the failure of the blade).
+
+There are two overarching objectives in this project. The first one is to validate the maturity level of different technologies and structural solutions, to protect the rear-end structure from different impacts associated to engine failure. To this end both real and virtual impact tests of debris associated with the open rotor engine failure will be performed. The second objective of this project is to advance in the development of virtual testing methodologies. The economic impact of performing real experimental tests for the aircraft companies is very high, and virtual testing could diminish the number of experimental tests (and hence their economic impact).
+
+Both numerical and experimental approaches will be taken into account. Experimental tests will be performed by means of a pneumatic launcher, in order to achieve the impact velocities representatives of such event; high speed cameras, strain gauges, and 3D digital image correlation will be used to obtain the maximum quantity of data from the tests. Once impacted, non-destructive techniques will be used to determine the type and extension of the damage. Numerical simulations of the impact process will be also performed; a complete numerical methodology will be developed in order to appropriately model the phenomenon. After validation with the experimental tests, the numerical model will be used to perform parametric studies.</objective>
+  <title>CROR Engine debris Middle level Impact and Mechanical test</title>
+<identifier>H2020CS2CFP02201501</identifier>
+</project>

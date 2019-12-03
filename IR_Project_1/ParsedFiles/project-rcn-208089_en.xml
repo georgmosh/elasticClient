@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208089</rcn>
+  <acronym>3D_Tryps</acronym>
+  <objective>Antigenic variation is a widely employed strategy to evade the host immune response. It has similar functional requirements even in evolutionarily divergent pathogens. These include the mutually exclusive expression of antigens and the periodic, nonrandom switching in the expression of different antigens during the course of an infection. Despite decades of research the mechanisms of antigenic variation are not fully understood in any organism.
+The recent development of high-throughput sequencing-based assays to probe the 3D genome architecture (Hi-C) has revealed the importance of the spatial organization of DNA inside the nucleus. 3D genome architecture plays a critical role in the regulation of mutually exclusive gene expression and the frequency of translocation between different genomic loci in many eukaryotes. Thus, genome architecture may also be a key regulator of antigenic variation, yet the causal links between genome architecture and the expression of antigens have not been studied systematically. In addition, the development of CRISPR-Cas9-based approaches to perform nucleotide-specific genome editing has opened unprecedented opportunities to study the influence of DNA sequence elements on the spatial organization of DNA and how this impacts antigen expression.
+I have adapted both Hi-C and CRISPR-Cas9 technology to the protozoan parasite Trypanosoma brucei, one of the most important model organisms to study antigenic variation. These techniques will enable me to bridge the field of antigenic variation research with that of genome architecture. I will perform the first systematic analysis of the role of genome architecture in the mutually exclusive and hierarchical expression of antigens in any pathogen.
+The experiments outlined in this proposal will provide new insight, facilitating a new view of antigenic variation and may eventually help medical intervention in T. brucei and in other pathogens relying on antigenic variation for their survival.</objective>
+  <title>The role of three-dimensional genome architecture in antigenic variation</title>
+<identifier>ERC2016STG</identifier>
+</project>

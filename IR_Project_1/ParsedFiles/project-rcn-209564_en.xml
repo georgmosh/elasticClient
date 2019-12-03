@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>209564</rcn>
+  <acronym>ExtSpGraphLim</acronym>
+  <objective>This proposal focuses on two related families of problems concerning algebraic invariants of graphs, i.e., networks. On the one hand, we study extremal values of algebraic invariants, i. e., we propose to give lower and upper bounds for certain algebraic graph parameters in a given class of graphs like d{regular graphs. On the other hand, we study the behavior of algebraic invariants of very large graphs, more precisely we study whether for a certain graph parameter p(G) it is true that the sequence (p(G_n)) converges if the graph sequence (G_n) converges in some sense. The two families of problems are connected by the observation that many graph parameter does not achieve its extremal value on finite graphs, but on some infinite object which is the limit of finite graphs.</objective>
+  <title>Extremal Sparse Graphs and Graph Limits</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

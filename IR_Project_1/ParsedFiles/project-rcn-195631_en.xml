@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>195631</rcn>
+  <acronym>COCLIMAT</acronym>
+  <objective>Climate models of the sort used by the Intergovernmental Panel on Climate Change (IPCC) all predict global warming over the next century, but differ widely in their detailed predictions for any specific region of the globe.   The state of the art is just to run the models separately and form a weighted average of their outputs.
+A new approach put forward by the applicant is that of “supermodeling”: instead of just averaging the outputs of the models, the models are allowed to influence each other in run time.   One must specify how much weight a given model gives to corresponding data in each other model.  In a supermodel, the weights, or “connection coefficients” are given by a machine learning algorithm. That is one would use a collection of historical data to train the connections in the supermodel, so that the most reliable dynamical features of each model would be combined.  Supermodeling is an instance of “chaos synchronization”, the phenomenon wherein chaotic systems can be made to follow corresponding trajectories by exchanging surprisingly little information.  
+In prior investigations with supermodels, it was determined that they are particularly useful for predicting variability, like that in the El Nino  cycle in the Pacific.   The proposed project would use a supermodel to predict variability in the Atlantic sector due to changes in the Atlantic Meridional Overturning Circulation (AMOC), which has a large effect on climate in the surrounding region  on multi-decadal time scales.  Existing climate models differ widely in their predictions for AMOC.
+The proposed application will require changes in the way supermodels are formed and trained so as to focus on the positions and gross characteristics of coherent structures such as ocean currents.   The models that will be used to build the supermodel will be a) a collection of European models, and b) a combination of U.S. and European models from which a supermodel is already being built.</objective>
+  <title>Fusion of Alternative Climate Models By Dynamical Synchronization</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

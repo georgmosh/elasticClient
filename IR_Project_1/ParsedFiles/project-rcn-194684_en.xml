@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194684</rcn>
+  <acronym>PRIME</acronym>
+  <objective>"The rapid growth of smartphones and tablets pave the way for proliferation of a variety of mobile applications. Push notifications, which provide enhanced communication when compared to SMS, became the de facto messaging tool between application owners and mobile users. However, push notifications are still sent carelessly which results user frustration, low open rates (10%) and decreased user retention. 
+
+PRIME (Push Relevantly to Increase Mobile Engagement) is cloud service which aims to create the next leap in push messaging by gathering various sensory information from mobile devices analyzing big data and providing real-time insights by using machine learning, data mining and home grown pattern matching algorithms. PRIME will anticipate mobile users’ context, and forecasts their needs from previous usage patterns and dynamic models. PRIME will either send relevant push notification immediately or refer it for a more relevant time in the near future. 
+
+PRIME anticipates the “prime time” of mobile user and send push notifications accordingly. The dynamic model of PRIME is expected to increase open rates of push notifications among smartphone and tablet users tremendously. PRIME has both benefits to mobile users and mobile application owners. Sending push notifications relevantly increases customer retention due to mobile user satisfaction and increases mobile engagement which in turn increases mobile revenues. 
+
+The initial research for PRIME has been done by DONE A.S. and funded by TÜBİTAK (Scientific and Technological Research Council of Turkey). The research findings, which are also published in "Human Computer Interaction International" 2013 and 2014, demonstrated a 36% user engagement increase and 21% increase in the number of active users. These demonstrated results equal to an impact of 26.62 billion EURO in 2018 globally, whose details are given in the proposal document."</objective>
+  <title>PRIME (Push Relevantly to Increase Mobile Engagement)</title>
+<identifier>H2020SMEINST12014</identifier>
+</project>

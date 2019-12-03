@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206576</rcn>
+  <acronym>PJ28 IAO</acronym>
+  <objective>"
+This project PJ28 which is part of the SESAR 2020 Multi annual Program (S2020 MAWP) for the period 2016-2019, will demonstrate the benefits that specific promising SESAR solutions will bring in a large and two mid-size airports, where traffic congestion daily takes place during the peak season and where new SESAR solutions are expected to assist controllers in their duty. PJ28 proposal addresses the topic “Integrated Airport Operations” with the topic identifier “SESAR.IR-VLD.Wave1-28-2015” as stated in the 2020 MAWP Cluster D.1 High Performing Airport Operations (pages 500-507). 
+
+As being part of the Very Large Scale Demonstrations in the Industrial Research &amp; Validation phase, developed under the SJU Private Public Partnership SESAR2020) the objective of PJ28 is perform Very Large Scale Demonstrations (VLD) addressing airport related topics with V3 maturity in SESAR1. In detail, this PJ28 proposal focusses on four Air Traffic Management (ATM) sub-functionalities requested by the Pilot Common Project (PCP Commission Implementation Regulation IR N° 716/2014), all part of ATM Functionality #2 – Airport Integration and Throughput (AF#2) and it will conduct these in a close to operational environment. Doing so, PJ28 will play an active role in the de-risking of the later deployment phase by demonstrating the operational and technical readiness of the SESAR solutions covered in this project and thus ensure trust in the SESAR results.
+
+Those four functionalities aim at:
+• Improving airport safety;
+• Improving runway throughput;
+• Reducing fuel consumption;
+• Reducing overall delays on the airport; and
+• Improving airport capacity.
+
+The following sub-functionalities will be implemented in dedicated demonstration platforms:
+• Departure Management Synchronised with Pre-departure sequencing.
+• Departure Management integrating Surface Management Constraints.
+• Automated Assistance to Controller for Surface Movement Planning and Routing.
+• Airport Safety Nets.
+"</objective>
+  <title>Integrated Airport Operations</title>
+<identifier>H2020SESAR20152</identifier>
+</project>

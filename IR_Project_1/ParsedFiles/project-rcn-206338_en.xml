@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206338</rcn>
+  <acronym>AARC2</acronym>
+  <objective>The goal of AARC2 is to design an AAI framework to develop interoperable AAI, to enable researchers to access the whole research and infrastructure service portfolio with one login. AARC2's objectives are:
+1. enable federated access in research communities participating in AARC2
+2. assist research communities to map their requirements to concrete service offerings
+3. support research (e-)infrastructures to implement the integrated architecture and policies frameworks developed by AARC project
+4. offer different trainings to adopt AARC/AARC2 results 
+5. enhance the integrated architecture
+
+AARC2 objectives will be achieved by:
+- Piloting selected research community use-cases (SA1)
+- Showcasing ready-to-use AAI solutions and pilot results to infrastructures (SA1-NA2)
+- Developing a virtual Competence Centre where infrastructure representatives and AARC2 team discuss AARC2 results deployment and approaches to use-cases (all WPs)
+- Promoting federated access and adoption of AARC2 results via training and outreach (NA2)
+- Expand support for new technologies and policies (JRA1 and NA3).
+- Follow a user-driven approach: development driven by use-cases and continuous community feedback on AARC2 work.
+Relevance to the work programme:
+- AARC2 will work with existing e-infrastructures and ESFRI projects to deploy and enhance (JRA1) the integrated AAI (built on eduIGAIN and federated access) delivered by AARC (obj1–Development of a pan-European identity federation)
+- Use-cases that meet integration (accessing services offered by multiple e-infrastructures) and data-rich aspects included in AARC2 (SA1). AARC2 will work to enable federated access and to map the use-cases to existing AAI services and policy frameworks (obj2–Stimulate AAI services supporting communities in the data-rich era)
+- AARC2 will liaise with security groups, NRENs and infrastructures to address best practices in cybersecurity and assurance (see NA3). (obj3–Deliver an integrated infrastructure)</objective>
+  <title>Authentication and Authorisation For Research and Collaboration</title>
+<identifier>H2020EINFRA20161</identifier>
+</project>

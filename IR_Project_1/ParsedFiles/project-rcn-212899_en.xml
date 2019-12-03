@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212899</rcn>
+  <acronym>H2H</acronym>
+  <objective>The overall objective of the proposal is to address the need of the maritime community to safely navigate in close proximity of other vessels and objects, being stationary or moving. This will assist mariners in making correct navigation decisions. And further, this will be a fundamental requirement for autonomous vessels.
+
+To achieve this EGNOS and GALILEO is taken into use to measure position of the vessel. However, these systems in the most basic form provides the position of the GNSS antenna, whereas the mariner needs to know the location of the vessel’s hull relative to other vessels or objects in the area of operation. For efficient and safe operations, the location information must be provided with high precision and high integrity.</objective>
+  <title>EGNSS Hull-to-Hull</title>
+<identifier>H2020GALILEOGSA20171</identifier>
+</project>

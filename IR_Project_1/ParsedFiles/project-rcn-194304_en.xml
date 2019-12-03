@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194304</rcn>
+  <acronym>WiSHFUL</acronym>
+  <objective>Wireless testbeds have become an essential tool to develop and validate innovative wireless solutions. However, due to the increasing diversity of wireless solutions and competing radio technologies, along with the ever more stringent requirements on the reliability of test results, wireless test facilities have evolved to very complex systems with steep learning curves for innovators. To speed up and facilitate the experimentation process, to lower its cost and to enhance the uptake of future non- and pre-standard solutions, the WiSHFUL project is determined to lower the experimentation threshold by developing flexible, scalable, open software architectures and programming interfaces for prototyping novel wireless solutions for a variety of applications ranging from healthcare to smart cities, supporting players in high value-add markets with considerable growth potential.
+Key features of WiSHFUL include (1) unified radio control, providing developers with deep control of physical and medium access components without requiring deep knowledge of the radio hardware platform and (2) unified network control allowing the rapid creation, modification, and prototyping of protocols across the entire stack.
+WiSHFUL will also create a testbed-on-the-move, consisting of portable facilities that can be deployed easily and efficiently at any location, allowing validation of innovative wireless solutions in the real world (with realistic propagation and interference characteristics) and involving real users. The usefulness of these facilities will be confirmed by participation of industrial and academic partners through open calls for experimentation.
+In addition, we envision to extend these facilities with the capability to experiment with emerging wireless technologies such as millimeter wave communications, full-duplex and massive MIMO in the scope of open calls for extensions.</objective>
+  <title>Wireless Software and Hardware platforms for Flexible and Unified radio and network controL</title>
+<identifier>H2020ICT20141</identifier>
+</project>

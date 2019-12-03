@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>198159</rcn>
+  <acronym>MetAGEn</acronym>
+  <objective>Ageing is a complex physiological process that affects almost all species, including humans. Despite its importance for all of us, the biology of ageing is insufficiently understood. To uncover the molecular underpinnings of ageing, I propose an interdisciplinary research program that will identify and investigate metabolic and genetic regulators of ageing.
+Progressive loss of cellular homeostasis causes ageing and an age-associated decline in protein quality control has been implicated in numerous diseases, including neurodegeneration. Seeking for ways to improve protein quality, I have identified a novel longevity pathway in Caenorhabditis elegans. In a forward genetic screen, I found a link between metabolites in the hexosamine pathway and cellular protein quality control. Hexosamine pathway activation extends C. elegans lifespan, suggesting modulation of ageing by endogenous molecules.
+In a first step, I will explore the mechanism by which hexosamine metabolites improve protein quality control in mammals, using cultured mammalian cells and a mouse model for neurodegeneration. Preliminary data show that hexosamine pathway metabolites enhance proteolytic capacity in cells and reduce protein aggregation, suggesting conservation. Second, I will investigate molecular mechanisms that activate the hexosamine pathway to promote protein homeostasis and counter ageing. Third, I will perform a direct forward genetic screen for modulators of ageing in C. elegans. For the first time, mutagenesis and next generation sequencing can be paired in forward genetic screens to interrogate the whole genome for lifespan-extending mutations in a truly unbiased manner. This innovative approach has the potential to reveal novel modulators of the ageing process.
+Taken together, this work aims to understand molecular mechanisms that maintain cellular homeostasis to slow the ageing process, and to develop a new technology to identify yet unknown genetic modulators of ageing.</objective>
+  <title>Metabolic and Genetic Regulation of Ageing</title>
+<identifier>ERC2014STG</identifier>
+</project>

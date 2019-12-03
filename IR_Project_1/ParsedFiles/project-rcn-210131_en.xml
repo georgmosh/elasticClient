@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210131</rcn>
+  <acronym>INFRAMIX</acronym>
+  <objective>INFRAMIX, totally aligned with the work programme, is preparing the road infrastructure to support the transition period and the coexistence of conventional and automated vehicles. Its main target is to design, upgrade, adapt and test both physical and digital elements of the road infrastructure, ensuring an uninterrupted, predictable, safe and efficient traffic.
+To meet this high level objective INFRAMIX is working on different technologies. It starts with the use of mature simulation tools adapted to the peculiarities of automated vehicles and develops new methods for traffic flow modelling, to study the traffic-level influence of different levels of automated vehicles in different penetration rates. It also implements relevant traffic estimation and control algorithms dynamically adapted to the current situation. Then it goes up to propose minimum, targeted and affordable adaptations on elements of the road infrastructure, either physical or digital or a combination of them. This work includes ways of informing all types of vehicles about the control commands issued by the road operator and the proposal of new kind of visual and electronic signals for the needs of mixed scenarios.
+The outcomes will be assessed via simulation and in real stretches of advanced highways. Key aspects considered throughout the project will be to ensure that the proposed adaptations will not jeopardize safety, quality of service, efficiency and will be appreciated by the users.
+To achieve its objectives INFRAMIX selects a bottom-up approach. Instead of working in generic solutions with questionable impact, it builds on three specific high value (in terms of importance for traffic efficiency and safety) traffic scenarios, namely “dynamic lane assignment”, “roadworks zones” and “bottlenecks”.  Although INFRAMIX is targeting mainly highways (expected to be the initial hosts of such mixed traffic) its key results can be easily transferred to urban roads.</objective>
+  <title>Road Infrastructure ready for mixed vehicle traffic flows</title>
+<identifier>H2020ART2016TwoStages</identifier>
+</project>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207964</rcn>
+  <acronym>Adaptive Simulations</acronym>
+  <objective>Computational Fluid Dynamics (CFD) uses numerical analysis and algorithms to predict flow with a computer. CFD analyses not only fluid flow behaviour, but also mass, phase change, chemical reactions, mechanical movement, the transfer of heat, and stress/deformation of related solid structures. Rapid progress over the past two decades in computational power, comprehensive physical models, and advances in numerical methods has made it possible for engineers to use CFD simulations routinely in a wide range of industrial, environmental and biomedical applications across various industries including aerospace, automotive, chemical engineering, healthcare, and more. It is increasingly used to complement or replace wind tunnel simulations in the automobile and aerospace sectors. The many applications for CFD all create great value in terms of increased product performance and time to market.
+However, CFD simulation requires specialized engineers performing manual preparation and post-production tasks, expensive CFD software licenses and intensive computing resources that small and medium size enterprises cannot afford. Likewise, many sectors that could benefit from CFD simulation to simulate heat and cooling airflow for energy optimization (like architecture and construction) find CFD costs prohibitive. Many large enterprises, like our client Thule, have to turn to expensive consulting services rather than investing in in-house CFD solutions. 
+Adaptive Simulations has developed a breakthrough simulation-as-a-service solution which automates CFD simulation and drives costs down by 70%. Our innovation will democratise CFD for the Industry 4.0 revolution.
+This phase 1 project will validate the technical and commercial feasibility of fully automated flow simulations as a service, continuing our customer development to date. We will recruit organisations willing to trial the solution in phase 2 ahead of large-scale deployment across a range of sectors and users.</objective>
+  <title>Bringing to market an open source CFD framework as a fully automated simulation service with high performance computing cloud-based access</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

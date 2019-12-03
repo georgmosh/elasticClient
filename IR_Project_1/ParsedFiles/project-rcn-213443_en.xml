@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213443</rcn>
+  <acronym>IPTheoryUnified</acronym>
+  <objective>This proposal is concerned with the mathematical theory of inverse problems. This is a vibrant research field at the intersection of pure and applied mathematics, drawing techniques from PDE, geometry, and harmonic analysis as well as generating new research questions inspired by applications. Prominent questions include the Calderón problem related to electrical imaging, the Gel'fand problem related to seismic imaging, and geometric inverse problems such as inversion of the geodesic X-ray transform.
+
+Recently, exciting new connections between these different topics have begun to emerge in the work of the PI and others, such as: 
+
+- The explicit appearance of the geodesic X-ray transform in the Calderón problem.
+- An unexpected connection between the Calderón and Gel’fand problems involving control theory.
+- Pseudo-linearization as a potential unifying principle for reducing nonlinear problems to linear ones.
+- The introduction of microlocal normal forms in inverse problems for PDE.
+
+These examples strongly suggest that there is a larger picture behind various different inverse problems, which remains to be fully revealed.
+
+This project will explore the possibility of a unified theory for several inverse boundary problems. Particular objectives include:
+
+1. The use of normal forms and pseudo-linearization as a unified point of view, including reductions to questions in integral geometry and control theory.
+2. The solution of integral geometry problems, including the analysis of convex foliations, invertibility of ray transforms, and a systematic Carleman estimate approach to uniqueness results.
+3. A theory of inverse problems for nonlocal models based on control theory arguments.
+
+Such a unified theory could have remarkable consequences even in other fields of mathematics, including controllability methods in transport theory, a solution of the boundary rigidity problem in geometry, or a general pseudo-linearization approach for solving nonlinear operator equations.</objective>
+  <title>Inverse boundary problems: toward a unified theory</title>
+<identifier>ERC2017COG</identifier>
+</project>

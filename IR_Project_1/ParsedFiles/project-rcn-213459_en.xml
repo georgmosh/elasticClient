@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213459</rcn>
+  <acronym>NonChroRep</acronym>
+  <objective>A major shift in our conception of genome regulation has emerged in recent years. It is now obvious that the majority of cellular transcripts do not code for proteins, and a significant subset of them are long RNAs (lncRNAs). My lab and others have shown that lncRNAs regulate genome function and gene expression, and that alterations in lncRNAs are inherent to disease, including cancer. However, our understanding of the roles of lncRNAs and their underlying molecular mechanisms are still extremely poor.
+Among all the mechanisms reported, the evident connection between lncRNAs and the chromatin places them at the center of cell biology. During their cycle, cells must undergo faithful DNA replication to ensure that an exact copy of their genetic content is passed on to their daughters. Throughout this tightly regulated process chromatin must be disrupted and reconstituted, and it determines where and when replication takes place. If replication is deregulated, cells can proliferate uncontrollably and suffer loss of genome integrity. Our recent findings implicate lncRNA in the process of DNA replication, representing a novel aspect of genome regulation that places lncRNAs at the focal point of cancer biology. To delve deeper into these findings I aim to:
+1. Identify the role of lncRNAs in the replication of the chromatin
+2. Dissect the molecular mechanism by which lncRNAs function in this process and
+3. Explore the role of these lncRNAs as cancer drivers and their potential as therapeutic targets.
+I will apply tools that we have generated in recent years, as well as new ones, including approaches to identify lncRNAs associated with replicating chromatin, novel lncRNA-tailored CRISPR applications, and the latest methodology for functional study and targeting of long noncoding transcripts in cancer. I am confident that we are in a unique position to address these life-essential and yet pending questions, setting up a basis for future lncRNA-based therapies.</objective>
+  <title>Investigating the role of the long noncoding transcriptome in chromatin replication</title>
+<identifier>ERC2017COG</identifier>
+</project>

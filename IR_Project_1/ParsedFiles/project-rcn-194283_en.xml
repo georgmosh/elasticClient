@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194283</rcn>
+  <acronym>SEERS</acronym>
+  <objective>SEERS proposes a breakthrough approach to multispectral imaging in a broad band of the infrared domain (0.7-14 µm wavelength).  Video surveillance for safety and security is targeted for demonstration.
+Firstly, a snapshot multispectral imager in the IR domain will be developed. Secondly, an embedded approach will be adopted for image reconstruction, cognitive image fusion, video pre-processing and event-driven operation. Thirdly, the benefits of a novel video analytics solution (VAS) for smart networked operation will be demonstrated in terms of performance and persistence, thanks to multispectral imaging. 
+As a result of SEERS, a compact and cost-effective IR imager will be delivered. With this aim, research and development at different levels will be addressed:
+• Microbolometer (FPA) re-design adapted to multi-aperture imaging requirements
+• Spectral optical design putting together beam splitting and multi-aperture imaging
+• Development of multi-aperture sensor arrays for multispectral and super-resolution imaging
+• Embedded processing for: image reconstruction based on computational imaging, cognitive image fusion, spectral measurements, and video pre-processing
+• Persistent video analytics based on pre-processed multispectral video
+Overall, SEERS approach will enable robust intelligent surveillance with event-driven and smart performance. Remarkable capabilities will be robustness to variable visibility conditions (e.g. fog, rain, fumes), gas discrimination and level determination, spill detection, fire and burst imaging with accurate temperature measurement. Demonstration will be addressed in real operational conditions for two different scenarios: coastal and tunnel surveillance.</objective>
+  <title>Snapshot spEctral imagEr for cost effective IR Surveillance</title>
+<identifier>H2020ICT20141</identifier>
+</project>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>215744</rcn>
+  <acronym>PolyBar</acronym>
+  <objective>Parametric polymorphism is an ubiquitous paradigm in programming. It permits writing generic algorithms that can be used
+on several datatypes, thus reducing the duplication of code and producing safer software. System F is a very simple
+polymorphic programming language suited to the theoretical study of polymorphism. From the point of view of mathematical
+logic, System F corresponds to the theory of second-order Peano arithmetic (PA2), which in turn is a sub-theory of first-order
+Peano arithmetic with the axiom of countable choice (PA-AC). On the other hand, PA-AC can be computationally interpreted
+using the non-polymorphic programming language System T extended with the bar recursion operator (System TBR).
+The PolyBar project will turn the logical translation of PA2 to PA-AC into a computational translation from System F to
+System TBR. This translation will improve the state-of-the-art by extending the use of well-known proof techniques to polymorphic programming languages and promote the use of these languages in environments where safety is important, like medical software or autonomous car systems. Computer programmers will be able to use the sophisticated features of polymorphism and still prove correctness properties on their programs.
+The PolyBar project will be carried out by the experienced researcher who worked during his PhD thesis on computational
+interpretations of PA-AC using System TBR, and recently gave the first connections with PA2 and System F. The
+experienced researcher will collaborate with a supervisor who has a strong background in type theories (including System F)
+and in correspondences between various mathematical theories and programming languages. Working in France, where
+System F was discovered and is still a subject of intense research by many experts in the field, the experienced researcher
+will make the beneficiary benefit from his experience in the UK, which has a strong community on recursion theory and denotational semantics.</objective>
+  <title>A new approach to polymorphism through bar recursion</title>
+<identifier>H2020MSCAIF2017</identifier>
+</project>

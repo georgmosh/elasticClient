@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>209231</rcn>
+  <acronym>OUTNANO</acronym>
+  <objective>OUTNANO is about developing a new generation of nanophotonic devices by exploiting ultrafast dynamics of electrons driven out-of-equilibrium.
+Photonic sciences profoundly impact our society, enabling the development of high-technology devices that are currently employed in our daily life: DVD players, LEDs, laser printers, barcode scanners, displays, sensors, optical fibres, medical equipment and many others.
+
+Among the future frontiers of photonics, the achievement of ultraviolet lasers, compact white-light sources, and on-the-chip signal processing play a crucial role for several applications, e.g., all-optical computing, spectroscopy, imaging techniques, bio-sensing, cancer treatment, dental surgery, and micro-machining.
+Extreme exploitation of optical nonlinearities in nanophotonic components is fundamentally important in tackling these challenges, as frequency conversion mechanisms can be enhanced to generate ultraviolet radiation. Besides, optical nonlinearity enables active controlling of light by means of light, a basic requirement for developing all-optical devices. The high field enhancement provided by plasmonic materials and metamaterials is crucial for the full exploitation of nonlinear effects. Currently, the inherent high losses of these materials hamper their efficiency and their application in new-generation photonic devices.
+
+OUTNANO aims at tackling these challenges of nanophotonics by using ultrashort optical pulses with time duration of few femtoseconds, which drive the out-of-equilibrium electron plasma in the collisionless regime, where ohmic losses are suppressed. This novel regime enables the development of low-loss plasmonic circuits for on-chip all-optical computing and the engineering of highly nonlinear nanophotonic devices with enhanced efficiencies for generating UV radiation and for achieving ultra-compact white-light sources.</objective>
+  <title>Out-of-equilibrium nanophotonics</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

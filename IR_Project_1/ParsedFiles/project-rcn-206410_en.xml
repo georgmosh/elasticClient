@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206410</rcn>
+  <acronym>S-CODE</acronym>
+  <objective>The overall aim of the S-CODE project is to investigate, develop, validate and initially integrate radically new concepts for switches and crossings that have the potential to lead to increases in capacity, reliability and safety while reducing investment and operating costs.
+
+The S-CODE project will identify radically different technology concepts that can be integrated together to achieve significantly improved performance for S&amp;C based around new operating concepts (e.g. super-fast switching, self-healing switch). 
+
+The project will build on existing European and national research projects (in particular, the lighthouse project In2Rail, Capacity4Rail and Innotrack) to bring together technologies and concepts that will significantly reduce the constraints associated with existing switch technologies and develop a radically different solution.
+
+The project will be divided into three phases:
+Phase 1: Requirements and initial design - focusing on understanding constraints and critical requirements, and developing a radically different architecture and operation that makes use of technologies from other domains;
+Phase 2: Technical development - undertaking detailed modelling and simulation to identify an optimal configuration to maximise performance;
+Phase 3: Validation and evaluation - testing (to TRL4) the design concepts and formally evaluating their performance in order that an integrated design can be presented for further development.</objective>
+  <title>Switch and Crossing Optimal Design and Evaluation</title>
+<identifier>H2020S2RJUOC2016012</identifier>
+</project>

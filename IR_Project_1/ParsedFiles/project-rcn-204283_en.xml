@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204283</rcn>
+  <acronym>GrInHy</acronym>
+  <objective>High-temperature electrolysis (HT electrolysis) is one of the most promising technologies to address the European Commission´s Roadmap to a competitive low-carbon economy in 2050. Because a significant share of the energy input is provided in the form of heat, HT electrolysis achieves higher electrical system efficiency compared to low temperature electrolysis technologies. Therefore, the main objectives of the GrInHy project focus on:
+
+•  Proof of reaching an overall electrical efficiency of at least 80 %LHV (ca. 95 %HHV);
+•  Scaling-up the SOEC unit to a DC power input (stack level) of 120 kWel;
+•  Reaching a lifetime of greater 10,000 h with a degradation rate below 1 %/1,000 h;
+•  Integration and operation for at least 7,000 h meeting the hydrogen quality standards of the steel industry;
+
+Additional project objectives are:
+•  Elaboration of an Exploitation Roadmap for cost reducing measures;
+•  Development of dependable system cost data;
+•  Integration of a reversible operation mode (fuel cell mode);
+
+The objectives are congruent with the call FCH-02.4-2015 and the Multi Annual Work Plan of the FCH JU.
+
+The proof-of-concept will take place in the relevant environment of an integrated iron and steel works. Its existing infrastructure and metallurgical processes, which provide the necessary waste heat, increase the project´s cost-effectiveness and minimize the electrical power demand of auxiliaries. As a result, the electrical efficiency of 80 % will be achieved by operating the HT electrolyser close to the thermal-neutral operation point. The installation will consist of an optimized multi-stack module design with 6 stacks modules in parallel (total capacity: 120 kWel). The last project year is dedicated to the testing of 7,000 h and more. This will be achieved due to a high degree of existing knowledge at system level. Lifetime and degradation targets have already been fulfilled at cell level and will be verified by testing an enhanced stack.</objective>
+  <title>Green Industrial Hydrogen via Reversible High-Temperature Electrolysis</title>
+<identifier>H2020JTIFCH20151</identifier>
+</project>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200986</rcn>
+  <acronym>GSAORI</acronym>
+  <objective>The Guide Stars Adaptive Optics for Retinal Imaging (GSAORI) project aims at developing new imaging techniques in the field of ophthalmology. As the eye presents time-variable aberrations, an Adaptive Optics (AO) loop greatly enhances quality and resolution of retinal imaging, enabling the examination of structures such as cone and rod photoreceptors and leukocytes in vivo in a non invasive way and at a microscopic scale.
+Although AO has enabled outstanding progresses in ophthalmology, it has its limitation. The pupil motion and tear film thickness changes during the examination can limit the performance of the AO system. Also, the distortions of the retinal structure influence the wave-front analysis. Finally motion artefacts can have a strong impact on the correction capacity of the AO system. Therefore satisfactory image quality can only be achieved in carefully selected patients, which currently prevents a widespread use of this technology.
+The overall objective of the project is to overcome these limitations by developing systems that are more robust to retinal distortions and local media opacities. This will enable acceptable image quality in the majority of patients. The emergence of versatile AO systems would be a significant milestone towards making this technique a routine for eye examination.
+To achieve this goal, we propose to use guide stars that are spread over different locations of the retina to minimize the influence of eye’s defects on the wave-front measurements. This technique is directly inspired from astronomical telescopes where several laser guide stars are used as references to provide efficient wave-front correction on a large field of view. Following the conception of a system with guide stars, new algorithms for wave-front sensing and control will be developed, providing a fully functional innovative AO system. To fulfil its objectives, the research project will be based on extensive system modelling, and on in-vivo eyes’ measurements.</objective>
+  <title>Guide Stars Adaptive Optics for Retinal Imaging</title>
+<identifier>H2020MSCAIF2015</identifier>
+</project>

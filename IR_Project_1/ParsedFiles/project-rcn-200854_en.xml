@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200854</rcn>
+  <acronym>MALORCA</acronym>
+  <objective>One of the main causes hampering the introduction of higher levels of automation in the Air Traffic Management (ATM) world is the intensive use of spoken language as the natural way of communication. Data link will be another media of communication with its known advantages compared to voice communication but for the future it is still assumed that data link communication will increase but never fully replace voice communication. Particularly for the time being controllers and pilots exchange information by spoken language, whereas automated systems understand the situation based only on sensor information. This difference in the end creates misunderstandings between operators and systems which lead to failures and further on to a lack of acceptance for automation. One promising solution is the introduction of automatic speech recognition as an integral part of automation.
+Recently, the venture capital funded project AcListant® has achieved command error rates below 2% based on Assistant Based Speech Recognition (ABSR), developed by Saarland University (USAAR) and DLR. ABSR combines speech recognition with an assistant system, which generates context information to reduce the search space of the speech recognizer.
+One main issue to transfer ABSR from the laboratory to the ops-rooms is its costs of deployment. Each ABSR model must manual adapted to the local environment due to e.g. different accents and deviations from standard phraseology. This project proposes a general, cheap and effective solution to automate this re-learning, adaptation and customisation process to new environments, taking advantage of the large amount of speech data available in the ATM world. Machine learning algorithms using these data sources will automatically adapt the ABSR models to the respective environment.</objective>
+  <title>Machine Learning of Speech Recognition Models for Controller Assistance</title>
+<identifier>H2020SESAR20151</identifier>
+</project>

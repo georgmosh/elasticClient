@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194876</rcn>
+  <acronym>XERIC</acronym>
+  <objective>The limited capacity of electric batteries combined with the substantial amount of energy needed to run auxiliary equipment dramatically affects range capability of electric vehicles (EVs). For instance, the climate control system in summer conditions can absorbs up to 40-60% of the available energy.
+The aim of the project is to develop an energy friendly climate control system capable to reduce of at least 50% the energy used for passenger comfort all over the year (i.e., heating, cooling and dehumidifying).
+Actually, in summer conditions air is dehumidified and cooled by best available technologies that use climate control systems based on a Vapor Compression Cycle (VCC), which cools air below its dew point. Alternatively, desiccants are used as an energy efficient way to dehumidify air without cooling it below its dew point, which allows to control temperature and humidity independently. 
+In our project we plan to exploit technologically the desiccants properties by using aqueous solutions of desiccants (e.g., LiCl, CaCl2) housed in a membrane contactor. Our idea is to develop a hybrid system in which air can be dehumidified without the need to be cooled below its dew-point. This will be done by combining a liquid desiccant cycle (which deals with the latent load) with a traditional vapour compression cycle (which faces the sensible load). In fact, in such a system the VCC would operate at higher refrigerant evaporation temperature and at lower condensation temperature.
+The core of the system is an innovative highly compact and energy efficient three-fluids-combined-membrane-contactor that simultaneously works with air, desiccant solution, and refrigerant. 
+Specifically, the climate control system will be capable to 
+- Reduce more than 50% the energy used for passenger comfort. 
+- Have a lifetime longer than 10 years. 
+- Easy industrialization and customization for EVs currently on the market.
+- Cost from 1,200 to 3,000 Euro.
+
+Project Coordinator: GVS SPA, IT</objective>
+  <title>Innovative Climate-Control System to Extend Range of Electric Vehicles and Improve Comfort</title>
+<identifier>H2020GV2014</identifier>
+</project>

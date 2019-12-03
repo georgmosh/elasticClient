@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213494</rcn>
+  <acronym>BHSandAADS</acronym>
+  <objective>The present proposal is concerned with the analysis of the Einstein equations of general relativity, a non-linear system of geometric partial differential equations describing phenomena from the bending of light to the dynamics of black holes. The theory has recently been confirmed in a spectacular fashion with the detection of gravitational waves.
+
+The main objective of the proposal is to consolidate my research group based at Imperial College by developing novel mathematical techniques that will fundamentally advance our understanding of the Einstein equations. Here the proposal builds on mathematical progress in the last decade resulting from achievements in the fields of partial differential equations, differential geometry, microlocal analysis and theoretical physics. 
+
+The Black Hole Stability Problem
+A major open problem in general relativity is to prove the non-linear stability of the Kerr family of black hole solutions. Recent advances in the problem of linear stability made by the PI and collaborators open the door to finally address a complete resolution of the stability problem. In this proposal we will describe what non-linear techniques will need to be developed in addition to achieve this goal. A successful resolution of this program would conclude an almost 50-year-old problem. 
+
+The Analysis of asymptotically anti-de Sitter (aAdS) spacetimes
+We propose to prove the stability of pure AdS if so-called dissipative boundary conditions are imposed at the boundary. This result would align with the well-known stability results for the other maximally-symmetric solutions of the Einstein equations, Minkowski space and de Sitter space. 
+As a second -- related -- theme we propose to formulate and prove a unique continuation principle for the full non-linear Einstein equations on aAdS spacetimes. This goal will be achieved by advancing techniques that have recently been developed by the PI and collaborators for non-linear wave equations on aAdS spacetimes.</objective>
+  <title>The Black Hole Stability Problem and the Analysis of asymptotically anti-de Sitter spacetimes</title>
+<identifier>ERC2017COG</identifier>
+</project>

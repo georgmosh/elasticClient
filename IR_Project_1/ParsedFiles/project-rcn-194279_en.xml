@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194279</rcn>
+  <acronym>AppHub</acronym>
+  <objective>Many software engineering and cloud computing are developed in open source in order to implicitly avoid the curse of the European science paradox -- we are good at science but poor at exploitation – but fail because they lack adequate support and strategy.  Open source provides an efficient framework for cooperation and IP management and that makes it indeed a powerful enabler for collaborative innovation. It is wrong however to assume that making the source available automatically attracts contributors and grants immediate market access. Open source as a convenient process is not the same as open source as a business strategy. 
+The aim of this project is to support the market outreach strategies of EU-supported open source by launching AppHub, the European open source market place. AppHub is a service platform that will help the market to seamlessly identify, position and implement the software outcomes of these projects. The partners that will develop, run and promote AppHub over this two-year project and beyond combine unparalleled expertise in open source community management, EU research projects and a breakthrough technology in software asset management.</objective>
+  <title>AppHub, the European Open Source Marketplace</title>
+<identifier>H2020ICT20141</identifier>
+</project>

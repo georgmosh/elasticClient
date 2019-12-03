@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211061</rcn>
+  <acronym>5G-MoNArch</acronym>
+  <objective>Motivation: The expected diversity of services and use cases in 5G requires a flexible, adaptable, and programmable architecture. While the design of such an architecture has been addressed by 5G-PPP Phase 1 at a conceptual level, it must be brought into practice in Phase 2. To this end, 5G-MoNArch will (i) evolve 5G-PPP Phase 1 concepts to a fully-fledged architecture, (ii) develop prototype implementations and (iii) apply these prototypes to representative use cases.
+
+Approach: 5G-MoNArch architecture design will combine Phase 1 concepts (such as virtualisation, slicing and orchestration of access and core functions) with three enabling innovations that fill gaps not ad-dressed in Phase 1: (i) inter-slice control and cross-domain management, to enable the coordination across slices and domains, (ii) experiment-driven optimization, to leverage experimental results to design highly performing algorithms, and (iii) cloud-enabled protocol stack, to gain flexibility in the orchestration of virtualised functions.
+
+Testbeds: The devised architecture will be deployed in two testbeds: (i) the sea port, representative of a vertical industry use case, and (ii) the touristic city, representative of a mobile operator deployment. For each testbed, 5G-MoNArch will instantiate the architecture and complement it with a use case specific functionality – the two functional innovations of 5G-MoNArch: (i) resilience and security, needed to meet the sea port requirements, and (ii) resource elasticity, to make an efficient use of the resources in the touristic city. 
+
+Impact: 5G-MoNArch has a very high potential for commercial impact, including enhanced products (e.g., orchestrators or edge-cloud RAN), novel services (enabled by network slicing) and opportunities for new market players. To exploit this potential, 5G-MoNArch has elaborated a thorough and realistic innovation plan that includes patents and standards.</objective>
+  <title>5G Mobile Network Architecture for diverse services, use cases, and applications in 5G and beyond</title>
+<identifier>H2020ICT20162</identifier>
+</project>

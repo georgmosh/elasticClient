@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213141</rcn>
+  <acronym>SAUCE</acronym>
+  <objective>SAUCE will research, develop, pilot and demonstrate a set of professional tools and techniques for making content ‘smarter’, so that it is fully adaptive in a broad, unprecedented manner: adaptive to context (which facilitates re-use), to purpose (among or within industries), to the user (improving the viewing experience), and to the production environment (so that it is ‘future-proof’). The approach is based on research into light-field technology; automated classification and tagging using deep learning and semantic labeling to describe and draw inferences; and the development of tools for automated asset transformation, smart animation, storage and retrieval. These new technologies and tools will show that a vast reduction of costs and increases in efficiency are possible, facilitating the production of more content, of higher quality and creativity, for the benefit of the competitiveness of the European creative industries. 
+Specifically, SAUCE will research and develop:
+• Methods of generating smart world-views by capturing and processing light-fields, augmenting them with semantics and making them usable for media production pipelines.
+• A framework and tools for automatically classifying, validating and finding smart assets, using deep learning and semantic labeling techniques on 2D and 3D data.
+• A framework and tools for the automatic transformation and adaptation of smart assets to new contexts, purposes, users and environments, and for the synthesis of new smart assets from existing ones.
+• Real-time control systems for authoring animated content using smart assets, automatically synthesizing new scenes from existing ones and integrating smart assets into virtual production scenarios.
+• A storage system for smart assets that combines local and cloud storage so that assets can be delivered irrespective of the user or asset location. 
+SAUCE will also demonstrate and promote its results, for industry approval, adoption and development by third parties.</objective>
+  <title>Smart Asset re-Use in Creative Environments</title>
+<identifier>H2020ICT20171</identifier>
+</project>

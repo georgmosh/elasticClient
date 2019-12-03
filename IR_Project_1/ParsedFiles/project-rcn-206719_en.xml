@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206719</rcn>
+  <acronym>CollectSwim</acronym>
+  <objective>Bacteria are tiny; yet their collective dynamics generate large-scale flows and profoundly modify a fluid’s viscosity or diffusivity. So do autophoretic microswimmers, an example of active microscopic particles that draw their motion from physico-chemical exchanges with their environment. How do such ``active fluids'' turn individual microscopic propulsion into macroscopic fluid dynamics? What controls this self-organization process? These are fundamental questions for biologists but also for engineers, to use these suspensions for mixing or chemical sensing and, more generally, for creating active fluids whose macroscopic physical properties can be controlled precisely.
+
+Self-propulsion of autophoretic swimmers was reported only recently. Major scientific gaps impair the quantitative understanding of their individual and collective dynamics, which is required to exploit these active fluids. Existing models scarcely account for important experimental characteristics such as complex hydrodynamics, physico-chemical processes and confinement. Thus, these models cannot yet be used as predictive tools, even at the individual level.
+
+Further, to use phoretic suspensions as active fluids with microscopically-controlled properties, quantitatively-predictive models are needed for the collective dynamics. Instead of ad-hoc interaction rules, collective models must be built on a detailed physico-mechanical description of each swimmer’s interaction with its environment.
+
+This project will develop these tools and validate them against experimental data. This requires overcoming several major challenges: the diversity of electro-chemical processes, the confined geometry, the large number of particles, and the plurality of interaction mechanisms and their nonlinear coupling. 
+
+To address these issues, rigorous physical, mathematical and numerical models will be developed to obtain a complete multi-scale description of the individual and collective dynamics of active particles.</objective>
+  <title>Individual and Collective Swimming of Active Microparticles</title>
+<identifier>ERC2016STG</identifier>
+</project>

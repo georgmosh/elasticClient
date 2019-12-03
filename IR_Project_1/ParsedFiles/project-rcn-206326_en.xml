@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206326</rcn>
+  <acronym>VAPORE</acronym>
+  <objective>Metal-organic frameworks (MOFs) are crystalline solids with highly regular pores in the nanometer range. The possibility to create a tailored nano-environment inside the MOF pores makes these materials high-potential candidates for integration with microelectronics, e.g. as sensor coatings, solid electrolytes, etc. However, current solvent-based methods for MOF film deposition, a key enabling step in device integration, are incompatible with microelectronics fabrication because of contamination and corrosion issues.
+
+VAPORE will open up the path to integrate MOFs in microelectronics by developing a solvent-free chemical vapor deposition (CVD) route for MOF films. MOF-CVD will be the first example of vapor-phase deposition of any type of microporous crystalline network solid and marks an important milestone in processing such materials. Development of the MOF-CVD technology platform will start from a proof-of-concept case and will be supported by the following pillars: (1) Insight in the process, (2) expansion of the materials scope and (3) fine-tuning process control. The potential of MOF-CVD coatings will be illustrated in proof-of-concept sensors.
+
+In summary, by growing porous crystalline films from the vapor phase for the first time, VAPORE implements molecular self-assembly as a scalable tool to fabricate highly controlled nanopores. In doing so, the project will enable cross-fertilization between the worlds of nanoscale chemistry and microelectronics, two previously incompatible fields.</objective>
+  <title>Vapor deposition of crystalline porous solids</title>
+<identifier>ERC2016STG</identifier>
+</project>

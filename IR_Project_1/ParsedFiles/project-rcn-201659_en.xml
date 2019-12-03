@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>201659</rcn>
+  <acronym>SmartPosition</acronym>
+  <objective>This project aims to develop two new estimation paradigms for designing a reliable, high precision and real-time mobile positioning system (MPS): clustering for filtering (C4F) and fitting for smoothing (F4S). The present MPS faces two immediate challenges from the real life world. First, little is known about the background and therefore accurate system modelling is difficult or even impossible and the use of conventional filters/smoothers is challenging or even infeasible. Secondly, the data is very rich in the sense that it comes from multiple and many types of sensors with improved scanning frequency and accuracy. The rich sensor data can be used to circumvent poor background knowledge and to provide a greater breadth of observation regardless of individual sensor failure. However, it is expected that rich data will also pose a great challenge for real time filtering implementation.
+
+This project will develop a new concept, “Big Sensor”, to flexibly utilize the rich time-varying sensor data in the concerned MPS and to implement C4F and F4S. The Big Sensor-based C4F and F4S use all available information including WIFI, Bluetooth, GPS signals as well as altitude, acceleration, and direction information based on embedded software to locate mobile devices. The resulting MPS will not rely on sophisticated filters and will therefore be more reliable and computationally faster.
+
+The research emphasis of the project will be on flexible and optimal sensor data inference which is found by developing novel clustering and fitting algorithms. The researcher and the partitioning organizations have synergic expertise and solid research track records in the related fields. Smartphone-based realistic MPS applications (apps) will be developed, with the potential use of European GNSS. The resulting MPS and its apps will be integrated into a Home Care system that the Host group has investigated for the purpose of tracking the movement and well-being of elderly/disabled people.</objective>
+  <title>Smartphone-based Mobile Positioning System</title>
+<identifier>H2020MSCAIF2015</identifier>
+</project>

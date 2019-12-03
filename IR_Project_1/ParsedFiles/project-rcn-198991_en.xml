@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>198991</rcn>
+  <acronym>NETIK</acronym>
+  <objective>NETIK is a device specialized in registering pulse/analog and digital sensor data from industry machines, sub-sectors, and facilities using novel PLC communication; thus enabling continuous and complete monitoring of the electrical grid off-site. 
+Using PLC communication in industrial environemtns NETIK simplifies the installation and reduces cost. This device overcomes current PLC limitations by communicationg though power transformation centres. It is also non-invasive to the client, the installation process does not disrupt daily activities. The software and hardware developed in NETIK allows machine to machine communication through PLC even when there is electrical interference in the grid. 
+NETIK is able to interpret an entire electrical grid as a communication medium using PLC. NETIK sends continuous sensor data packages through the existing wiring. 
+Efinétika’s technical team collects this information and applies critical know-how in energy monitoring, performance, and audits, as well as in reengineering solutions. These ultimately lead to energy consumption reductions to the client. NETIK is an innovative solution designed for industrial energy management thorough electrical-grid and productive process data monitoring and processing, thus creating a low carbon energy system.</objective>
+  <title>Smart sensor metering using cloud storage and PLC communication for efficient energy management</title>
+<identifier>H2020SMEINST12015</identifier>
+</project>

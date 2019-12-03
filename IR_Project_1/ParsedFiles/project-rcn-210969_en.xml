@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210969</rcn>
+  <acronym>ALGSTRONGCRYPTO</acronym>
+  <objective>Our field is cryptology. Our overarching objective is to advance  significantly the frontiers in
+design and analysis of high-security cryptography for the future generation.
+ Particularly, we wish to enhance the efficiency, functionality, and, last-but-not-least, fundamental understanding of cryptographic security against very powerful adversaries.
+Our approach here is to develop completely novel methods by
+ deepening, strengthening and broadening the
+ algebraic foundations of the field.
+Concretely, our lens builds on
+the arithmetic codex. This is a  general, abstract cryptographic primitive whose basic theory we recently developed and whose asymptotic part, which  relies on algebraic geometry, enjoys crucial applications in surprising foundational results on constant communication-rate two-party cryptography. A codex is a linear (error correcting) code that, when endowing its ambient vector space just with  coordinate-wise multiplication, can be viewed as simulating, up to some  degree, richer arithmetical structures such as finite fields  (or  products thereof), or generally, finite-dimensional algebras over  finite fields. Besides this degree, coordinate-localities for which simulation holds and for which it does not at all are also captured.
+Our method is based on novel perspectives on codices  which significantly
+ widen their scope and strengthen their utility.  Particularly, we bring
+ symmetries, computational- and complexity theoretic aspects, and connections with algebraic number theory, -geometry, and -combinatorics into play in novel ways. Our applications range from public-key cryptography to secure multi-party computation.
+Our proposal is subdivided into 3 interconnected modules:
+
+
+(1) Algebraic- and Number Theoretical Cryptanalysis
+(2) Construction of Algebraic Crypto Primitives
+(3) Advanced Theory of Arithmetic Codices</objective>
+  <title>Algebraic Methods for Stronger Crypto</title>
+<identifier>ERC2016ADG</identifier>
+</project>

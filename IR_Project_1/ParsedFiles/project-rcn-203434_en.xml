@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>203434</rcn>
+  <acronym>TBO-MET</acronym>
+  <objective>In this project the problem of analysing and quantifying the effects of meteorological uncertainty in Trajectory Based Operations is addressed. In particular, two problems are considered: 1) trajectory planning and 2) sector demand analysis, both at the pre-tactical level (up to three hours before departure) and tactical level (during the flight).
+
+In each problem two types of meteorological uncertainty are considered: wind uncertainty and convective zones (including individual storm cells). Weather predictions will be based on Ensemble Prediction Systems and Nowcasts.
+
+At the trajectory scale, the main objective is to assess and improve the predictability of efficient 4D trajectories when weather uncertainty is taken into account. To reach this goal, a methodology based on the use of stochastic optimal control algorithms will be explored for robust trajectory planning at the pre-tactical level. At the tactical level, various tactics will be investigated to avoid storms by using a Monte-Carlo method. 
+
+At the sector scale, the main objective is to analyse the impact of the previously developed trajectory planning on sector demand. To achieve this objective, a methodology will be developed to measure the uncertainty of sector demand (probabilistic sector loading) based on the uncertainty of the individual trajectories. This analysis will also provide an understanding of how weather uncertainty propagates from the trajectory scale to the sector scale. 
+
+All the solutions proposed in this project will be evaluated and assessed using an advanced air traffic simulator.
+
+This project is fully aligned with the call, where the following objectives are stated: “to enhance meteorological capabilities and their integration into ATM planning processes for improving ATM efficiency” and “to develop 4D trajectories that are optimised to take account of all environmental considerations”.</objective>
+  <title>Meteorological Uncertainty Management for Trajectory Based Operations</title>
+<identifier>H2020SESAR20151</identifier>
+</project>

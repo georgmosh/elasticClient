@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200732</rcn>
+  <acronym>ProFoundNet</acronym>
+  <objective>In an ever-connected world, increasingly complex network systems play a crucial role in many daily tasks. This results in an acute need for methods/tools that can enable easy control of the network and, at the same time, provide rigorous guarantees about its behavior, performance, and security. Recent years saw the growth of a new software ecosystem -Software-defined networking (SDN)- which advocates a clean and open interface between networking devices and the software that controls them.  Yet, existing SDN languages do not support reasoning about crucial quantitative aspects, such as: "How much congestion is there?" or "Is the network resilient under failure?". Enabling compositional quantitative reasoning is the major breakthrough needed to fully realize the vision of SDN. 
+
+The central objective of this project is to develop new abstractions for programming of networks, with high-level modular constructs. We will provide rigorous semantic probabilistic foundations, enabling quantitative reasoning. This will serve as a solid platform for program analysis tools where compositional reasoning about complex interactions will be a reality. Our goal will be achieved through an interdisciplinary research effort: using techniques from concurrency and formal methods, areas where akin challenges can be found in the quest to design correct software systems. We will leverage the wealth of recent advances in those areas (some of which from the PI's own research) to networks, and bring awareness and new challenges arising from applications in networking to the other two communities. 
+
+The project will significantly advance the foundations of network programming/verification in new and previously unexplored directions. This line of research will not only result in fundamental theoretical contributions and insights in their own right but will also impact the practice of network programming and lead to new and more powerful techniques for the use of engineers and programmers.</objective>
+  <title>Probabilistic Foundations for Networks</title>
+<identifier>ERC2015STG</identifier>
+</project>

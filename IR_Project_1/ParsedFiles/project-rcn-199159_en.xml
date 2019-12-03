@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199159</rcn>
+  <acronym>MAMI</acronym>
+  <objective>Recent revelations about large-scale pervasive surveillance of Internet traffic have led to a rapidly expanding deployment of encryption in order to protect end-user privacy. At the same time, network operators and access providers rely on increasing use of in-network functionality provided by middleboxes and network function virtualization (NFV) approaches to improve network operations and management, and to provide additional value for their customers. In addition, new applications such as interactive video make new demands on the transport layer, requiring the deployment of new protocols and extensions, the deployment of which is impaired by the proliferation of middleboxes that cause them to fail. These three trends are on a collision course.
+
+The MAMI project seeks to restore balance among end-user privacy concerns in the face of pervasive surveillance, innovation in network protocols in the face of increasing ossification, and the provision of in-network functionality in a cooperative way.
+
+We aim to do this through the development and experimental deployment of a middlebox cooperation protocol (MCP) embedded in a more flexible transport layer, to be used together with ubiquitously deployed encryption. To ensure the applicability of the protocol, we will develop it on a background of middlebox behaviour models, derived from large-scale measurements of middleboxes in the public Internet conducted on top of a FIRE+ testbed. We will then evaluate the fitness of our proposed MCP to purpose by evaluating its applicability to a set of real-world use cases for transport layer evolution, focusing on incremental deployability in the presence of both cooperative and uncooperative middleboxes by experimentation in the Internet utilising the facilities provided by FIRE+ testbeds.</objective>
+  <title>Measurement and Architecture for a Middleboxed Internet</title>
+<identifier>H2020ICT2015</identifier>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208172</rcn>
+  <acronym>VisionBot</acronym>
+  <objective>"Millions of electronic devices remained at the prototype stage and disappeared because the creators didn't afford to buy expensive factory machines or got refused by the Chinese mass-production factories. In the last 2 years, we designed and manufactured 10 units of VisionBot – a breakthrough, affordable electronics assembly robot that can facilitate millions of makers, electrical engineers, students and SMEs to start electronic production in garages. Like 3D printers, Pick and Place robots existed even 30 years ago. But the market has only high-volume machines that are very expensive and prohibitive - cost more than a €100,000
+
+VisionBot was designed to use the mechanical technology from 3D Printers and to be suited for an electronic production line in a ""garage"" or startup. We want to build and sell affordable midsize €2,500 robots that assembly electronic products by placing ICs, chips, and passives onto circuit boards. Our most disruptive competitive advantage is the Computer Vision Algorithms that process images from two digital microscopes allowing the robot to place with 10µm high precision electronic components in devices, consumer, industrial, medical, IoT, automotive, etc.
+
+So far we built 12 units(10 prototypes) and sold 2 VisionBot units to UK and Romania. With the funds we will test the product's market and feasibility by building and selling 20 new VisionBot units. Many breakthrough electronic devices can be created with VisionBot in EU garages.
+
+If 3D printers started a revolution in prototyping, VisionBot can start the next technological revolution making electronic production affordable. VisionBot reduces market entry barriers for millions of makers who were struggling to bring their ideas to the world. The expected outcome is the technical and economic validation of the VisionBot machines with market and costs analysis and a detailed step-by-step strategy ready for commercialization across European and international markets
+Web http://visionbot.net"</objective>
+  <title>Innovative and Affordable Pick and Place Robots with 10µm high mechanical accuracy and Advanced Computer Vision Algorithms for automatic electronics assembly manufacturing</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

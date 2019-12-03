@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212109</rcn>
+  <acronym>CORNET</acronym>
+  <objective>Networks are the backbone of our society, but configuring them is error-prone and tedious: misconfigured networks result in headline grabbing network outages that affect many users and hurt company revenues while security breaches that endanger millions of customers. There are currently no guarantees that deployed networks correctly implement their operator’s policy.
+
+Existing research has focused on two directions: a) low level analysis and instrumentation of real networking code prevents memory bugs in individual network elements, but does not capture network-wide properties desired by operators such as reachability or loop freedom; b) high-level analysis of network-wide properties to verify operator policies on abstract network models; unfortunately, there are no guarantees that the models are an accurate representation of the real network code, and often low-level errors invalidate the conclusions of the high-level analysis.
+
+We propose to achieve provably correct networks by simultaneously targeting both low-level security concerns and network-wide policy compliance checking. Our key proposal is to rely on exhaustive network symbolic execution for verification and to automatically generate provably correct implementations from network models. Generating efficient code that is equivalent to the model poses great challenges that we will address with three key contributions:
+
+a)	We will develop a novel theoretical equivalence framework based on symbolic execution semantics, as well as equivalence-preserving model transformations to automatically optimize network models for runtime efficiency.
+
+b)	We will develop compilers that take network models and generate functionally equivalent and efficient executable code for different targets (e.g. P4 and C). 
+
+c)	We will design algorithms that generate and insert runtime guards that ensure correctness of the network with respect to the desired policy even when legacy boxes are deployed in the network.</objective>
+  <title>Provably Correct Networks</title>
+<identifier>ERC2017STG</identifier>
+</project>

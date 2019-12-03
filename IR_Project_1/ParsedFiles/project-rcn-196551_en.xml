@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196551</rcn>
+  <acronym>ATRS Instrument</acronym>
+  <objective>The objective of the overall innovation project is to develop a novel instrument to measure and control pharmaceutical drug potency during manufacture at sub-second analysis speeds.  This will significantly reduce the cost of quality testing, reduce the dosage variability that a patient receives, reduce production waste and solvent disposal and address challenging new regulatory testing guidelines.
+
+Pharmaceutical companies, in response to regulators (such as the US FDA) setting direction and guidance, need to better understand and control their processes.  Real-time release testing (RTRT) and Quality by Design (QbD) are promoted by regulators as their vision of where quality must go; pharmacopeia guidance supports that vision.  
+
+Cobalt has developed a successful, patented, high speed quantitative analysis technology called transmission Raman spectroscopy (TRS), which measures drug potency of intact tablets and capsules.  When used during production (“on-line”) in combination with an automated physical tablet testing system, TRS will enable immediate release of drug product without “off-line” analysis in a quality control (QC) laboratory.</objective>
+  <title>Real time analysis of tablet and capsule dosage during pharmaceutical manufacturing</title>
+<identifier>H2020SMEINST12014</identifier>
+</project>

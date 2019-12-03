@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>214876</rcn>
+  <acronym>REALM</acronym>
+  <objective>Terrestrial ecosystems respond to changes in climate and the atmospheric environment, which they in turn help to regulate. As global change has become an international concern, high expectations have been laid on Earth system models with embedded ecosystem and biophysical land-surface components to deliver reliable, quantitative predictions of large-scale changes in ecosystems and their feedbacks to the climate system. But the lack of established quantitative theory for many fundamental processes – such as the long-term effects of temperature on primary production and carbon allocation, the sustainability and nutrient requirements of CO2 ‘fertilization’, and the regulation of green vegetation cover and its water use – has made such expectations impossible to fulfil. As a result, numerical models of land ecosystem processes continue stubbornly to disagree both with one another, and with benchmark data sets.
+
+This impasse can be overcome, but not without re-thinking modelling practice. Theory must be re-instated as the required link between observations and models. Multidisciplinary data resources now available should be used far more extensively and creatively. Observational and experimental results should be integral to model development, not merely used for ‘end-of-pipe’ testing of complex, poorly constrained models. I propose to develop a comprehensive, next-generation vegetation model using eco-evolutionary optimality hypotheses to generate testable predictions, and multiple data sources to provide tests. Initial results have demonstrated the remarkable power of this ‘strong inference’ approach to explain patterns seen in nature. The project will transform the practice of global vegetation and land-surface modelling and in doing so, establish the foundations of a more robust, quantitative understanding of the role of terrestrial ecosystems in Earth System dynamics.</objective>
+  <title>Re-inventing Ecosystem And Land-surface Models</title>
+<identifier>ERC2017ADG</identifier>
+</project>

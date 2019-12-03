@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205253</rcn>
+  <acronym>ESSENS</acronym>
+  <objective>"UN-Water has recently warned that in only ten years' time, by 2025, water scarcity will be affecting 1.8 billion people, with two-thirds of the world population possibly living under conditions of water stress. There exists, hence, a strong need to rigorously manage drinking water resources. The production of potable water by membrane water treatment systems is relatively economic and benign. 80 million m3 of potable water are already produced nowadays using membranes. However, the efficiency of membrane water treatment processes may severely be impeded by a phenomenon known as "membrane fouling". Hereby, organic matter present in the water to be treated adsorbs on the surface of the porous membrane filters, resulting in the build-up of a surface layer which then increasingly closes the membrane pores and, hence, dramatically diminishes the potable water production. If detected at an early stage, such fouling could be counteracted by adequate process operating conditions. Once a rigid fouling layer is formed, however, chemically aggressive membrane cleaning procedures need to be employed with respective negative environmental impact. ESSENS proposes a monitoring device that outperforms existing fouling detection techniques and allows optimizing both fouling prevention and membrane cleaning cycles. The result is a significantly more efficient and sustainable membrane water treatment processes, enabling a greatly improved management of the drinking water production."</objective>
+  <title>Early Stage Sensing of Fouling in Membrane Water Treatment</title>
+<identifier>ERC2015PoC</identifier>
+</project>

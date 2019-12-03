@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194878</rcn>
+  <acronym>microMole</acronym>
+  <objective>The threat of synthetic drugs is one of the most significant current drug problems worldwide. Amphetamine-Type Stimulants (ATS) are the second most widely used drugs. Since 1990, ATS manufacturing has been reported from more than 70 countries worldwide and the figure keeps rising. In 2008, 80 % of the amphetamine production facilities dismantled worldwide were located in Europe (UNODC, 2010) (EMCCDA, 2011). Organised Crime Groups are involved in ATS large-scale production (Europol, 2007) (EMCDDA, 2009). Since 2011, the wide availability of pre-precursors (like APAAN) significantly lowered the price of the controlled precursor BMK and caused severe environmental problems, taking the problem to a greater dimension.
+
+The aim of this project is to design, develop and test a prototype of a system for legal recording, retrieving and monitoring operations of ATS and ATS precursor laboratories in urban areas. The sensor system will be installed within the sewage system and will track waste associated to ATS production. Criminal investigators and forensic specialists will use the system in case of:
+1. initial general suspicion of ATS production in a certain area, for locating laboratories by monitoring the sewage system for long time periods;
+2. strong suspicions that in a well confined area ATS is being produced, for collecting material for forensic analysis and potential use in court, and for aiding in the planning of LEA raid operations. 
+
+
+The μMole prototype will contain the following features: a) miniaturized system for 200mm sewage pipes, b) robust housing taking into account sewage system environment, c) minimized power consumption, d) enhanced operation time supported by energy harvesting, e) high-specificity electro-chemical sensors, f) integrated micro-tanks for sample storage, and g) secure GSM and radio communications for remote monitoring. Analysis of privacy law, data protection and social acceptance will be carried on at different stages.</objective>
+  <title>SEWAGE MONITORING SYSTEM FOR TRACKING SYNTHETIC DRUG LABORATORIES</title>
+<identifier>H2020FCT2014</identifier>
+</project>

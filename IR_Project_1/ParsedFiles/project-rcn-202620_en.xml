@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>202620</rcn>
+  <acronym>SKYOPENER</acronym>
+  <objective>SKYOPENER will increase the use of Remotely-Piloted Aircraft Systems (RPAS) for civilian applications by contributing to the European RPAS Steering Group's roadmap for the integration of civil RPAS into the European Aviation System. SKYOPENER will provide a whole operational process and a system that will demonstrate higher capability through Communication, Navigation and Surveillance innovations in RPAS. The SKYOPENER system will be designed, in the first instance, for specific operations for tactical RPAS, that are under 25kilos but subject to national aviation authority regulation, operating at Very Low Level of operation (under 500ft). 
+SKYOPENER will include live trials in Switzerland for which we will gather stakeholders implicated in the operations of RPAS including RPAS operators, civil aviation authorities, air navigation service providers, RPAS manufacturers, satcom service providers etc.
+The newly developed system will be the result of the integration of a range of components which will combine technologies such as GNSS, satcom and security tools. GNSS will be used for the safety navigation of RPAS. The project will provide a command and control link that uses communication through multi-band satellite and radio and will address the redundancy issue of communication systems It will also feature a surveillance system with detect and avoid functions that will be based on GNSS, system wide information management and satcom. Such a system will be less costly, less complex, lighter and easier to roll out than those that are currently using mode-S transponders. 
+SKYOPENER project brings together a seven partner team with a range of expertise and skills. Additionally we will include in the project a stakeholder group which will advise on the requirements of the project, witness the trial operations and support in the dissemination of results from the project. The range of partners, stakeholders and European associations give SKYOPENER a European scope.</objective>
+  <title>SKYOPENER - establishing new foundations for the use of Remotely-Piloted Aircraft Systems for civilian applications.</title>
+<identifier>H2020Galileo20151</identifier>
+</project>

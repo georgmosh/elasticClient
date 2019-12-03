@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>198881</rcn>
+  <acronym>D3IMPACT</acronym>
+  <objective>The planning and management of public transport systems is essential for urban decision makers and public and private transport operators. The key for the planning of public transport systems is the knowledge of user demand.  These data has been traditionally obtained from home surveys that are expensive, inaccurate and only show a small sample in a particular moment in time. Automatic passenger counting systems are a solution for obtaining more reliable information but the inaccuracy of the current technologies is a drawback.
+
+Counterest has developed an innovative solution that will provide decision makers in the public transportation industry with a cheap, accurate, permanent and accurate real-time travel demand information by means of 3D depth sensors and Wi-Fi signal tracking that will create a predictive model allowing for disruptive features like dynamic scheduling and allocation of resources, overcrowding detection and management, fare evasion detection, Origin-Destination matrix generation and the provision of open data on occupancy in real-time by means of an API.
+
+The target users are the public authorities and agencies managing the public transport and the public and private transport operators using bus, trams, metro and suburban rail. The need for a sustainable demand-and-service oriented and efficient public transport system indicates that there is a growing market and a significant business opportunity for our solution.
+We have deployed pilot installations with London Underground and 4 Barcelona Urban Bus lines that have proven our solution.
+
+The overall goal of the feasibility study is to assess the technological and economic viability of the proposed concept and elaborate a detailed business plan. 
+
+The feasibility assessment will provide us with reliable market/technical/financial information allowing us to take a decision based on evidences and eventually apply for the required funding through SME Instrument Phase 2.</objective>
+  <title>Data-driven decisions for intelligent management of public transportation</title>
+<identifier>H2020SMEINST12015</identifier>
+</project>

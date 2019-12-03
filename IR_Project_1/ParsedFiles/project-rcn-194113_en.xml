@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194113</rcn>
+  <acronym>DiCoMo</acronym>
+  <objective>DiCoMo aims to improve the specificity and sensitivity of flat panel X-ray detectors. This is achieved by a disruptive approach in sensing where we combine radical innovations from leading European players from various disciplines. On the backplane level a new material system enables the realization of an active pixel architecture with amorphous semiconductors. In combination with a custom made read-out IC this promises a significant enhancement in sensitivity. On the frontplane level a novel solvent-free processing technology for hybrid-organic semiconductors is used in conjunction with hybrid-organic core-shell structures to realize thick photodetectors with integrated scintillator particles for minimal optical cross-talk and enhanced resolution.
+
+We expect that the results of DiCoMo secure the leading position and strengthen the global competitiveness of European industry in the field of medical imaging. It helps to establish a network between leading players in the field, covering the entire value chain from material provider to system integrator, and enhance the innovation capacity by mutually-profitable alignment of different technologies and IP blocks available to the consortium. Further it advances the safety of environment and health by establishment of a new solvent-free manufacturing process for large area hybrid-organic electronics and provides an opportunity for better diagnosis at lower dose and cost in radiography and mammography.</objective>
+  <title>Direct conversion hybrid-organic X-ray detectors on metal oxide backplane</title>
+<identifier>H2020ICT20141</identifier>
+</project>

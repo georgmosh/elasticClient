@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>209942</rcn>
+  <acronym>BOXMATE</acronym>
+  <objective>Today’s industry is more vulnerable to cyberattacks than ever. The biggest threat comes from advanced persistent threats that targets the sensitive data of a specific company. Such a threat may come along as an innocuous app that starts its malicious behavior only when the mobile logs into the corporate network.
+At the same time, such threats can be made undetectable through testing or code analysis.
+The ERC SPECMATE project has developed a technology named BOXMATE that protects against unexpected changes of app behavior and thus drastically reduces the attack surface of mobile applications.
+The key idea is to mine app behavior by executing generated tests, systematically exploring the program’s accesses to sensitive data. During production, the app then is placed in a sandbox, which prohibits accesses not seen during testing.
+This combination of test generation and sandboxing effectively protects against advanced persistent threats. To access sensitive data during production, the app already must do so during testing—where tracing makes it easy to discover and assess. BOXMATE neither does not need to collect user data: All app behavior is assessed during testing already. Finally, BOXMATE requires no knowledge about source or binary code, and thus easily handles arbitrarily obfuscated or obscure third-party apps. BOXMATE is currently being patented worldwide.
+We want to turn the BOXMATE approach into a full mobile security solution for corporate and end users. This proposal aims at producing a full-fledged prototype that can be demonstrated to potential customers, most notably app vendors and mobile infrastructure providers; as well as developing an adequate marketing strategy exploring and responding to the needs of the market.
+This proposal is fueled by the principal investigator, Andreas Zeller, one of the world’s leading experts in software test generation and specification mining.</objective>
+  <title>Mining Sandboxes for Automatic App Protection</title>
+<identifier>ERC2016PoC</identifier>
+</project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199744</rcn>
+  <acronym>CARAT</acronym>
+  <objective>Chimeric antigen receptors (CARs) are artificial surface receptors that can be introduced into somatic cells by genetic engineering and that act as recognition molecules like antibodies or T-cell receptors. In this respect, CARs are increasingly used for cellular therapy to redirect T-cells specifically towards killing of cancer cells. Recent success stories of cancer therapy with CAR modified T-cells have raised enormous scientific and public expectations to cure severely ill patients. However, there are still many obstacles to overcome for translation into clinics because the technology for GMP-compliant manufacture of genetically modified cellular products is extremely complex and expensive. Moreover, CAR therapy needs to be improved with respect to off-target activity, safety and potency. Consequently, the envisaged project is overall aiming at a particular technological breakthrough in cellular cancer therapy by delivering a comprehensive CARAT platform explicitly tailored for automated, easy-to-handle and cost-efficient manufacture of CAR-modified ATMP. Specifically, we aim:
+
+(a) to implement unique next-generation cell processing tools like the CliniMACS Prodigy
+(b) to develop advanced enabling technologies to obtain more effective and safer cellular products by improved gene delivery and innovative CARs design
+(c) to assemble tools and technologies towards an integrated CARAT process for automated GMP-compliant manufacture of gene-modified T-cells
+(d) to demonstrate proof-of-concept and regulatory compliance
+(e) to disseminate broadly applicable, simplified CAR T-cell technologies
+
+In summary, our vision is to overcome current hurdles for translation of cellular therapies and to elevate them to the next level of standard-of-care thus serving patients with so far incurable solid tumours and hematologic malignancies. Thereby, we will empower Europe to become a global leader in the development and commercialisation of CAR T-cell tools and technologies.</objective>
+  <title>Chimeric Antigen Receptors (CARs) for Advanced Therapies</title>
+<identifier>H2020PHC2015twostage</identifier>
+</project>

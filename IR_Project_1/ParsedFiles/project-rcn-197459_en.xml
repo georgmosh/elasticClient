@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>197459</rcn>
+  <acronym>AURA</acronym>
+  <objective>AURA (Advanced Uninterrupted RAdio) is a new concept of in-car radio that aims at replacing the in-dash AM/FM/DAB and Satellite radios worldwide. 
+AURA overcomes the limitations of the existing in-car radio technologies (mutual interference, limited number of stations, poor signal coverage in difficult environments, etc.) using a sophisticated  combination of a buffering technology and a multicasting packetized data transfer as described in our Patent application.
+AURA delivers high quality listening for a potentially unlimited number of radio stations, while ensuring a location-independent, interference-free and interruption-free experience,  even under conditions of dropouts and outages in the wireless segment of the network, where other technologies cannot operate.
+AURA is a highly scalable client-server technology because it uses a hybrid multicast system to optimize the bandwidth of the wireless segment of the network. The client connects to the server via a Digital Wireless Network to receive high quality audio, and may communicate its position in order to receive location-based services such as traffic data and geo-targeted adverts. 
+Current AURA prototype utilizes a PC as server and a smartphone as Client device.
+AURA development is based on AvMap solid Know How in Software and Hardware design and will be brought to market through AvMap long-term relationship with carmakers and Telco companies: AvMap is Tier1 supplier of satellite navigation and connectivity systems for European and Global carmakers.
+The outcome of Phase 1 will be a detailed feasibility study including costs’ assessment and economic viability obtained with the implementation of a larger scale prototype infrastructure involving a multitude of users and stakeholders.
+AURA has the potential to become the next must-have equipment for car manufacturers in the European market. Moreover, AURA can generate more opportunities for other SMEs creating a Long Tail of radio contents and advertising.</objective>
+  <title>Advanced Uninterrupted RAdio</title>
+<identifier>H2020SMEINST12015</identifier>
+</project>

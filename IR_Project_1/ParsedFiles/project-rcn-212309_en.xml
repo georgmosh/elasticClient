@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212309</rcn>
+  <acronym>ERACHRON</acronym>
+  <objective>"Given the alarming progression of chronic and relapsing infections in the last decades, and the even more alarming predictions for the upcoming years, it is urgent for chemists to be able to provide new molecular tools to study, and ultimately solve, these complex biological problems. Bacterial persisters are an elusive ""dormant"" phenotype that play a pivotal role in chronic infections, with mechanisms that remain to be fully unravelled. Current knowledge suggests that bacterial persisters are not genetically resistant to antibiotic treatment; they simply appear to shut down through a cascade of biochemical events called the stringent response (SR), becoming insensitive to current drugs. This subpopulation remains unaffected during the time of pharmacological treatment and represents a reservoir that sustains pathogen survival and resurgence. The goal of this project is to fill the knowledge gap between persisters formation and infection eradication, providing the community with potent and selective small molecular tools that can be used to challenge complementary survival mechanisms.
+I will adopt a combined approach targeting a specific cellular trigger of the persister phenotype with small molecules designed ad hoc in order to switch it off. The target is a bacterial protein involved in the SR cascade, whose activity is proposed to be allosterically regulated. Coordination propensity analysis of the dynamic behaviour of the target will highlight regulation sites exploitable to modulate and control the protein activity. Structure-based design, virtual fragment screening and chemical synthesis will operate in synergy. Experimental screening methodologies intrinsically rich in structural information, such as those based on NMR spectroscopy, will be privileged.
+The overarching goal is to identify molecules able to prevent the insurgence of the ""dormant"" drug-tolerant state and, possibly, revert the persisters already present to the ""awake"" drug-sensitive phenotype.
+
+"</objective>
+  <title>Eradicating Chronic Infections</title>
+<identifier>ERC2017STG</identifier>
+</project>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206243</rcn>
+  <acronym>VERSATILE</acronym>
+  <objective>The recent trends of mass customization of products and lean approaches impacts production by a drastic reduction of
+production lot sizes. However, traditional automation and robotics fail to be competitive in such a context since all individual
+product variant would require a complete automation project. In addition, keeping up with the introduction of robots outside of
+the traditional sectors require to automate much more complex manual tasks, where again traditional robotics automation
+fails to provide a good ratio of cost vs robustness, mainly due to the rigidity of existing production equipment in terms of
+programming and tools
+
+The overall objective of the project is to provide a bridge for transferring, demonstrating and validating the latest R&amp;D results
+in robotics towards different industrial environments proving their applicability and effectiveness.
+More specifically, VERSATILE will apply dual arm robots in executing complex tasks that are traditionally assigned to
+humans due to their manipulation requirements. By providing the tools to quickly setup, program and operate innovative
+robotic systems the end user will have robotic cells flexible enough to automatically adapt to the high number of products
+variants.
+
+In this context the project will focus on advancing the TRL level of the latest developments in the areas of:
+- Perception for Operation in semi-structured environment
+- Easy Programming framework to improve the re-configurability/ programmability of the robotic systems
+- Mobile dual-arm robotics manipulation capabilities
+- Open frameworks for the ‘Plug and Produce’ based coordination of these resources
+
+This will be investigated in three industry driven use cases including both static and mobile dual arm robots. The project will
+focus on three main applications:
+- Automotive: assembly of vehicle dashboards at PSA
+- Aerospace: assembly of aircraft wing parts at AIRBUS
+- Consumer goods: handling and packaging of shaver handles at BIC</objective>
+  <title>Innovative robotic applications for highly reconfigurable production lines - VERSATILE</title>
+<identifier>H2020ICT20161</identifier>
+</project>

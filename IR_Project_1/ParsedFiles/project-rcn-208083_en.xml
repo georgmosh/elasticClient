@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208083</rcn>
+  <acronym>AQSuS</acronym>
+  <objective>AQSuS aims at experimentally implementing analogue quantum simulation of interacting spin models in two-dimensional geometries. The proposed experimental approach paves the way to investigate a broad range of currently inaccessible quantum phenomena, for which existing analytical and numerical methods reach their limitations. Developing precisely controlled interacting quantum systems in 2D is an important current goal well beyond the field of quantum simulation and has applications in e.g. solid state physics, computing and metrology.
+To access these models, I propose to develop a novel circuit quantum-electrodynamics (cQED) platform based on the 3D transmon qubit architecture. This platform utilizes the highly engineerable properties and long coherence times of these qubits. A central novel idea behind AQSuS is to exploit the spatial dependence of the naturally occurring dipolar interactions between the qubits to engineer the desired spin-spin interactions. This approach avoids the complicated wiring, typical for other cQED experiments and reduces the complexity of the experimental setup. The scheme is therefore directly scalable to larger systems. The experimental goals are:
+
+1) Demonstrate analogue quantum simulation of an interacting spin system in 1D &amp; 2D.
+2) Establish methods to precisely initialize the state of the system, control the interactions and readout single qubit states and multi-qubit correlations.
+3) Investigate unobserved quantum phenomena on 2D geometries e.g. kagome and triangular lattices.
+4) Study open system dynamics with interacting spin systems. 
+
+AQSuS builds on my backgrounds in both superconducting qubits and quantum simulation with trapped-ions. With theory collaborators my young research group and I have recently published an article in PRB [9] describing and analysing the proposed platform. The ERC starting grant would allow me to open a big new research direction and capitalize on the foundations established over the last two years.</objective>
+  <title>Analog Quantum Simulation using Superconducting Qubits</title>
+<identifier>ERC2016STG</identifier>
+</project>

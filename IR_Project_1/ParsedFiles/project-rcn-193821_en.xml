@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193821</rcn>
+  <acronym>FOSTER ITS</acronym>
+  <objective>The primary objective of FOSTER ITS is to design and develop the first secured GNSS module available on the market for ITS application.
+
+The FOSTER ITS products will be Galileo, EGNOS, GPS and GLONASS enabled and will offer greater resilience against the increasing range of GNSS threats by:
+• Detecting signal attack attempts (spoofing, meaconing and jamming);
+• Providing indicators to users about confidence of the positioning;
+• Providing proof of the integrity and origin of the PVT data (digital signature).
+
+The other ambition of FOSTER ITS project is to create a new ecosystem merging GNSS and Security. 
+
+To reach these objectives, the FOSTER ITS secured GNSS module will: 
+• Implement and enhance the Level Of Confidence IP (Intellectual Property) developed in the FP7 TACOT project;
+• Implement and enhance the Spoofing, Meaconing and Jamming detection IP developed in the FP7 TACOT project;
+• Add a secure Micro Controller Unit (MCU) to increase speed and robustness of security functions and ensure easiest security evaluation;
+• Implement Galileo OS Navigation Message Authentication Capability;
+• Target automotive grade and security evaluation;
+• Provide interface to support EDAS (EGNOS Data Access Service).
+
+In addition, the design of this secured module will natively allow further ITS security features in particular certificate and key cabinet that will be used in Vehicle-to-Vehicle and Vehicle-to-Infrastructure (V2X) communication (IEEE 1609.2 protocol).
+
+The FOSTER ITS Team consists of experienced companies and organisations which provides the most efficient background for the performance of the project. This consortium is composed of FDC, ST Microelectronics (Automotive and Security divisions), Novacom services and NavCert.</objective>
+  <title>First Operational, Secured and Trusted galilEo Receiver for ITS</title>
+<identifier>H2020Galileo20141</identifier>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212328</rcn>
+  <acronym>EnBioN</acronym>
+  <objective>ENBION will engineer a platform to direct the differentiation of stem cells by developing principles for the rational design of the biointerface of nanowires. 
+It is increasingly evident that efficient tissue regeneration can only ensue from combining the regenerative potential of stem cells with regulatory stimuli from gene therapy and niche engineering. Yet, despite significant advances towards integrating these technologies, the necessary degree of control over cell fate remains elusive. 
+Vertical arrays of high aspect ratio nanostructures (nanowires) are rapidly emerging as promising tools to direct cell fate. Thanks to their unique biointerface, nanowires enable gene delivery, intracellular sensing, and direct stimulation of signalling pathways, achieving dynamic manipulation of cells and their environment. 
+This broad manipulation potential highlights the importance and timeliness of engineering nanowires for regenerative medicine. However, developing a nanowire platform to direct stem cell fate requires design principles based on the largely unknown biological processes governing their interaction with cells. Enabling localized, vector-free gene therapy through efficient transfection relies on understanding the still debated mechanisms by which nanowires induce membrane permeability. Directing cell reprogramming requires understanding the largely unexplored mechanosensory processes and the resulting epigenetic effects arising from the direct interaction of nanowires with multiple organelles within the cell. Engineering the cell microenvironment requires yet undeveloped strategies to localize signalling and transfection with a resolution comparable to the lengthscale of cells.
+ENBION will develop this critical knowledge and integrate it into guidelines for dynamic manipulation of cells. Beyond the nanowire platform, the principles highlighted by this unique interface can guide the development of nanomaterials with improved control over cellular processes.</objective>
+  <title>Engineering the Biointerface of Nanowires to Direct Stem Cell Differentiation</title>
+<identifier>ERC2017STG</identifier>
+</project>

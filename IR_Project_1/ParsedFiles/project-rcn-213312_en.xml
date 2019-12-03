@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213312</rcn>
+  <acronym>FARSIGHTS</acronym>
+  <objective>With over 400 satellites in orbit generating over 100 Petabytes (2022) Satellite imagery analytics are becoming the bottle neck in the Earth Observation data chain. As shown in the Malaysia Airlines flight case, current object detection technologies, Templates, Geometric knowledge-based and Machine Learning, cannot cope with Earth Observation Big Data on an efficient and effective way. 
+
+SkanSense is solving this problem with FARSIGHTS a patented technology to locate fully automatically (no human supervision) objects in satellite imagery, even without knowing its size and shape. The FARSIGHTS technology is being developed into a software-as-a-service product having in mind the emerging cloud based Earth Observation digital platforms, and GIS software suites that are transforming the Earth Observation services value chain. 
+
+Phase I Feasibility Study will be focused on product validation with end-users and strategic partners while we continue the technical development (see figure 6). We will meet coating manufacturers, EO digital platforms and GIS vendors (see stakeholders in 3.1.a). Their feedback will enable completing our IR signatures library, performing additional tests and gathering additional requirements to configure the product range and Phase II product development plan. In addition, we will carry out a thorough assessment of the market, IPR and regulatory landscapes. Finally, a Financial Feasibility study will be performed to complete all the elements of a full Business Plan deliverable.</objective>
+  <title>Fast And Reliable Surveillance and Identification of Ground asseTs from Space</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206990</rcn>
+  <acronym>BrainDyn</acronym>
+  <objective>The brain is composed of a set of areas specialized in specific computations whose outputs need to be transferred to other specialized areas for cognition to emerge.  To account for context-dependent behaviors, the information has to be flexibly routed through the fixed anatomy of the brain. The aim of my proposal is to test a general framework for flexible communication between brain areas based on nested oscillations which I recently developed.  The general idea is that internally-driven slow oscillations (&lt;20Hz) either set-up or prevent the communication between brain areas. Stimulus-driven gamma oscillations (&gt;30Hz), nested in the slow oscillations, can then be directed to task-relevant areas of the network.  I plan to use a multimodal, multi-scale and transversal (human and monkey) approach in experiments manipulating visual processing, attention and memory to test core predictions of my framework. The theoretical approach and the methodological development used in my project will provide the basis for future fundamental and clinical research.</objective>
+  <title>Tracking information flow in the brain: A unified and general framework for dynamic communication in brain networks</title>
+<identifier>ERC2016STG</identifier>
+</project>

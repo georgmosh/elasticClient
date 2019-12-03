@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200199</rcn>
+  <acronym>CoEND</acronym>
+  <objective>The experienced researcher, Dr. Ali Abedi, and the host supervisor, Prof. Angel Rubio, aim at developing a new predictive and practical approach that overcomes the difficulties that current methods have to treat the correlated electron-nuclear dynamics in systems such as light-harvesting complexes. The proposed project starts with the fundamental method development based on the “exact factorization framework” recently introduced by the researcher, goes through a systematic performance test to reach the desired accuracy/efficiency trade-off, and will be implemented in a computational platform to be applied to study large systems such as artificial light-harvesting complexes.</objective>
+  <title>Correlated Electron-Nuclear Dynamics: A novel mixed quantum-semiclassical approach</title>
+<identifier>H2020MSCAIF2015</identifier>
+</project>

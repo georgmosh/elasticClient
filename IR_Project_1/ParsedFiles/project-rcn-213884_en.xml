@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213884</rcn>
+  <acronym>SmartCharge</acronym>
+  <objective>Electric vehicles (EV) are unquestionably the future of mobility, with numerous initiatives to accelerate its adoption. Nonetheless, technical gaps still exist on EV usage – several of them relating with battery capacity, cost, performance and safety concerns, which create several barriers for EV wider market uptake. Hereto, Battery Management Systems (BMS) have been playing a key role in optimizing the use of continuously larger battery stacks with improved endurance, performance and reliability, typically representing around 15% of the overall battery cost. Hereto, reducing their cost and improving their performance is key to minimize the battery-related bottlenecks for wide EV adoption.
+
+LiBAL has developed a novel Integrated Circuit for Advanced Battery Management (ICAB). ICAB is an ASIC-based integrated circuit to be deployed as a local monitoring unit within large BMS. ICAB offers several disruptive features, including 1) an unmatched cost per monitored lithium cell (&gt;50% lower than alternatives from major manufacturers), 2) enabling more efficient energy balancing across cells in the battery pack without ramping overall costs, through a unique, patent-protected hybrid balancing method and 3) is prepared to reduce the complexity of master/slave communication wiring through powerline communications. 
+
+To bridge the remaining steps towards full scale commercialization of ICAB, LiBAL has not only to widely demonstrate it in full scale but also to consolidate our strategic partnering throughout the EV value chain to ensure enough muscle for ICAB’s production ramp-up. The to-market maturation of ICAB within the present innovation project represents a strategic opportunity yielding a very large business potential for our company – opening a potential revenue stream summing up to over €325 mn over the 5-years post market introduction, from which LiBAL stands to capture over €63 mn as additional gross profits, while creating +50 new positions at our company.</objective>
+  <title>SmartCharge: Smart integrated circuits for advanced battery management</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

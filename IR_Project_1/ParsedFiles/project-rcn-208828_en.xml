@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208828</rcn>
+  <acronym>MW-R</acronym>
+  <objective>This proposal for the project MoveWise-Research (MW-R) is submitted for the call INNOSUP-02-2016 “SME Innovation Associate”. AETHON requests to hire a post-doctoral researcher with sufficient academic experience on transportation engineering, data analytics, behavioural analysis and IT programming for the purpose of performing a proof-of-concept research (TRL 5 – development of model/algorithm) on modelling tours incorporating user feedback. The key objective of the MW-R project is to develop a model/algorithm for planning of tours and trips in real time incorporating user preferences and data on traffic obtained from public (and open) sources. The model will be created by using data from public transport authorities in Greece and by performing a small scale survey to obtain user feedback on trips. By achieving the MW-R goal, the model will be able to change the perspective of travellers by providing targeted information about planned routes that will improve mode, route, time of departure and destination choice. AETHON aims to incorporate the model in a smartphone application and to gain knowledge on transportation behavioural analysis that can be used in multiple professional activities.</objective>
+  <title>MoveWise-Research project</title>
+<identifier>H2020INNOSUP022016</identifier>
+</project>

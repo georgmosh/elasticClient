@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206028</rcn>
+  <acronym>MELODIC</acronym>
+  <objective>MELODIC will enable data-intensive applications to run within defined security, cost, and performance boundaries seamlessly on geographically distributed and federated cloud infrastructures. Serving the user’s needs and constraints, MELODIC will realise the potential of Cloud computing for big data and data-intensive applications by transparently taking advantage of distinct characteristics of available private and public clouds, dynamically optimise resource utilisation, consider data locality, conform to the user’s privacy needs and service requirements, and counter vendor lock-in.
+
+These benefits are achieved by integrating and extending the results and the open source platforms available from three major European Cloud projects with the Hadoop and Spark big data frameworks: The PaaSage platform will be used for intelligent and autonomic cross-cloud deployment and is extended with data aware modelling and deployment configuration reasoning; the CACTOS platform is extended with support for Hadoop and Spark in cross-Cloud application deployment and management; and the PaaSword platform will ensure unified data security and cross-Cloud privacy.
+
+MELODIC will integrate with the existing open source development teams for these platforms and the contributions will be released back to the used platforms as open source. The integrated MELODIC platform will be maintained and exploited by a professional software house, and tested in several demanding real world applications: scalable Customer Relationship Management, real-time optimised traffic routing, and fast and scalable processing of genomic data.</objective>
+  <title>Multi-cloud Execution-ware for Large-scale Optimized Data-Intensive Computing</title>
+<identifier>H2020ICT20161</identifier>
+</project>

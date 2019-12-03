@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196647</rcn>
+  <acronym>KDRP</acronym>
+  <objective>CHALLENGE: Demand response (DR) is central to the successful evolution of a new low carbon electricity system in order to deliver grid flexibility &amp; stability, however it is progressing slowly in the EU due to technological barriers which prevent widespread uptake: high in cost hardware (€4.000 - €6.000); not specifically designed for DR → lack critical functionality (e.g. wireless communication, integration of renewables); &amp; not sufficiently open for wider industry participation.
+
+PROPOSED SOLUTION:  To address the need for innovations that overcome principal barriers to DR, this project seeks to advance KPLs Energy Management Platform, KEMP, from a prototype demonstrated in a relevant environment (TRL6) to complete &amp; qualified commercial prototype (TRL8).  KEMP is a low cost, automated ancillary services platform which consists of: [1] Unique hardware: multi-asset control; first platform to integrate renewable assets; wireless communication between assets → reduced installation cost; &amp; sec. by sec. meter readings – requirement for Frequency Response programmes.  [2] Innovative software: cloud based – for greater scalability; flexibility &amp; remote monitoring,  forecasting model - for integration of renewables; &amp; optimisation engine - to  max. revenues.
+
+END USERS: [1] Initial target = large scale commercial &amp; industrial (C&amp;I) orgs with high MW capacity (&gt;1MW) e.g. financial, telecoms, hospitals, hotels etc. Asset types: DRUPS systems &amp; HVAC. [2] Secondary target = SMEs with low MW capacity (50kW&lt; capacity &lt; 1MW) incl. Water Pump Stations, Small Data Centres, Retail Stores. Asset types: Variable Speed Motors, HVAC, UPS systems etc.
+
+STUDY OBJECTIVES: tech validation, market analysis, economic &amp; business assessment, operational  capacity analysis. Activities will be delivered within a 4 month period, &amp; result in a comprehensive feasibility report detailing the next steps towards development &amp; commercialisation, forming the basis of the SMEI Phase II Business Plan.</objective>
+  <title>KiWi Power Limited’s Revolutionary, Low Cost, Demand Response Platform (KDRP)</title>
+<identifier>H2020SMEINST12014</identifier>
+</project>

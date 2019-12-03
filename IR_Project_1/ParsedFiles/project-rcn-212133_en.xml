@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212133</rcn>
+  <acronym>FAST-TRACKS</acronym>
+  <objective>The urbanization trends of the urban and suburban metropolitan areas have increased exponentially the demand for high-capacity rail infrastructure, which require interoperable systems and services, with high standards of safety and reliability.
+At the same time, the railway technological infrastructure and the related services require a high level of innovation, especially in the field of telecommunication systems and rail control. In recent years, several different rail control technologies have been focused upon to increase the track capacity, improve the overall operational efficiency and ensure safer railway traffic. Among these innovative technologies applied in EU are the Communication-Based Train Control systems (CBTC) and the European Rail Traffic Management System (ERTMS).
+In this context, the wireless telecommunication networks are playing an increasingly important role thanks to functional and maintenance features and installation time: by virtue of their robustness and high redundancy they can convey simultaneously data traffic for automatic train control and transfer massively security and passengers control information.
+However, the wireless coverage of the existing railway technological infrastructure does not ensure full operational standards, capacity and robustness required for a large-scale use in support of the railway signaling.
+FAST-TRACKS project proposes the development and commercialization of a low cost telecommunication system, which addresses the main problems faced at present in the integration of a traditional Wi-Fi system within the railway technological infrastructure. The project aims at covering a functional gap in the railway radio telecommunication infrastructure. 
+The information provided in this proposal is based on the technological and economic viability successfully demonstrated within Phase I and the proposal has obtained twice “Seal of Excellence” from the EC on Phase II.</objective>
+  <title>Fast rAdio technologieS for uninterrupTed TRAin to traCKside communicationS</title>
+<identifier>H2020SMEINST220162017</identifier>
+</project>

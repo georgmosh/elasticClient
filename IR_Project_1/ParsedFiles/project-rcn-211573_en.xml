@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211573</rcn>
+  <acronym>BrainEnergy</acronym>
+  <objective>Pericytes, located at intervals along capillaries, have recently been revealed as major controllers of brain blood flow. Normally, they dilate capillaries in response to neuronal activity, increasing local blood flow and energy supply.  But in pathology they have a more sinister role. After artery block causes a stroke, the brain suffers from the so-called “no-reflow” phenomenon - a failure to fully reperfuse capillaries, even after the upstream occluded artery has been reperfused successfully. The resulting long-lasting decrease of energy supply damages neurons. I have shown that a major cause of no-reflow lies in pericytes: during ischaemia they constrict and then die in rigor. This reduces capillary diameter and blood flow, and probably degrades blood-brain barrier function. However, despite their crucial role in regulating blood flow physiologically and in pathology, little is known about the mechanisms by which pericytes function.
+
+By using blood vessel imaging, patch-clamping, two-photon imaging, optogenetics, immunohistochemistry, mathematical modelling, and live human tissue obtained from neurosurgery, this programme of research will:  
+(i) define the signalling mechanisms controlling capillary constriction and dilation in health and disease;
+(ii) identify the relative contributions of neurons, astrocytes and microglia to regulating pericyte tone;
+(iii) develop approaches to preventing brain pericyte constriction and death during ischaemia;
+(iv) define how pericyte constriction of capillaries and pericyte death contribute to Alzheimer’s disease; 
+(v) extend these results from rodent brain to human brain pericytes as a prelude to developing therapies.  
+
+The diseases to which pericytes contribute include stroke, spinal cord injury, diabetes and Alzheimer’s disease. These all have an enormous economic impact, as well as causing great suffering for patients and their carers. This work will provide novel therapeutic approaches for treating these diseases.</objective>
+  <title>Control of cerebral blood flow by capillary pericytes in health and disease</title>
+<identifier>ERC2016ADG</identifier>
+</project>

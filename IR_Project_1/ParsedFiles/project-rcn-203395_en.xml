@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>203395</rcn>
+  <acronym>DENSE</acronym>
+  <objective>Current driver assistance systems are not all-weather capable. They offer comfort and safety in sound environmental conditions. However, in adverse weather conditions where the accident risks are highest they malfunction or even fail. Now that we are progressing towards automated cars and work machines, the requirements of fully reliable environment perception are only accentuated. 
+
+The project is focusing on automated driving and its key enabling technology, environment perception. Consequently, project’s main objective is to develop and validate an all-weather sensor suit for traffic services, driver assistance and automated driving. Extended driving environment perception capability with smart, reliable and cost-efficient sensing system is necessary to meet the targets of all future driver assistance system applications. These targets need to be met regardless of location, weather or time of the day. Only by means of reliable and robust sensing system upcoming automated driving will be possible. The new sensor suit is based on a smart integration of three different technologies: (i) Radio radar, 77 GHz-81 GHz, (MIMO Radar); (ii)  Gated short wave infrared camera with pulsed laser illumination (SWIR camera)and (iii) Short-wave infrared LIDAR (SWIR Lidar). Such a full fusion approach has never been investigated before, so that the outcome will advance the state-of-the-art significantly and demonstrate the potential of all-weather environment perception.
+
+DENSE innovation lies in the provision of a brilliant restored enriched colour image from a degraded infrared image and consequently, this is followed by a variety of application fields for low cost solutions. An important aim is also to close the gap to US developments in the field and avoid their restrictions for selling components overseas for strategic reasons and strengthen the position of European industry in worldwide competition.</objective>
+  <title>aDverse wEather eNvironmental Sensing systEm</title>
+<identifier>H2020ECSEL20151RIAtwostage</identifier>
+</project>

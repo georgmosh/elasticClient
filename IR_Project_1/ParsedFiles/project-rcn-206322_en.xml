@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206322</rcn>
+  <acronym>PaPaAlg</acronym>
+  <objective>In this project we revise the foundations of parameterized complexity, a modern multi-variate approach to algorithm design. The underlying question of every algorithmic paradigm is ``what is the best algorithm?'' When the running time of algorithms is measured in terms of only one variable, it is easy to compare which one is the fastest. However, when the running time depends on more than one variable, as is the case for parameterized complexity:
+
+**It is not clear what a ``fastest possible algorithm'' really means.**
+
+The previous formalizations of what a fastest possible parameterized algorithm means are one-dimensional, contrary to the core philosophy of parameterized complexity. These one-dimensional approaches to a multi-dimensional algorithmic paradigm unavoidably miss the most efficient algorithms, and ultimately fail to solve instances that we could have solved. 
+
+We propose the first truly multi-dimensional framework for comparing the running times of parameterized algorithms. Our new definitions are based on the notion of Pareto-optimality from economics. The new approach encompasses all existing paradigms for comparing parameterized algorithms, opens up a whole new world of research directions in parameterized complexity, and reveals new fundamental questions about parameterized problems that were considered well-understood.
+In this project we will develop powerful algorithmic and complexity theoretic tools to answer these research questions. The successful completion of this project will take parameterized complexity far beyond the state of the art, make parameterized algorithms more relevant for practical applications, and significantly advance adjacent subfields of theoretical computer science and mathematics.</objective>
+  <title>Pareto-Optimal Parameterized Algorithms</title>
+<identifier>ERC2016STG</identifier>
+</project>

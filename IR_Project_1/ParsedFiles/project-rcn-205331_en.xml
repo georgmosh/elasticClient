@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205331</rcn>
+  <acronym>STRATIFY</acronym>
+  <objective>To reduce the burden of mental disorders it is a formidable aim to identify widely applicable disease markers based on
+neural processes, which predict psychopathology and allow for targeted interventions. We will generate a neurobehavioural
+framework for stratification of psychopathology by characterising links between network properties of brain function and
+structure and reinforcement–related behaviours, which are fundamental components of some of the most prevalent mental
+disorders, major depression, alcohol use disorder and ADHD. We will assess if network configurations define subtypes
+within and if they correspond to comorbidity across these diagnoses. We will identify discriminative data modalities and
+characterize predictors of future psychopathology.
+To identify specific neurobehavioural clusters we will carry out precision phenotyping of 900 patients with major
+depression, ADHD and alcohol use disorders and 300 controls, which we will investigate with innovative deep machine
+learning methods derived from artifical intelligence research. Development of these methods will optimize exploitation of a
+wide range of assessment modalities, including functional and structural neuroimaging, cognitive, emotional as well as
+environmental measures. The neurobehavioural clusters resulting from this analysis will be validated in a longitudinal
+population-based imaging genomics cohort, the IMAGEN sample of over 2000 participants spanning the period from
+adolescence to adulthood and integrated with information generated from genomic and imaging-genomic meta-analyses of
+&gt;300.000 individuals.
+By targeting specific neural processes the resulting stratification markers will serve as paradigmatic examples for a
+diagnostic classification, which is based upon quantifiable neurobiological measures, thus enabling targetted early
+intervention, identification of novel pharmaceutical targets and the establishment of neurobehaviourally informed endpoints
+for clinical trials.</objective>
+  <title>Brain network based stratification of mental illness</title>
+<identifier>ERC2015AdG</identifier>
+</project>

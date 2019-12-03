@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204322</rcn>
+  <acronym>CELSO</acronym>
+  <objective>AVM (Automated Vehicle Monitoring) systems are a key ITS technology for Public transport, guaranteeing real-time control
+of bus fleets on the network. They support ticketing and user information systems and report service performances.
+However, existing AVM present 3 key weaknesses that prevent them from being fully implemented and exclude smaller
+transport operators from equipping their fleets: a. complex technical features; b. significant resources needed for purchase
+and implementation; c. lack of an automatic data validation process.
+CELSO has been developed to address these 3 weaknesses. It is a low-cost, pocket AVM solution. It uses large diffusion
+technologies for provide all the functions of existing systems via a smartphone/tablet–based APP (CELSO MOB). Moreover,
+it enhances performance of conventional AVM, thanks to a specific module (CELSO Validator) which validate data collected
+by the system automatically.
+The target users of CELSO are not only Transport Operators (small and large), but also Public Transport Authorities s and
+other Authorities in charge of service contract monitoring/management. The simple and light architecture of the system can
+be easily customised to specific users needs, allowing CELSO to reach a large EU and international target market.
+CELSO is currently a prototype product, which has been tested and proved to be effective, yet it requires further engineering
+and commercialisation analysis before being placed on the market. For this reason, the Feasibility Analysis to be developed
+in this project aims to enhance CELSO specifications (determining any needed software and hardware improvements) and
+develop the product business model. Special attention will be paid to the needed adjustments at Company organisation level
+to manage CELSO commercialisation and post-sales activities efficiently.</objective>
+  <title>Low-cost and high-performance pocket Automated Vehicle Monitoring system for Public Transport</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206182</rcn>
+  <acronym>CROSSMINER</acronym>
+  <objective>Recent reports state that the adoption of open-source software (OSS) helps, resulting in savings of about $60 billion per year to consumers. However, the use of OSS also comes at enormous cost: choosing among OSS projects and maintaining dependence on continuously changing software requires a large investment. Deciding if an OSS project meets the required standards for adoption is hard, and keeping up-to-date with an evolving project is even harder. It involves analysing code, documentation, online discussions, and issue trackers. There is too much information to process manually and it is common that uninformed decisions have to be made with detrimental effects.
+
+CROSSMINER remedies this by automatically extracting the required knowledge and injecting it into the IDE of the developers, at the time they need it to make their design decisions. This allows them to reduce their effort in knowledge acquisition and to increase the quality of their code. CROSSMINER uniquely combines advanced software project analyses with online monitoring in the IDE. The developer will be monitored to infer which information is timely, based on readily available knowledge stored earlier by a set of advanced offline deep analyses of related OSS projects. 
+
+To achieve this timely and ambitious goal, CROSSMINER combines six end-user partners (in the domains of IoT, multi-sector IT services, API co-evolution, software analytics, software quality assurance, and OSS forges), along with R&amp;D partners that have a long track-record in conducting cutting-edge research on large-scale software analytics, natural language processing, reverse engineering of software components, model-driven engineering, and delivering results in the form of widely-used, sustainable and industrial-strength OSS. The development of the CROSSMINER platform is guided by an advisory board of world-class experts and the dissemination of the project will be led by The Open Group.</objective>
+  <title>Developer-Centric Knowledge Mining from Large Open-Source Software Repositories</title>
+<identifier>H2020ICT20161</identifier>
+</project>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199160</rcn>
+  <acronym>PIX4LIFE</acronym>
+  <objective>Photonics is essential in today’s life science technology. 
+PIX4life will mature a state of the art silicon nitride (SiN) photonics pilot line for life science applications in the visible range and pave the way to make it accessible as an enabler for product development by a broad range of industrial customers. We aim at 1) establishing a validated CMOS compatible SiN technology platform in the visible range for complex densely integrated photonics integrated circuits (PICs), 2) developing a supply chain to integrate mature semiconductor laser sources and CMOS detector arrays with the SiN PICs on the basis of technologies that are scalable to high volume, 3) establishing appropriate design kits and tools, 4) demonstrating the performance of the pilot line for well-chosen life science applications in the domain of vital sensing, multispectral sources for super-resolution microscopy, cytometry and 3D tissue imaging, 5) setting up the logistics for multi-project-wafer (MPW) access to the pilot line.
+Integrated photonics has demonstrated that optical functions can be realized in a more compact, robust and cost-effective way by integrating functionalities on a single chip. At present industrialization is limited to telecom applications at infrared wavelengths. The field of life sciences is heavily dependent on bulky and expensive optical systems and would benefit enormously from low cost photonic implementations. However this field requires a visible light PIC-technology. Proof of concept demonstrations are abundant, but pilot line and manufacturing capacity is limited, inhibiting industrial take up. 
+PIX4life will drive the future European RTD in visible photonic applications for life sciences by bridging technological research (via participation of 2 academic and 2 research institutes) towards industrial development (via participation of a foundry, two large companies and 9 fabless SME’s, either technology suppliers or life science end users).</objective>
+  <title>Silicon Nitride Photonic Integrated Circuit Pilot line for Life Science Applications in the Visible Range</title>
+<identifier>H2020ICT2015</identifier>
+</project>

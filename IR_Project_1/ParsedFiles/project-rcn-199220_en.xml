@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199220</rcn>
+  <acronym>HDIV</acronym>
+  <objective>Cyber-attacks are becoming the most important threat to critical infrastructures worldwide (including critic urban infrastructures such as finance, energy or government). These critical infrastructures are potential targets for which cyber-attacks could be potentially devastating. Due to the increasing use of web applications in any sector, attacks are very often based on exploiting web application vulnerabilities, being currently vulnerable almost any web application. The software frameworks and programming environments used to develop web applications do not provide adequate functionalities to eliminate web security risks, and the current cyber security solutions (represented mainly by WAF solutions) do not cover the end-users’ needs properly (due to their complex and costly deployment and maintenance). Moreover, the protection level they offeris limited (up to 75% of risks). To overcome this situation, this project presents HDIV, a technology that follows a security by design approach, generating self-protected web applications. HDIV is integrated within the web applications and within the web application development environments. It eliminates the complexity and maintenance cost of WAF solutions and increases the protection levels up to 90%.
+The MAIN OBJECTIVE of the project is to accelerate the introduction into the worldwide market of a set of products based on HDIV, contributing to solve the important threats derived from web application weaknesses. Through the activities proposed, the project leader ARIMA will complete the development of a set of market ready products that will allow exploiting the full potential of HDIV on the markets addressed:
+-Current market of web security solutions, where the potential customers are organizations with high security concerns  requirements.
+-The market associated to web application developers and development companies.
+-A new niche market, constituted by organizations with less security concerns and requirements.</objective>
+  <title>HDIV: SELF-PROTECTED WEB APPLICATIONS</title>
+<identifier>H2020SMEINST22015</identifier>
+</project>

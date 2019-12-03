@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205251</rcn>
+  <acronym>MIMICS</acronym>
+  <objective>With 13,000 deaths each year in the EU, cervical cancer (CC) is one of the deadliest cancers worldwide. This is unnecessary, since CC is well detectable and treatable at early stages. For this reason, most EU countries have screening programs in place. These screening programs have had (varying) success in reducing CC incidence, however, this reduction has reached a plateau and new strategies are needed to improve screening success.
+An important reason for the stagnating decline in CC incidence is the relative high rate of non-compliance to screening because the gynaecological procedure to collect a sample is seen as highly uncomfortable and very invasive. Offering self-sampling options increases the participation rate in non-responder women by 30%. However, self-sampling is not compatible with the current cytology-based screening method (e.g. Pap test). There is thus a great need for the development of new, molecular screening assays for CC that can be used on self-samples.
+In the ERC-AdG MASS-CARE, we investigate the value of two classes of molecular markers, DNA methylation and miRNA for the detection of cervical disease in self-samples. In our analyses, we frequently observed variations at the 3’ end of the miRNA markers. Such variations (isomiRs) have great impact on their detectability by standard assays and thus specific assay development for these isomiRs constitutes a great improvement compared to using the canonical miRNA sequence. 
+In MIMICS, we aim to select the isomiRs with the strongest association with CC which therefore have added value as disease biomarker compared to the canonical miRNAs. The identified isomiRs, which improve CC detection compared to the canonical miRNAs will be added to the panel of DNA methylation and canonical miRNAs as identified in the ERC-AdG. This assay will constitute the first full molecular, non-morphology-based, objective screening assay for cervical cancer fully compatible with self-sampling.</objective>
+  <title>MicroRNA Isoforms for Molecular Interception of Cervical cancer using Self-samples</title>
+<identifier>ERC2015PoC</identifier>
+</project>

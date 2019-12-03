@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204188</rcn>
+  <acronym>SAMSON</acronym>
+  <objective>Computer-aided design of macrosystems has greatly contributed to reduce production costs of cars, planes, etc., by replacing drawing boards and physical mock-ups with virtual modeling and simulation tools. Similarly, computational nanoscience is expected to have an increasingly essential impact on biology, chemistry, physics, material science, electronics, etc., by complementing experiments to reduce research and development cycles, lower costs, increase quality, etc.
+
+Unfortunately, while numerous software tools have already been developed, they are currently very fragmented, domain specific, and a significant effort is still needed to address the needs emerging from the convergence trends in nanoscience. Indeed, boundaries that used to clearly delimitate application domains (biology, chemistry, etc.) are now becoming blurred: nanoparticles are being functionalized with antibodies, nanomechanisms are built out of DNA strands, etc. 
+
+My group has been developing SAMSON, a software platform for modeling and simulation of nanosystems, with three main design characteristics in mind: generality, adaptivity and openness. Unlike existing commercial tools, which are mostly closed and “monolithic”, we believe the open architecture of SAMSON, combined with the distribution model enabled by SAMSON Connect, an associated online platform to distribute SAMSON Elements (modules for SAMSON), is the most appropriate foundation to integrate computational tools and help move forward nanoscience and nanotechnology.
+
+The goal of this Proof of Concept proposal is to explore the potential of SAMSON as a software platform for federating computational nanoscience able to sustain a viable business model.</objective>
+  <title>SAMSON: Integrating computational nanoscience</title>
+<identifier>ERC2015PoC</identifier>
+</project>

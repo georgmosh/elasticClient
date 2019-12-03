@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211049</rcn>
+  <acronym>VALEMA</acronym>
+  <objective>The objective of the VALEMA project is twofold:
+- On the one hand it is required to manufacture and assembly units (EMAs and ECUs) previously designed and developed according to the JTI-CS2-2016-CFP03-SYS-02-14 Call (Development of electromechanical actuators and electronic control units for flight control systems) for in flight tests activities.
+- On the other hand it is required to perform certification activities regarding both the HW and SW of the ECUs in order to obtain a permit to fly in the FTB2 demonstrator of the Regional Aircraft.
+
+The manufacturing part will include a deep analysis of manufacturing routes, materials to be used and applicable qualification tests, searching for innovative processes, in order to ensure that the processes optimize the manufacturing time, minimize the raw material used and minimize the environmental impact.
+
+The certification activities will be aimed at obtaining the permit to fly from the applicable Airworthiness Authorities for the aileron/spoiler ECU HW design (according to DO-254) and for the aileron/spoiler ECU SW design (according to DO-178B).
+
+These activities can be considered as the last step within the HW and SW design of the aileron/spoiler ECU development to be undertaken in EMA4FLIGHT according to the JTI-CS2-2016-CFP03-SYS-02-14 Call and, as such, the innovations developed within that call also apply herein.</objective>
+  <title>VALidation tests of ElectroMechanical Actuators and its dedicated control units at TRL 6 level</title>
+<identifier>H2020CS2CFP04201602</identifier>
+</project>

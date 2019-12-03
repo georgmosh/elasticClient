@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194123</rcn>
+  <acronym>SUPERCLOUD</acronym>
+  <objective>Today, despite its unravelling business benefits, distributed cloud computing raises many security and dependability concerns. Root causes include increase in complexity and lack of interoperability between heterogeneous, often proprietary infrastructure technologies. SUPERCLOUD thus proposes new security and dependability infrastructure management paradigms that are : 1) user-centric, for self-service clouds-of-clouds where customers define their own protection requirements and avoid lock-ins; and 2) self-managed, for self-protecting clouds-of-clouds that reduce administration complexity through automation. SUPERCLOUD will reach the following objectives:
+-Self-Service Security: Implementation of a cloud architecture that gives users the flexibility to define their own protection requirements and instantiate policies accordingly.
+-Self-Managed Security: Development of an autonomic security management framework that operates seamlessly over compute, storage and network layers, and across provider domains to ensure compliance with security policies.
+-End-to-End Security: Proposition of trust models and security mechanisms that enable composition of services and trust statements across different administrative provider domains.
+-Resilience: Implementation of a resource management framework that composes provider-agnostic resources in a robust manner using primitives from diverse cloud providers. The SUPERCLOUD methodology will be validated by testbed integration for real-world use cases in the healthcare domain, ranging from deploying a distributed medical imaging platform to running a full laboratory information system. The consortium is industry-led with partners actively involved in promotion of open source cloud technologies and contributing to major standardization bodies in cloud security, inter-cloud architectures, security protocols, and SDN. SUPERCLOUD will leverage its expertise in these domains to promote and ensure market validity of the research findings.</objective>
+  <title>USER-CENTRIC MANAGEMENT OF SECURITY AND DEPENDABILITY IN CLOUDS OF CLOUDS</title>
+<identifier>H2020ICT20141</identifier>
+</project>

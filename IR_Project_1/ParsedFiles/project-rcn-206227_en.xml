@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206227</rcn>
+  <acronym>SAFE4RAIL</acronym>
+  <objective>SAFE4RAIL will provide the baseline for a fundamentally simplified embedded computing and networked TCMS platform, for modular integration and certification of all safety-, time- and mission-critical train functions, including distributed hard real-time controls, safety signals and functions up to SIL4. 
+The generic embedded platform architecture provided by SAFE4RAIL will allow mixed-criticality integration and virtualization to host critical and non-critical functions on reconfigurable computing and networking resources.
+The SAFE4RAIL simulation and testing environment is based on the hardware abstraction and domain separation concepts allowing rapid deployment and testing of applications, e.g. by supporting early functional integration testing long before vehicle integration. 
+The results of SAFE4RAIL are demonstrated with a SIL4 brake-by-wire system safety concept. Finally, the project will provide recommendations for standardization and certification of next generation TCMS embedded platform.
+SAFE4RAIL reduces TCMS system lifecycle and operating costs and minimizes time-to-market by: 
+(1) minimized physical complexity: reduced weight, wiring, connector and computer count, increased part commonality, reliability and availability 
+(2) supporting streamlined approaches to verification/testing, validation, reuse, and (re)certification 
+(3) incorporating reconfiguration and modular certification to reduce system integration and recommissioning costs.
+SAFE4RAIL results will encourage interoperability, efficient, safe and secure interconnection of technical solutions among European railway providers, boosting the worldwide competitiveness and preserving the global leadership of the European transport industry. 
+SAFE4RAIL is driven by a European cross-industry consortium of 11 academic and industrial partners (including 4 SMEs), with experts from automotive, aerospace, railway to ensure synergies with existing and developing architectural concepts and technologies.</objective>
+  <title>SAFE architecture for Robust distributed Application Integration in roLling stock</title>
+<identifier>H2020S2RJUOC2016012</identifier>
+</project>

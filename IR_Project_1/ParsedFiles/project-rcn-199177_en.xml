@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199177</rcn>
+  <acronym>ARGO</acronym>
+  <objective>Increasing performance and reducing costs, while maintaining safety levels and programmability are the key de-mands for embedded and cyber-physical systems in European domains, e.g. aerospace, automation, and automotive. For many applications, the necessary performance with low energy consumption can only be provided by customized computing platforms based on heterogeneous many-core architectures. However, their parallel programming with time-critical embedded applications suffers from a complex toolchain and programming process.
+ARGO (WCET-Aware PaRallelization of Model-Based Applications for HeteroGeneOus Parallel Systems) will ad-dress this challenge with a holistic approach for programming heterogeneous multi- and many-core architectures using automatic parallelization of model-based real-time applications. ARGO will enhance WCET-aware automatic parallelization by a cross-layer programming approach combining automatic tool-based and user-guided parallelization to reduce the need for expertise in programming parallel heterogeneous architectures. The ARGO approach will be assessed and demonstrated by prototyping comprehensive time-critical applications from both aerospace and industrial automation domains on customized heterogeneous many-core platforms. 
+The challenging research and innovation action will be achieved by the unique ARGO consortium that brings together industry, leading research institutes and universities. High class SMEs such as Recore Systems, Scilab Enterprises and AbsInt will contribute their diverse know-how in heterogeneous many-core technologies, model-based design environments and WCET calculation. The academic partners will contribute their outstanding expertise in code transformations, automatic parallelization and system-level WCET analysis.</objective>
+  <title>WCET-Aware Parallelization of Model-Based Applications for Heterogeneous Parallel Systems</title>
+<identifier>H2020ICT2015</identifier>
+</project>

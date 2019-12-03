@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193716</rcn>
+  <acronym>TCLS ARM FOR SPACE</acronym>
+  <objective>Computers are used in a variety of space-borne equipment for numerous on-board applications and processors are at the core of these equipment. However, currently existing space-grade processors are not suitable to be used in the next generation spacecraft computing platforms because they do not provide sufficient performance, power-efficiency and are too expensive. On the other hand, ARM processors are known to be extremely power-efficient and low-cost while providing high performance and are at the core of the vast majority of terrestrial application markets such as smart phones, tablet computers, and other embedded devices. 
+Future space processors and current terrestrial are now converging, as for safety and mission critical market segments there is a growing concern about radiation effects even at the ground level.
+
+Therefore TCLS ARM FOR SPACE  targets the following high level objectives:
+- Bring one of the mainstream CPUs with the largest software eco-system into the space sector (ARM Cortex R5).
+- Establish an innovative radiation hardened  methodology for this CPU making it attractive to both space and terrestrial applications.
+- Study the portability to European latest and highest performance hardened semiconductor technology (STM65nm).
+
+This is achieved by the collaboration of the most experienced companies in this field, namely Airbus Defence and Space (G, F) for specific heritage on high reliable and radiation hardened systems, ARM (UK) providing its excellence in processor core IPs and know-how in this field of developments and Atmel (F) and Dolphin (F) contributing with their space and STM65nm technology experience and knowledge respectively.
+This activity will allow the incorporation of research groups (ARM Research Group) and SMEs (Dolphin) into the space landscape. The exploitation and the dissemination of the results will be guaranteed by the wide sales and marketing network provided by Airbus DS and Atmel for the space and ARM for the terrestrial sectors.</objective>
+  <title>Feasibility and Definition of a Triple Core Lockstep ARM System-on-Chip for Space Applications</title>
+<identifier>H2020COMPET2014</identifier>
+</project>

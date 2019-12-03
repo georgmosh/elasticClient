@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213779</rcn>
+  <acronym>MICROCRYO</acronym>
+  <objective>This proposal aims to revolutionize time-resolved light and electron cryo-microscopy of fast cellular dynamics using a new class of cryogenic microsystems for the reversible cryofixation of cells and small model organisms by ultra-rapid cooling. This will contribute to our understanding of biological structure and function by revealing the dynamics of specific proteins in the ultrastructural context of a cell at nanometer spatial and millisecond temporal resolution.
+
+Despite rapid progress in the field, much of the potential of microscopy at cryogenic temperature today is still untapped due to limitations in methods and instrumentation for sample preparation. First, vitrification technologies for cryo-microscopy have evolved only incrementally since the 1960s and cannot be combined with many of the sophisticated live imaging methods that have emerged over the past decade. Second, while the synergy of light and electron cryo-microscopy is extremely powerful, cryo-microscopy with light is still in its infancy. Finally, new technologies for ultra-rapid heating and cooling of single cells are needed to systematically advance our understanding of reversibility in the cryopreservation of e.g. stem cells, oocytes, or sperm cells. Here I propose to create a microfluidic technology for the direct vitrification of cells in the light microscope by ultra-rapid cooling with millisecond time resolution. The cells will then be imaged at high resolution using electron microscopy and advanced modes of light microscopy combined with new optics adapted to cryogenic conditions. Ultimately, we will elucidate if and under which conditions cryofixation can be reversed by ultra-rapid warming such that dynamic cellular processes resume unperturbed.
+
+We expect that the research proposed here will enable breakthroughs in understanding the structural and molecular basis of fast cellular events including transport, membrane trafficking, cell division, and synaptic transmission.</objective>
+  <title>Microsystems for Cryomicroscopy</title>
+<identifier>ERC2017COG</identifier>
+</project>

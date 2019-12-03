@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>201342</rcn>
+  <acronym>POLAR</acronym>
+  <objective>Biological self-organisation through spontaneous symmetry breaking is essential for the emergence and maintenance of life. Cell polarity, where an asymmetric distribution of molecules is achieved within a cellular compartment, is one of the simplest and most studied examples. However, due to the diversity and complexity of nature, and despite the many known pathways and theoretical models, the fundamental mechanisms are still poorly understood. I propose a ‘bottom-up’ synthetic biology approach to build a synthetic system capable of mimicking cellular polarisation in an artificial compartment. Modular fusion proteins will be engineered from small, well-characterised protein domains and reconstituted into artificial membrane-bound compartments such as Giant Unilamellar Vesicles (GUVs) and microfluidic water-in-oil droplets. The self-organisation of these proteins through autocatalytic membrane-recruitment will be monitored with a variety of fluorescence microscopy techniques. In doing so, I will create a minimal, defined system in which to test general principles of biological self-organisation, abstracted from the ‘noise’ of natural systems. Further, orthogonal synthetic systems could be introduced into living organisms to control morphology and other functions, or be used to build higher-level mimics of life such as proto-cells.</objective>
+  <title>Synthetic Mimicry of Cellular Polarisation</title>
+<identifier>H2020MSCAIF2015</identifier>
+</project>

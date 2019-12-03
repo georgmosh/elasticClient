@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>195336</rcn>
+  <acronym>Molmechindividuality</acronym>
+  <objective>Behaviour emerges from an interplay of various brain regions and billions of neurons forming a network. The brain acquires its organization by a series of developmental events. The correct wiring of the brain is crucially important for all brain functions. Nevertheless, the brain is both stereotyped and variable across individuals. Currently only a subset of genes have been identified that shape specificity in connectivity and it is highly elusive what promotes variability in synaptic connectivity and whether this is behaviourally relevant. To work on these questions I have chosen the Drosophila olfactory system, which is well-defined both on the levels of circuitry and behaviour and as such well-suited to answer these question. Furthermore, from the perspective of circuitry, it is particularly appropriate as it is comprised of both deterministic and non-deterministic synaptic connectivity. In a first step to tackle the question, I will perform a screen to identify genes shaping deterministic and non-deterministic neural connectivity. In parallel, I will investigate olfactory behavioural variability in the fly and correlate this to circuitry variations on the morphological, synaptic and electrophysiological level. After identifying genes that are important for connectivity and correlating circuit to behavioural variability, I aim to modify circuit variability to alter behaviour.</objective>
+  <title>Molecular mechanisms of neuronal connectivity - the synaptic code for variability and stereotypy</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206014</rcn>
+  <acronym>CYRail</acronym>
+  <objective>Railway infrastructures are moving towards more intelligent, connected, user-centric and collaborative systems. While it brings many advantages for the industry and users, it also poses new opportunities for cyber-criminals and terrorists. CYRail aims to deliver tailored specifications and recommendations for secure modern rail systems design and operation.
+ 
+The challenges are multiple: wide and distributed geographical display of rail systems limit the traditional cyber-protection and cyber-defence tools &amp; practices; the heterogeneous nature of rail systems make them vulnerable to blended attacks; the collaboration with other transportation infrastructures increase the number of points for attack; new passenger-centric services may expose rail systems to threats known in the IoT; last but not least, ICT supporting these trends are not necessarily trusted for critical applications. 
+
+CYRail will address those challenges through a methodical diagnosis and specification process, enforced at each step of the cyber-security chain: operational context and scenarios will be defined, followed by a security assessments of railway systems. An analysis of threats targeting those infrastructures will be developed as well as innovative, attack detection and alerting techniques. Adapted mitigation plans and countermeasures will be defined, taking into account their potential impact on operations. Protection Profiles for railway control and signalling applications will be delivered to ensure security by design of new rail infrastructures. 
+
+The CYRail consortium intends to take advantage of developments in other industries (aeronautics, automotive and energy) and bring them into the railway sector, taking similarities and specificities into account. The Consortium is comprised of a well-balanced group of 6 partners from 5 European countries with complementary skills. An Advisory Board is foreseen, to bring on board the expertise from stakeholders within the railway value chain.</objective>
+  <title>Cybersecurity in the RAILway sector</title>
+<identifier>H2020S2RJUOC2015012</identifier>
+</project>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199559</rcn>
+  <acronym>DMAP</acronym>
+  <objective>Data Mining algorithms are a cornerstone of today's Internet-related services and products. We aim to tackle some of the most important problems in Data Mining --- our goal is to develop a systematic theoretical understanding of certain simple algorithms that, in spite of being at the core of today's web industry, are not yet well understood in terms of their properties and performances, and to develop new simple algorithms for fundamental problems in this domain that have so far escaped a satisfactory solution.</objective>
+  <title>Data Mining Algorithms in Practice</title>
+<identifier>ERC2015STG</identifier>
+</project>

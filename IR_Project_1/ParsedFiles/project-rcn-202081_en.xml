@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>202081</rcn>
+  <acronym>COSMOFLAGS</acronym>
+  <objective>New challenges for large galaxy surveys:
+Forthcoming galaxy surveys will probe volumes much larger than current ones, and measuring galaxy clustering at these scales will represent a new challenge that has not been properly analyzed so far.
+This project aims at developing a theoretical understanding and a pipeline to maximize the scientific output of forthcoming galaxy surveys, by modeling and making available to the scientific community a way to fully use the cosmological volumes probed, without introducing any bias due to an incorrect treatment of large-scale galaxy clustering.
+
+This project plans to develop and apply an improved formalism to data from current and future galaxy surveys to perform precise cosmological tests using galaxy clustering analyses.
+We will also perform an accurate forecasting of performances of instruments in different configurations and for different observing strategies; this will help defining and optimizing the survey strategy and final implementation of next generation experiments like Euclid and the SKA.
+
+The interaction between the researcher and the host institution will allow the development of a formalism for describing and measuring the large-scale galaxy bispectrum, a fundamental ingredient of next generation measurements from cosmological surveys.
+
+Finally, we will investigate the optimal way to combine two future experiments of great interest for the European scientific community: Euclid and the SKA.</objective>
+  <title>Cosmology with future large-scale surveys</title>
+<identifier>H2020MSCAIF2015</identifier>
+</project>

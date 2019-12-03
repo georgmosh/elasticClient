@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>195054</rcn>
+  <acronym>FACADE FIRE</acronym>
+  <objective>Fire growth through spreading up the façade of high-rise buildings can lead to catastrophic loss of life and property. Façades at times are required to have a fire-resistance rating, for instance, if two buildings are very close together, to lower the likelihood of fire spreading from one building to another. The issue is becoming increasingly critical due to new development trends involving higher buildings and sometime in close proximity to each other and the increasing use of combustible material in façade to raise energy performance of buildings. 
+
+The proposed Fellowship is aimed at investigating numerically the behaviour of flames ejected from enclosure fires in external facades and other vertical spaces such as atrium, void spaces and staircases. Full understanding of such external flame behaviour requires insight of the combustion processes within the enclosure. Hence the scope of the research includes enclosure fires to characterise the ejected flames as well as fire growth in façades. The research will take advantage of the abundant experimental data available for model validation.  The specific objectives include: 
+
+1. Fine tune and validate the open source CFD code FireFOAM , a dedicated LES based solver for fire simulation within the OpenFOAM® toolbox for enclosure fires; 
+
+2. Investigate the combustion and aerothermodynamics of enclosure fires, including travelling fires; 
+
+3. Characterise the spill flame extent, combustion efficiency and heat fluxes inside and outside different enclosures with different openings (office blocks, residential buildings, travelling fires in open plan compartments, etc.);
+
+4. Develop and validate a predictive approach based on FireFOAM for façade fires; 
+
+5. Conduct parametric studies for different façade panel materials, spread upwards/downwards to different floors within the building and spread to adjacent buildings in different wind conditions to inform the update of regulatory guidance.</objective>
+  <title>Numerical characterisation of fire growth in external facades and other vertical spaces</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

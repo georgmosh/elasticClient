@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193746</rcn>
+  <acronym>ERSAT EAV</acronym>
+  <objective>The main ERSAT EAV objective  is to verify the suitability of EGNSS  (including EGNOS and Galileo early services) for safety railway application, in particular in regional lines scenario, for which a safe localization of the trains, based on satellite technologies, will be defined and developed, leading the way for the harmonization with the European ERTMS standard, by implementing the solution on a pilot line as reference.
+The objectives will be achieved, in a first phase by measuring and evaluating the gaps to be filled, in terms of technological criticalities and in relation to railway requirements, performing measurements under real operating conditions, building models and analysis with the help of the simulation, and finally defining and developing a system solution, implementing, testing and validating it on a  pilot line, as reference for the future standardisation and certification processes.
+The ERSAT EAV proposal is relevant to the work programme for the exploitation of the space infrastructure, in particular prioritising the EGNSS uptake for the rail sector, fostering the competition and the innovation of the European space and rail industry and research community, and  enhancing in parallel the strong coordination and synergy with the specific sector of European Railways and the main actors involved, building-up a system centered to the ERTMS platform and able to bring to the ERTMS the “competitivity-dividend” of the satellite promises,  linked with the enormous opportunity of the local and regional lines in Europe that represent about 50% of the total railways length. 
+The EGNSS-ERTMS based train control/protection system is especially beneficial in terms of operating costs  compared to other solutions for upgrading the local/regional infrastructure, considering the forecasted average Benefit/Cost ratios of 2.2 at the European level and a remarkable increase of safety.</objective>
+  <title>ERTMS on SATELLITE – Enabling Application  Validation</title>
+<identifier>H2020Galileo20141</identifier>
+</project>

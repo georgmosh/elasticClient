@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208890</rcn>
+  <acronym>SimSolidAM</acronym>
+  <objective>The project is aimed to the enhancement of numerical simulation tools for the Additive Manufacturing process, focusing on analysis of temperature evolution and solidification behaviour of material during the Metal Deposition process.
+A novel approach to the thermal FEM simulation of Metal Deposition processes is proposed, with the implementation of an innovative solidification model in COMET (a Finite Element (FE)-based framework for the solution of engineering problems). The proposed  solidification model directly describes the evolution of solid fraction in function of time and depend from some empirical parameter. Examples of simplified AM processes will be studied in order to calibrate the model and evaluate advantages in terms of CPU costs and accuracy. Dedicated semi-empirical models for evaluation of local microstructures in function of temperature history of metal during the AM process will be also developed, implemented and experimentally calibrated. Mechanical properties will be evaluated by means of direct empirical correlation with local microstructures.  Finally, real cases of complete AM processes will be studied in order to validate the overall AM simulation tool.  
+The final objective is to develop an innovative, useful and quick simulation tool for the optimization of the AM process.
+End users such as software houses and mechanical industries are strongly interested the enhancing of simulation accuracy and CPU time. The impact of process optimization in terms of time, cost and product quality leads to clear benefits not only for end-users but also for society in general.</objective>
+  <title>Simulation of metal Solidification in Additive Manufacturing processes</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

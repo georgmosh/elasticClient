@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>198830</rcn>
+  <acronym>EUBra-BIGSEA</acronym>
+  <objective>EUrope-BRAzil Collaboration on BIG Data Scientific REsearch through Cloud-Centric Applications aims at providing services in the cloud for the processing of massive data coming from highly connected societies, which impose multiple challenges on resource provision, performance, Quality of Service and privacy. Processing those data require rapidly provisioned infrastructures customised to Big Data requirements. 
+The three main aims of the proposal will be:
+- The development of innovative Big Data services for capturing, federating and annotating on the order of PB of data on top of efficient programming models. Despite that MapReduce is a successful model in BigData (with a high impact on massive Geo-spatial and textual data), it has many limitations specially when dealing with real-time transactions or streamed data, the proposal would aim to introduce innovative evolutions on the capture, federation &amp; annotation experience it can bring to the table with its partners. 
+- The Development of advanced cloud services to support Big Data. This cloud services will address three main challenges: a) the advance on SLAs to support privacy (boundaries of protected data to be moved) and performance restrictions (convenience of moving data to computing resources or vice-versa); b) Quality of Service (vertical and horizontal elastic adjustment of resources allocates to meet deadlines and dynamic adjustment of workloads); and c) Business models (price-based dynamic re-scheduling of data searching for the best usage of resources invested).
+- The demonstration of such services on applications with high social and business impact, addressing main scenarios of high interest for both Europe and Brazil.</objective>
+  <title>EUrope-BRAzil Collaboration on BIG Data Scientific REsearch through Cloud-Centric Applications</title>
+<identifier>H2020EUB2015</identifier>
+</project>

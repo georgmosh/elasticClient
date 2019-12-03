@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196304</rcn>
+  <acronym>TrustNode</acronym>
+  <objective>The TrustNode project aims at prototyping, validation and demonstration of a disruptive routing platform in real world
+conditions. It will enable the design of novel routing paradigms asking for local intelligence to evaluate packet streams to serve upcoming B2B applications for the Internet of Things. Routing functionality is expected to migrate from core towards network edge in the next years.
+
+Outcome of the project will be (1) assessment of market share and manufacturing costs (2) business plan and (3) figures achieved by a prototype against SoA.</objective>
+  <title>A Disruptive Router Platform for the Internet of Things – TrustNode</title>
+<identifier>H2020SMEINST12014</identifier>
+</project>

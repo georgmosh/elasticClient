@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213043</rcn>
+  <acronym>SERENA</acronym>
+  <objective>Millimetre-wave (mm-wave) frequencies are currently being exploited for a wide range of applications such as radars, wireless communication, and imaging. There is a strong industry pull to substantially reduce the cost of mm-wave systems for future key markets such as 5G wireless communications and autonomous vehicles (automotive radar sensors). These systems will increasingly rely on active antenna arrays and electronic beam-steering. A fundamental challenge is to bring into production high performance mm-wave active antenna systems, at a viable price-point and low energy consumption.
+The objective of SERENA is to scale the functional performance of mm-wave beam-steering systems in terms of improved output power and efficiency (2x), reduced form factor (4x), increased data rate (up to 100x), and increased affordability (10x). To reach these goals, SERENA will provide an optimized hybrid analog/digital mm-wave beam-steering system architecture. A proof-of-concept prototype will be built using state-of-the-art GaN-on-Silicon technology, SiGe/CMOS integrated circuits and a novel heterogeneous 3D integration approach to reach low-cost with beyond state-of-the-art performance (high output power and efficiency).
+The SERENA project will contribute to doubling the economic value of semiconductor component production in Europe within the next 10 years by a two-pronged approach. First, the SERENA consortium spans the whole electronics manufacturing and supply chain (from wafers to system providers) and world class academic institutions. Hence, SERENA considerably strengthens the design ecosystem for key semiconductors (GaN-on-Si, SiGe/CMOS) and advanced 3D packaging.  Second, the SERENA integration platform will enable “mass customization” of advanced mm-wave systems, where the front-end circuitry can be adapted for specific market needs.</objective>
+  <title>gan-on-Silicon Efficient mm-wave euRopean systEm iNtegration plAtform</title>
+<identifier>H2020ICT20171</identifier>
+</project>

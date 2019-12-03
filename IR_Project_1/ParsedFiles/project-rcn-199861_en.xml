@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199861</rcn>
+  <acronym>MURAB</acronym>
+  <objective>The MURAB project has the ambition to revolutionise the way cancer screening and muscle diseases are researched for patients and has the potential to save lives by early detection and treatment.
+The project intends to create a new paradigm in which, the precision of great medical imaging modalities like MRI and Ultrasound are combined with the precision of robotics in order to target the right place in the body. This will be achieved by identifying a target using Magnetic Resonance Imaging (MRI) and then use a robot with an ultrasound (US) probe to match the images and navigate to the right location.
+This will be done thanks to a new innovative technique, which will be developed in the project and called Tissue Active Slam (TAS) which will use different techniques and modalities, like elastography, in order to cope with the deformation of the tissues. Such a procedure has the potential to drastically improve the clinical workflow and save lives by ensuring an exact targeting of (small) lesions, which are visible under MRI and not under US. Technologies developed within MURAB also have the potential to improve other clinical procedures. Clinically, two applications will be targeted and validated in the project: breast cancer diagnostics (MUW and ZGT) and muscle disease diagnostics (UMCN). Considering the potential for the market, industrial partners are involved with expertise in the delivery of safe robotics components and applications (KUKA), as well as with great knowledge and ambition in pushing innovation to the medical market (SIEMENS).</objective>
+  <title>MRI and Ultrasound Robotic Assisted Biopsy</title>
+<identifier>H2020ICT2015</identifier>
+</project>

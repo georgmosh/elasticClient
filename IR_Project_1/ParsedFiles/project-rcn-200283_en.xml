@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200283</rcn>
+  <acronym>PrECISE</acronym>
+  <objective>Despite of their great promise, high-throughput technologies in cancer research have often failed to translate to major therapeutic advances in the clinic. One challenge has been tumour heterogeneity, where multiple competing subclones coexist within a single tumour. Genomic heterogeneity renders it difficult to identify all driving molecular alterations, and thus results in therapies that only target subsets of aggressive tumour cells. Another challenge lies in the integration of multiple types of molecular data into mathematical disease models that can make actionable clinical statements.
+
+We aim to develop predictive computational technology that can exploit molecular and clinical data to improve our understanding of disease mechanisms and to inform clinicians about optimized strategies for therapeutic intervention. We propose to focus on prostate cancer, a leading cause of cancer death amongst men in Europe, but also prone to over-treatment. Our approach combines the exploitation of genomic, transcriptomic, proteomic, and clinical data in primary and metastatic tumours, prospective cohorts of well characterized prostate cancer patients, drug screenings in cell lines, and the use of the Watson technology, a last generation cognitive computer developed at IBM. 
+
+The translational objective of this study is to develop technology for identifying disease mechanisms and produce treatment recommendations for individual patients based on a therapeutic biomarker panel. The proposed software framework will be accessible through a graphical interface that will facilitate its dissemination and use by researchers, clinicians, and biomedical industries. The framework will provide intuitive tools to deposit, share, analyze, and visualize molecular and clinical data; as well as to infer prognosis, elucidate implicated mechanisms and recommend therapy accordingly. This software framework will serve as a proof of concept for future development by industrial partners in Europe.</objective>
+  <title>PERSONALIZED ENGINE FOR CANCER INTEGRATIVE STUDY AND EVALUATION</title>
+<identifier>H2020PHC2015twostage</identifier>
+</project>

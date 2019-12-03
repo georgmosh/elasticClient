@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213640</rcn>
+  <acronym>DrBox</acronym>
+  <objective>The objective of prescribing medicines is to improve patient health. However, many times the expected results of medications are not achieved, which causes morbidity and mortality associated to medication use. These failures of prescription drug use have been published in numerous scientific studies and negatively affect patient health as well as cause economic damages (to patients in particular and society in general). But studies show that the majority of these failures are avoidable.
+Although expenses in healthcare to treat patients are high, the prevalence of morbi-mortality associated to drug prescription is high, mostly due to the fact that patients fail to follow doctor’s instructions on prescription and/or doctors duplicating therapeutics, which includes unforeseen drug interactions that can cause harm to patients.
+To this avail, FSaude, working closely with software developers, chemists, medical doctors and patients since 1960, has a team of 14 experts that have generated a 2,6M€ turnover in 2016, decided to develop an eHealth platform to assess patient clinical progress due to prescribed medication – DrBox. 
+There is a market opportunity in improving a pharmacist’s capacity to provide Pharmaceutical Care, through a Therapeutics Management program, in order to reduce patient’s morbi-mortality related to drug use, improve patient’s quality of life and reduce overall costs to citizens and society. 
+DrBox allows, for the first time in the history of modern health, the possibility for health program management entities (MD, pharmacies, nursing homes, etc.) to be able to receive in real time the epidemiological information needed to make decisions in the National Health Systems.
+At the present moment DrBox is being tested in three pharmacies and one nursing home, with a total of 70.000 registered users.</objective>
+  <title>eHealth platform to assess patient clinical progress due to prescribed medication</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

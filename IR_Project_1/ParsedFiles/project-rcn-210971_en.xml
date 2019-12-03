@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210971</rcn>
+  <acronym>THUNDERR</acronym>
+  <objective>Wind actions are crucial for the safety and cost of structures.
+The wind climate of Europe and many parts of the world is dominated by synoptic extra-tropical cyclones and mesoscale thunderstorm outflows. Thunderstorms are frequent events causing wind speeds often higher than cyclones.
+In spite of an impressive amount of research, there is not yet a model for thunderstorm outflows and their actions on structures like that for cyclones. Thus, thunderstorm actions on structures are still determined using the cyclone model developed half a century ago and engineering practice often leads to unsafe or too expensive construction.
+This happens because the complexity of thunderstorms makes it difficult to develop realistic and simple models. Their short duration and small size make the available data very poor. There is a great gap between research in wind engineering and atmospheric sciences.
+The realization of an unprecedented wind monitoring network, the role of the PI and his novel vision, a project team leader in wind engineering with interdisciplinary skill in atmospheric sciences, the chance to simulate large-scale thunderstorms in a new unique laboratory, the recent advance in CFD simulations, the success and synergy of previous and on-going projects, and a top host institution represent extraordinary conditions to overcome these shortcomings.
+THUNDERR is an acronym of THUNDERstorm that points out the ground-breaking Roar of this project. It aims to detect novel thunderstorm measurements, to create a huge dataset of field acquisitions and a new interpretation of their weather scenarios, to conduct unique wind tunnel tests and CFD analyses, to formulate a thunderstorm model that is physically correct and suitable to develop a loading scheme easily transferable to engineering and codification, to radically change the existing wind loading format and the engineering practice, to design safer and cost-efficient structures producing a deep social and economic impact.</objective>
+  <title>Detection, simulation, modelling and loading of thunderstorm outflows to design wind-safer and cost-efficient structures</title>
+<identifier>ERC2016ADG</identifier>
+</project>

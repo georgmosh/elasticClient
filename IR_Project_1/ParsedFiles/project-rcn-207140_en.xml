@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207140</rcn>
+  <acronym>GRAILS-SWE</acronym>
+  <objective>9% of all EU freight (280 billion tonne-kilos) &amp; 381 billion passenger km were travelled on EU rail networks in 2014. A railroad switch &amp; crossing (point) is a mechanical installation enabling trains to be guided from one track to another. Point integrity is vital; there are on average 31 critical fastenings at each switch. Across the EU, SCF was responsible for 21 derailments between 2005-2010. Globally, SCF is responsible for 5.77% of all derailments (6th largest cause of derailments). SCF is a leading cause of signalling failure, leading to delays; 9.5 million minutes of passenger delays due to SCF occurred during the 2015/2016 audit period on the UK rail network alone.   EU rail infrastructure owners are implementing ‘intelligent infrastructure’ solutions across their rail networks that enable remote condition monitoring (RCM) &amp; condition based maintenance (CBM) as a way of monitoring assets, such as points, to increase reliability &amp; capacity of rail networks. To enable RCM &amp; CBM, Smart Component Technologies (SCT) have developed their proprietary ‘Smart Washer’ platform technology. Smart Washer 3 (SW3) is a washer containing a multitude of sensors that is deployed at critical fastenings at points to measure parameters (including clamp force &amp; movement) from directly within the fastening. Through a connected Data Controller Unit (DCU), the measurements are fed in real-time to a cloud based server that interfaces with RCM software used by those responsible for the maintenance of rail tracks to remotely monitor the entire switch asset, as well as track bed stability (including voids &amp; track geometry/inclination).
+
+Combined, the SW3 &amp; DCU comprise the ‘Smart Washer Ecosystem', which offers a full ‘end-to-end’ solution for RCM &amp; CBM; this will service the Rail infrastructure maintenance market, expected to be worth $5.8 billion in 2017.   
+
+Conservative cumulative five-year sales of 3,500 installations gives sales of EUR 6.3 million, &amp; a ROI to SCT of 600%.</objective>
+  <title>Greater RAIL Safety using the Smart Washer Ecosystem</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

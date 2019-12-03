@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213416</rcn>
+  <acronym>MMAMA</acronym>
+  <objective>Products which require complicated material systems and nanoscale structural organization, e.g. third-generation solar cells, are often difficult to develop. This is because electronic properties of bulk semiconductors are often masked or at least strongly superimposed by material interface properties. Additionally these interface properties are also complex and thus make product design difficult.
+
+This project aims at solving this problem by offering a nanoscale characterization platform for the European manufacturers of coatings, photovoltaic cells, and semi-conductor circuits. It is proposed to use a combination of scanning microwave microscopes, dielectric resonators, and simulation to measure the material and interface properties of complicated material systems and nano-structures. A metrological system of cross-checks between different instruments, models and simulations with associated error bars is indispensable for obtaining trustworthy results.
+
+Scanning microwave measurements will be directly used for three-dimensional characterization of electrical properties of nanostructured semiconductors used in organic and hybrid photovoltaic cells. The objective is to accelerate the development of high efficiency cells and to have measures to predict performances in early stages of prototype production. Where process monitoring of materials with nanostructures is necessary, a dielectric resonator is used to translate insights from scanning microwave microscope measurements to fabrication environments. Such dielectric resonators could be directly integrated in production lines for monitoring thin film deposition processes.
+
+An open innovation environment will make the uptake of the results easier for European industry. A database containing exemplary measurement datasets of scanning microwave microscopes will be available in calibrated and raw versions. Simulation results of tip-semiconductor interactions will be made available on the EMMC Modeling Market Place.</objective>
+  <title>Microwave Microscopy for Advanced and Efficient Materials Analysis and Production</title>
+<identifier>H2020NMBP2017twostage</identifier>
+</project>

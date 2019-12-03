@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>198658</rcn>
+  <acronym>Post-GFC Monetary Policy</acronym>
+  <objective>Central banks worldwide routinely use models in assessing and forecasting the global and domestic economic outlook in order to determine the most suitable monetary policies. Economies evolve over time and policies that worked in the 1980s might not be viable at the present time, thus models must be flexible to account for these changes. Undoubtedly, it is difficult to identify the exact point in time when a change in macroeconomic behaviour occurs, particularly a change that will trigger a reactive monetary policy to neutralise its negative effects. The current project proposes a new methodology, which due to its local nature can react faster to changes in the process than other existing methodologies. This project aims at breaking new ground in several respects. First, by proposing for the first time a nonparametric local linear estimator of multivariate processes with possible smooth or abrupt changes in the parameters. Second, by developing a user-friendly computational package with the aforementioned functionality. Finally, by investigating the effect for G7 and Eurozone economies of the monetary policies driven by the global financial crisis.</objective>
+  <title>Forecast of time-varying effects of post-GFC monetary policy + a novel computing application</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

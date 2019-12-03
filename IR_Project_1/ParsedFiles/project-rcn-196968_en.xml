@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196968</rcn>
+  <acronym>Phoenix</acronym>
+  <objective>Humans have been exploring the world from the depths of the oceans to the edges of the universe. Yet many environments remain inaccessible, even to modern cutting-edge technology. Therefore problems like exploring the status of waste water under the Fukushima reactor, or discover suitable sites for underground CO2 storage remain unsolved.
+
+Our aim is to investigate a new line of technology that will enable the exploration of difficult-to-access environments exploiting a risky, highly-novel approach called PHOENIX.
+
+PHOENIX will accomplish the exploration of inaccessible environments with physical agents that are extremely limited in size and resources, and can operate without direct control over software and hardware. PHOENIX starts with processing a user question, then assesses available knowledge and initiates an evolutionary process involving two nested generational loops. In the outer loop PHOENIX develops, deploys and retrieves physical agents capable of penetrating the inaccessible environment and gathering information. Based on this knowledge, a model of the unknown environment is developed and evaluated. This model is refined in the inner loop, where environmental models and abstract representations of the physical agents (virtual agents) co-evolve in a virtual world until an improved generation of physical agents is ready for deployment. The goal of this co-evolution is to maximize the information captured about the unknown environment by progressively optimized agents.
+
+Our main objectives are: the development of a co-evolutionary framework, the design of versatile agent technology and the development of a dedicated human interface.
+
+PHOENIX is a radically new, high risk/high reward project. It also holds the promise to shed light on emergent properties of self-organization, local adaptation and division of labour in autonomous systems. The high societal benefits, foundational character and long-term focus make PHOENIX a perfect fit for the FET programme.</objective>
+  <title>Exploring the Unknown through Reincarnation and Co-evolution</title>
+<identifier>H2020FETOPEN20142015RIA</identifier>
+</project>

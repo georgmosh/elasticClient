@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210834</rcn>
+  <acronym>NOMAD</acronym>
+  <objective>The long-term operation (LTO) of existing nuclear power plants (NPPs) has already been accepted in many countries as a strategic objective to ensure adequate supply of electricity over the coming decades. In order to estimate the remaining useful lifetime of NPP components, LTO requires reliable tools.
+The objective of NOMAD is the development, demonstration and validation of a non-destructive evaluation (NDE) tool for the local and volumetric characterisation of the embrittlement in operational reactor pressure vessels (RPVs). In order to address these objectives, the following steps will be taken: 
+• Development and demonstration of an NDE tool for the characterisation of RPV embrittlement, especially accounting for material heterogeneities and exceeding the existing information from surveillance programmes.
+• Extension of the existing database of RPV material degradation by adding correlations of mechanical, microstructural and NDE parameters as well as including quantification of reliability and uncertainty.
+• Application of the developed tool to cladded material resembling the actual RPV inspection scenario.
+NOMAD takes into account the priorities of reactor operation, responding to stringent safety requirements from regulators, and seeks to foster convergence of nuclear safety approaches. The approach to be developed within NOMAD will deliver information complementary to and exceeding the information obtained by destructive tests of surveillance samples, which are currently assumed to represent the whole component and do not take into account possible local material variations. NOMAD aims to fulfil requirements for nuclear safety in the framework of assessment of lifetime operation. Thereby, it covers the specific challenge and scope of the call: Continually improving safety and reliability of Generation II and III reactors.</objective>
+  <title>Nondestructive Evaluation (NDE) System for the Inspection of Operation-Induced Material Degradation in Nuclear Power Plants</title>
+<identifier>NFRP201620171</identifier>
+</project>

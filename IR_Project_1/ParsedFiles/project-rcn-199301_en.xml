@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199301</rcn>
+  <acronym>AUDITOR</acronym>
+  <objective>The goal of AUDITOR is the implementation of novel precise-positioning techniques based on augmentation data in custom
+GNSS receivers to improve the performance of current augmentation services and reducing costs. These techniques are
+already patented by the consortium and proven to offer better accuracy with faster convergence times than solutions
+commercially available. More sophisticated atmospheric models will be implemented to provide better corrections of
+ionospheric errors and further increase accuracy. All these advances will be integrated in a software demonstrator that will
+use public data from GNSS networks to generate these correction data streams. These new receivers will enable cost-effective precision agriculture services to farmers, especially those with small and medium-sized businesses in areas of Europe.
+The custom dual-frequency receiver module will follow an innovative approach by porting a GNSS software-defined receiver
+to an embedded system that will integrate hardware accelerators to enable real-time operation in a low power system. The
+form factor and capabilities of the resulting receiver will be comparable to those of existing professional receivers in the
+market, while retaining all the advantages of software receivers: modularity, scalability, upgradability, and flexibility. Besides
+providing multi-frequency multi-constellation support, this advanced receiver will allow very low level access to key internals
+even at sample level, enabling the integration of other complementary techniques like interference analysis and monitoring
+or authentication using remote servers for encrypted bands. The fact that the software layer will be the evolution of an existing
+and successful open-source project, GNSS-SDR, will allow GNSS developers and researchers to customize the code of the
+receiver to tailor it to their own applications or test their algorithms using this flexible receiver module, from reflectometry to
+ultra-tight coupled GNSS/INS systems.</objective>
+  <title>Advanced Multi-Constellation EGNSS Augmentation and Monitoring Network and its Application in Precision Agriculture</title>
+<identifier>H2020Galileo20151</identifier>
+</project>

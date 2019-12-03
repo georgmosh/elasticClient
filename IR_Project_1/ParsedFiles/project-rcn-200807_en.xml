@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200807</rcn>
+  <acronym>ISG</acronym>
+  <objective>The objectives of the project Induction Starter Generator (ISG) is to design, develop, manufacture, test and qualify an innovative TRL6 High Voltage Direct Current (HVDC)/Low Voltage Direct Current controlled Starter/Generator (S/G) intended to be installed on the LiFeCraft Helicopter
+ISG proposes solutions that will be compatible to the call requirements and will be interfaced to the  two electrical networks, one at 270Vdc H/C network compliant with MIL-STD-704-F and one at 28Vdc H/C network compliant with EN2282.
+ISG technical proposal innovation consists of the use of ground applications like automotive engine starter/generator or wind turbines electrical generator that were never used before in aeronautical environment and their adaptation is a real technological innovation that leads, thanks to the development to be performed in this project to a viable solution for demonstration as required by the CFP.
+The main idea is to use an induction machine associated to power electronics over options like the classic aeronautic Wound Field or brush DC machine, but also over common ground applications like high powered PMG machines, variable reluctance machines or claw-poles machines usually used in automobile industry.
+The proposed innovative system is composed of one rotating machine - Induction Starter/Generator and an Electrical Control Unit which provides the ISG start control and generation control functions and the electrical power to the H/C.
+The ISG is a three-phase squirrel cage induction machine drive by the H/C engine turbine  
+The ECU is composed of two power converter:
+- a bi-directional inverter connected to the +270Vdc internal power bus to pilot the ISG in both start and generation mode,
+- a DC/DC converter powered by the +270Vdc internal power bus to supply the H/C 28Vdc network in generation mode.</objective>
+  <title>Induction Starter Generator</title>
+<identifier>H2020CS2CFP01201401</identifier>
+</project>

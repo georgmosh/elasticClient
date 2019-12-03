@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>203397</rcn>
+  <acronym>DELPHI4LED</acronym>
+  <objective>The European lighting industry aims at reducing cost, at continuously improving product performance while reducing time to market and enlarging the product. 
+The main challenge for the design in of LED components into lighting systems is the temperature and current dependence of their performance. 
+In order to achieve a good design of LED systems, a modular, multi-physics based modelling approach is needed – this way allowing the freedom for LED component integrators to use such models in any kind of luminaire designs. In order to overcome those key challenges, seamless integration of the LED in the product development chain is necessary. For that a bridge, in the form of standardization, has to be established between the semiconductor industry and the LED component integrators.
+In order to  achieve this, the following tools have to be provided:
+• Generic, multi-domain model of LED chips. 
+• Compact thermal model of the LED chips’ environment. 
+• Modeling interface towards the luminaire. 
+The goal of the project is to develop a standardized method to create multi-domain LED compact models from testing data. 
+The objectives are:
+• Define set of LED model equations that can be implemented into a FEM/CFD tool, for the purpose of self-consistent multi-domain simulation of LEDs thermal, electrical and light output characteristics.
+• Provide interfacing between measurement tools, modelling tools and simulation tools to allow the application of the compact LED models.
+• Prove the benefits of the use of compact models in the development process to reduce development times and cost.
+This will lead to an industry standard in the lighting industry.
+Achievement of this project is expected to boost time to market of LED products cut by 1/3, cut development cost by 50%, reduce Cost of Non-quality by 25%. The European lighting industry is offered a unique competitive advantage, necessary to catch the 30-40% speed of growth of its LED market and tape into potential new markets.</objective>
+  <title>From Measurements to Standardized Multi-Domain Compact Models of LEDs</title>
+<identifier>H2020ECSEL20151RIAtwostage</identifier>
+</project>

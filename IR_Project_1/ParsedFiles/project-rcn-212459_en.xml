@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212459</rcn>
+  <acronym>OPTIYARD</acronym>
+  <objective>The Commission’s 2011 White Paper states that by 2050, rail should substantially expand its modal share over medium and long distances. This is consistent with the Policy goals of expanding rail capacity, both cited in the Horizon 2020 and Shift2Rail (S2R) calls. Considering the ambitious Horizon 2020 Key Performance Indicator (KPI) calling for a surge in the utilisation of capacity within a range 70-90%, yards, hubs and terminals play a key role in facilitating this step-change by contributing to a competitive, reliable and safe freight transport.  
+To meet the needs of S2R and Horizon 2020, OptiYard will design decision support tool for yard managers that will help them to optimise processes and manage their yards more efficiently. It will do this in real-time, with interaction with relevant network. The processes must be performed in real-time, to guarantee on-time delivery and operational efficiency, in particular, for single wagon transport. 
+OptiYard addresses critical operational points of the transport chain (both rail marshalling yards or as transfer points to other modes) to improve capacity and reliability. OptiYard will facilitate real-time interaction between yard and relevant network IT systems that allow for software based planning and ultimately optimisation of single wagonload and blocktrain operational processes.
+Building on the current state of the art and practice, the ambition of OptiYard is to provide a fully functional software module where real-time yard management, interaction with the network and ad-hoc timetable planning will be simulated in real-time. The optimization module and algorithms will be proven for large and complex freight transport networks, and integrate well with IP5 activities towards automation, e.g. intelligent assets and automated shunting and mainline operations.</objective>
+  <title>Optimised Real-time Yard and Network Management</title>
+<identifier>H2020S2RJUOC2017</identifier>
+</project>

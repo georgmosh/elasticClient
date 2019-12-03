@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206935</rcn>
+  <acronym>DYNMECH</acronym>
+  <objective>This project studies dynamic mechanisms.  By “dynamic mechanisms”, we mean policies to which a principal (e.g., a seller, an employer, or a regulator) can commit to induce the agents (e.g., buyers, employees, or regulated firms) to take the desired actions over time.  Several components of the project are envisaged: 
+
+- Competition in dynamic mechanisms.  
+o I propose a competitive setting in which agents (e.g., buyers or workers) learn about the offers of different principals over time.  Agents may receive more than one offer at a time, leading to direct competition between mechanisms.  Received offers are agents’ private information, permitting strategic delay of acceptance (for instance, an agent may want to wait to evaluate new offers that received in the future).
+
+- Robust predictions for a rich class of stochastic processes.
+o We study optimal dynamic mechanisms for agents whose preferences evolve stochastically with time.  We develop an approach to partially characterizing these mechanisms which (unlike virtually all of the existing literature) does not depend on ad-hoc restrictions on the stochastic process for preferences.
+
+- Efficient bilateral trade with budget balance:  dynamic arrival of traders
+o I study bilateral trade with budget balance, when traders (i) arrive over time, and (ii) have preferences which evolve stochastically with time.  The project aims at an impossibility result in this setting:  contrary to the existing literature which does not account for dynamic arrivals, budget-balanced efficient trade is typically impossible, even for very patient traders.
+
+- Pre-event ticket sales and complementary investments
+o We provide a rationale for the early allocation of capacity to customers for events such as flights and concerts based on customers’ demand for pre-event complementary investments (such as booking a hotel or a babysitter).  We examine efficient and profit-maximizing mechanisms.</objective>
+  <title>Dynamic Mechanisms</title>
+<identifier>ERC2016STG</identifier>
+</project>

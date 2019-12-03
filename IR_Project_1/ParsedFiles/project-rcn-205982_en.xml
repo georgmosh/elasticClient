@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205982</rcn>
+  <acronym>DEIS</acronym>
+  <objective>Cyber-Physical-Systems harbor the potential for vast economic and societal impact in all major application domains, however in case of failure this may lead to catastrophic results for industry and society. Thus, ensuring the dependability of such systems is the key to unlocking their full potential and enabling European industries to develop confidently business models that will nurture their societal uptake.
+
+The DEIS project addresses this challenges by developing technologies that form a science of dependable system integration. In the core of these technologies lies the concept of a Digital Dependability Identity (DDI) of a component or system. DDIs are composable and executable in the field facilitating (a) efficient synthesis of component and system dependability information over the supply chain and (b) effective evaluation of this information in-the-field for safe and secure composition of highly distributed and autonomous CPS. This concept shall be deployed and evaluated in four use cases: 
+
+ Automotive: Stand-alone system for intelligent physiological parameter monitoring 
+ Automotive: Advanced driver simulator for evaluation of automated driving functions 
+ Railway: Plug-and-play environment for heterogeneous railway systems 
+ Healthcare: Clinical decision support app for oncology professionals
+
+The DEIS project will impact the CPS market by providing new engineering methods and tools reducing significantly development time and cost of ownership, while supporting integration and interoperability of dependability information over the product lifecycle and over the supply chain. The development and application of the DDI approach on four use cases from three different application domains will illustrate the applicability of the DDI concept while increasing the competitiveness of the use case owners in their respective markets.</objective>
+  <title>Dependability Engineering Innovation for CPS - DEIS</title>
+<identifier>H2020ICT20161</identifier>
+</project>

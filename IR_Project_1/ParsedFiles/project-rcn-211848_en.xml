@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211848</rcn>
+  <acronym>PARATOP</acronym>
+  <objective>Discovering, classifying and understanding phases of quantum matter is a core goal of condensed matter physics. Next to the notion of symmetry breaking phases, the concept of topological phases of matter is a prevailing theme of recent research. Topological phases are envisioned for various applications due to their universal and robust properties, such as protected conducting boundary modes, and provoke fundamental questions about the nature of many-body quantum states by providing the basis for exotic quasiparticles.
+
+In this ERC research project, I propose several new topological phases and novel numerical approaches for studying and classifying the most sought-after topological phases of matter. Concretely, I propose the concept of three-dimensional hierarchical topological insulators, which, in contrast to the known topological phases, do not posses gapless surface, but protected gapless edge modes. Moreover, I plan to study topological metals arising in strongly correlated Kondo systems, going beyond the current paradigm of considering topological metals that arise in the absence of electronic correlations. Furthermore, I propose to make the analogous step for topological superconductors, which have been studied as free models to search for Majorana quasiparticles: For the first time, I want to explore strongly interacting systems that realize the more powerful parafermion quasiparticles with numerical techniques. Finally, in a cross-disciplinary and exploratory sub-project, I will employ methods of deep neural networks to classify strongly correlated quantum phases using supervised learning combined with a technique called deep dreaming.  
+
+Each of these sub-projects has the potential to make a paradigm-changing contribution to the study of strongly correlated and topological states of quantum matter and the combination of them allows to take advantage of synergy effects and a balance between high-risk and definitely feasible key developments.</objective>
+  <title>New paradigms for correlated quantum matter:Hierarchical topology, Kondo topological metals, and deep learning</title>
+<identifier>ERC2017STG</identifier>
+</project>

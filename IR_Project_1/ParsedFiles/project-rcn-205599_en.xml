@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205599</rcn>
+  <acronym>ENCOMPASS</acronym>
+  <objective>The ENCOMPASS project principally aims to create a fully digital integrated design decision support (IDDS) system to cover the whole manufacturing chain for a laser powder bed fusion (L-PBF) process encompassing all individual processes within in. The ENCOMPASS concept takes a comprehensive view of the L-PBF process chain through synergising and optimising the key stages. The integration at digital level enables numerous synergies between the steps in the process chain and in addition, the steps themselves are being optimised to improve the capability and efficiency of the overall manufacturing chain.
+
+ENCOMPASS addresses the three key steps in the process chain: component design, build process, and post-build process steps (post-processing and inspection). The links between these stages are being addressed by the following five interrelations: 
+1.	Between the design process and both the build and post-build processes in terms of manufacturing constraints / considerations to optimise overall component design 
+2.	Between the design process and build process component-specific L-PBF scanning strategies and parameters to optimise processing and reduce downstream processing
+3.	Between the design process and the build and post-build processes in terms of adding targeted feature quality tracking to the continuous quality monitoring throughout the process chain 
+4.	Between the build and post-build processes by using build specific processing strategies and adaptation based on actual quality monitoring data (for inspection and post-processing) 
+5.	Between all stages and the data management system with the integrated design decision support (IDDS) system
+
+By considering the entire AM process chain, rather than the AM machine in isolation, ENCOMPASS will integrate process decision making tools and produce substantial increases in AM productivity, with clear reductions in change over times and re-design, along with increased ‘right-first time’, leading to overall reductions in production costs, materials wastage, and over-processing. This will lead to higher economic and environmental sustainability of manufacturing, and re-inforce the EU’s position in industrial leadership in laser based AM.</objective>
+  <title>ENgineering COMPASS</title>
+<identifier>H2020FOF2016</identifier>
+</project>

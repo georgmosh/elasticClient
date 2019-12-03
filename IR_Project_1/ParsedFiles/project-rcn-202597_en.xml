@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>202597</rcn>
+  <acronym>NanoPokers</acronym>
+  <objective>Cancer is responsible for 20% of all deaths in Europe. Current cancer research is based on cell ensemble measurements or on snapshot studies of individual cells. However, cancer is a systemic disease, involving many cells that interact and evolve over time in a complex manner, which cell ensemble studies and snapshot studies cannot grasp. It is therefore crucial to investigate cancer at the single cell level and in longitudinal studies (over time). Despite the recent developments in micro- and nanotechnologies, combined with live cell imaging, today, there is no method available that meets the crucial need for global monitoring of individual cell responses to stimuli/perturbation in real-time.  
+This project addresses this crucial need by combining super resolution live-cell imaging and the development of sensors, as well as injection devices based on vertical nanowire arrays. The devices will penetrate multiple single cells in a fully controlled manner, with minimal invasiveness.
+
+The objectives of the project are:
+1) To develop nanowire based-tools in order to gain controlled and reliable access to the cell interior with minimal invasiveness.
+2) Developing mRNA sensing and biomolecule injection capabilities based on nanowires.
+3) Performing longitudinal single cell studies in tumours, including monitoring gene expression in real time, under controlled cell perturbation.
+
+By enabling global, long term monitoring of individual tumour cells submitted to controlled stimuli, the project will open up new horizons in Biology and in Medical Research. It will enable ground-breaking discoveries in understanding the complexity of molecular events underlying the disease. This cross-disciplinary project will lead to paradigm-shifting research, which will enable the development of optimal treatment strategies. This will be applicable, not only for cancer, but also for a broad range of diseases, such as diabetes and neurodegenerative diseases.</objective>
+  <title>Deciphering cell heterogeneity in tumors using arrays of nanowires to controllably poke single cells in longitudinal studies</title>
+<identifier>ERC2015CoG</identifier>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206167</rcn>
+  <acronym>STAMP</acronym>
+  <objective>Release early, release often. Such is the mantra of IT giants like Twitter or Netflix. Pioneers in the engineering of applications that run in the cloud now routinely perform hundreds of code updates per day in what has become a thrust of continuous delivery around the clock. This stunning agility is a decisive competitive edge. It cuts time-to-market and hikes revenue. Behind the feat lies DevOps. This powerful development methodology brings high degrees of automation at all steps of construction and deployment.           
+                                      
+DevOps has gained more traction in the USA than in Europe and concern is raised that European companies may be “missing the train”. Their disinclination is thought to reflect a different cultural attitude toward risk. Indeed, a hasty deployment may propagate a regression bug into production due to lack of sufficient testing. Fear of breaking things is all the more justified as testing in DevOps mostly relies on manual effort.  
+
+Leveraging advanced research in automatic test generation, STAMP aims at pushing automation in DevOps one step further through innovative methods of test amplification. It will reuse existing assets (test cases, API descriptions, dependency models), in order to generate more test cases and test configurations each time the application is updated. Acting at all steps of development cycle, it will bring amplification services at unit level, configuration level and production stage.
+
+STAMP will raise confidence and foster adoption of DevOps by the European IT industry. The project gathers 3 academic partners with strong software testing expertise, 5 software companies (in: e-Health, Content Management, Smart Cities and Public Administration), and an open source consortium. This industry-near research addresses concrete, business-oriented objectives. All solutions are open source and developed as microservices to facilitate exploitation, with a target at TRL 6.</objective>
+  <title>Software Testing AMPlification</title>
+<identifier>H2020ICT20161</identifier>
+</project>

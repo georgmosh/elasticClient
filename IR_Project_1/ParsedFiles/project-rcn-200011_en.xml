@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200011</rcn>
+  <acronym>EcoMultiCloud</acronym>
+  <objective>Data Centers (DCs) around the world consume  up to 1,2% of all global electricity production and they are the fastest growing category of emissions in ICT field.
+The efficient utilization of resources is essential to reduce costs, energy consumption, carbon emissions. There are 2 business opportunities:
+1. Better efficiency in a single DC: by dynamically consolidating Virtual Machines (VMs) on the minimum number of physical resources, the non-utilized servers can be set to hibernate, hence eliminating their energy consumption
+2. Better efficiency in a multi-site scenario: VMs migration among interconnected DCs is a more novel topic
+Current approaches aim to find a solution in a centralized fashion, undergoing the risk of originating: (i) poor scalability, due to the large number of parameters and servers; (ii) poor ability to adapt to changing conditions, as massive migrations of VMs may be required to match a new workload distribution strategy; (iii) limitation to the autonomy of the sites, which are often required to share the same algorithms.
+Eco4Cloud is the only company in the world that is developing a hierarchical architecture for the efficient distribution of the workload on a multi-site scenario, called EcoMultiCloud. It allows for an integrated management of interconnected DCs but at the same time it preserves the autonomy of single DCs. The VMs migrations are performed asynchronously, both location-wise and time-wise, and with a tunable rate managed by DCs administrators. Our solution is covered by 3 international patents. This puts us in a strong competitive advantage in comparison to other solutions. 
+EcoMultiCloud gives to customers the opportunity to achieve the following technical and business goals:
+  Reduction of power consumption and carbon emissions (minimum 30% - maximum 60%)
+  Reduction of energy costs (depending on DCs location)
+  Quality of Service Management and load balancing 
+  Compliance with Service Level Agreement
+  Reduced Inter-DC Com</objective>
+  <title>HIERARCHICAL APPROACH FOR GREEN WORKLOAD MANAGEMENT IN HETEROGENEOUS AND INTERCONNECTED DATA CENTERS</title>
+<identifier>H2020SMEINST22015</identifier>
+</project>

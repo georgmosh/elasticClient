@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207464</rcn>
+  <acronym>SiLAS</acronym>
+  <objective>Our research aims to revolutionize the electronics industry by adding intra-chip and chip-to-chip communication at the speed of light, offering a significantly reduced energy consumption. Cubic crystal phase SiGe is known to be great for electronics. We propose to develop hexagonal crystal phase SiGe (Hex-SiGe) which features a direct bandgap and will add photonic capabilities to electronics. Direct bandgap silicon has been the holy grail of the semiconductor industry for many years, since it would allow integrating both electronic and optical functionalities on a silicon platform. Recent theoretical calculations predict that hexagonal crystal phase SixGe1-x features a tunable direct bandgap from 1380-1800 nm, exactly coinciding with the low loss window for optical fibre communications. We have recently developed a generic approach to grow defect-free hexagonal SixGe1-x with tunable composition. We propose to demonstrate efficient light emission from direct bandgap SiGe, followed by the development of a SiGe nanolaser. Work towards CMOS integration is included. The demonstration of a Hex-SiGe nanolaser will serve as a game-changer for transforming the electronics industry.</objective>
+  <title>SiliconLaser</title>
+<identifier>H2020FETOPEN120162017</identifier>
+</project>

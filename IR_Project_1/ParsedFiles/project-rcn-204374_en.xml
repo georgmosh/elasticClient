@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204374</rcn>
+  <acronym>BigDecisions</acronym>
+  <objective>Our objective in this innovation project is to disrupt data brokerage and analytics industries by introducing Sharemind, a security technology that enables previously impossible data analysis applications.
+Sharemind solves the problem where an organization wants to learn something from confidential data owned by a number of other people or organizations. Sharemind allows the data owners to protect their information during the analysis so that any leakage is controlled with machine-enforced means.
+For example, banks, retailers and governments can collect and share customer/citizen information without compromising privacy. Sharemind encourages rational behaviour in a society.
+By removing the barriers from information sharing, Sharemind lets governments, companies and researchers reach their full potential and become more efficient.
+We have validated this capability in multiple real-world prototypes and have achieved legal breakthroughs that make Sharemind a promising technology for Europe.</objective>
+  <title>BigDecisions – Data-driven decision making with cryptographic confidentiality</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

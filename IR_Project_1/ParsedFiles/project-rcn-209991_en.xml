@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>209991</rcn>
+  <acronym>GEMiNI</acronym>
+  <objective>Coordinated walking in vertebrates and multi-legged invertebrates such as the fruit fly Drosophila melanogaster is controlled
+by an evolutionarily conserved network capable to control movement in a fast, stable, and energy-efficient way. At the same
+time, it provides the flexibility to adapt to changes in the terrain, load, and internal motor representations due to disease or
+injury. Currently, the contribution of different brain structures responsible for the recovery process is only partially understood
+and, importantly, the role of specific genes remains mostly elusive. Preliminary data shows that adult Drosophila flies in
+which the two middle legs were amputated improve their gait performance gradually over the course of a few days engaging
+in a more controlled gait. We also find that mutants for the learning and memory gene rutabaga lack any kind of short- or
+long-term recovery. These results suggest that flies can readjust their motor circuitry upon injury and that a mechanism of
+synaptic plasticity might be involved.
+The overall goal of this proposal is to establish the fruit fly Drosophila as a genetic model for neurorehabilitation and recovery
+after amputation, which will allow the identification of new genes and mechanisms of motor plasticity. In order to carry out
+these aims, I will take advantage of the sophisticated Drosophila neurogenetic toolkit that allows gene manipulation and the
+execution of in vivo gain and loss-of-function experiments in a controlled number of neurons. In addition, I will use an adult
+fly walking assay that I developed during my postdoc, the FlyWalker system, which allows a detailed quantification of locomotor activity. Identifying genes and molecular components that affect the process of plasticity and motor adaptation will allow us to identify new biochemical pathways that influence the recovery process and design new approaches to enhance recovery outcomes.</objective>
+  <title>A genetic model for neurorehabilitation</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

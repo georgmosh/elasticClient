@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193737</rcn>
+  <acronym>BetaDropNMR</acronym>
+  <objective>"The nuclear magnetic resonance spectroscopy (NMR) is a versatile and powerful tool, especially in chemistry and in biology. However, its limited sensitivity and small amount of suitable probe nuclei pose severe constraints on the systems that may be explored.
+This project aims at overcoming the above limitations by giving NMR an ultra-high sensitivity and by enlarging the NMR "toolbox" to dozens of nuclei across the periodic table. This will be achieved by applying the β-NMR method to the soft matter samples. The method relies on anisotropic emission of β particles in the decay of highly spin-polarized nuclei. This feature results in 10 orders of magnitude more sensitivity compared to conventional NMR and makes it applicable to elements which are otherwise difficult to investigate spectroscopically. β-NMR has been successfully applied in nuclear physics and material science in solid samples and high-vacuum environments, but never before to liquid samples placed in atmospheric pressure. With this novel approach I want to create a new universal and extremely sensitive tool to study various problems in biochemistry.
+The first questions which I envisage addressing with this ground-breaking and versatile method concern the interaction of essential metal ions, which are spectroscopically silent in most techniques, Mg2+, Cu+, and Zn2+, with proteins and nucleic acids. The importance of these studies is well motivated by the fact that half of the proteins in our human body contain metal ions, but their interaction mechanism and factors influencing it are still not fully understood. In this respect NMR spectroscopy is of great help: it provides information on the structure, dynamics, and chemical properties of the metal complexes, by revealing the coordination number, oxidation state, bonding situation and electronic configuration of the interacting metal.
+My long-term aim is to establish a firm basis for β-NMR in soft matter studies in biology, chemistry and physics."</objective>
+  <title>Ultra-sensitive NMR in liquids</title>
+<identifier>ERC2014STG</identifier>
+</project>

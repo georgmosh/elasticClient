@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206168</rcn>
+  <acronym>DECIDE</acronym>
+  <objective>Multi-cloud applications refer to applications that dynamically can distribute their components over heterogeneous cloud resources and still hold the functional, business and non-functional properties (NFP) declared in their SLAs. The main objective of the DECIDE action is to provide a new generation of multi-cloud service-based software framework, enabling techniques and mechanisms to design, develop, and dynamically deploy multi-cloud aware applications in an ecosystem of reliable, interoperable, and legal compliant cloud services (DECIDE DevOps Framework).
+DECIDE will provide a set of architectural patterns and the needed tools (DECIDE ARCHITECT) to develop and operate (following the DevOps approach) multi-cloud aware applications that can be dynamically self-adapted to be re-deployed using the best combination of cloud services. DECIDE will also set up an ecosystem of trusted, interoperable and legally compliant cloud services (ACSmI-Advance Cloud Service meta-Intermediator) and the required mechanisms to register, discover, compose, use and assess them. 
+One of the key innovations of the DECIDE solution relies on the development of the OPTIMUS deployment simulation tool capable of evaluating and optimizing the resulting non-functional characteristics from the user’s perspective considering a set of given cloud resources alternatives. The OPTIMUS deployment simulation tool, together with the continuous deployment supporting tool (DECIDE ADAPT), will provide the most adequate deployment application topology based on a set of users’ requirements automating the provisioning and selection of deployment scripts for multi-cloud applications. Three use cases will be conducted to validate.
+DECIDE will innovate by tackling with multi-cloud and non-functional aspects and moreover by incorporating a DevOps approach to the whole solution
+DECIDE outcomes, covering the specific needs of different multi-cloud applications for on-line gaming, e-Health and Network management.</objective>
+  <title>DEvOps for trusted, portable and interoperable Multi-Cloud applications towards the Digital singlE market</title>
+<identifier>H2020ICT20161</identifier>
+</project>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206492</rcn>
+  <acronym>CombiTop</acronym>
+  <objective>"The purpose of this project is to use the ubiquitous nature of certain combinatorial topological objects called maps in order to unveil deep connections between several areas of mathematics. Maps, that describe the embedding of a graph into a surface, appear in probability theory, mathematical physics, enumerative geometry or graph theory, and different combinatorial viewpoints on these objects have been developed in connection with each topic. The originality of our project will be to study these approaches together and to unify them.
+
+The outcome will be triple, as we will:
+1. build a new, well structured branch of combinatorics  of which many existing results in different areas of enumerative and algebraic combinatorics are only first fruits;
+2. connect and unify several aspects of the domains related to it, most importantly between probability and integrable hierarchies thus proposing new directions, new tools and new results for each of them;
+3. export the tools of this unified framework to reach at new applications, especially in random graph theory and in a rising domain of algebraic combinatorics related to Tamari lattices.
+
+The methodology to reach the unification will be the study of some strategic interactions at different places involving topological expansions, that is to say, places where enumerative problems dealing with maps appear and their genus invariant  plays a natural role, in particular:  1. the combinatorial theory of maps developped by the "French school" of combinatorics, and the study of random maps; 2. the combinatorics of Fermions underlying the theory of  KP and 2-Toda hierarchies; 3; the  Eynard-Orantin "topological recursion" coming from mathematical physics.
+
+We present some key set of tasks in view of relating these different topics together. The pertinence of the approach is demonstrated by recent research of the principal investigator."</objective>
+  <title>New Interactions of Combinatorics through Topological Expansions, at the crossroads of Probability, Graph theory, and Mathematical Physics</title>
+<identifier>ERC2016STG</identifier>
+</project>

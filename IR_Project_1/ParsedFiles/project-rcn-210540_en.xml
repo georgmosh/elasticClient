@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210540</rcn>
+  <acronym>NonSequeToR</acronym>
+  <objective>Natural language processing (NLP) is concerned with
+computer-based processing of natural language, with
+applications such as human-machine interfaces and
+information access.  The capabilities of NLP are currently
+severely limited compared to humans. NLP has high error
+rates for languages that differ from English (e.g.,
+languages with higher morphological complexity like Czech)
+and for text genres that are not well edited (or noisy) and
+that are of high economic importance, e.g., social media
+text.
+
+NLP is based on machine learning, which requires as basis a
+representation that reflects the underlying structure of the
+domain, in this case the structure of language.  But
+representations currently used are symbol-based: text is
+broken into surface forms by sequence models that implement
+tokenization heuristics and treat each surface form as a
+symbol or represent it as an embedding (a vector
+representation) of that symbol.  These heuristics are
+arbitrary and error-prone, especially for non-English and
+noisy text, resulting in poor performance.
+
+
+Advances in deep learning now make it possible to take the
+embedding idea and liberate it from the limitations of
+symbolic tokenization.  I have the interdisciplinary
+expertise in computational linguistics, computer science and
+deep learning required for this project and am thus in the
+unique position to design a radically new robust and
+powerful non-symbolic text representation that captures all
+aspects of form and meaning that NLP needs for successful
+processing.
+
+By creating a text representation for NLP that is not
+impeded by the limitations of symbol-based tokenization, the
+foundations are laid to take NLP applications like
+human-machine interaction, human-human communication
+supported by machine translation and information access to
+the next level.</objective>
+  <title>Non-sequence models for tokenization replacement</title>
+<identifier>ERC2016ADG</identifier>
+</project>

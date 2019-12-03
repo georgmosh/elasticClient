@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208484</rcn>
+  <acronym>QUANTIVIOL</acronym>
+  <objective>Quantum gravity must violate at least one of three principles at the foundations of physics: unitarity, causality, or the equivalence principle. Recent theoretical work on black holes has shown that such violations are not limited to extremely short distances, where quantum gravity effects are expected, but also occur at distances much larger than the Planck scale. This work has revealed a huge gap in our understanding: we have no working criterion for when quantum gravity violations of the usual laws of physics are important.
+
+This theoretical crisis is also an opportunity, since quantum gravity effects may be observable if they occur at longer distance scales.  I propose a series of concrete calculations in two theoretical situations: ordinary black holes, which evaporate due to Hawking radiation, and black holes in spacetimes with negative cosmological constant, which do not evaporate.  These calculations will quantify, for the first time, the size of these violations.The calculations make use of existing techniques and results derived by myself and others, but a focused effort is needed in order to put together all of the necessary ingredients into a coherent quantitative result.
+
+We will then generalize our results beyond black holes to obtain a generally applicable formula. The final result will be an answer to one of the most important questions in quantum gravity: how large are quantum gravity violations of the usual laws of physics? The impact of successfully completing this project extends far beyond black hole physics.  As one application, our results will either justify existing calculations of cosmological observables, or make a prediction that quantum gravity effects can be observed.</objective>
+  <title>Quantifying Quantum Gravity Violations of Causality and the Equivalence Principle</title>
+<identifier>ERC2016COG</identifier>
+</project>

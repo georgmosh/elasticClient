@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210011</rcn>
+  <acronym>IoBee</acronym>
+  <objective>For the past 15 years, European beekeepers have been reporting weakening bee numbers and colony losses. The situation
+is worsening as according to a recent study of the European Union Reference Laboratory for honeybee health, some
+countries are losing up to a third of their colonies every year. Honey bees are essential in the pollination of many agricultural
+crops and concerns have been raised about the ability to maintain the pollination services required to ensure pollinator
+dependent food production. Nowadays European citizens consider the decline in bee numbers to be the most serious
+environmental issue – more than climate change.
+The IoBee consortium wants to disrupt the beekeeping market by reducing colony losses by at least 50%! Through this
+project, we aim to pilot and commercialise a new Internet of Things (IoT) sensor application that can automatically assess
+the threat status to a colony. The system will wirelessly transmit results to a cloud server, making field data available for
+running prediction models, perform risk assessments, issue warnings and make historical analysis using a SDSS- Spatial
+Decision Support System. This will allow beekeepers to be active participants in colony surveillance programmes with
+unprecedented accuracy and responsiveness, and as a result, unhealthy or threatened colonies will be remotely detected
+earlier with greater precision, saving millions of Euros in potential losses.
+Many systems to monitor beehives already exist in the market. However there are 3 main gaps in the SoA:
+1) No solution can i) “fingerprint” individual bees and determine if they are healthy or have a problem (disease,
+poisoning, etc.), ii) identify bee castes, and iii) identify pest insects that attack hives.
+2) No solution offers IoT capability, nor follows standards that could enable establishing the first interoperable
+surveillance network in Europe.
+3) No solution has a SDSS, which is paramount to an advanced EU surveillance system</objective>
+  <title>Beehive health IoT application to fight Honey Bee Colony Mortality</title>
+<identifier>H2020FTIPilot20161</identifier>
+</project>

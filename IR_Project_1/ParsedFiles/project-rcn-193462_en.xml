@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193462</rcn>
+  <acronym>MAShES</acronym>
+  <objective>MAShES proposes a breakthrough approach to image-based laser processing closed-loop control. 
+
+Firstly, a compact, snapshot, and multispectral imaging system in the VIS/MWIR spectral range will be developed. This approach will enable a multimodal process observation that combines different imaging modalities. Moreover, it will enable an accurate estimation of temperature spatially resolved and independent on emissivity values, even for non-grey bodies and dissimilar materials. Secondly, a fully embedded approach to real time (RT) control will be adopted for efficient processing of acquired data and high speed -multiple inputs/ multiple outputs- closed-loop control. Thirdly, a cognitive control system based on the use of machine learning techniques applied to process quality diagnosis and self-adjustment of the RT control will be developed. 
+
+As a result, a unified and compact embedded solution for RT-control and high speed monitoring will be developed that brings into play:
+- The accurate measurement of temperature distribution. 
+- The 3D seam profile and 2D melt pool geometry. 
+- The surface texture dynamics, and process speed.
+
+MAShES control will act simultaneously on multiple process variables, including laser power and modulation, process speed, powder and gas flow, and spot size. 
+
+MAShES will deal with usability and interoperability issues for compliance with cyber-physical operation of the system in a networked and cognitive factory. Moreover, standardisation issues will be addressed regarding the processes and the control system and contributions in this regard are envisaged.
+
+MAShES will be designed under a modular approach, easily customizable for different laser processing applications in highly dynamic manufacturing scenarios. Validation and demonstration of prototypes of MAShES system will be done for laser welding and laser metal deposition (LMD) in operational scenarios at representative end-user facilities.</objective>
+  <title>Multimodal spectrAl control of laSer processing with cognitivE abilities</title>
+<identifier>H2020FoF2014</identifier>
+</project>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196951</rcn>
+  <acronym>RECORD-IT</acronym>
+  <objective>The aim of this proposal is to develop an intelligent biocompatible sensing device which detects complex behavioural changes in ion concentrations. The sensor will use wet NOMFETs, coated Si nanowires, self-conjugated polymers, arrays of photocells, flow of lipids. The level of ions will be measured by monitoring changes in the response function of the system. The high sensitivity of the device will be achieved by ensuring a strong coupling between the environment and the device. The key research challenges will be: accessing the feasibility of the idea to use reservoir computing for sensing complex environmental changes, identifying suitable integration strategies for the components, optimizing the sets of input/output pairs (response functions) and the device components for enhanced sensitivity.</objective>
+  <title>Reservoir Computing with Real-time Data for future IT</title>
+<identifier>H2020FETOPEN20142015RIA</identifier>
+</project>

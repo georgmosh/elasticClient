@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205963</rcn>
+  <acronym>MSO4SC</acronym>
+  <objective>The challenges of society show rising complexity and their solution process increasingly requires a holistic approach. It is necessary to provide decision makers with tools that allow long-term risk analysis, improvements or even optimization and control. 
+One of the key technologies in this process is the use of mathematical Modelling, Simulation and Optimisation (MSO) methods, which have proven effective tools for solving many problems, e.g. realistic prediction of wind fields, solar radiation, air pollution and forest fires, prediction of climate change, improving the filtration process for drinking water treatment and optimization methods for intensity-modulated radiation therapy. 
+These methods are highly complex and are typically processed via the most modern tools of ICT including high performance computing and access to big data bases and usually need support of skilled experts, which often are not available, in particular in small and medium enterprises. 
+To improve this situation, the pan-European network EU-MATHS-IN (European Service Network of Mathematics for Industry and Innovation) has been founded from national networks containing leading research centres of Europe with high excellence of MSO and ICT. 
+The major objective of this proposal is to construct an e-infrastructure that provides, in a user-driven, integrative way, tailored access to the necessary services, resources and even tools for the fast prototyping, providing the service producers with the mathematical frameworks as well.
+The e-infrastructure consists of an integrated MSO application catalogue containing models, software, validation and benchmark and the MSOcloud: a user friendly cloud infrastructure for  selected  MSO applications and developing frameworks from the catalogue. 
+This will reduce the ‘time-to-market’ for consultants working in the above-mentioned societal challenges.</objective>
+  <title>Mathematical Modelling, Simulation and Optimization for Societal Challenges with Scientific Computing</title>
+<identifier>H2020EINFRA20161</identifier>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199888</rcn>
+  <acronym>SYSMICS</acronym>
+  <objective>Substructural logics are formal reasoning systems that refine classical logic by weakening the structural rules in Gentzen sequent calculus.
+While classical logic generally formalises the notion of truth, substructural logics allow to handle notions such as resources, vagueness, meaning, and language syntax, motivated by studies in computer science, epistemology, economy, and linguistics. Moreover, from a theoretical point of view, substructural logics provide a refined perspective of classical logic, since the former often exhibit features which are either absent or trivialised in the classical case.
+Traditionally, substructural logics have been investigated following three main approaches: proof theoretic, algebraic and abstract study. Although some connections among these approaches were observed long ago, in large part these practices developed in independence. As a result, the research directions, tools and motivations for each approach developed in relative isolation.
+
+The main objective of this project is to establish a network of collaborations between the experts of these diverse methods to investigate substructural logics in a cohesive fashion, taking into account these three distinct yet complementary points of view.   The main momentum for this endeavour is provided by recent surprising results that confirm how deeply algebraic and proof theoretic methods are linked to one another.
+
+The proposal gathers leading experts in all these three areas, from all around the word, with the aim of reuniting these traditions and their communities and obtain deep results in all three areas. We are confident that this innovative, combined perspective on substructural logics will have a deep impact on the field and that this project will provide a stable basis of cooperation for a large, international community of algebraists, logicians and theoretical computer scientists, giving fresh impetus to these disciplines to flourish and integrate.</objective>
+  <title>Syntax Meets Semantics: Methods,  Interactions, and Connections in Substructural logics.</title>
+<identifier>H2020MSCARISE2015</identifier>
+</project>

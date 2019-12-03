@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205588</rcn>
+  <acronym>MCnetITN3</acronym>
+  <objective>We propose a European Training Network that will provide a total of 540 ESR-months of training in Monte Carlo event generator physics and techniques, and related applications in experimental particle physics.
+
+Monte Carlo event generators are central to high energy particle physics.  They are used by almost all experimental collaborations to plan their experiments and analyze their data, and by theorists to simulate the complex final states of the fundamental interactions that may signal new physics.  We will build on the success of our current MCnetITN, by creating a European Training Network incorporating all the authors of current general purpose event generators, with the main purposes of:
+(a) training a large section of our user base, using annual schools on the physics and techniques of event generators and short-term studentships of Early Stage Researchers as a conduit for transfer of knowledge to the wider community;
+(b) training the next generation of event generator authors through dedicated PhD studentships;
+(c) providing broader training in transferable skills through our research, through dedicated training in entrepreneurship and employability and through secondments to non-academic partners.
+
+We will achieve these training objectives both through dedicated activities and through our research activities:
+(d) developing the next generation of higher precision event generators and supporting them for use throughout the LHC era and beyond;
+(e) playing a central role in the analysis of LHC data and the discovery of new physics there; and
+(f) extracting the maximum potential from existing data to constrain the modeling of the higher-energy data from the LHC and future experiments.</objective>
+  <title>Innovative Network for Monte Carlo Event Generators for LHC Physics</title>
+<identifier>H2020MSCAITN2016</identifier>
+</project>

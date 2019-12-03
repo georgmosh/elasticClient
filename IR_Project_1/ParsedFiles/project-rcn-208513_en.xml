@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208513</rcn>
+  <acronym>TreatStroke</acronym>
+  <objective>Short door-to-needle times are critical in acute ischemic stroke, as stroke progresses over time and hence treatment benefits are time dependent as well. It is estimated that about 1.9 million brain cells are lost per minute in untreated stroke cases, which emphasizes the time urgency of stroke care. Early identification of salvageable tissue is crucial in management and treatment of patients suffering from acute ischemic stroke to avoid further tissue injury – and current approaches are time consuming and highly dependent on clinician’s skills. 
+
+We at Combat Stroke need an innovation associate (IA) – Biomedical Data Scientist – to aid us in developing a novel fully automated personalized clinical decision support system (CDSS) for optimal treatment of acute ischemic stroke patients – the HTSafe solution under development at CS. Our company is an SME with limited capacity to mobilize the job market and attract highly skilled professionals to continue the development of the HTSafe. Particularly, the demand for data scientists is far outstripping supply worldwide. Job trends data confirms the rise in popularity for the position, showing that the number of job postings for data scientist positions increased by 1700% between 2012 and 2016. Thus, the H2020-INNOSUP initiative will bridge the gap in our company to develop a novel and disruptive product, which has a large commercial potential to Combat Stroke. Moreover, the programme includes a tailored and core EU training to support the development of new skills and competences of the IA.
+
+The international CDSS market is currently worth over €360 million, and it is growing at astonishing 21.5% CAGR to reach over €1.1 billion by 2022. Given the high incidence of IS cases and the high importance of quickly allocating the appropriate therapeutic intervention, we expect to capture a good share of the CDSS market by 2025.</objective>
+  <title>arTificial neuRal nEtwork prediction of hAemorrhagic Transformation in STROKE.</title>
+<identifier>H2020INNOSUP022016</identifier>
+</project>

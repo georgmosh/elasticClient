@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>203276</rcn>
+  <acronym>APEG</acronym>
+  <objective>Optimization problems are ubiquitous in computer science. Almost every problem involves the optimization of some objective function. However a major part of these problems cannot be solved to optimality. Therefore, algorithms that achieve provably good performance guarantees are of immense importance. Considerable progress has already been made, but great challenges remain: Some fundamental problems are not well understood. Moreover, for central problems arising in new applications, no solutions are known at all. 
+
+The goal of APEG is to significantly advance the state of the art on algorithmic performance guarantees. Specifically, the project has two missions: First, it will develop new algorithmic techniques, breaking new ground in the areas of online algorithms, approximations algorithms and algorithmic game theory. Second, it will apply these techniques to solve fundamental problems that are central in these algorithmic disciplines. APEG will attack long-standing open problems, some of which have been unresolved for several decades. Furthermore, it will formulate and investigate new algorithmic problems that arise in modern applications. The research agenda encompasses a broad spectrum of classical and timely topics including (a) resource allocation in computer systems, (b) data structuring, (c) graph problems, with relations to Internet advertising, (d) complex networks and (e) massively parallel systems. In addition to basic optimization objectives, the project will also study the new performance metric of energy minimization in computer systems. 
+
+Overall, APEG pursues cutting-edge algorithms research, focusing on both foundational problems and applications. Any progress promises to be a breakthrough or significant contribution.</objective>
+  <title>Algorithmic Performance Guarantees: Foundations and Applications</title>
+<identifier>ERC2015AdG</identifier>
+</project>

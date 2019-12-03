@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207242</rcn>
+  <acronym>INSIGHT</acronym>
+  <objective>The INSIGHT project aims at developing a Monitoring, Diagnostic and Lifetime Tool (MDLT) for Solid Oxide Fuel Cell (SOFC) stacks and the hardware necessary for its implementation into a real SOFC system. The effectiveness of the MDLT will be demonstrated through on-field tests on a real micro-Combined Heat and Power system (2.5 kW), thus moving these tools from Technology Readiness Level (TRL) 3 to beyond 5. 
+
+INSIGHT leverages the experience of previous projects and consolidates their outcomes both at methodological and application levels. The consortium will specifically exploit monitoring approaches based on two advanced complementary techniques: Electrochemical Impedance Spectroscopy (EIS) and Total Harmonic Distortion (THD) in addition to conventional dynamic stack signals. Durability tests with faults added on purpose and accelerated tests will generate the data required to develop and validate the MDL algorithms. Based on the outcome of experimental analysis and mathematical approaches, fault mitigation logics will be developed to avoid stack failures and slow down their degradation. 
+
+A specific low-cost hardware, consisting in a single board able to embed the MDLT will be developed and integrated into a commercial SOFC system, the EnGenTM 2500, which will be tested on-field. 
+
+INSIGHT will then open the perspective to decrease the costs of service and SOFC stack replacement by 50%, which would correspond to a reduction of the Total Cost of Ownership by 10% / kWh.
+
+To reach these objectives, INSIGHT is a cross multidisciplinary consortium gathering 11 organisations from 6 member states (France, Italy, Denmark, Slovenia, Austria, Finland) and one associated country (Switzerland). The partnership covers all competences necessary: experimental testing (CEA, DTU, EPFL), algorithms developments (UNISA, IJS, AVL), hardware development (BIT), system integration and validation (VTT, SP, HTC), supported by AK for the project management and dissemination.</objective>
+  <title>ImplementatioN in real SOFC Systems of monItoring and diaGnostic tools using signal analysis to increase tHeir lifeTime</title>
+<identifier>H2020JTIFCH20161</identifier>
+</project>

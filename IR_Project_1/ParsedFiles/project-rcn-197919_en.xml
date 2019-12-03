@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>197919</rcn>
+  <acronym>INSULATRONICS</acronym>
+  <objective>The proposal aims to facilitate a revolution of information and communication technologies by controlling electric signals with antiferromagnetic insulators and ferromagnetic insulators. We recently discovered that antiferromagnets can be active components in spintronics devices despite their lack of a macroscopic magnetic moment, and even when they are insulating.
+
+Conventional electronics- and spintronics-based logic and memory devices, interconnects, and microwave oscillators are based on (spin-polarized) charge transport, which inherently dissipates power due to ohmic losses. The research proposed seeks to determine the extents to which “Insulatronics” has the potential to control the electric and thermal signal generation, transmission, and detection in more power-efficient ways.
+
+Insulatronics is profoundly different because there are no moving charges involved so the power reduction is significant. We hope to establish the extents to which spin-waves and coherent magnons in antiferromagnetic insulators and ferromagnetic insulators can be strongly coupled to electric and thermal currents in adjacent conductors and utilize this coupling to control electric signals. The coupling will be facilitated by spin-transfer torques and spin-pumping – a technique we pioneered – as well as spin-orbit torques and its reciprocal process of charge-pumping.
+
+The core of this project focuses on the theoretical and fundamental challenges facing Insulatronics. Beyond the duration of the project, if we are successful, the use of spin signals in insulators with extremely low power dissipation may enable superior low-power technologies such as oscillators, logic devices, interconnects, non-volatile random access memories, and perhaps even quantum information processing.</objective>
+  <title>Controlling Electric Signals with Insulating Antiferromagnets and Insulating Ferromagnets</title>
+<identifier>ERC2014ADG</identifier>
+</project>

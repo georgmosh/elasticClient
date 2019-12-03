@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206237</rcn>
+  <acronym>SABINA</acronym>
+  <objective>Flexibility needs to be added to Europe’s power system to accommodate an increasing share of variable power generation from renewable sources. Indeed, service quality issues start to arise on the grid when this share in electricity consumption reaches 10%. To meet the EU’s targets for reduction of greenhouse gas emissions this share should rise to 30% by 2030 and up to 50% by 2050. The cost of this transition and the necessary measures to guarantee stable and continuous supply are a major political concern. The SABINA project responds to it by targeting the cheapest possible source of flexibility: the existing thermal inertia in buildings and the coupling between heat and electricity networks it enables.
+This coupling requires accurately estimating the thermal inertia of many buildings. SABINA’s partner the University of Navarra has created a breakthrough, automatic method for this estimation, which shall be scaled up, validated and integrated in a complete management system through this project. This system will operate on two complementary time horizons:
+• One day: aggregation and management at the district level of the electric and thermal flexibilities, and conversion and storage of the excess electrical energy to thermal energy in the freely available building inertia.
+• Seconds to minutes: local control of inverters feeding renewable electricity to the grid, with optimal parameters automatically determined at the district level.
+Research partners will develop novel control and optimization algorithms, and integrate and evaluate the system in lab and operational settings. The SABINA solution is compatible with both new and existing buildings; it is planned to be deployed within five years of the end of the project. Lead users are present in the consortium: Telvent and SMS plc, the coordinator, for the architecture, and Insero for the business model it enables; compliance and contribution to relevant standards will be ensured by the European Digital SME Alliance</objective>
+  <title>SmArt BI-directional multi eNergy gAteway</title>
+<identifier>H2020LCE2016SGS</identifier>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207615</rcn>
+  <acronym>CHROCODYLE</acronym>
+  <objective>Striking morphological transformations are a hallmark of any cell division cycle. During nuclear division chromatin is compacted into distinctive rod-shaped chromatids in preparation of chromosome segregation by the spindle apparatus. Multi-subunit SMC protein complexes and a large number of regulatory factors are at the heart of this elementary process. SMC complexes also play key roles during other aspects of genome function such as the control of gene expression and the repair of damaged DNA. They are thought to act as chromatin linkers with exquisite specificity for certain pairs of DNA fibres. However, the underlying molecular mechanisms are not understood. Active extrusion of DNA loops by the SMC complex has been proposed to be the mechanistic basis for the establishment of long-range, intra-chromatid DNA bridges. 
+  
+Here, I put forward a multi-pronged research programme that aims to elucidate fundamentally conserved features of SMC protein function and action using the prokaryotic SMC condensin complex in Bacillus subtilis as a tractable model system. We will conduct a combined structural, biochemical and cell biology approach (including crystallography, electron paramagnetic resonance, ChIP-Seq and ‘native’ HiC) to uncover how the SMC complex acts at the higher levels of organization of the bacterial chromosome to promote the efficient individualization of sister DNA molecules. We will reveal the molecular and structural bases for the association between the SMC complex and the bacterial chromosome at different stages of the loading reaction – each representing a crucial intermediate in a sophisticated chromosome organization process. For the first time, we will be able to map the paths of chromosomal DNA through an SMC complex.
+ 
+Our in-depth mechanistic insights will likely have implications for the understanding of various pathological conditions and have the potential to contribute to the development of novel antibacterial compounds.</objective>
+  <title>Chromosomal Condensin Dynamics: From Local Loading to Global Architecture</title>
+<identifier>ERC2016COG</identifier>
+</project>

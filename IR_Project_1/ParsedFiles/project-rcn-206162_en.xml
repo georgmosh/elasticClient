@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206162</rcn>
+  <acronym>ShipTest</acronym>
+  <objective>The European ship fleet counts 23,000 vessels, accounting for the 40% of the global gross tonnage. Marine industry is a major prosperity engine of the EU contributing a total of €147bn to the GDP and supporting more than 1.7m jobs. 
+However, the vessels’ structural integrity verification is a major issue for the shipping industry. Regulations dictate that Non Destructive Testing (NDT) inspections should be performed every 5 years for the first decade of a vessel’s life and every 2.5 years thereafter. 
+Ship hull weld inspection is a challenging process as safety-critical welds length exceeds 120km in large vessels and involves human inspectors on site using scaffolding or cherry-pickers. These procedures require long periods of dry-docking incurring loss of revenue and costs amounting to more than €150k per inspection. Moreover conventional ultrasonic techniques cannot be applied on metal plates of thickness &lt;10mm, which are commonly used nowadays to reduce ship weight. This necessitates the use of dangerous radiographic techniques posing health and safety issues.
+These challenges give rise to a unique business opportunity which Spectrum Labs and Tecnitest (leading NDT equipment and service providers) along with Innora (dynamic high-tech company specializing in robotics) and TWI (global leader in NDT technology) aspire to seize with the help of Lloyds’ Register, the most reputable shipping service provider with 230 years of experience.
+We aim to redefine ship NDT inspection by commercializing ShipTest, a laser-guided robotic crawler able to automatically track the weld and inspect the hull while the ship is at sea. Through a combination of bleeding-edge ultrasonic and electromagnetic techniques ShipTest can accurately inspect metal plates of &lt;10mm thickness eliminating the need for radiography.
+By commercialising ShipTest we will grow our businesses by €47.7m, cumulatively over 5 years, generating €19.04m in profits and creating 398 direct jobs and 1185 indirect jobs</objective>
+  <title>Fully automated laser guided inspection robot for weld defect detection on ship hulls</title>
+<identifier>H2020FTIPilot20161</identifier>
+</project>

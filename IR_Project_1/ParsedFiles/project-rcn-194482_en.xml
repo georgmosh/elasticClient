@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194482</rcn>
+  <acronym>CancerHetero</acronym>
+  <objective>It is now widely accepted that tumors are composed of heterogeneous population of cells, which contribute
+to many aspects of treatment resistance observed in clinic. Despite the acknowledgment of the tumor cell
+heterogeneity, little evidence was shown about complexity and dynamics of this heterogeneity in vivo,
+mainly because of lacking flexible genetic tools which allow sophisticated analysis in primary tumors. We
+recently developed a very efficient mouse somatic brain tumor model which have a full penetrance of high
+grade glioma development. Combination of this model with several transgenic mouse lines allow us to
+isolate and track different population of cells in primary tumors, most importantly, we also confirmed that
+this can be done on single cell level. Here I propose to use this set of valuable genetic tools to dissect the
+cellular heterogeneity in mouse gliomas. First we will perform several single cell lineage tracing experiment
+to demonstrate the contribution of brain tumor stem cell, tumor progenitors as well as the relatively
+differentiated cells, which will provide a complete data sets of clonal dynamics of different tumor cell types.
+Second we will further perform this tracing experiment with the presence of conventional chemotherapy.
+Third we will perform single cell RNA sequencing experiment to capture the molecular signature, which
+determines the cellular heterogeneity, discovered by single cell tracing. This result will be further validated
+by analysis of this molecular signatures in human primary tumors. We will also use our established in vivo
+target validation approach to manipulate the candidate molecular regulators to establish the functional
+correlation between molecular signature and phenotypic heterogeneity. This project will greatly improve our
+understanding of tumor heterogeneity, and possibly provide novel approaches and strategies of targeting
+human glioblastomas.</objective>
+  <title>Dissection of tumor heterogeneity in vivo</title>
+<identifier>ERC2014CoG</identifier>
+</project>

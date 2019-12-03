@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206441</rcn>
+  <acronym>RAMSES</acronym>
+  <objective>In biochemical systems, combinations of specialized molecular entities are precisely arranged to give highly complex architectures. Sophisticated functionality, such as the selective chemical transformation of substrates in enzymes, emerges from the interplay of the individual components that are often grouped around a nanoscopic cavity. Control mechanisms based on the cooperative binding of signal substances regulate the enzyme’s action, and complicated feedback loops may apply.
+Since the advent of supramolecular chemistry, scientists construct artificial systems with ever increasing complexity and functionality that promise to serve as the basis for future developments in bottom-up nanotechnology with applications in medicine (drug delivery), diagnostics, catalysis, material science and molecular photonics/electronics.
+Self-assembly of functional entities with pre-programmed connectivities has produced an impressive line-up of nanoscopic architectures such as coordination cages that recognize and transform molecular substrates. Most of these systems are based on one sort of ligand, joined by one kind of metal ion. My group has reported a number of cages, each equipped with a unique, single function such as chirality, redox-activity, light-switching, allosteric regulation or endohedral binding sites.
+While all these mono-functionalized cages contribute to the progress of supramolecular architecture, nature demonstrates that the key to the most sophisticated systems lies in multi-functionalized structures.
+As breakthrough strategies for achieving this level of complexity with artificial systems we propose:
+1) Heteroleptic coordination of ligands by a [Pd2Ligand4]-platform-specific way of steric fine-tuning
+2) Biopolymer-inspired folding of a modular chain of covalently joined building blocks
+Combined with our recent achievements in host-guest switching, we aim at adjustable receptors, controllable molecular reaction chambers and multifunctional photo/redox systems</objective>
+  <title>Reactivity and Assembly of Multifunctional, Stimuli-responsive Encapsulation Structures</title>
+<identifier>ERC2015CoG</identifier>
+</project>

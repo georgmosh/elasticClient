@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207865</rcn>
+  <acronym>Reg-Seq</acronym>
+  <objective>Type 2 diabetes (T2D) is a complex systemic metabolic disorder which has developed into a global major health problem responsible for early morbidities and mortality. T2D is a multifactorial disease, resulting from progressive alteration of insulin secretion from beta cells in pancreatic islets, on a background of resistance to insulin action in various organs and tissues, including liver, skeletal muscle and adipose tissue. 
+T2D heritability is estimated around 40-70%. Genome-wide association studies identified more than 90 T2D-associated common variants, but altogether they explain less than 15% of T2D inheritance. Rare loss-of-function coding variants may contribute to T2D risk. Moreover, recent studies suggested the putative impact on T2D risk of functional non-coding variants within active enhancers of pancreatic islets; but tissue-specific regulatory regions have remained largely unexplored by genetic epidemiology studies. 
+I intend to make progress in T2D genetic epidemiology and physiology by extending genetic investigation to frequent and rare mutations in non-coding regulatory regions on a whole-genome basis. In the Reg-Seq project, I propose the next-generation sequencing (NGS) of most relevant DNA regulatory sequences of four key metabolic tissues for T2D (pancreatic islets, liver, muscle and adipose tissue) in large well-phenotyped prospective populations (N=10,000 samples), followed by a replication in additional cohorts and by comprehensive functional experiments when genetic associations are identified. 
+This project should lead to the identification of new functional genetic markers and pathways involved in T2D risk and development, and should help to stratify the T2D population for precision medicine, which is one of the major goals of the EU-Horizon 2020 programme. Further elucidation of the missing heritability should enable a major advance in the prediction of T2D risk, which is still very poor for a genuine clinical translation.</objective>
+  <title>Functional genomics of non-coding mutations in regulatory regions of four metabolic tissues, and their involvement into type 2 diabetes through large-scale sequencing</title>
+<identifier>ERC2016STG</identifier>
+</project>

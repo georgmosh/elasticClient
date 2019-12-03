@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>215847</rcn>
+  <acronym>QPARK</acronym>
+  <objective>Ubiwhere has been commercialising a low-cost, seamless and straightforward-to-install system entitled Smart Parking, composed of vehicle-detection electromagnetic sensors and an intelligent software platform to collect and process all the data. Through this system, parking operators can enhance their ongoing operations by knowing in every instance what is happening and by analysing reports on the behavioural patterns detected by the platform, improving their operational and enforcement efficiency.
+
+The potential market of Parking has increased the number of competing solutions in this sector (despite the lack of a market leader), composed of both ICT startups and well-established companies. With so many competitors, and taking into account that several cities have started to dismantle the spaces reserved for parking in their urban areas, Ubiwhere intends to enrich its Smart Parking platform with urban planning capabilities, unlocking a new business opportunity and consequently standing out from its competitors.
+
+QPARK aims at up-scaling the current Smart Parking solution, enriching it with a new service (feature) that enables the generation of reports via a thorough analysis of which areas of the city are more affected by certain events and how that sudden increase in people affects the city traffic and the parking occupancy. The FET Open project QUANTICOL will support this what-if analysis by providing the necessary tools and mechanisms to advance in the problem space and provide useful knowledge quickly.
+
+QPARK will allow Ubiwhere, a software company focused on Smart Cities and Communities, to disrupt the global market by enriching its solutions with urban planning capabilities, powered by complex adaptative systems developed in QUANTICOL.</objective>
+  <title>A Quantitative Approach for Smart Parking</title>
+<identifier>H2020FETOPEN420162017</identifier>
+</project>

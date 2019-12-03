@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213618</rcn>
+  <acronym>AccuWater</acronym>
+  <objective>Bunt Planet is pioneering the development of intelligent Big Data Analytics solutions to reduce Water Losses, or Non-Revenue Water (NRW) and for related applications. NRW in potable water distribution networks poses a major global economic challenge, costing 14 billion € annually (according to the World Bank) and contributes to water stress, with associated climate change risks.
+
+Comprising two modules, BuntPlanets’ patented BuntBrain technology uniquely addresses both types of NRW, Physical Losses (Leakage) and Apparent Losses (losses due to unauthorised consumption, customer meter inaccuracies or data transmission and handling errors). BuntBrain is highly cost effective and offers a rapid payback on investment for water utilities – with significant benefits in terms of performance compared to alternative technologies. BuntBrain LeakFinder detects 33% smaller (early stage) leaks and can size and position leaks more accurately than other approaches. BuntBrain Water Meters is the only solution available which is customised to the water industry and which learns from user feedback.  
+
+BuntBrain has already attracted strong interest, including sales contracts, but it remains a challenge to gain market acceptance without further testing and in the absence of reference sites relevant to the diverse range of characteristics of water utilities. Initially, Bunt Planet plans to focus on water utility customers in Europe and Latin America.  
+
+The goals of the ACCUWATER Phase II project are to develop the algorithm to address the full range of conditions in the initial target markets and to create reference sites to facilitate commercial roll-out. BuntPlanet is targeting revenues of 18 million €, with 50 new employees by the fifth year after completion of the project. The technology can contribute to the evolution of new markets to analyse the large volumes of data available through smart meters and sensors within water distribution networks and has the potential to create man</objective>
+  <title>High accuracy water leakage and apparent loss detection</title>
+<identifier>H2020SMEINST220162017</identifier>
+</project>

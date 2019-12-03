@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199146</rcn>
+  <acronym>SBNAF</acronym>
+  <objective>We propose a benchmark study that will address critical points in reconstructing physical and thermal properties of near-Earth, main-belt, and trans-Neptunian objects. The combination of the visual and thermal data from the ground and from astrophysics missions (like Herschel, Spitzer and Akari) is key to improving the scientific understanding of these objects. The development of new tools will be crucial for the interpretation of much larger data sets from WISE, Gaia, JWST, or NEOShield-2, but also for the operations and scientific exploitation of the Hayabusa-2 mission.
+Our approach is to combine different methods and techniques to get full information on selected bodies: lightcurve inversion, stellar occultations, thermo-physical modeling, radiometric methods, radar ranging and adaptive optics imaging. The applications to objects with ground-truth information from interplanetary missions Hayabusa, NEAR-Shoemaker, Rosetta, and DAWN allows us to advance the techniques beyond the current state-of-the-art and to assess the limitations of each method. The SBNAF project will derive size, spin and shape, thermal inertia, surface roughness, and in some cases even internal structure and composition, out to the most distant objects in the Solar System.  
+Another important aim is to build accurate thermo-physical asteroid models to establish new primary and secondary celestial calibrators for ALMA, SOFIA, APEX, and IRAM, as well as to provide a link to the high-quality calibration standards of Herschel and Planck.
+The target list comprises recent interplanetary mission targets, two samples of main-belt objects, representatives of the Trojan and Centaur populations, and all known dwarf planets (and candidates) beyond Neptune. Our team combines world-leading expertise in different scientific areas in a new European partnership with a high synergy potential in the field of small body and dwarf planet characterization, related to astrophysics, Earth, and planetary science.</objective>
+  <title>Small Bodies: Near and Far</title>
+<identifier>H2020COMPET2015</identifier>
+</project>

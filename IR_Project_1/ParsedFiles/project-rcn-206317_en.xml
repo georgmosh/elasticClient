@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206317</rcn>
+  <acronym>AMORE</acronym>
+  <objective>"When I asked my seven-year-old daughter ""Who is the boy in your class who was also new in school last year, like you?"", she instantly replied ""Daniel"", using the descriptive content in my utterance to identify an entity in the real world and refer to it. The ability to use language to refer to reality is crucial for humans, and yet it is very difficult to model. AMORE breaks new ground in Computational Linguistics, Linguistics, and Artificial Intelligence by developing a model of linguistic reference to entities implemented as a computational system that can learn its own representations from data.
+
+This interdisciplinary project builds on two complementary semantic traditions: 1) Formal semantics, a symbolic approach that can delimit and track linguistic referents, but does not adequately match them with the descriptive content of linguistic expressions; 2) Distributional semantics, which can handle descriptive content but does not associate it to individuated referents. AMORE synthesizes the two approaches into a unified, scalable model of reference that operates with individuated referents and links them to referential expressions characterized by rich descriptive content. The model is a distributed (neural network) version of a formal semantic framework that is furthermore able to integrate perceptual (visual) and linguistic information about entities. We test it extensively in referential tasks that require matching noun phrases (“the Medicine student”, “the white cat”) with entity representations extracted from text and images.
+
+AMORE advances our scientific understanding of language and its computational modeling, and contributes to the far-reaching debate between symbolic and distributed approaches to cognition with an integrative proposal. I am in a privileged position to carry out this integration, since I have contributed top research in both distributional and formal semantics.
+"</objective>
+  <title>A distributional MOdel of Reference to Entities</title>
+<identifier>ERC2016STG</identifier>
+</project>

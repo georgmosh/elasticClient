@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213730</rcn>
+  <acronym>Wave Predictor</acronym>
+  <objective>Offshore waves are irregular and unpredictable. The only way offshore operations can be managed safely is through a combination of elaborate statistics and large safety margins. These have been inalienable truths for all offshore operations and vessels for decades.
+Some progress has been made in radar technology to analyze surrounding wave spectra real-time, and calculate the probability that a too high wave arises. This is the current state-of-the art in offshore technology, but has several consequences and limitations for operational safety and costs: 
+
+- “Safe” is still not 100% safe; a 1/1000 probability that a critical wave height is exceeded is often deemed acceptable. Far from land and handling expensive equipment, the consequences of accidents can be large (millions of euros, injury or death), another reason for the large safety margins;
+- Double costs regularly arise when conditions are deemed safe and a transport or operation is started, but subsequently abandoned empty-handed; 
+- Opportunity costs are enormous as well, due to lost working hours when there would have been plenty safe operational windows - if only they were known upfront. 
+Next Ocean has developed a world-wide unique technology to predict (critically high) waves 3 minutes in advance. Their Wave Predictor, which is the result of more than ten years of research, contains unique “deciphering” and predictive algorithms for upcoming waves and the resulting ship motions. The WP predicts exactly when and where dangerously high waves, enabling users to anticipate proactively in time.</objective>
+  <title>Wave Predictor</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

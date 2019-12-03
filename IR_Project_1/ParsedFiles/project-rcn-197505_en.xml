@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>197505</rcn>
+  <acronym>AI4REASON</acronym>
+  <objective>The goal of the AI4REASON project is a breakthrough in what is considered a very hard problem in AI and automation of reasoning, namely the problem of automatically proving theorems in large and complex theories. Such complex formal theories arise in projects aimed at verification of today's advanced mathematics such as the Formal Proof of the Kepler Conjecture (Flyspeck), verification of software and hardware designs such as the seL4 operating system kernel, and verification of other advanced systems and technologies on which today's information society critically depends.
+
+It seems extremely complex and unlikely to design an explicitly programmed solution to the problem. However, we have recently demonstrated that the performance of existing approaches can be multiplied by data-driven AI methods that learn reasoning guidance from large proof corpora. The breakthrough will be achieved by developing such novel AI methods. First, we will devise suitable Automated Reasoning and Machine Learning methods that learn reasoning knowledge and steer the reasoning processes at various levels of granularity. Second, we will combine them into autonomous self-improving AI systems that interleave deduction and learning in positive feedback loops. Third, we will develop approaches that aggregate reasoning knowledge across many formal, semi-formal and informal corpora and deploy the methods as strong automation services for the formal proof community.
+
+The expected outcome is our ability to prove automatically at least 50% more theorems in high-assurance projects such as Flyspeck and seL4, bringing a major breakthrough in formal reasoning and verification. As an AI effort, the project offers a unique path to large-scale semantic AI. The formal corpora concentrate centuries of deep human thinking in a computer-understandable form on which deductive and inductive AI can be combined and co-evolved, providing new insights into how humans do mathematics and science.</objective>
+  <title>Artificial Intelligence for Large-Scale Computer-Assisted Reasoning</title>
+<identifier>ERC2014CoG</identifier>
+</project>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206038</rcn>
+  <acronym>ORIENT</acronym>
+  <objective>Rapid object identification is crucial for survival of all organisms, but poses daunting challenges if many stimuli compete for attention, and multiple sensory and motor systems are involved in the processing, programming and generating of an eye-head gaze-orienting response to a selected goal. How do  normal and sensory-impaired brains decide which signals to integrate (“goal”), or suppress (“distracter”)?
+  Audiovisual (AV) integration only helps for spatially and temporally aligned stimuli. However, sensory inputs differ markedly in their reliability, reference frames, and processing delays, yielding considerable spatial-temporal uncertainty to the brain. Vision and audition utilize coordinates that misalign whenever eyes and head move. Meanwhile, their sensory acuities vary across space and time in essentially different ways. As a result, assessing AV alignment poses major computational problems, which so far have only been studied for the simplest stimulus-response conditions.
+My groundbreaking approaches will tackle these problems on different levels, by applying dynamic eye-head coordination paradigms in complex environments, while systematically manipulating visual-vestibular-auditory context and uncertainty. I parametrically vary AV goal/distracter statistics, stimulus motion, and active vs. passive-evoked body movements. We perform advanced psychophysics to healthy subjects, and to patients with well-defined sensory disorders. We probe sensorimotor strategies of normal and impaired systems, by quantifying their acquisition of priors about the (changing) environment, and use of feedback about active or passive-induced self-motion of eyes and head.
+I challenge current eye-head control models by incorporating top-down adaptive processes and eye-head motor feedback in realistic cortical-midbrain networks. Our modeling will be critically tested on an autonomously learning humanoid robot, equipped with binocular foveal vision and human-like audition.</objective>
+  <title>Goal-directed eye-head coordination in dynamic multisensory environments</title>
+<identifier>ERC2015AdG</identifier>
+</project>

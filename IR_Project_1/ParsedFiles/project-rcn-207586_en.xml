@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207586</rcn>
+  <acronym>TIC-AUV</acronym>
+  <objective>In recent years, long-term autonomy and persistent autonomy have ecome key areas of interest for marine robotics researchers. Ocean observatories require autonomous robot deployments over months or years. Deep-water oilfield inspection and intervention with autonomous vehicles is now a commercial reality, but fielded robots rely heavily on accurate a priori models of the subsea assets. Robustness to errors in autonomous contact tasks requires detection of execution errors.
+
+Today, our current generations of Autonomous Underwater Vehicles (AUVs) are generally limited to preplanned missions, or to limited forms of autonomy involving script switching and re-parametrisation in response to preprogrammed events.
+
+The work envisaged in this project wants to address the need of greater autonomy and capabilities, improving the cognitive and intelligent layer of marine robotics. Research activities will focus on three main interconnected areas:
+• semantic world representation and reasoning, in order to represent the operating environment, taking into account uncertainty at different layers (sensor data, partial view, system evolution);
+• intelligent active localisation techniques, in order to define a specific set of actions aiming at robot localisation in the environment;
+• fault management, in order to detect, classify and react to possible in-mission faults and various problems.
+
+Combining the research results in those areas and integrating them into real marine robots will result in a great increase of autonomy and intelligent cognitive capabilities, essential skills for persistent autonomy for robotics and autonomous systems.</objective>
+  <title>Towards Intelligent Cognitive AUVs</title>
+<identifier>H2020MSCAIF2015</identifier>
+</project>

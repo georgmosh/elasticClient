@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207017</rcn>
+  <acronym>CID</acronym>
+  <objective>The joint research in this programme will study important aspects—both theoretical as well as applied—of computing with infinite objects. A central aim is laying the grounds for the generation of efficient and verified software in engineering applications. 
+
+A prime example for infinite data is provided by the real numbers, most commonly conceived as infinite sequences of digits. While most applications in science and engineering substitute the reals with floating point numbers of fixed finite precision and thus have to deal with truncation and rounding errors, the approach in this project is different: exact real numbers are taken as first-class citizens and while any computation can only exploit a finite portion of its input in finite time, increased precision is always available by continuing the computation process.
+
+This project aims to bring together the expertise of specialists in mathematics, logic, and computer science to push the frontiers of our theoretical and practical understanding of computing with infinite objects. Three overarching motivations drive the proposed collaboration:
+
+Representability. Cardinality considerations tell us that it is not possible to represent arbitrary mathematical objects in a way that is accessible to computation. We will enlist expertise in topology, logic, and set theory, to address the question of which objects are representable and how they can be represented most efficiently.
+
+Constructivity. Working in a constructive mathematical universe can greatly enhance our understanding of the link between computation and mathematical structure. Not only informs us which are the objects of relevance, it also allows us to devise always correct algorithms from proofs.
+
+Efficient implementation. We also aim to make progress on concrete implementations. Theoretical insights from elsewhere will be tested in actual computer systems; obstacles encountered in the latter will inform the direction of mathematical investigation.</objective>
+  <title>Computing with Infinite Data</title>
+<identifier>H2020MSCARISE2016</identifier>
+</project>

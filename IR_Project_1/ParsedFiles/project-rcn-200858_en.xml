@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200858</rcn>
+  <acronym>OptiFrame</acronym>
+  <objective>This document describes the research to be undertaken by the project OptiFrame – “An Optimization Framework for Trajectory Based Operations” - funded by the EU call  “SESAR 2020 Exploratory Research: First Call for Research Project”, research topic “Trajectory Based Operations (TBO)” (ER-09-2015), within the area “ATM Applications-Oriented Research”. The project consortium comprises University of Lancaster (Project Coordinator), the Consorzio Futuro in Ricerca, Eurocontrol and the Stichting Nationaal Lucht- en Ruimtevaartlaboratorium (NLR).
+
+OptiFrame is motivated by the need of studying a number of fundamental questions related to TBO, a key element of future ATM operating concepts.
+
+The main objective of this research proposal is the application of principles of mathematical modelling and optimization to optimally configure and assess the performance of the TBO concept. This will allow to verify the viability of the TBO concept, to identify the major issues that need to be addressed, and determine whether, under which conditions, and to what extent, the objectives of flexibility of airspace users and predictability of the ATM system, can be achieved. 
+
+The core activity and focus of this proposal is the development of a framework, which consists of mathematical models and optimization algorithms, “to support the ATFCM decision making process” by suggesting optimal TBO solutions. The framework will be applied in real world instances,  and it  will be used to perform a wide array of analyses. We will use  OptiFrame as a tool  to: i) investigate  several of the issues and questions arising for the exploitation and deployment of the TBO concept, ii) fully understand the benefits and limitations of the TBO approach, and iii) study the trade-off  between different contrasting KPIs relevant for the TBO concept.</objective>
+  <title>An Optimization Framework for Trajectory Based Operations</title>
+<identifier>H2020SESAR20151</identifier>
+</project>

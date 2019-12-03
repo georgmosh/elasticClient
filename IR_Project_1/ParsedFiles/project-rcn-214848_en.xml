@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>214848</rcn>
+  <acronym>PAPAYA</acronym>
+  <objective>The valuable insights that can be inferred from analytics of data generated and collected from a variety of devices and applications are transforming businesses and are therefore one of the key motivations for organisations to adopt such technologies. Nevertheless, the data being analysed and processed are highly sensitive and put the individuals’ rights to privacy at risk. With the imminent arrival of the European General Data Protection Regulation (GDPR), companies are coerced to adopt privacy enhancing technologies that, on the one hand, protect data to ensure their clients’ privacy and on the other hand, allow their processing while keeping them meaningful, useful, and protected at the same time. 
+The PAPAYA project aims at addressing the privacy concerns when data analytics tasks are performed by untrusted third-party data processors. Since these tasks may be performed obliviously on protected data (i.e. encrypted data), the PAPAYA will design and develop dedicated privacy preserving data analytics primitives that will enable data owners to extract valuable information from this protected data, while being cost-effective and accurate. 
+The PAPAYA project will consider compliance with the GDPR as a key enabler to provide solutions that minimize the privacy risks while increasing trust in third-party data processors by means of auditing and visualization modules (a dashboard). The PAPAYA primitives as well as the dashboard will be combined in an integrated platform that will be designed, implemented and validated through a set of use cases reflecting relevant real world applications (namely, healthcare analytics and web &amp; mobile data analytics).</objective>
+  <title>PlAtform for PrivAcY preserving data Analytics</title>
+<identifier>H2020DSSC72017</identifier>
+</project>

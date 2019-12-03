@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205510</rcn>
+  <acronym>QUARTZ</acronym>
+  <objective>Quantum Information Access and Retrieval Theory
+
+We aim to establish an European Training Network (ETN) on QUantum information Access and Retrieval Theory (QUARTZ). Towards a new approach to Information Access and Retrieval (IAR) addressing the challenges of the dynamic and multimodal nature of the data and user interaction context, QUARTZ aims to educate its Early Stage Researchers (ESRs) to adopt a novel theoretically and empirically motivated approach to IAR based on the quantum mechanical framework that gives up the notions of unimodal features and classical ranking models disconnected from context. Each ESR will be aware that the current state of the art of IAR is not sufficient to address the challenges of a dynamic, adaptive and context-aware user-machine interaction and to make a major breakthrough in the overall effectiveness of retrieval systems, and that a genuine theoretical breakthrough is on the contrary necessary. We believe that this breakthrough can be provided by quantum theory which can integrate abstract vector spaces, probability spaces and logic in a single theoretical framework which extend and generalize the classical vector, probability and logic spaces utilised in IAR. QUARTZ will consist of training activities and ESR research projects which investigate theoretical issues and evaluate methods and prototypes for adaptive IAR systems managing large data collections and meeting the end user's information needs in a dynamic context.</objective>
+  <title>Quantum Information Access and Retrieval Theory</title>
+<identifier>H2020MSCAITN2016</identifier>
+</project>

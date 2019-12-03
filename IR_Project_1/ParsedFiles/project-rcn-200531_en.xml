@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200531</rcn>
+  <acronym>QUASIFT</acronym>
+  <objective>Quantum Field Theory is a universal framework to address quantum physical systems with infinitely many interacting degrees of freedom, applicable both at the level of fundamental interactions, such as the subnuclear physics of quarks and gluons and at the phenomenological level such as the physics of quantum fluids and superconductivity.
+    Traditionally, weakly interacting quantum field theory is formulated as a perturbative deformation of the linear theory of freely propagating quantum waves or particles with interactions described by Feynman diagrams. For strongly non-linear quantum field theories the method of Feynman diagrams is not adequate.
+    The main goal of this proposal is to develop novel tools and techniques to address strongly non-linear quantum field theories.
+    To achieve this goal we will search for hidden algebraic structures in quantum field theories that will lead to efficient algorithms to compute physical observables of interest. In particular we identify non-linear quantum field theories with exactly solvable sectors of physical observables.
+
+In this project we will focus on three objectives:
+- build general theory of localization in supersymmetric Yang-Mills theory for arbitrary geometrical backgrounds
+- find all realizations of symplectic and supersymplectic completely integrable systems in gauge theories
+- construct finite supersymmetric Yang-Mills theory in terms of the algebra of locally supersymmetric loop observables for maximally supersymmetric gauge theory
+
+The realization of the above objectives will uncover hidden quantum algebraic structures and consequently will bring ground-breaking results in our knowledge of quantum field theories and the fundamental interactions.</objective>
+  <title>Quantum Algebraic Structures In Field Theories</title>
+<identifier>ERC2015STG</identifier>
+</project>

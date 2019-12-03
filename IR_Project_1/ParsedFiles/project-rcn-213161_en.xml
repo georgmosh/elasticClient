@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213161</rcn>
+  <acronym>MEMMO</acronym>
+  <objective>What if we could generate complex movements for a robot with any combination of arms and legs interacting with a dynamic environment in real-time? MEMMO has the ambition to create such a motion-generation technology that will revolutionize the motion capabilities of robots and unlock a large range of industrial and service applications. Based on optimal-control theory, we develop a unified yet tractable approach to motion generation for complex robots with arms and legs. The approach relies on three innovative components. 
+1) A massive amount of pre-computed optimal motions are generated offline and compressed into a "memory of motion". 
+2) These trajectories are recovered during execution and adapted to new situations with real-time model predictive control. This allows generalization to dynamically changing environments. 
+3) Available sensor modalities (vision, inertial, haptic) are exploited for feedback control which goes beyond the basic robot state with a focus on robust and adaptive behavior. 
+
+To demonstrate the generality of the approach, MEMMO is organized around 3 relevant industrial applications, where MEMMO technologies have a huge innovation potential. For each application, we will demonstrate the proposed technology in relevant industrial or medical environments, following specifications designed by the end-users partners of the project. 
+1) A high-performance humanoid robot will perform advanced locomotion and industrial tooling tasks in a 1:1 scale demonstrator of a real aircraft assembly. 
+2) An advanced exoskeleton paired with a paraplegic patient will demonstrate dynamic walking on flat floor, slopes and stairs, in a rehabilitation center under medical surveillance. 
+3) A challenging inspection task in a real construction site will be performed with a quadruped robot. While challenging, these demonstrators are feasible, as assessed by preliminary results obtained by MEMMO partners, that are all experts or stakeholders of their domain.</objective>
+  <title>Memory of Motion</title>
+<identifier>H2020ICT20171</identifier>
+</project>

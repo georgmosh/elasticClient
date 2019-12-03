@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200038</rcn>
+  <acronym>SIREN</acronym>
+  <objective>The Internet is made up of dozens of thousands of smaller networks, called Autonomous Systems (ASes), ranging from multinational corporations to small businesses and schools, e.g., Google, Deutsche Telekom, AT&amp;T, and Hebrew U. Routing between ASes is handled by the Border Gateway Protocol (BGP), which is the glue that holds the Internet together. Alarmingly, despite the Internet's critical societal and economic role, BGP routing is dangerously vulnerable to configuration errors and attacks, and, consequently, every year or so a major Internet outage makes the news.
+
+To remedy BGP’s many security vulnerabilities, researchers and practitioners have invested much effort into designing security solutions for BGP routing. Yet, despite over a decade of Herculean efforts, many technological, political, and economic hurdles hinder, and possibly even prevent, deployment. I argue that the reasons for this are deeply rooted in today’s centralized, top-down, hierarchical paradigm for securing Internet routing. The aim of the planned research project is to put forth and explore a radically new paradigm for securing routing on the Internet. The proposed alternative roadmap for securing the Internet consists of two steps:
+
+1) Jumpstarting BGP security: A novel approach to routing security that bypasses the obstacles facing today’s agenda. Specifically, the proposed design will be flat, decentralized, fully automated, avoid dependency on a single root-of-trust, and not require modifying/replacing legacy BGP routers. 
+
+2) A long-term vision for Internet routing: Leveraging the vast computational resources in modern datacenters, and research on Secure Multi-Party Computation, to outsource routing to a small number of entities while retaining flexibility, autonomy and privacy.
+
+I believe that, put together, these can lead to a more secure Internet in the short-run, and outline a promising, yet uncharted, new direction for the future of Internet routing.</objective>
+  <title>Securing Internet Routing from the Ground Up</title>
+<identifier>ERC2015STG</identifier>
+</project>

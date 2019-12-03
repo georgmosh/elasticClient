@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211853</rcn>
+  <acronym>CoMMaD</acronym>
+  <objective>The objective of the project is to develop a computational approach to accelerate the discovery of molecular materials. These materials will include porous molecules, small organic molecules and macromolecular polymers, which have application as a result of either their porosity or optoelectronic properties. The applications that will be targeted include in molecular separations, sensing, (photo)catalysis and photovoltaics. To achieve my aims, I will screen libraries of building blocks through a combination of techniques including evolutionary algorithms and machine learning. Through the application of cheminformatics algorithms, I will target the most promising libraries, assess synthetic diversity and accessibility and analyse structure-property relationships. I will develop software that will predict the (macro)molecular structures and properties; the molecular property screening calculations will include void characterisation, binding energies, diffusion barriers, local assembly, charge transport and energy level assessment. A consideration of synthetic accessibility at every stage will be central to my approach, which will ensure the realisation of our predicted targets. I have several synthetic collaborators who can provide pathways to synthetic realisation. Improved materials in this field have the potential to either reduce our energy needs or provide renewable energy, helping the EU meet the targets of the 2030 Energy Strategy.</objective>
+  <title>Computational Molecular Materials Discovery</title>
+<identifier>ERC2017STG</identifier>
+</project>

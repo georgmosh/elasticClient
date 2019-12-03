@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205643</rcn>
+  <acronym>Co-Active</acronym>
+  <objective>Conceptually, the CO-ACTIVE project addresses the general enrichment of the ‘one-stop-shop’ capability as initiated in the IT2Rail project and further completes the scope of functionality by addressing post-sale business transactions, and an underlying payment-settlement solution for comodally retailed products and services. This provides the opportunity to focus specifically on those aspects of comodality whose level of customer-perceived risk discourages the advance purchase of comodal travel entitlements:
+
+·         Enhancing the technical facilitation of a one-stop-shop capability, to enable comprehensive choice of offers from modes/operators able to respond to customer mobility queries, especially through the data structuration.
+
+·         Research into the different possibilities for managing retailer-TSP settlement in order to simplify/rationalise integration, for retailers, of today’s multiple (mode/operator) settlement system infrastructures which itself represents a constraint for the funnelling of multiple-TSP content to 3rd party retailer outlets; this includes demonstration of a retailer ‘merchant’ model/approach.
+
+·         Analysis of potential automation and orchestration (where identified by research) based on the information of previously generated travel entitlements, for the purposes of enabling the processing of cancellations, ticket exchanges and refunds in accordance with TSP business rules and revenue management policies, as well as in accordance with the needs of the customer when Trip Tracker determines that re-accommodation services are required to ensure arrival at final destination.</objective>
+  <title>CO-modal journey re-ACcommodation on associated Travel serVices</title>
+<identifier>H2020S2RJUCFM2015011</identifier>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>203404</rcn>
+  <acronym>SafeCOP</acronym>
+  <objective>SafeCOP (Safe Cooperating Cyber-Physical Systems using Wireless Communication) will establish a safety assurance approach, a platform architecture, and tools for cost-efficient and practical certification of cooperating cyber-physical systems (CO-CPS).
+
+SafeCOP targets safety-related CO-CPS characterized by use of wireless communication, multiple stakeholders, dynamic system definitions, and unpredictable operating environments. In this scenario, no single stakeholder has the overall responsibility over the resulted system-of-systems; safe cooperation relies on the wireless communication; and security and privacy are important concerns. Although such CO-CPS can successfully address several societal challenges, and can lead to new applications and new markets, their certification and development is not adequately addressed by existing practices.
+
+SafeCOP will provide an approach to the safety assurance of CO-CPS, enabling thus their certification and development. The project will define a platform architecture and will develop methods and tools, which will be used to produce safety assurance evidence needed to certify cooperative functions. SafeCOP will extend current wireless technologies to ensure safe and secure cooperation. SafeCOP will also contribute to new standards and regulations, by providing certification authorities and standardization committees with the scientifically validated solutions needed to craft effective standards extended to also address cooperation and system-of-systems issues.
+
+SafeCOP brings clear benefits in terms of cross-domain certification practice and implementations of cooperating systems in all addressed areas: automotive, maritime, healthcare and robotics. The advantages include lower certification costs, increased trustworthiness of wireless communication, better management of increasing complexity, reduced effort for verification and validation, lower total system costs, shorter time to market and increased market share.</objective>
+  <title>Safe Cooperating Cyber-Physical Systems using Wireless Communication</title>
+<identifier>H2020ECSEL20151RIAtwostage</identifier>
+</project>

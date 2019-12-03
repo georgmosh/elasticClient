@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213157</rcn>
+  <acronym>SDK4ED</acronym>
+  <objective>The vision of SDK4ED is to minimize cost, time and complexity of low-energy software development processes, by providing tools for automatic optimization of both software quality and non-functional requirements such as energy efficiency, dependability and performance, with the capacity to tackle the interplay between design quality and run-time constraints. SDK4ED aims to realise its vision through the following objectives: 
+- Establish a set of methods and tools for monitoring processes for early identification of design flaws, energy consumption indicators, and security vulnerabilities, with respect to the targeted hardware platform and non-functional requirements 
+- Estimate the costs and limitations associated to technical debt (TD) liabilities in the entire software stack. 
+- Provide toolboxes for assessing project management decisions with respect to the choices of repaying TD, under the constraints imposed on energy consumption and security.
+- Deploy the envisaged solutions in three industry-driven distinctive but complementary use cases in the domains of airborne systems, healthcare, and automotive industry. 
+- Illustrate the importance and benefits introduced by proper TD management into low-energy software application development.
+- Train and consult the embedded software systems industry.
+Through its envisaged toolboxes, SDK4ED will comprise a set of software programming add-ons for preventing the degradation of run-time qualities and especially energy consumption, while allowing for efficient measuring of the accumulated TD during the development of new low-energy computing software applications, including embedded systems and IoT products. 
+The major expected impact of the proposed platform will be measured by the achieved improvement in productivity, the extent to which the envisaged tools will be adopted by the reference market and the minimisation of effort for adopting digital technologies into low-energy products and services.</objective>
+  <title>Software Development toolKit for Energy optimization and technical Debt elimination</title>
+<identifier>H2020ICT20171</identifier>
+</project>

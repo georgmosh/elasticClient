@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210568</rcn>
+  <acronym>BARCODED-CELLTRACING</acronym>
+  <objective>The immune system is a complex ensemble of diverse lineages. Studies on in-vivo-hematopoiesis have until
+now largely rested on transplantation. More physiological experiments have been limited by the inability to
+analyze hematopoietic stem (HSC) and progenitor cells in situ without cell isolation and other disruptive
+manipulations. We have developed mouse mutants in which a fluorescent marker can be switched on in HSC
+in situ (inducible fate mapping), and traced HSC lineage output under unperturbed conditions in vivo. These
+experiments uncovered marked differences comparing in situ and post-transplantation hematopoiesis. These
+new developments raise several important questions, notably on the developmental fates HSC realize in vivo
+(as opposed to their experimental potential), and on the structure (routes and nodes) of hematopoiesis from
+HSC to peripheral blood and immune lineages. Answers to these questions (and in fact the deconvolution of
+any tissue) require the development of non-invasive, high resolution barcoding systems. We have now
+designed, built and tested a DNA-based barcoding system, termed Polylox, that is based on an artificial
+recombination locus in which Cre recombinase can generate several hundred thousand genetic tags in mice.
+We chose the Cre-loxP system to link high resolution barcoding (i.e. the ability to barcode single cells and to
+fate map their progeny) to the zoo of tissue- or stage-specific, inducible Cre-driver mice. Here, I will present
+the principles of this endogenous barcoding system, demonstrate its experimental and analytical feasibilities
+and its power to resolve complex lineages. The work program addresses in a comprehensive manner major
+open questions on the structure of the hematopoietic system that builds and maintains the immune system.
+This project ultimately aims at an in depth dissection of unique or common lineage pathways emerging from
+HSC, and at resolving relationships within cell lineages of the immune system.</objective>
+  <title>Endogenous barcoding for in vivo fate mapping of lineage development in the blood and immune system</title>
+<identifier>ERC2016ADG</identifier>
+</project>

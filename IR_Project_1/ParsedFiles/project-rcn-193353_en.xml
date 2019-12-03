@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193353</rcn>
+  <acronym>BONVOYAGE</acronym>
+  <objective>BONVOYAGE will design, develop and test a platform optimizing multimodal door-to-door transport of passengers and goods. The platform integrates travel information, planning and ticketing services, by automatically analysing non-real-time data from heterogeneous databases (on road, railway and urban transport systems); real-time measured data (traffic, weather forecasts); user profiles; user feedback.
+The platform is supported by an innovative information-centric communication network that collects and distributes all the data required. The highly heterogeneous, distributed and mobile nature of data, coming from data-centers, sensors, vehicles, goods and people on the move, calls for an innovative networking paradigm. Current networks (e.g. Internet) limit themselves to “just” providing communication channels between hosts. Our paradigm, called Internames, allows communications among entities identified by names, without the constraint of a static binding to a particular location.
+The request of a “user” (be it a person or a parcel) to travel from source to destination is managed by the platform with several tools: Metadata Handler collects and elaborates data related to the request and generates a corresponding Context; User Profiler creates a personalized profile, conveying requirements including Quality of Experience parameters and special needs; Multi-Objective Optimizer develops personalized travel instructions, optimal for the Context and User Profile. The user may give feedback, before accepting the travel itinerary. If a trip is not available at request time, the user is notified if it becomes available later on. An Actuator triggers the necessary services. A Tariff Scheme Designer exploits platform data to define multi-part tariff schemes.
+BONVOYAGE will trial and demonstrate the platform and communication network in integrated, large-scale, real life application scenarios, incorporated into the normal business operations of our transport operator partners.</objective>
+  <title>From Bilbao to Oslo, intermodal mobility solutions and interfaces for people and goods, supported by an innovative communication network</title>
+<identifier>H2020MG2014TwoStages</identifier>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206005</rcn>
+  <acronym>CPSwarm</acronym>
+  <objective>Cyber-Physical Systems (CPS) find applications in a number of large-scale, safety-critical domains e.g. transportation, smart cities, etc. While the increased CPS adoption has resulted in the maturation of solutions for CPS development, a single consistent science of system integration for CPS has not yet been consolidated. Therefore CPS development remains a complex and error-prone task, often requiring a collection of separate tools.
+Moreover, interactions amongst CPS might lead to new behaviors and emerging properties, often with unpredictable results. Rather than being an unwanted byproduct, these interactions can become an advantage if explicitly managed since early design stages. 
+CPSwarm tackles this challenge by proposing a new science of system integration and tools to support engineering of CPS swarms. CPSwarm tools will ease development and integration of complex herds of heterogeneous CPS that collaborate based on local policies and that exhibit a collective behavior capable of solving complex, industrial-driven, real-world problems.
+The project defines a complete toolchain that enables the designer to: (a) set-up collaborative autonomous CPSs; (b) test the swarm performance with respect to the design goal; and (c) massively deploy solutions towards “reconfigurable” CPS devices. Model-centric design and predictive engineering are the pillars of the project, enabling definition, composition, verification and simulation of collaborative, autonomous CPS while accounting for various dynamics, constraints and for safety, performance and cost efficiency issues. 
+CPSwarm pushes forward CPS engineering at a larger scale, with an expected significant reduction of development time and costs. Project results will be tested in real-world use cases in 3 different domains: swarms of Unmanned Aerial Vehicles and Rovers for safety and security purposes; autonomous driving for freight vehicles; and swarm of opportunistically collaborating smart bikes.</objective>
+  <title>CPSwarm</title>
+<identifier>H2020ICT20161</identifier>
+</project>

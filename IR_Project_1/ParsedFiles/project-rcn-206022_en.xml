@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206022</rcn>
+  <acronym>NURE</acronym>
+  <objective>Neutrinoless double beta decay (0νββ) is considered the best potential resource to determine the absolute neutrino mass scale. Moreover, if observed, it will signal that the total lepton number is not conserved and neutrinos are Majorana particles. Presently, this physics case is one of the most important research “beyond the Standard Model” and might guide the way towards a Grand Unified Theory of fundamental interactions.
+Since the ββ decay process involves nuclei, its analysis necessarily implies nuclear structure issues. The 0νββ decay rate can be expressed as a product of independent factors: the phase-space factors, the nuclear matrix elements (NME) and a function of the masses of the neutrino species.Thus the knowledge of the NME can give information on the neutrino mass, if the 0νββ decay rate is measured.
+The novel idea of NURE is to use nuclear reactions of double charge-exchange (DCE) as a tool to determine the ββ NME. In DCE reactions and ββ decay, the initial and final nuclear states are the same and the transition operators have the same spin-isospin structure. Thus, even if the two processes are mediated by different interactions, the NME are connected and the determination of the DCE cross-sections can give crucial information on ββ matrix elements. 
+NURE plans to carry out a campaign of experiments using accelerated beams on different targets candidates for 0νββ decay. The DCE channel will be populated using (18O,18Ne) and (20Ne,20O) reactions by the innovative MAGNEX large acceptance spectrometer, which is unique in the world to measure very suppressed reaction channels at high resolution. The complete net involving the single charge-exchange and multi-step transfers characterized by the same initial and final nuclei will be also measured to study the reaction mechanism. The absolute cross-sections will be extracted. The comparison with microscopic state-of-the-art calculations will give access to the NMEs.</objective>
+  <title>Nuclear Reactions for Neutrinoless Double Beta Decay</title>
+<identifier>ERC2016STG</identifier>
+</project>

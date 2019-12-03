@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212959</rcn>
+  <acronym>FREYA</acronym>
+  <objective>The goal of the FREYA consortium is to iteratively extend a robust environment for Persistent Identifiers (PIDs) into a core component of European and global research e-infrastructures. The resulting FREYA services will cover a wide range of resources in the research and innovation landscape and enhance the links between them so that they can be exploited in many disciplines and research processes. This will provide an essential building block of the European Open Science Cloud (EOSC). Moreover, the FREYA project will establish an open, sustainable, and trusted framework for collaborative self-governance of PIDs and services built on them.
+
+FREYA capitalises on the successes of the THOR project and will build on the core services of the existing trusted PID systems of the project partners, developing them in the context of established community-based services and more widely through the EOSC. The FREYA e-infrastructure components will be built on technologies and services that are already well proven. New services, and new PID types, will be introduced and moved up the scale of Technology Readiness Levels, so that the emerging e-infrastructure services are prototyped and positioned for evolution beyond the end of the FREYA project.
+
+The vision of FREYA is built on three key ideas: the PID Graph, PID Forum and PID Commons. The PID Graph connects and integrates PID systems to create an information map of relationships across PIDs that provides a basis for new services. The PID Forum is a stakeholder community, whose members collectively oversee the development and deployment of new PID types; it will be strongly linked to the Research Data Alliance (RDA). The sustainability of the PID infrastructure resulting from FREYA beyond the lifetime of the project itself is the concern of the PID Commons, defining the roles, responsibilities and structures for good self-governance based on consensual decision-making.</objective>
+  <title>Connected Open Identifiers for Discovery, Access and Use of Research Resources</title>
+<identifier>H2020EINFRA2017</identifier>
+</project>

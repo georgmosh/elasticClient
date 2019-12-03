@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210972</rcn>
+  <acronym>EPIC</acronym>
+  <objective>EPIC will automatically construct Evolutionary Program Improvement Collaborators (called Epi-Collaborators) that suggest code changes that improve software according to multiple functional and non-functional objectives. The Epi-Collaborator suggestions will include transplantation of code from a donor system to a host, grafting of entirely new features `grown' (evolved) by the Epi-Collaborator, and identification and optimisation of tuneable `deep' parameters (that were previously unexposed and therefore unexploited).
+
+A key feature of the EPIC approach is that all of these suggestions will be underpinned by automatically-constructed quantitative evidence that justifies, explains and documents improvements. EPIC aims to introduce a new way of developing software, as a collaboration between human and machine, exploiting the complementary strengths of each; the human has domain and contextual insights, while the machine has the ability to intelligently search large search spaces. The EPIC approach directly tackles the emergent challenges of multiplicity: optimising for multiple competing and conflicting objectives and platforms with multiple software versions.
+
+
+Keywords:
+Search Based Software Engineering (SBSE),
+Evolutionary Computing,
+Software Testing,
+Genetic Algorithms,
+Genetic Programming.</objective>
+  <title>Evolving Program Improvement Collaborators</title>
+<identifier>ERC2016ADG</identifier>
+</project>

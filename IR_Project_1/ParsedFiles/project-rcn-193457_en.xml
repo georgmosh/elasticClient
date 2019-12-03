@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193457</rcn>
+  <acronym>ADALAM</acronym>
+  <objective>Miniaturization, advanced high performance materials and functional surface structures are all drivers behind key enabling technologies in high added value production. It is in such areas that ultrashort pulse lasers have enabled completely new machining concepts, where the big advantages of laser machining are combined with a quasi non-thermal and therefore mild process, which can be used to machine any material with high precision.
+An important obstacle however that hinders the full exploitation of the unique process characteristics, is the lack of a smart / adaptive machining technology. The laser process in principle is very accurate, but small deviations, e.g. in the materials to be processed, can compromise the accuracy to a very large extend. Therefore feedback systems are needed to keep the process accurate.
+
+Within this project the goal is to develop an adaptive laser micromachining system, based on ultrashort pulsed laser ablation and a novel depth measurement sensor, together with advanced data analysis software and automated system calibration routines. The sensor can be used inline with the laser ablation process, enabling adaptive processes by fast and accurate 3D surface measurements.
+ 
+The integrated sensor can be used to:
+    • Measure the surface topography while machining a part, in order to adapt the micromachining process, leading to highly increased machining accuracies and no defects.
+    • Measure the surface topography before machining, to scan for existing surface defects that can be removed in an automatically generated machining process.
+    • Measure complex shaped objects prior to machining, to precisely align the machining pattern to the workpiece.
+    • Quickly validate results after machining.
+
+Therefore, the main objective of this project is to develop a sensor based adaptive micro machining system using ultra short pulsed lasers for zero failure manufacturing.</objective>
+  <title>Sensor based adaptive laser micromachining using ultrashort pulse lasers for zero-failure manufacturing</title>
+<identifier>H2020FoF2014</identifier>
+</project>

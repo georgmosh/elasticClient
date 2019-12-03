@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211953</rcn>
+  <acronym>PLANET</acronym>
+  <objective>The future electricity generation mix evolution, EU projects 97% generation from variable RES by 2050, will render current solutions for grid balancing and stability insufficient. Intermittent generation will require extensive electricity demand flexibility - beyond conventional solutions - to alleviate the unpredictable grid stresses in high VRES times. This flexibility cannot only come from electricity end-uses, the volatility and variability of RES generation is too high. Energy system decarbonisation will necessitate the use of novel conversion and storage in alternative energy carriers and their networks to achieve the avoidance of RES generation curtailment.
+The PLANET aim is to design and develop a holistic Decision Support System for grid operational planning and management in order to explore, identify, evaluate and quantitatively assess optimal strategies to deploy, integrate and operate conversion/storage systems on the distribution grid of several energy carriers within boundary constraints of real deployments outlined in the future energy system scenarios. Such tools are crucial for policy makers and network operators who need support in decision making process.
+The simulation of the integration between electricity, gas and heat networks models, together with conversion/storage technologies models for power-to-gas, power-to-heat and virtual thermal energy storage, will help to understand and quantify how these conversions can affect network stability, reliability and responsiveness as well as to optimize these metrics across networks.
+The PLANET tools will be demonstrated and validated using information from the actual premises and customers of two distribution network operators in Italy and France. They manage electricity, natural gas and district heating networks, hence they provide a solid testbed corresponding to real-world solution deployments to evaluate the actual benefits of PLANET solutions.</objective>
+  <title>Planning and operational tools for optimising energy flows and synergies between energy networks</title>
+<identifier>H2020LCE2017SGS</identifier>
+</project>

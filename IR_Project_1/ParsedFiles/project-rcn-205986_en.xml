@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205986</rcn>
+  <acronym>ReCAP</acronym>
+  <objective>The media production industry is rapidly evolving and expanding globally, primarily driven by the explosion in mobile devices such as phones and tablets, the ubiquity of internet access and the subsequent demand to consume content anywhere, at any time and on any device.
+Modern media production workflows must thus be agile and support multiple heterogeneous sources and playout targets in a responsive and cost-effective way. This poses challenges for quality assurance and Media Asset Management (MAM) where access to rich metadata and data integrity are essential.
+Today, these challenges can only be addressed by enterprise and high-end solutions used by major public and private broadcast companies; solutions which are highly proprietary, extremely costly and complex to implement for the large number of small to medium sized creative companies, small broadcasters and corporate teams responsible for producing audiovisual content for broadcast, video on demand, web and mobile consumption.
+This proposal aims to take recent technology research results from automatic real-time content analysis and processing and bring-to-market an affordable, integrated, scalable, open commercial software solution. It will include the automated extraction of metadata (e.g., detection of logos, faces, temporal segmentation, visual similarity) for use in media asset management and the analysis of the visual quality of the content and automatic tools for reducing or repairing quality impairments.
+The algorithms will be implemented as modules that can be integrated into real-time analysis pipelines, as well as batch processing for non-real time workflows and can be deployed locally or scaled as cloud-based services.</objective>
+  <title>Real-time Content Analysis and Processing (ReCAP) for Agile Media Production</title>
+<identifier>H2020ICT20161</identifier>
+</project>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>209545</rcn>
+  <acronym>DUALITY</acronym>
+  <objective>Traditional drug design strategy based on a single target has serious difficulties in developing new therapies for diseases such as cancer.
+Cancer is a very complex multi-genetic disease that involves multiple crosstalks between signaling networks. The use of cocktails of various anticancer agents interfering with different mechanisms has been the standard treatment to prevent the problems of resistance.
+An alternative approach is to design multi-target modulators, directed to different disease mechanisms. That is the approach we have chosen for this project, where we seek to design, synthesize and evaluate new dual agents based on the inhibition of three enzymes involved in the development and progression of tumor processes: HDAC1, CK2 and MMP2.
+CK2 is a serine / threonine kinase that is constitutively active and essential for cell viability. Its proliferative and anti-apoptotic properties create a favorable cellular environment for tumor progression and maintenance and, therefore, constitutes an interesting target for the treatment of cancer.
+Acetylation/deacetylation of histones is one of the epigenetic mechanisms that regulates gene expression. HDACs (histone deacetylases) remove acetyl groups from histones, inducing condensation of chromatin and, therefore, the repression of gene transcription. For this reason, they are considered key targets to reverse aberrant epigenetic changes associated with cancer.
+Matrix metalloproteinases (MMPs), also called matrixins are another family of Zn-dependent enzymes. Our research group has extensive experience in the design and synthesis of inhibitors of MMP2 provided with high activity and, more importantly, high selectivity over other metalloproteinases. The design of multi-target modulators will be carried out making use of computational techniques and based on the previous experience of the group in the design and synthesis of inhibitors of these three targets through a fragment based process.</objective>
+  <title>An Integrated Computational and Experimental Approach to Rapid Synthesis of Highly Selective Dual-Targeted HDAC/CK2, MMP2/CK2 Inhibitors</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

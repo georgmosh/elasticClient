@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194614</rcn>
+  <acronym>STORM</acronym>
+  <objective>In STORM a generic district heating and cooling (DHC) network controller will be development and demonstration, with the ambition to increase the use of waste heat and renewable energy sources in the DHC network.
+
+The general applicability will be guaranteed by the following measures:
+- Applying self-learning control techniques instead of model-based control approaches, will make the controller easy to implement in different configuration and generations of DHC networks.
+- Three control strategies are included in the controller (peak shaving, market interaction, cell balancing). Dependent of the network, one or more of these strategies can be activated.
+- The controller will be an add-on to many existing DHC network controllers and SCADA systems.
+
+To present this general applicability, the controller will be demonstrated in two existing grids: one highly innovative low-temperature DHC network In the Netherlands and a more common medium-temperature district heating grid in Sweden.
+
+Since additional value is created by applying the control strategies in the controller, innovative business models should be developed to distribute this value amongst the different market players (producers, transporters, consumers of energy). This will also be addressed in the project.
+
+Also a plan will be developed on how the developed controller can be replicated to other countries than the ones of the demonstrators, taking into account different market organizations and legal framework.
+
+With respect to dissemination two levels of dissemination will be applied. A international dissemination will address the international research community, DHN network controller suppliers, international energy companies etc… Besides that, an additional local level will  be implemented where two local dissemination platforms will be installed integrating all local stakeholders (the energy company, users, local educational institutions, local politicians…). Special attention is foreseen for education.</objective>
+  <title>Self-organising Thermal Operational Resource Management</title>
+<identifier>H2020EE20142RIA</identifier>
+</project>

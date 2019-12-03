@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>214704</rcn>
+  <acronym>Reprogram-Diabetes</acronym>
+  <objective>For almost a century we have been able to control diabetes with insulin injections, yet we still have no cure for this prevalent disease. One possible way to cure diabetes is by increasing the number of insulin-producing β-cells in the pancreas. Here, I propose to uncover factors and mechanisms that can increase β-cell numbers through cellular reprogramming. To do so, we will use two complementary discovery approaches—and transition between zebrafish, mouse and human analyses—to perform functional studies with high translational value.
+
+First, we will use a novel drug discovery approach in transgenic zebrafish to identify and characterize small molecules that can promote the reprogramming of various pancreatic cell types to β-cells. Second, we will use single-cell RNA-sequencing to identify genetic signatures of cellular reprogramming to β-cells in humans, and then dissect the function of the identified genes by overexpressing or mutating them in transgenic zebrafish. We will also use lineage-tracing to determine the number and origin of the β-cells the small molecules and genes induce. 
+
+Once we identify promising hits in zebrafish, we will treat diabetic mice with small molecules or secreted proteins (targeting the signalling pathways regulated by the hits) and evaluate their effects on glucose control and β-cell mass. We will also test their effects on cellular reprogramming in mice, as indicated by changes in the relative proportion of each hormonal cell type, in the generation of bihormonal cells (insulin+ glucagon+ or insulin+ somatostatin+), and in the number of lineage-traced β-cells. Further, we will determine whether these small molecules or secreted proteins induce reprogramming to β-cells in human islets. 
+
+By coupling whole-organism screens with mechanistic and translational studies, we will identify factors and pathways that can enhance cellular reprogramming to β-cells and could thus form the basis of a cure for diabetes.</objective>
+  <title>In vivo drug discovery for cellular reprogramming to β-cells – towards a future regenerative therapy for diabetes</title>
+<identifier>ERC2017COG</identifier>
+</project>

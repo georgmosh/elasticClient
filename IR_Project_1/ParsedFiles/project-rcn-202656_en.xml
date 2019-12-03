@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>202656</rcn>
+  <acronym>PertQCD</acronym>
+  <objective>In recent months, we broke new ground in perturbative Quantum Chromodynamics computing for the first time a physical cross-section of a hadron collider process - Higgs production - at the fourth order in the strong coupling constant expansion. This breakthrough  improved the perturbative precision of a fundamental cross-section by a factor of four,  paving the way for a very precise testing of the Standard Model theory against LHC data.  
+
+The aim of our proposal is to fully automate all calculations which are needed for LHC and future collider physics at similarly high perturbative orders. Our work will improve the precision of theoretical predictions across the spectrum of LHC phenomenology, matching or superseding the accuracy of experimental measurements. In turn, we will be able to draw firm conclusions about the validity of theories which aspire to describe nature at TeV energies and search confidently for signals of new physics through precision measurements at the LHC.</objective>
+  <title>Automatization of perturbative QCD at very high orders.</title>
+<identifier>ERC2015AdG</identifier>
+</project>

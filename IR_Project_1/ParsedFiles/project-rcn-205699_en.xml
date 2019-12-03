@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205699</rcn>
+  <acronym>ICN2020</acronym>
+  <objective>Information access on the Internet is exploding. Usage is shifting to multimedia applications, social networking and IoE. Cellular networks are moving to the next generation. Networking technology is shifting towards virtualization, with SDN and NFV likely to change the infrastructure landscape. The cloud concept is transforming the Internet to a network of data centers, with a communication model consisting of computer-to-cloud-to-computer interactions. Security concerns are leading to an encryption of all traffic, wreaking havoc with established network mechanisms.
+
+In this scenario with dramatic growth and evolution, where abstractions and interfaces become fundamental, ICN is just the perfect solution. ICN2020 will build on the wealth of studies performed on ICN with six main aims: a) design and develop a set of innovative applications such as video delivery, interactive videos and social networks to exploit ICN; b) augment ICN with IoT features and cloud/CDN/virtualization services; c) accordingly enhance existing ICN solutions/architectures; d) build local and global test-bed(s) to experiment the applications, services and ICN enhancements; e) contribute to common APIs and standards, by continuing the work that project partners are already doing; and f) Industry POCs of products and services exploiting ICN.
+
+The ICN2020 consortium includes leading experts in ICN and contributors to ICN testbeds in EU, Japan and USA, thus making the goal of federating them a credible one. Partners are also coordinators of running projects on 5G and Cloud topics, allowing fruitful cooperation with fellow projects of the EU-JP1, EU-JP2 calls and increasing the overall expected impact of the EU-Japan cooperation. In a time when 5G networks are being designed, with foreseen unprecedented flexibility due to the virtualization and slice concepts, the development of compelling demonstrations of ICN for real-world use-cases will encourage critical industry investment of resources.</objective>
+  <title>ICN2020: Advancing ICN towards real-world deployment through research, innovative applications, and global scale experimentation</title>
+<identifier>H2020EUJ20161</identifier>
+</project>

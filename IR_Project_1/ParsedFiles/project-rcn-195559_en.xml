@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>195559</rcn>
+  <acronym>HORIP</acronym>
+  <objective>"The HORIP project will employ higher-order term rewriting to characterise intensional program properties: properties concerned with ""how"" rather than ""what"" a program computes, such as complexity, compressibility and safety.
+
+Term rewriting is a formal system which can be used to specify algorithms. Unlike common programming languages, term rewriting has a simple, formal definition which admits non-determinism. Higher-order term rewriting is an extension therof, which shares these advantages but has greater expressivity.
+
+To analyse program properties, we may either use dedicated techniques, or translate queries into different fields, with term rewriting as a powerful option. In doing so, methods from widely different areas can be applied.
+
+HORIP aims to analyse intensional properties using higher-order term rewriting. The first phase will attack two lines of research ripe for success: implicit complexity and compiler correctness. For the former, the supervisor is an expert in complexity and the fellow in higher-order term rewriting. For the latter, we will work together with industry collaborator Dr. Rose, who develops the CRSX framework which seeks to describe compilers using a special form of higher-order term rewriting. Leveraging the expertise of all three parties and potential local collaborators, strong results are expected, especially since the higher-order setting avoids many intrinsic limitations of previous work. In the second phase, we extend these ideas to complexity and compressibility of logical circuits. This builds on the first year's experience with implicit complexity, and the expertise of the scientist-in-charge.
+
+HORIP is basic research, building on very recent advances from several international research groups. There are potential future business applications, as well as also purely theoretical goals. All results and related code will be published open source, so as to aid both basic and applied followup research.
+"</objective>
+  <title>Higher-Order Rewriting for Intensional Properties of Programs and Circuits</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

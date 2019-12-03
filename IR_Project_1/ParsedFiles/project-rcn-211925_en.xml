@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211925</rcn>
+  <acronym>Eco-Bot</acronym>
+  <objective>"Eco-Bot aims to utilize recent advances in chatbot tools and advanced signal processing (i.e. energy disaggregation) using low-resolution smart meter-type data with the goal of changing their behaviour towards energy efficiency. Eco-Bot targets to a personalized virtual energy assistant to deliver information on itemized (appliance-level) energy usage through a chat-bot tool.
+The ""chat-bot"" functionality will be use an attractive frontend interface, permitting seamless communication in a more natural and interactive way than a traditional mobile application. This way, Eco-Bot aims to achieve a higher level of engagement with consumers than previous efforts (i.e. serious games, gamification, competitions or other interactive ICT), by adding a more engaging form of interaction with existing platforms that has been proven in different market settings.
+The proposed system considers knowledge of the delivered multi-factorial models, including rebound-effects, as a result of the baseline research on both European and International activities. Then, based on advanced ICT, such as knowledge engineering, machine learning, expert systems, the project transforms the multi-factorial models for energy reduction to interactive, personalized and targeted recommendations to consumers on how to save energy.
+Eco-Bot uses also existing NILM, e.g. energy disaggregation methods, and data analytics to break down consumption to the appliance level, where this is possible (smart meters at reasonable granularity, adequate number of information collected) so as to make consumers aware of their most energy-consuming devices.
+The project will demonstrate the system in three different use cases, each one representing a different business model (B2B / B2B2C /B2C). We aim to validate our system across real and diverse conditions such as socio-cultural, environmental, demographic, climate and consumption, so as to draw concrete conclusions regarding performance, effectiveness, affordability, etc."</objective>
+  <title>Personalised ICT-tools for the Active Engagement of Consumers Towards Sustainable Energy</title>
+<identifier>H2020EE2017RIAIA</identifier>
+</project>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210299</rcn>
+  <acronym>ProsoDeep</acronym>
+  <objective>The prime objective of the ProsoDeep project is to gain a deeper understanding of the language of prosody through the analysis of all the levels in the production hierarchy of prosody. In particular, it will exploit the benefits of the top-down and bottom-up approaches through their incorporation within a Deep Prosody Model (DPM). The DPM will facilitate the advancement of speech technologies that rely both on the synthesis of prosody, e.g. text-to-speech (TTS) systems, and its analysis, e.g. speech emotion recognition (SER). To reach this objective the project will draw on a variety of scientific fields, including signal processing, physiology of prosody production and biomechanics, linguistics, and machine learning, and will also be augmented with respiratory measurements.</objective>
+  <title>Deep understanding and modelling of the hierarchical structure of Prosody</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

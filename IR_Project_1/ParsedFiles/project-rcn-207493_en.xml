@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207493</rcn>
+  <acronym>OPTELA</acronym>
+  <objective>EU transport sector is facing some severe problems such as:
+- Fuel consumption: Represents +32% of the total cost of fleet operation; 
+- Maintenance costs: Lack of maintenance shortens the vehicle lifetime and leads to excessive costs, higher fuel consumption, higher downtime periods and losses in productivity;
+- CO2 emissions: Road transport contributes about 20% of the EU's total emissions.
+- Safety: Every year 26.000 people die and 250.000 people are seriously injured.
+
+Several initiatives have been launched but so far telematics seems to be the most promising one since allow accessing to vehicle data making its use more efficient, safe and environmentally friendly. However, professional telematics systems that allow high added value services require installation and cost approximately €2.000 per vehicle; On the other hand, cheaper Plug&amp;Play solutions can only read basic vehicle data, cannot act on the vehicle and therefore their impact on existing needs is almost null. 
+
+In this context, Autoaid will launch to the market the first low-cost self-learning telematics open platform that will offer services comparable to professional telematics systems at the price of low costs plug&amp;play solutions. 
+
+This is possible thanks to the technology developed by Autoaid:
+- The only self-learning web-based vehicle diagnostic service based on a database for &gt;32 manufacturers and &gt;1,500 models (&gt;99% existing car park in the EU) to access complete vehicle control unit dataset. This is a unique asset that only a handful of companies have worldwide.
+- Plug&amp;Play low cost OBDII dongle able to act on vehicle (open doors, turn on/off lights, engine, etc.). 
+- Open platform: Data gathered will be anonymised and offered to third parties stimulating the development of new applications and services.
+
+Finally, from economic perspective Autoaid expects to reach by 2023 +47M€ in revenues producing profitability indicators such as IRR 68% and NPV 4,8M€ and creating +80 new jobs.</objective>
+  <title>Disrupting the telematics market with an ultra-low cost and high performance self-learning open platform</title>
+<identifier>H2020SMEINST220162017</identifier>
+</project>

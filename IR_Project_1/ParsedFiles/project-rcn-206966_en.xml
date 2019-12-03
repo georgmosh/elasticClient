@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206966</rcn>
+  <acronym>DisDyn</acronym>
+  <objective>This project aims to (i) resolve challenging graph problems in distributed and dynamic settings, with a focus on connectivity problems (such as computing edge connectivity and distances), and (ii) on the way develop a systematic approach to attack problems in these settings, by thoroughly exploring relevant algorithmic and complexity-theoretic landscapes. Tasks include
+
+
+- building a hierarchy of intermediate computational models so that designing algorithms and proving lower bounds can be done in several intermediate steps, 
+
+- explaining the limits of algorithms by proving conditional lower bounds based on old and new reasonable conjectures, and
+
+- connecting techniques in the two settings to generate new insights that are unlikely to emerge from the isolated viewpoint of a single field.
+
+
+The project will take advantage from and contribute to the developments in many young fields in theoretical computer science, such as fine-grained complexity and sublinear algorithms. Resolving one of the connectivity problems will already be a groundbreaking result. However, given the approach, it is likely that one breakthrough will lead to many others.</objective>
+  <title>Distributed and Dynamic Graph Algorithms and Complexity</title>
+<identifier>ERC2016STG</identifier>
+</project>

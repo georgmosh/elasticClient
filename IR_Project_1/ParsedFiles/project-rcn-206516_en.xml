@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206516</rcn>
+  <acronym>GREENDC</acronym>
+  <objective>The GREENDC proposal contribute to greener data centres by developing a decision support tool that help data centre managers predict energy demands better and evaluate strategies to minimize energy waste and minimize CO2 emissions. GREENDC adopt non-linear energy forecasting model and provide a simulation tool based on dynamic simulation model to allow data centre managers conduct what-if analysis considering factors for energy demands and supply. GREENDC is implemented through knowledge exchange between two academic partners and two industrial partners. Academic partners transfer knowledge on non-linear energy demand forecasting and dynamic simulation to industrial partners while industrial partners transfer their knowledge on data centre operations through secondment activities. The outcome of the GREENDC activities are expected to reduce CO2 emissions and energy waste due to non-optimised energy load balancing from large number of data centres across the Europe.</objective>
+  <title>Sustainable energy demand side management for GREEN Data Centers</title>
+<identifier>H2020MSCARISE2016</identifier>
+</project>

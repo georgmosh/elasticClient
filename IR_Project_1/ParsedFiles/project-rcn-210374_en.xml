@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210374</rcn>
+  <acronym>TRAINSFARE</acronym>
+  <objective>TRAINSFARE’s main objective is to help reduce fare evasion on public transport, which causes revenue losses in excess of €2.9bn/year in Europe alone. 
+
+To tackle fare evasion public transport operators use random ticket inspections with variable success. This method inconveniently disrupts the natural flow of paying passengers, while fare dodgers all too often find ways to elude spot checks. Therefore, harnessing the geometry of their networks, many metro and commuter train operators (MTOs) have installed fare gates (or ticket barriers) at access/exit points. However, even with fare gates, fraud rates are typically 2-7% of passengers, rising to double digits on some networks.
+
+At the request of FGC (an innovative MTO in Barcelona that could not find an adequate system on the market to step up fraud prevention), we developed DETECTOR, a highly precise and effective support tool that detects fraud at barriers and alerts ticket inspectors in real time via a mobile app so that they can act immediately. 
+
+Because the DETECTOR system uses video streams, it can also be used to detect vandalism, unattended baggage, equipment malfunction and behavioural analysis based on passenger trajectories. Our patent pending methodologies have enabled DETECTOR to resolve issues that previously limited the effectiveness of video analytics such as shadows, reflections, occlusions and variable sunlight exposure.
+
+DETECTOR 1.0 has been tested and approved by FGC, is successfully operating in four of FGC’s main stations and further rollout is planned. Tests have also been agreed with other European MTOs. 
+
+The UITP (International Association for Public Transport) also recognised DETECTOR’s innovative approach when it was nominated as a global finalist for the Operational and Technical Excellence Award (Milan 2015).
+
+With a feasibility plan developed under a SMEInst Phase 1 grant, TRAINSFARE is now seeking Phase 2 support to scale up and market replicate the system.</objective>
+  <title>SMART TOOL TO PROTECT PUBLIC TRANSPORT REVENUES, ASSETS, PASSENGERS AND MOBILITY</title>
+<identifier>H2020SMEINST220162017</identifier>
+</project>

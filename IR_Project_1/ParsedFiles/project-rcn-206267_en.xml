@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206267</rcn>
+  <acronym>QV-LIFT</acronym>
+  <objective>The QV-LIFT project aims at building the foundation of the Ground Segment Technology for the future Q/V band Terabit SatCom systems. This ambitious task will be undertaken developing core hardware and software technologies addressing urgent physical to network level needs. QV-LIFT intends to demonstrate a TRL6 for all the technologies developed and, significantly, integrating them in a realistic scenario enabled by access to the Q/V band Aldo Paraboni payload, on board of AlphaSat, and by the relevant Ground Segment made available by the Italian Space Agency.
+QV-LIFT is committed to increase the maturity level of key satellite communication technologies and to contribute to a more competitive positioning of SatCom European manufacturers in the marketplace in many ways.
+1)QV-LIFT intends to advance the European RF SatCom technology by developing the following building blocks and systems at Q/V band:
+i)GaN power amplifier MMICs at V band with up to 5W RF power output
+ii)a V band power combining High Power Amplifier based on GaN technology targeting up to 15 W power output;
+iii)a high performance Block Up Converter operating in the V band;
+iv)a Low Noise Block down converter operating in the Q band;
+v)Q/V band, Tx/Rx, single aperture antennas for the mobile and fixed terminals;
+vi)a Q/V band TX/RX single aperture terminal suitable for airborne applications;
+2)QV-LIFT intends to develop the first Q/V band Smart Gateways Management System able to counteract the propagation impairments removing one the main obstacle to the deployment of the future Q/V band Ground Segment.
+3)QV-LIFT fosters links between academia, large companies and SMES. In doing so, QV-LIFT targets the full and stable integration of SMEs into the SatCom value chain by developing know how in the following key areas which are recognized as strategic for the future SatCom market:
+-MMIC GaN integrated circuits,
+-Q/V band RF components,
+-Ground Segment Infrastructures.</objective>
+  <title>Q/V band earth segment LInk for Future high Throughput space systems</title>
+<identifier>H2020COMPET2016</identifier>
+</project>

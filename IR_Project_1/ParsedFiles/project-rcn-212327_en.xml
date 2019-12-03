@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212327</rcn>
+  <acronym>X-TAM</acronym>
+  <objective>Macrophages are specialized innate immune cells with central roles in homeostasis and disease. Upon
+exposure to micro-environmental stimuli, these cells can adopt a variety of phenotypes ranging from immune
+stimulation and cytotoxicity to immune suppression and tissue repair. Dynamic transitions between these
+functional properties in response to tumor signals is thought to underlie the generally pathogenic role of
+macrophages in cancer. At the same time, macrophage plasticity could be exploited to therapeutically
+reprogram the phenotype of these cells by pharmacological, cell and gene therapy approaches.
+Current models of macrophage activation are based on in-depth analyses of the effect of individual stimuli,
+such as pro- or anti-inflammatory cytokines, on the biochemical, cell biological, epigenetic, transcriptional
+and post-transcriptional landscape of macrophages. However, these studies do not take into consideration the
+interplay that these stimuli may have when present at the same time.
+This project aims to elucidate how macrophages integrate incoherent environmental stimuli at the genomic
+level, and translate them into context-specific gene expression programs. Because concomitant activation of
+antagonistic pro-inflammatory and anti-inflammatory pathways is almost invariably observed in cancer, we
+propose that these interplays are critical determinants of the biology of tumor-associated macrophages.
+Our approach integrates cutting-edge genomics and computational modelling with in vitro functional
+screenings and in vivo manipulation of macrophages, building on uniquely available gene therapy platforms.
+Successful completion of this project will generate widely exportable paradigms of gene regulation in the
+immune system, and deliver innovative cell and gene therapy strategies to manipulate the behaviour of
+macrophages in cancer.</objective>
+  <title>Dissecting Cross-Regulatory Interplays in Tumor-Associated Macrophages</title>
+<identifier>ERC2017STG</identifier>
+</project>

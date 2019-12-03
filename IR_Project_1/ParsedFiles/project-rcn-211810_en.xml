@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211810</rcn>
+  <acronym>NTSC</acronym>
+  <objective>Secure computation is a general-purpose tool for processing sensitive data without compromising its
+confidentiality or integrity. In recent years, significant research efforts have been invested in optimizing
+and implementing secure computation protocols and related cryptographic primitives such as fully
+homomorphic encryption and program obfuscation.
+The proposed project will explore new techniques for secure computation and related primitives.
+The new techniques are expected to enhance the asymptotic and concrete efficiency of current solutions
+and extend the known relations between secure computation and other problems in cryptography and
+computational complexity theory. The research will span the following directions:
+• Succinct secure computation via homomorphic secret sharing, exploring new research directions
+that were opened by recent works of the PI;
+• Protecting protocols against malicious parties, with relevance to efficient general-purpose program
+obfuscation;
+• Protecting protocols against general information leakage</objective>
+  <title>New Techniques for Secure Computation</title>
+<identifier>ERC2016ADG</identifier>
+</project>

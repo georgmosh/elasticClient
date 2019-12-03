@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199791</rcn>
+  <acronym>NeMeCo</acronym>
+  <objective>Near Memory Computing: Major bottlenecks for future computation is the slow communication over slow interconnects between big data memories and big data processing and also the slow overhead of data memory accesses. The NeMeCo EID network aims at solving this problem by proposing fundamentally different architectures, integrating computation and memory, and using reconfigurable accelerators. Research topics of this project are: new, non-Von-Neumann architectures, automated design of reconfigurable accelerators, advanced memory hierarchy based on both volatile and non-volatile memory components, and corresponding compiler, algorithmic optimization and mapping techniques.</objective>
+  <title>Near Memory Computing</title>
+<identifier>H2020MSCAITN2015</identifier>
+</project>

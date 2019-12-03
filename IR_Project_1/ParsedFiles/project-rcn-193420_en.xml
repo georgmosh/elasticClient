@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193420</rcn>
+  <acronym>PSYMBIOSYS</acronym>
+  <objective>Product-service solutions are not a novelty for manufacturing domain, in particular for Europe. Services are becoming more and more not just an optional adjunct to products, but they are integral part of manufacturing industries’ offer, able to differentiate the product value proposition, to take a significant part of the revenue stream and even to substitute the traditional selling of products with more innovative service-oriented business models. There are still 5 main obstacles which are currently preventing service innovation to be pervasively adopted by all EU manufacturing industries, SMEs included:
+I. Products and Services : How to preserve the specific characteristics of product and services in a value chain, without creating isolated and not interconnected walled gardens?
+II. Design and Manufacturing: How to reconcile Real World and Digital World in PLM allowing multi-directional interoperability of the digital images of the same product between design-manufacturing? 
+III. Knowledge and Sentiment: How to consider both professional knowledge and crowd sentiments, trying to mediate extreme product-push and market-pull positions?
+IV. Service-Oriented and Event-Driven: How to create a generic conceptual and implementation framework which could identify and implement the interoperability points between SOA and EDA in PLM value chain systems?
+V. Business and Innovation: How to reconcile current profitable and competitive product-oriented business models with more intangible, risky, service-oriented and Internet-based businesses?
+PSYMBIOSYS aims at improving the competitiveness of European Manufacturing industries by developing an innovative product-service engineering environment, symbolized by a five-pointed symbiosis star – design-production, product-service, knowledge-sentiment, EDA-SOA, business-innovation – and able to dramatically reduce the time-to-market of more attractive and sustainable product-service solutions.</objective>
+  <title>Product-Service sYMBIOtic SYStems</title>
+<identifier>H2020FoF2014</identifier>
+</project>

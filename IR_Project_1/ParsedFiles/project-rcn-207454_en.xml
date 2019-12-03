@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207454</rcn>
+  <acronym>INFERNET</acronym>
+  <objective>The tremendous technological advance underlying the ongoing genomic revolution in the life sciences has profoundly transformed biological research over the last 10-15 years. The grand challenge ahead is to leverage experimental progress like high-throughput sequencing by developing effective tools for large scale data-based inference and optimization. The goals of INFERNET rely on the transfer of ideas and methods developed in recent years at the boundary between statistical physics and information theory into the world of quantitative biology. We aim at setting up a consortium characterized by a proven track-record of high-quality research in order to implement a highly integrated program leading from the design of new algorithms to concrete biological applications. The consortium will provide the optimal environment to nurture a generation of researchers that will drive new developments at the forefront of these challenging fields.
+
+The perimeter of each individual research activity will be delimited by: (a) the research themes characterized by the toolbox and methods developed and shared within INFERNET, (b) the choice of the application domains. Principal research themes covered by the consortium will be: (i) the inference of interaction networks from data, (ii) the analysis of static and dynamical processes on networks. Application domains can be broken down into four main areas: (i) the inference and modeling of multi-scale biological networks, (ii) the rational design of biological molecules, (iii) the quantitative study of cell energetics in proliferative regimes, (iv) the characterization of functional states of large-scale regulatory networks. Each individual research project will be a puzzle piece of the wider research project, as well as tailored to suit each researcher's scientific and professional development.</objective>
+  <title>New algorithms for inference and optimization from large-scale biological data</title>
+<identifier>H2020MSCARISE2016</identifier>
+</project>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212442</rcn>
+  <acronym>DCS4COP</acronym>
+  <objective>Copernicus has boosted the availability of Earth Observation data both in terms of quality as well as quantity. This has, on the one hand, unleashed new opportunities for intermediate business users (IBUs), who provide services to an inherently diverse group of end users. On the other hand, however, the handling of big data volumes, the integration of data streams from different sources, and the generation of high-quality information from the novel sensors of the Sentinels pose significant technical and scientific challenges to many IBUs. The lacking expert skills often hinder the user uptake of Copernicus products and services and eventually impede economic growth of the sector.
+The DataCube Service for Copernicus project (DCS4COP) addresses these obstacles by implementing the Copernicus Water DataCube Service (CoWaDaCS) - the first instance of a new service model, integrating Sentinel data, Copernicus Service data and user supplied data in a DataCube system. The offered service comprises Processing as a Service (PaaS), Software as a Service (SaaS), consultancy and training. It is targeting the value-adding Earth Observation industry and public organisations at highly competitive costs and with user-friendly interfaces, which can be tailored to specific needs.
+
+Capitalising on the scientific achievements of the recent FP-7 funded HIGHROC research project and operated by experienced service providing institutions, CoWaDaCS will demonstrate the value of satellite Earth Observation data for the market segment of coastal and inland water services. Currently this market is largely underexploited due to market blockages and offers a large growth potential. The combination of access to high quality data, wide selection of thematic data layers, state-of-the-art tools and unrivalled expertise in the domain and exploiting cutting edge IT solutions, will allow IBUs to concentrate on their value-adding downstream business and turn CoWaDaCS into a sustainable service.</objective>
+  <title>DataCube Service for Copernicus</title>
+<identifier>H2020EO2017</identifier>
+</project>

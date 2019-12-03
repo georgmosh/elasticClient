@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200758</rcn>
+  <acronym>PhageResist</acronym>
+  <objective>The perpetual arms race between bacteria and phage has resulted in the evolution of efficient resistance systems that protect bacteria from phage infection. Such systems, which include restriction enzymes and CRISPR-Cas, have major influence on the evolution of both bacteria and phage, and have also proven to be invaluable for molecular and biotechnological applications. Although much have been learned on the biology of bacterial defense against phage, more than half of all sequenced bacteria do not contain CRISPR-Cas, and it is estimated that many additional, yet-uncharacterized anti-phage defense systems are encoded in bacterial genomes. 
+
+The goal of this project is to systematically understand the arsenal of defense mechanisms that are at the disposal of microbes in their struggle against phages. The project combines computational genomics, synthetic biology, high-throughput robotic assays, and deep genetic and biochemical experiments to discover, verify, and study the properties of anti-phage defense systems.</objective>
+  <title>Beyond CRISPR: Systematic characterization of novel anti-phage defense systems in the microbial pan-genome</title>
+<identifier>ERC2015CoG</identifier>
+</project>

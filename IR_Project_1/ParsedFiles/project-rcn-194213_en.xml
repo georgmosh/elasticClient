@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194213</rcn>
+  <acronym>InSPECT</acronym>
+  <objective>Image-guided needle procedures - such as taking biopsies in screening cancerous tumours - are becoming increasingly important in clinical practice. Today, physicians are severely hampered by the lack of precision in positioning the needle tip. Real-time tissue-characterization feedback at the needle tip during these procedures can significantly improve the outcome of diagnosis and treatment, and reduce the cost of oncology treatment. Spectral tissue sensing using photonic needles has the promise to be a valuable diagnostic tool for screening tumours, as shown by several clinical trials. However, for widespread adoption the cost and size of these photonic needle systems - in particular the spectrometer console - needs to be improved dramatically. The realization of a low-cost miniature system is limited by three key challenges:
+• Broadband (VIS+NIR) illumination
+• Broadband (VIS+NIR) sensitivity
+• Integration of the system
+InSPECT will address these challenges by developing and integrating photonic building blocks for low-cost miniaturized spectral tissue sensing devices. This involves the realization of a miniature broadband (400-1700 nm) solid-state light source, based on phosphor and quantum-dot converted LEDs, and the realization of a miniature low-cost integrated VIS+NIR spectrometer. For the spectrometer integration we will follow 2 approaches: 
+• The micro-spectrometer, a moderate risk approach based on the miniaturisation and monolithic integration of diffractive dispersive elements and VIS+NIR photo-detectors in a small volume (cubic inch) device, and 
+• The nano-spectrometer, a higher risk approach in which the spectrometer function is realized in a photonic integrated circuit (PIC) based on transparent SiO/SiN waveguide technology. 
+This is a unique, novel, and timely approach to realize the key photonics building blocks for low-cost miniature spectrometers that will drive the adoption of spectral sensing in applications that were not accessible before.</objective>
+  <title>Integrated Spectrometers for Spectral Tissue Sensing</title>
+<identifier>H2020ICT20141</identifier>
+</project>

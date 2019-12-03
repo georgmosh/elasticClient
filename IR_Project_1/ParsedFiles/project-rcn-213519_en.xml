@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213519</rcn>
+  <acronym>SARA</acronym>
+  <objective>SARA: Search and Rescue Aid using High Accuracy EGNSS
+
+The purpose of the SARA project is to engineer and to start to commercialise a dedicated solution, based on an already existing prototype, to be used for Search and Rescue (SAR) and Surveillance purposes (primary market).
+The need for such a solution comes in particular from the institutional market (but it is not limited to) requesting a technological support to manage migration flux aspects, with particular attention to crisis in the Mediterranean Sea: Europe needs to balances efforts to assist people in need with efforts to secure its borders.
+On the basis of the above scenario, the industrial composition of the SARA consortium has been contacted by Italian Coast Guard two years ago in order to provide a technological contribution supporting vessels to detect people lost in the sea, especially during the hours of darkness.
+
+According to the above request, SARA solution is conceived to build up a semi-automatic system using Earth Observation data to preliminary detect suspect pontoons’ trajectories (Surveillance) and supporting SAR operations based upon a deployable RPAS (Remotely Piloted Aircraft System) which is tightly coupled with a ship architecture through a cable (tethered flight): as soon as its function is needed, the aircraft flies from its home (a dedicated hangar on the top of the ship), and becomes a “virtual pylon” which elevates a VIS-TIR sensor (Visual Spectrum and Thermal Infrared); captured images are processed in real time by a local computer. Both RPAS and hangar are equipped with 2 high accuracy EGNSS receivers (i.e. Galileo ready) in order to provide the relative positioning between the hangar and the RPAS hovering on the target. 
+
+On this context, EGNSS represents an essential technology ensuring autonomous operations in a reliable manner guaranteeing provision of distance and bearing from ship to survivors and the protection of the extensible cable against mechanical stress.</objective>
+  <title>Search And Rescue Aid and Surveillance using High EGNSS Accuracy</title>
+<identifier>H2020GALILEOGSA20171</identifier>
+</project>

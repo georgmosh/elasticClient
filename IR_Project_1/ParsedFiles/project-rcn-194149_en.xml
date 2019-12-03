@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194149</rcn>
+  <acronym>SAFURE</acronym>
+  <objective>SAFURE targets the design of cyber-physical systems by implementing a methodology that ensures safety and security "by construction". This methodology is enabled by a framework developed to extend system capabilities so as to control the concurrent effects of security threats on the system behaviour.
+The current approach for security on safety-critical embedded systems is generally to keep subsystems separated, but this approach is now being challenged by technological evolution towards openness, increased communications and use of multi-core architectures.
+The objectives of SAFURE are to (1) implement a holistic approach to safety and security of embedded dependable systems, preventing and detecting potential attacks; (2) to empower designers and developers with analysis methods, development tools and execution capabilities that jointly consider security and safety; (3) to set the ground for the development of SAFURE-compliant mixed-critical embedded products.
+The results of SAFURE will be (1) a framework with the capability to detect, prevent and protect from security threats on safety, able to monitor from application level down to the hardware level potential attacks to system integrity from time, energy, temperature and data threats; (2) a methodology that supports the joint design of safety and security of embedded systems, assisting the designer and developers with tools and modelling languages extensions; (3) proof-of concept through 3 industrial use cases in automotive and telecommunications; (4) recommendations for extensions of standards to integrate security on safety-critical systems; (5) specifications to design and develop SAFURE-compliant products.
+The impact of SAFURE will help European suppliers of safety-critical embedded products to develop more cost and energy-aware solutions. To ensure this impact, a community will be created around the project. SAFURE comprises 7 industrial manufacturers, 4 leading universities and research centres and 1 SME.</objective>
+  <title>SAFety and secURity by design for interconnected mixed-critical cyber-physical systems</title>
+<identifier>H2020ICT20141</identifier>
+</project>

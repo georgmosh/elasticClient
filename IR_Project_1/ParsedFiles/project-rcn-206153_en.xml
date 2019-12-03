@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206153</rcn>
+  <acronym>ECoLaSS</acronym>
+  <objective>The Copernicus programme, coordinated and managed by the European Commission, delivers environmental information (largely based on Earth Observation satellite data) in the form of Copernicus Services, addressing six thematic areas: Land, Marine, Atmosphere, Climate Change, Emergency Management and Security. 
+The new Sentinel satellites, recently extended through the successful launch of Sentinel-3, will deliver an unprecedented volume of EO data in high spatial, radiometric and temporal resolution, providing a huge potential for monitoring applications within the Land Monitoring Service - at continental and global scale. The synergistic use of Sentinel-1/2/3 opens up the possibility for new applications, such as the use of time series in the area of Land Monitoring. 
+The ECoLaSS project (Evolution of Copernicus Land Services based on Sentinel data) aims to develop methods and algorithms for pre-operational prototypes improving and developing future specific Copernicus Land services. These prototypes, representing new or improved Copernicus Land Cover and Land Use products, will be demonstrated by means of test/demonstrations sites distributed over Europe and Africa, representing multiple bio-geographic regions and biomes. Prototypes will be designed with high spatial and thematic accuracy, in a timely manner for a pan-European operational Roll-out with the potential for global applications.
+ECoLaSS will promote the innovation potential of new land monitoring services and applications and might thus contribute to a growing “Copernicus Economy” by boosting (new) Copernicus CORE Land Services and value-added applications (Downstream Services). It is expected, that such new services will bring new opportunities with a wide range of dedicated applications to the market from 2020 onwards and thus significantly contribute to a positive evolution of the Copernicus Land services.</objective>
+  <title>Evolution of Copernicus Land Services based on Sentinel data</title>
+<identifier>H2020EO2016</identifier>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>198215</rcn>
+  <acronym>QUEST</acronym>
+  <objective>This project aims to an innovative deep interplay between Operator Algebras and Quantum Field Theory. On one hand we want both to develop powerful tools to construct Quantum Field Theory models and provide a mathematical-conceptual description of interesting Physical contexts, on the other hand we want to set up and study the emerging mathematical structures, that have their own interest.  
+Our first objective aims to an intrinsic description of phase boundaries (defects) in two dimensions, developing mathematical methods needed to this end. The operator-algebraic description of Boundary Conformal Field Theory by the K.-H. Rehren and the PI is the basis to set up the operator-algebraic, Minkowskian description of phase boundary, relating to the tensor categorical, Euclidean description by J. Fröhlich, J. Fuchs, I. Runkel and C. Schweigert. The theory of Subfactors by V. Jones and the PI's notion of Q-system are to be extended to unstudied settings and new basic operations are to be introduced and analyzed. Existing partial classification results will be broadened to more general, physically interesting situations.
+A second objective aims to a non-perturbative construction of QFT models that relies on recent ideas, based on algebraic deformation, by E. Witten and the PI (in a massless context) and by G. Lechner (in a massive context), and further developed by other researchers. We aim at a unifying framework and new constructive methods.
+A third objective plans to construct, and analyze, new classes of models of local Conformal Nets of von Neumann Algebras by means of Vertex Operator Algebras; among them the “Shorter Moonshine Net”.
+A further objective points to understand known effects in Information Theory within the Noncommutative Geometrical viewpoint provided by a QFT index theorem proposed by the PI.</objective>
+  <title>Quantum Algebraic Structures and Models</title>
+<identifier>ERC2014ADG</identifier>
+</project>

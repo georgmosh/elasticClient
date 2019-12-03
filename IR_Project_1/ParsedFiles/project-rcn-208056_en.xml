@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208056</rcn>
+  <acronym>DEVILS</acronym>
+  <objective>Aircraft Engines are normally assisted by a number of complementary systems that have to guarantee performance throughout the whole flight envelope of the aircrafts for which they are designed. Among these systems Oil lubrication and heat management system is the most important due to its roles:
+•	Remove the heat generated in the highly loaded rolling bearings and the gears found in the Engine power and accessory gearboxes
+•	Lubricate bearing and Power and Accessory gear boxes.
+The current trend of developing aircraft engines that consume less fuel put a lot of pressure on the oil lubrication system cooling requirements due to higher speeds, loads and temperatures in engines. This is much more true for Very High By-pass Engines due to the integration of high-power gearboxes (allowing high by-pass ratio) and high-power starter-generators. 
+For this reason Engine manufacturer are deeply looking to innovative design for oil lubrication and heat management system implementing architectures that are able to meet the new cooling and lubricating requirements without negatively impacting the Engine weight or operational and maintenance costs. 
+The overall objective of project DEVILS Project is to research, develop and validate the robustness of a new variable oil flow approach towards the design an innovative variable flow oil pump to be integrated in a high performance aircraft lubrication systems architecture with the aim of reducing fuel and oil consumption. 
+Objective of DEVILS project is as well to research, implement and validate smart fault detection and health monitoring algorithms to assist the system in reducing oil low flow rate needs and prognostic functions.</objective>
+  <title>DEVILS (Development of Vhbr engines Innovative Lubrication System)</title>
+<identifier>H2020CS2CFP03201601</identifier>
+</project>

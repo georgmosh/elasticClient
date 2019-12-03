@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213508</rcn>
+  <acronym>HiPhore</acronym>
+  <objective>Thermophoresis denotes the motion of dissolved species in fluids created by temperature gradients. In water, the origin of thermophoresis is multiple, complex and still a matter of active research activities for solutes such as proteins, DNA or colloids.
+
+Thermophoresis at small scales (sub-100 µm) aroused a strong interest this last decade because it makes the process faster and because of the development of important applications in life sciences, e.g. in bioanalytics. However, reducing the spatial scale makes quantitative and non-invasive measurements of temperature and molecular concentration more challenging.
+
+In the HiPhore project, using gold nanoparticles under illumination as nanosources of heat, I wish to achieve major breakthroughs in the field of microscale thermophoresis in liquids (MTL): (i) We will develop new microscopy tools and pioneer their use in the context of MTL: we will implement the possibility to shape arbitrarily complex microscale temperature profiles and to quantitatively image in parallel the resulting fields of temperature and molecular concentration using label-free advanced optical tools. (ii) Thanks to these tools, we will study the enigmatic origin of protein thermophoresis with a new glance. We will also explore a new regime, that I coin super-thermophoresis, consisting in thermophoresis in superheated liquid water up to 200°C. We have shown that such a metastable state can be achieved at ambient pressure using gold nanoparticles under illumination at their plasmonic resonance. (iii) Based on this gain of knowledge and know-how, we will develop two new applications of MTL. The first one consists in studying the thermal stability of proteins by thermophoresis with a label-free approach. The second one consists in using a superthermophoretic trap to enable for the first time the culture and the real-time observation of hyperthermophilic microorganisms (living up to 113°C) in vivo at ambient pressure under optical microscopy means.</objective>
+  <title>High-temperature Thermophoresis using advanced optical microscopies</title>
+<identifier>ERC2017COG</identifier>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205937</rcn>
+  <acronym>COEMS</acronym>
+  <objective>The ability to observe the internals of an execution of a computer-based system is a fundamental requirement for ultimately ensuring correctness and safe behaviour. Within COEMS (Continuous Observation of Embedded Multicore Systems) a novel observer platform with supporting verification methods for software systems is created. COEMS tackles the issues of detection and identification of non-deterministic software failures caused by race conditions and access to inconsistent data. It gives insight to the system’s actual behaviour without affecting it allowing new verification methods.
+An efficient real-time access and analysis as a critical element for operating safe systems will be developed and validated by COEMS. Moreover, a cross-layer programming approach supporting failure detection will be proposed. COEMS aims at shortening the development cycle by considerably increased test efficiency and effectivity, by increased debug efficiency (especially for non-deterministically occurring failures) and by supporting performance optimization. COEMS improves the reliability of delivered systems, enabling software developers to identify, understand, and remove software defects before release, as well as improving efficiency of software for multi/many-core computing systems in terms of performance, real-time behaviour, and energy consumption.
+The two Global Players Thales Group and Airbus Group, both active in safety-critical domains, will validate the COEMS approach by suitable demonstrators, i.e. testing and debugging of real-world multicore applications. In addition to these two domains, we will address the domains of safety-critical medical applications, automation and automotive industry, as well as the Internet of Things.
+Technologically, COEMS will provide the world-wide first comprehensive online observation approach that is non-intrusive allowing improved testing and debugging.
+Altogether, COEMS will define a new state-of-the-art for software systems development.</objective>
+  <title>Continuous Observation of Embedded Multicore Systems</title>
+<identifier>H2020ICT20161</identifier>
+</project>

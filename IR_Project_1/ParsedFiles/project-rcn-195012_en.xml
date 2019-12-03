@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>195012</rcn>
+  <acronym>THALAMODEL</acronym>
+  <objective>The thalamus is a brain structure that is responsible for important functions (e.g., sensory systems, sleep, the motor system, spoken language) which are distributed over its 12 nuclei . While recent advances in MRI technology have made it possible to image the thalamic nuclei in vivo, the lack of specific computational tools to analyze the images forces most research studies to either treat the thalamus as a single structure (limiting the spatial specificity of the analysis) or to rely on the excruciating process of manually labeling the data. Since very few sites currently possess the anatomical expertise and staffing resources to carry out studies based on manual delineations, the lack of tools to analyze MRI data of the thalamus is hampering progress in different branches of neuroscience.
+
+Here we present an interdisciplinary project to build tools to automatically analyze the thalamic nuclei in MRI data. The tools will be based on a statistical atlas of the thalamus built upon ultra-high resolution MRI and histological data from autopsy samples. We will use the tools in a study of the relation between thalamus and dyslexia, where they promise to increase our understanding of the pathology by testing which nuclei are affected and to what extent. In addition, the tools will be distributed as part of the software package FreeSurfer, allowing its over 10,000 worldwide users to carry out cognitive neuroscience experiments at the nucleus level, and to discover new imaging biomarkers of other diseases related to the thalamus, e.g. Alzheimer's, Parkinson's, MS and ALS.
+
+This project will allow the host to acquire knowledge in medical image analysis from the applicant and to establish collaborations with Harvard and Oxford (host of the proposed secondment). The project will also expand the applicant’s research network and train him in areas (ex vivo MRI, psycholinguistic studies) that complement his image analysis skills, preparing him for a future faculty position.</objective>
+  <title>Multimodal, high-resolution modeling of the thalamus for neuroimaging studies: application to dyslexia</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

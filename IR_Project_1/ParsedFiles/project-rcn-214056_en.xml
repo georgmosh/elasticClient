@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>214056</rcn>
+  <acronym>UPWARDS</acronym>
+  <objective>Wind energy is the largest of the new renewable energies and traditional wind turbine design has reached maturity, but still improvements can be done through better understanding of the physics for the entire wind turbine system. At the same time demand for more green energy, requires new turbine designs with improved environmental characteristics, adaptable to new locations, etc.
+
+In the UPWARDS project the goal is by the help of high performance computing (HPC) to develop a simulation framework, which will incorporate a more complete description of the wind field, turbine, the support structure, etc. and their interaction in order to better understand the physics of the entire system. The complex wind field will be calculated adding interactions from nearby turbines, waves, terrain, etc.
+
+The simulation framework will yield more accurate prediction of the forces acting in the system and thus the energy captured by the turbine. In addition, it will better predict acoustic phenomena, and materials issues related to the turbine blades, etc. The platform will be modular and new design will be relatively simple to introduce.
+An important part of the project is to evaluate the socio-economic impact and to bring user communities into the project development.
+
+Altogether this will improve the design development process and allow for faster implementation of new and more advanced designs with less environmental impact. It will also improve the accuracy in power production.
+
+The methodologies and major results from the project will be published in open access journals or freely accessible reports. In addition an open database containing relevant results and raw data will be established. This will enable other researchers and turbine developers to utilise the results for further studies.</objective>
+  <title>Understanding of the Physics of Wind Turbine and Rotor Dynamics through an Integrated Simulation Framework</title>
+<identifier>H2020LCE2017RESRIATwoStage</identifier>
+</project>

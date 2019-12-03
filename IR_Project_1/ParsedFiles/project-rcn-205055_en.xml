@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205055</rcn>
+  <acronym>Fox-IT</acronym>
+  <objective>For many deaf patients cochlear implantation has become the standard state-of-the-art care. To achieve optimal hearing performance, cochlear implants need to be adjusted to the individual needs of the user. To date, this has to be done manually by an experienced audiologist. It involves a complex procedure requiring many hours of work in multiple sessions. 
+	Our innovation consists in creating a new semi-automated fine-tuning method by using powerful methods from artificial intelligence. To do so, the implant behavior in response to speech sounds was first modeled mathematically, and subsequently, artificial intelligence algorithms and networks were written and validated. Our new fine-tuning method is groundbreaking in that provides systematics, eradicates unjustifiable variation, reaches preset targets and requires only minimal intervention from an audiologist.
+	Being clinically validated, the prototype of FOX Fitting-to-Outcome eXpert is ready for demonstration in cochlear implant centers worldwide. It is also a first and crucial step in the introduction of eHealth in the field of audiology, empowering patients to take up an active role in the frequency and the way in which their implant is adjusted. For developing countries, it paves the way to bringing modern hearing rehabilitation to otherwise underserved areas.
+	FOX is the result of a strong academic-industrial research partnership over the past few years. The solid scientific base of the new fine-tuning method will create the necessary trust and credibility towards audiological centers, cochlear implant manufacturers and patients. During this Phase 1 project Otoconsult NV intends to assess the technological and market-economic viability of FOX as well as its acceptance by the targeted purchasers and end-users. Part of the tasks will be subcontracted to Flanders Inshape, a competence center of the Antwerp University Management School, bringing in the necessary knowledge and expertise on business innovation.</objective>
+  <title>Fitting-to-Outcome eXpert for semi-automated cochlear implant fine-tuning</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

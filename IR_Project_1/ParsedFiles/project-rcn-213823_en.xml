@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213823</rcn>
+  <acronym>FireExtinction</acronym>
+  <objective>A multi-physics methodology is proposed to couple CFD calculations with models for phase change of rapidly depressurised mist of a fire suppression system. The methodology combines existing models with newly developed ideas with considers the coupling between large and small scales. The new models aim to describe the penetration of a two-phase flow and phase transitions into the confounding space and will be implemented as a user defined function in a tool chain and coupled with the nearfield CFD calculation. Both, a Lagragian and a Eulerian formulation will be followed using existing commercial tools and “in-house” multiphase solvers. Finally, one experiment is proposed to validate the numerical results in one relevant case.</objective>
+  <title>MULTI-PHYSICS METHODOLOGY FOR PHASE CHANGE DUE TO RAPIDLY DEPRESSURISED TWO-PHASE FLOWS</title>
+<identifier>H2020CS2CFP06201701</identifier>
+</project>

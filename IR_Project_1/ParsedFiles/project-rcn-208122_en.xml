@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208122</rcn>
+  <acronym>TramOpt</acronym>
+  <objective>Building on the advances of the ERC TRAM3 project, the TramOpt PoC project aims are twofold:
+
+1) developing a robust prototype to allow real-life testing and deployment of a novel vehicular traffic control Decision Support System (DSS) based on a software platform for road traffic management including variable speed limits, ramp-metering and re-routing policies. This DSS is intended for public and private traffic managers to increase freeway network performances (e.g. congestion and pollution reduction);
+
+2) assessing the exploitation perspectives through a dedicated market study evaluating the added value of TramOpt over existing solutions and evaluating the best business approach to foster uptake and commercialization of our technology.</objective>
+  <title>A Traffic Management Optimization platform for enhanced road network efficiency</title>
+<identifier>ERC2016PoC</identifier>
+</project>

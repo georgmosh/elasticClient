@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>209914</rcn>
+  <acronym>HemTree2.0</acronym>
+  <objective>Hematopoiesis is an important model for stem cell differentiation with great medical significance.
+Heterogeneity within hematopoietic progenitor populations has considerably limited characterization and
+molecular understanding of lineage commitment in both health and disease. Advances in single-cell genomic
+technologies provide an extraordinary opportunity for unbiased and high resolution mapping of biological
+function and regulation. Recently we have developed an experimental and analytical method, termed
+massively parallel single-cell RNA-Seq (MARS-Seq), for unbiased classification of individual cells from
+their native context and successfully applied it for characterization of immune and hematopoietic
+progenitors.
+
+Here, we propose to uncover the hierarchy and regulatory mechanisms controlling hematopoiesis by
+combining comprehensive single-cell RNA-Seq analyses, modelling approaches, advanced functional assays,
+single-cell CRISPR screens, knockout models and epigenetic profiling. Exciting preliminary result show that
+indeed our approach is starting to uncover the complexity of hematopoietic progenitors and the regulatory
+circuits driving hematopoietic decisions. We will pursue the following aims: (i) Generate a refined model of
+hematopoiesis by comprehensive single-cell RNA-Seq profiling of hematopoietic progenitors, (ii) validate
+the predicted model by in vivo functional developmental assays and then (iii) test candidate transcription and
+chromatin factors uncovered by our model for their role in controlling progression towards various lineages
+using single-cell measurements combined with CRISPR screens. Together, our study is expected to generate
+a revised and high-resolution hematopoietic model and decipher the regulatory networks that control
+hematopoiesis. Our methods and models may provide a platform for future medical advancements including
+a large-scale European collaborative project to discover a comprehensive human hematopoietic tree.</objective>
+  <title>Single cell genomic analysis and perturbations of hematopoietic progenitors: Towards a refined model of hematopoiesis</title>
+<identifier>ERC2016COG</identifier>
+</project>

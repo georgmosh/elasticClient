@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>214566</rcn>
+  <acronym>EMISSR</acronym>
+  <objective>The aim of the EMISSR project is to create a novel multibody dynamics simulator for soft robotics. The originality of the
+project consists in a unified constraint based formulation that can couple rigid and flexible bodies in the same solver. The
+argument behind a simulator for soft robotics is the fact that traditional robots are not suitable for working in humans and
+their control has proven daunting especially for nonlinear underactuated systems. The new field of soft robotics is seeing
+great growth and investment around the globe and Europe needs to seize this economic opportunity. New dynamics
+simulations and control algorithms are needed for soft robots, that are made up of soft parts and biology inspired actuators.
+EMISSR wants to fill in this gap and aims to become a testbed for training control policies based on machine learning and
+other algorithms. In terms of performance and accuracy, EMISSR will be a high-fidelity interactive simulator, meaning that it
+will be extremely fast due to its multilevel solver and parallel implementation, while not sacrificing much of the accuracy
+needed for soft robotics applications. The frictional contact and deformable continua models will not make any unphysical
+approximations. The elements that will distinguish EMISSR from other existing projects are: two-way coupling of rigid and
+soft bodies, a fast multilevel iterative solver, stability for high mass ratios and transversal oscillations and robust contact
+information generation. These will be applied to making virtual replicas of soft robots (e.g. soft body parts, artificial muscles
+and tendons, pneumatic tubes), simulating their dynamics and testing machine learning based control policies for large
+numbers of degrees of freedom. At the same time, the training programme that UCPH offers matches my career
+development needs perfectly, allowing me to build upon my current competencies, not forgetting the opportunity to enhance
+my academic profile and teaching experience.</objective>
+  <title>Efficient Multibody Interactive Simulation for Soft Robotics</title>
+<identifier>H2020MSCAIF2017</identifier>
+</project>

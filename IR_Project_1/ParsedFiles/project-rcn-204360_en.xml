@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204360</rcn>
+  <acronym>SEIZSAFE</acronym>
+  <objective>Approximately 50 million people worldwide have epilepsy, an illness characterized by recurrent seizures. The estimated proportion of the general population with active epilepsy is between 4 and 10 per 1000 people. Globally, an estimated 2.4 million people are diagnosed with epilepsy each year.
+When patients suffer generalized convulsions there is a risk for them of being injured or having a cardiac arrest. Caregivers (usually patients’ relatives) reduce this risk by being alert and applying techniques such as holding the patients, putting them in a certain stance or providing them with the prescribed drugs. The problem worsens when seizures occur at night-time.
+Caregivers usually sleep in the same bedroom as patients and cannot rest due to the constant concern, leading to inconveniences such as loss of privacy, bad resting and higher risk for patients. This project aims to improve the lives of people affected by epilepsy, both patients and caregivers, providing them with an effective and unobtrusive device to monitor patients and alert caregivers during night-time seizures.
+This project consists on a patient-self-daptive system to detect, video-record and alert caregivers of night-time seizures, linked to a private cloud platform for medical tracking of patients and big data exploitation. The main innovative characteristics of SEIZSAFE are:
+• Patient-self-adaptive and self-learning algorithm for seizure detection
+• Camera and cloud platform for doctors
+• Reduced-cost technology
+• Medical validation
+The present project aims to expand SEIZSAFE in the European market. Considering a global market size of 1.2M epilepsy patients suffering night-time seizures, ENCORE foresees the uptake of 6.5% of the market in 5 years, which means 80,000 users by the end of 2022.</objective>
+  <title>Patient-self-adaptive system for detection, recording and alert to caregivers of night-time seizures, linked to private cloud platform for patient tracking and big data exploitation.</title>
+<identifier>H2020SMEINST220162017</identifier>
+</project>

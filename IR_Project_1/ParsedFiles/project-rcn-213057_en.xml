@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213057</rcn>
+  <acronym>FutureTPM</acronym>
+  <objective>The goal of FutureTPM is to design a Quantum-Resistant (QR) Trusted Platform Module (TPM) by designing and developing QR algorithms suitable for inclusion in a TPM. The algorithm design will be accompanied with implementation and performance evaluation, as well as formal security analysis in the full range of TPM environments: i.e. hardware, software and virtualization environments. Use cases in online banking, activity tracking and device management will provide environments and applications to validate the FutureTPM framework.
+
+Security, privacy and trust in a computing system are usually achieved using tamper-resistant devices to provide core cryptographic and security functions. The TPM is one such device and provides the system with a root-of-trust and a cryptographic engine. However, to sustain this enhanced system security it is crucial that the crypto functions in the TPM are not merely secure for today but will also remain secure in the long-term against quantum attacks.
+
+FutureTPM will address this challenge by providing robust and provably-secure QR algorithms for a new generation of TPMs. Research on quantum computers has drawn enormous attention from governments and industry; if, as predicted, a large-scale quantum computer becomes a reality within the next 15 years, existing public-key algorithms will be open to attack. Any significant change to a TPM takes time and requires theoretical and practical research before adoption. Therefore, to ensure a smooth transition to QR cryptography we should start now. A key strategic objective of FutureTPM is to contribute to standardization efforts at EU level within TCG, ISO/IEC and ETSI. The consortium consists of high calibre industrial and academic partners from across Europe, combining QR crypto researchers with TPM developers. Because the TPM shares many functions in common with other widely-used devices, such as HSMs and TEEs, the FutureTPM solution is expected to benefit them as well.</objective>
+  <title>Future Proofing the Connected World: A Quantum-Resistant Trusted Platform Module</title>
+<identifier>H2020DSLEIT2017</identifier>
+</project>

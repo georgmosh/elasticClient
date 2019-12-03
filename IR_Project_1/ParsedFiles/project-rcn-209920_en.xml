@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>209920</rcn>
+  <acronym>SEAL</acronym>
+  <objective>Side channel attacks use, alongside information such as plaintexts or ciphertexts, leakage about the (secret) key-dependent intermediate state(s), and deliver a `key ranking' as a result. Kocher's attacks [15] [16] showed that for many practical implementations, observing a few encryptions made complete key recovery possible in practice.  The academic research into combating these attacks so far has largely focused on approaches and tools to equip specialised cryptographic engineers with access to a specialist lab and tools. 
+
+The research hypothesis of this CoG is that one can make meaningful statements about the leakage behaviour of arbitrary implementations on small devices by utilising a-priori derived (instruction level) leakage models. Our vision is to enable developers with limited domain-specific knowledge to perform side channel evaluations at design time without access to a fully equipped lab, by creating tools and methodologies that integrate a priori derived instruction-level leakage models into a standard compiler. 
+
+This vision is articulated in three overarching research objectives:
+
+1. Designing novel profiling strategies (WP1) including novel leakage acquisition techniques to generate leakage models for a specific target device.
+
+2. Developing fast and comprehensive methods to support rapid evaluations (WP2).
+
+3. Integration (WP3) of semantics, syntax and tools capable of using profiling information into a standard compiler with the aim to evaluate and improve the side channel resilience of the target code.
+
+Addressing these goals simultaneously is required to make substantial progress towards the overall vision of this project. 
+
+As a final result, we will make demonstrators available (WP4): using a off-the shelf components, we supply the necessary tools and compiler enhancements including samples of cryptographic implementations to conduct analyses and demonstrate improvements regarding side channel resilience.</objective>
+  <title>Sound and Early Assessment of Leakage for Embedded Software</title>
+<identifier>ERC2016COG</identifier>
+</project>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213188</rcn>
+  <acronym>PICTURE</acronym>
+  <objective>The objective of PICTURE project is to develop a photonic integration technology by bonding multi-III-V-dies of different epitaxial stacks to SOI wafers with a thinner and uniform dielectric bonding layer. This heterogeneous integration platform will enable higher performance lasers and photo-detectors using the optimized III-V dies. In addition, the thinner bonding layer will lead to record performance MOSCAP III-V/Si modulators, and to a new generation of wavelength tunable distributed feedback lasers. Moreover the full process including SOI process, bonding, III-V and back-end process will be made on a 200mm R&amp;D CMOS line, leading to higher yield, smaller footprint and lower cost PICs. Two types of PICs with a total capacity of 400Gb/s will be developed, packaged and validated in system configuration.
+In parallel, PICTURE project will develop direct growth of high performance quantum-dot lasers and selective area growth on bonded templates for high density future generation of PICs.
+The project is coordinated by III-V Lab, and includes University of Southampton, CEA, University College London, Imec, Tyndall, Argotech and Nokia Bell Labs. The consortium is highly complementary, covering all skills required to achieve the project objectives: growth of semiconductor materials, silicon process and III-V process, design and characterization of PICs, prototyping and assessment of PICs in high bit rate digital communication systems: 
+Apart from the adequacy of the consortium to achieve collectively the project objectives, the consortium partners have the potential to set up a comprehensive supply chain for the future exploitation of the project results, either by exploiting the results “in house” or by setting up suitable partnerships.</objective>
+  <title>High Performance and High Yield Heterogeneous III-V/Si Photonic Integrated Circuits using a Thin and Uniform Bonding Layer</title>
+<identifier>H2020ICT20171</identifier>
+</project>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>214068</rcn>
+  <acronym>LiLa</acronym>
+  <objective>Although the research area dealing with building, sharing and exploiting linguistic resources and tools for automatic processing of Latin (and, more generally, of ancient languages) has seen a large growth across the last decade, linguistic resources for Latin are still not interoperable. This means that linguistic information is split up in many products that just do not talk to each other.
+Such a situation results in poor exploitation of the richness provided by all those digital objects for Latin that were produced across years of work. Since Latin is a dead language (thus missing native speakers), all we can and must do is to exploit to the best the information contained in those few and precious texts that survived from the past. This means:
+- to make the best possible organization and use of the available linguistic resources for Latin (enhanced with web-services for Natural Language Processing – NLP –) for a fruitful integration of the information they provide, i.e. to retrieve and combine information from different sources in the most efficient way;
+- to make it available linguistic resources whose quality is assessed (curated data sets).
+The objective of the LiLa project is to connect and, ultimately, to exploit the wealth of linguistic resources and NLP tools for Latin assembled so far, in order to bridge the gap between raw language data, NLP and knowledge descriptions, thus enabling scholars to exploit to the best the currently available resources and tools.
+To address such a challenge, LiLa intends to incorporate the linguistic resources for Latin into the Linked Data framework, making it possible for them to be published and interlinked on the web and to interact with each other. To this aim, the project will build an open-ended knowledge base for Latin by using the Linked Data paradigm to combine data from disparate linguistic resources, provide NLP web-services and include also Latin into the multilingual Linguistic Linked Open Data cloud.</objective>
+  <title>Linking Latin. Building a Knowledge Base of Linguistic Resources for Latin</title>
+<identifier>ERC2017COG</identifier>
+</project>

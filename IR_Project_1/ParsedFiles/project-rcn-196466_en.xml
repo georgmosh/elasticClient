@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196466</rcn>
+  <acronym>Neural Designer</acronym>
+  <objective>The predictive analytics market is undergoing an impressive growth. Indeed, organizations that incorporate that technique into their daily operations not only better manage the present, but also increase the probability of future success.
+
+Intelnics develops the professional predictive analytics solution called Neural Designer. It makes intelligent use of data by discovering complex relationships, recognizing unknown patterns, predicting actual trends or finding associations. Neural Designer out-stands in terms of functionality, usability and performance.  
+
+Current technology lacks from advanced model selection techniques, and usually requires many computational resources. The main challenge for Neural Designer is to include a framework capable of untangling complex interactions in big data sets. In order to do that, the software must achieve ultra high performance by means of more efficient algorithms, code optimization and multi-core processing. 
+
+The intended users of the solution are professional data scientists, which work at analytics departments of innovative companies, consulting firms specialized in analytics or research centres. Neural Designer will be capable of analysing bigger data sets in less time, providing our customers with results in a way previously unachievable. 
+
+The goal is to successfully market Neural Designer. The feasibility assessment of Phase 1 will help us to validate our working hypothesis regarding technical, commercial, financial and legal issues. This study will allow Intelnics to apply for Phase 2 support, in which Neural Designer will be developed to a level of global competitiveness.
+
+The predictive analytics market is largely dominated by the United States, but completion of this project will introduce a European product in the market place of data science.</objective>
+  <title>A high performance solution for predictive analytics</title>
+<identifier>H2020SMEINST12014</identifier>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211090</rcn>
+  <acronym>BlueSpace</acronym>
+  <objective>BlueSpace addresses the challenges of increased capacity, scalability, manageability, resource allocation of 5G networks by adopting a pragmatic yet disruptive and future proof approach.  The core concept of this project is exploiting the added value of Spatial Division Multiplexing (SDM) in the Radio Access Network (RAN) with efficient optical beamforming interface for the pragmatic Ka-band wireless transmission band. Both being seamlessly integreable in next generation optical access networks infrastructures with massive beam steering capabilities and with flexible networkmanagement  control BlueSpace proposition offers unrivalled characteristics that include:
+
+a) increased bandwidth provision by naturally enabling and supporting massive multiple Input Multiple Output (MIMO) in the Ka-band with seamless starting/ending interface with the fiber medium by exploiting space diversity in the RF domain with efficient beamsteering in the photonic domain,  
+
+b) A compact infrastructure that is reconfigurable by means of Software Defined (SDN) and Network Function Virtualization (NFV) paradigms and with
+
+c) full integration with existing approaches for access networks such as Passive Optical Networks (PONs). 
+By achieving its goal BlueSpace is a  truly viable and efficient path for  5G wireless communications with a 1000-fold increase in capacity, connectivity for over 1 billion users, strict latency control, and network software programming.</objective>
+  <title>Building on the Use of Spatial Multiplexing 5G Networks Infrastructures and Showcasing Advanced technologies and Networking Capabilties</title>
+<identifier>H2020ICT20162</identifier>
+</project>

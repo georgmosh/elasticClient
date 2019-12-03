@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211559</rcn>
+  <acronym>AMPHORA</acronym>
+  <objective>Approximately 50% of all cancer patients receive radiation therapy as part of their treatment. The aim is hereby to maximise tumor irradiation and to minimize healthy tissue irradiation. This implies a need for appropriate dosimetry strategies that can effectively measure the actual radiation dose imparted on the tumor. However, state-of-the-art dosimetry cannot quantify the dose distribution in (and around) the tumor, hereby inhibiting the full potential of radiotherapy.
+AMFORA aims to develop a non-invasive in-situ dosimetry system for radiation therapy with the potential of on-line dose assessment by casting ultrasound contrast agents (UCAs) into dose sensing theranostic devices. UCAs will be upgraded to injectable dose-sensitive and targeted devices that gather in tumor tissue and translate imparted radiation dosage into a
+modulation of their acoustic response upon ultrasound interrogation. Tailored ultrasound imaging and advanced signal processing algorithms will be developed to extract the (change in) acoustic signature of UCAs from backscatter data and to translate this information into a 2D or 3D dose distribution map. The specific objectives of this project are the design, development and pre-clinical validation of the aforementioned UCA based dosimetry system and a customised ultrasound
+read-out technology. Upon successful completion, AMFORA will have enabled the assessment of the effective radiation dose distribution in (and around) the tumor, offering an advanced and objective means to compare and evaluate treatment efficacy of different radiotherapy modalities. Such novel technology would revolutionize quality assurance and treatment follow up in radiotherapy, which also unmistakably will lead to increased patient safety and improved treatment protocols. Moreover, AMFORA is expected to trigger an avalanche of novel technologies for radiation therapy delivery and to pave the way for other in-vivo UCA based distributed sensing applications.</objective>
+  <title>ACOUSTIC MARKERS FOR ENHANCED REMOTE SENSING OF RADIATION DOSES</title>
+<identifier>H2020FETOPEN120162017</identifier>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204593</rcn>
+  <acronym>MCRTOOLS</acronym>
+  <objective>The objective of the project is to commercialize Monitor Clinical Research Tools (MCR TOOLS), the first IT system enabling fully remote monitoring of clinical trials. Today, monitoring of medical records is one of the most cost-intensive elements of clinical trials, mostly because it has to be performed manually. With its new system, Monitor CR is about to change the status quo in this field.
+The key functionalities of MCR TOOLS have already been coded and verified through tests in a lab environment. What remains to be developed is the data integration functionality that will plug in MCR TOOLS into the established hospital information systems (HIS). Monitor CR has already initiated cooperation with the leading providers of HIS in Poland, as well as acquired investors and first early adopters  - The University Clinical Centre in Gdansk and University Hospital in Cracow, setting the stage for the dynamic product launch. 
+The targeted users are CROs, Sponsors and healthcare providers. Their common need is to limit clinical trials’ costs, so that medical products could be launched quicker and within tighter budgets. Introduction of MCR TOOLS will transform the costly and time-consuming monitoring of medical records into streamlined, effective and less error susceptible process. Therefore, MCR TOOLS is a potential disruptor for the traditional monitoring of clinical trials. The key features of the product are:
+- Remote access to chosen clinical site’s source medical data for Sponsors/CROs according to user status,
+- Highest data security standards,
+- 40% reduction of clinical trial monitoring costs for Sponsors/CROs,
+- Reduction of delays and errors in clinical trials monitoring and accounting procedures.
+By combining technological excellence with strong market focus, MCR TOOLS will redefine standards in monitoring of clinical trials to the benefit of all key stakeholders involved in this process, including patients.</objective>
+  <title>Monitor Clinical Research Tools – a novel ICT solution for remote monitoring of source medical data in clinical trials</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

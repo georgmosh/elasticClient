@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206154</rcn>
+  <acronym>InFuse</acronym>
+  <objective>InFuse aims to develop very essential data fusion capabilities (aka. Common Data Fusion Framework, or CDFF) that will serve in the context of many space robotics applications, on planetary surface as well as in orbit or other microgravity environments. The InFuse CDFF will be developed relying on the expertise of partners having tangible experience with a wide range of sensors data processing (Perception and Navigation related) and a wide range of robotic applications – both in space and terrestrial conditions.
+
+InFuse makes provision for convenient and effective articulation with other SRC common building blocks – in particular: OG1 (RCOS), OG2 (autonomy framework) and OG4 (sensors suite). The solution proposed in InFuse to wrap and handle data fusion technologies and their produced data will make easy and effective their adoption by a wide range of users, both among the SRC stakeholders and in the wider space robotics community.
+
+In particular, InFuse will not only provide access to an extensive set of robust data fusion capabilities, applicable both On-Orbit and Planetary scenarios, but will also include a data product management component allowing to retrieve and request conveniently (on-demand) relevant data such as maps, models of the environment or objects, possibly science data, etc.</objective>
+  <title>Infusing Data Fusion in Space Robotics</title>
+<identifier>H2020COMPET2016</identifier>
+</project>

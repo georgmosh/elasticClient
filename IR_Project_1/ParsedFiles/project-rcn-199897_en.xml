@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199897</rcn>
+  <acronym>EurValve</acronym>
+  <objective>Valvular Heart Disease currently affects 2.5% of the population, but is overwhelmingly a disease of the elderly and consequently on the rise. It is dominated by two conditions, Aortic Stenosis and Mitral Regurgitation, both of which are associated with significant morbidity and mortality, yet which pose a truly demanding challenge for treatment optimisation. By combining multiple complex modelling components developed in recent EC-funded research projects, a comprehensive, clinically-compliant decision-support system will be developed to meet this challenge, by quantifying individualised disease severity and patient impairment, predicting disease progression, ranking the effectiveness of alternative candidate procedures, and optimising the patient-specific intervention plan. This algorithmically-driven process will dramatically improve outcomes and consistency across Europe in this fast-growing patient group, maximising individual, societal and economic outcomes.</objective>
+  <title>Personalised Decision Support for Heart Valve Disease</title>
+<identifier>H2020PHC2015singlestage</identifier>
+</project>

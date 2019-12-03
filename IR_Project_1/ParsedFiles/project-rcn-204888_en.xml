@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204888</rcn>
+  <acronym>HOLOGRAM</acronym>
+  <objective>Dynamical systems play an important role all over science, from celestial mechanics, evolution biology and economics to mathematics. Specifically holomorphic dynamics has been credited as “straddling the traditional borders between pure and applied mathematics”. Activities of numerous top-level mathematicians, including Fields medalists and Abel laureates, demonstrate the attractivity of holomorphic dynamics as an active and challenging research field.
+
+We propose to work on a research project based in holomorphic dynamics that actively connects to adjacent mathematical fields. We work on four closely connected Themes:
+
+A. We develop a classification of holomorphic dynamical systems and a Rigidity Principle, proposing the view that many of the additional challenges of non-polynomial rational maps are encoded in the simpler polynomial setting;
+
+B. We advance Thurston’s fundamental characterization theorem of rational maps and his lamination theory to the world of transcendental maps, developing a novel way of understanding of spaces of iterated polynomials and transcendental maps;
+
+C. We develop an extremely efficient polynomial root finder based on Newton’s method that turns the perceived problem of “chaotic dynamics” into an advantage, factorizing polynomials of degree several million in a matter of minutes rather than months – and providing a family of rational maps that are highly susceptible to combinatorial analysis, leading the way for an understanding of more general maps;
+
+D. And we connect this to geometric group theory via “Iterated Monodromy Groups”, an innovative concept that helps solve dynamical questions in terms of their group structure, and that contributes to geometric group theory by providing natural classes of groups with properties that used to be thought of as “exotic”.</objective>
+  <title>Holomorphic Dynamics connecting Geometry, Root-Finding, Algebra, and the Mandelbrot set</title>
+<identifier>ERC2015AdG</identifier>
+</project>

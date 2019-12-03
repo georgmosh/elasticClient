@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206172</rcn>
+  <acronym>iRead</acronym>
+  <objective>The overarching aim of the iRead project is to develop a software infrastructure of personalised, adaptive technologies and a diverse set of applications for supporting learning and teaching of reading skills. The specific goals of the project proposed are to:
+1.   Develop a scalable, cloud-based software infrastructure of open, interoperable components, including real-time user 
+      modelling and domain knowledge components, to support learning of reading skills by children with different abilities and 
+      linguistic backgrounds
+2.   Develop domain models for English, Greek, German and Spanish learners, and to contextualise those models with 
+      respect to skills and difficulties of (i) typically developing readers, (ii) English and Greek readers with dyslexia and (ii) 
+      learners of English as a Foreign language.  The domain models will utilise and generalise the domain model 
+      implemented in a previous FP7 project – iLearnRW  
+3.   Develop applications for supporting learning (literacy games, interactive e-books, Reader app) that utilise the 
+      infrastructure to yield different types of personalised learning services and experiences
+4.   Develop and evaluate personalised content classification metrics that “enable reading” for use by electronic publishers 
+      and libraries
+5.   Enable orchestrated use of the learning applications (games, e-books, Reader app) based on learning analytics, and a 
+      personalised experience through adaptive support
+6.   Implement a number of large-scale evaluation pilots across European countries and providers in order to evaluate the 
+      pedagogical effectiveness of the iRead ecosystem.</objective>
+  <title>Infrastructure and integrated tools for personalized learning of reading skill</title>
+<identifier>H2020ICT20161</identifier>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199022</rcn>
+  <acronym>UCoCoS</acronym>
+  <objective>Europe faces major challenges in science, society and industry, induced by the complexity of our hyper-connected world.  Examples are the climate change, infectious diseases, artificial interconnected systems whose dynamics are beyond our understanding such as the internet, the global banking system and the power grid. A demand of performance emerges at an unprecedented scale: collaborative sensors and robots so to ensure competitiveness of our European production industry, better management of our traffic flows, designing (de)synchronization mechanisms applicable in neuroscience, are examples illustrating the necessity to understand and control the dynamics of complex networks. 
+
+However, this requires a fundamentally new kind of complexity science. The traditional way of reducing a system to its components fails when the global dynamics are determined mainly by the interactions. Moreover, an interdisciplinary approach is necessary as revealing common principles is key in getting grip on the complexity.
+
+The objectives of UCoCoS are to create a control-oriented framework for complex systems, and to define a common language, common methods, tools and software for the complexity scientist. Moreover, as the first training network on the theme, UCoCoS aims at i) creating a closely connected new generation of leading European scientists, capable of designing network structures and policies to affect the networks, and ii) initiating long-term partnerships and collaboration mechanisms leading to sustainable doctoral training.
+
+The UCoCoS approach builds on recent developments in three domains (control, computer science, mechanical engineering) and stems from the identification of a unique combination of expertise within the consortium. Every ESR performs a cutting-edge project, strongly relying on the complementary expertise of the three academic beneficiaries and benefiting from training by non-academic partners from three different sectors.</objective>
+  <title>Understanding and controlling complex systems</title>
+<identifier>H2020MSCAITN2015</identifier>
+</project>

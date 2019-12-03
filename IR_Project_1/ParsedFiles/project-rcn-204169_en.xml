@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204169</rcn>
+  <acronym>STRESS</acronym>
+  <objective>Europe ATM system is expected to face challenging situations, with the growth of traffic, the increase of its complexity (e.g. the RPAS introduction), the introduction of innovative concepts (such as 4D trajectories) and increased automation. The roles and tasks of controllers will change in the future and it is vital to enhance the comprehension of human response to changes in role, monitoring of complex situations, unexpected disruptions. 
+Controllers’ performance is recognised to be impacted by several aspects such as stress, emotions, attentional resources available, and so on. In the recent years the concept of Human Performance Envelope has been introduced in Human Factors. Rather than focusing on one or two individual factors, it considers a range of common factors in accidents and maps how they work alone or in combination to lead to a performance decrement that could affect safety. 
+To support the evolution of the future ATM system, the STRESS project proposes to address the objectives:
+1. To align the HP envelope with the foreseen ATCO role in SESAR, mapping the relevance of HF concepts on the characteristics of the scenarios (e.g. less tactical interventions, high automation support, multi-sector operations, and so on). 
+2. To monitor in real-time via neurophysiological indexes the controllers’ mental status during monitoring tasks in different automation levels in SESAR step3. Indexes will be defined for the following cognitive and emotional aspects: Stress level, Attentional focus, Workload level, Emotional arousal, Startle effect.
+3. To derive guidelines and methods to match the HP envelope status with the highest possible level of automation (keeping KPAs at least at the same level).
+4. To monitor the controllers’ mental status during automation failure scenarios using the above indexes
+5. To develop guidelines to support human performance during safe transitions from the higher levels of automation to the lower levels of automation, and viceversa.</objective>
+  <title>Human Performance neurometricS Toolbox foR highly automatEd Systems deSign</title>
+<identifier>H2020SESAR20151</identifier>
+</project>

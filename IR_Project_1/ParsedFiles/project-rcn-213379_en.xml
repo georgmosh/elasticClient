@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213379</rcn>
+  <acronym>ELEXIS</acronym>
+  <objective>The project proposes to integrate, extend and harmonise national and regional efforts in the field of lexicography, both modern and historical, with the goal of creating a sustainable infrastructure which will (1) enable efficient access to high quality lexical data in the digital age, and (2) bridge the gap between more advanced and lesser-resourced scholarly communities working on lexicographic resources. The need for such an infrastructure has clearly emerged out of the lexicographic community within the European Network of e-Lexicography COST Action which will end in 2017.
+
+Current lexicographic resources, both modern and historical, have different levels of structuring and are not equally suitable for application in other fields, e.g. Natural Language Processing. The project will develop strategies, tools and standards for extracting, structuring and linking lexicographic resources to unlock their full potential for Linked Open Data and the Semantic Web, as well as in the context of digital humanities.
+
+The project will help researchers create, access, share, link, analyse, and interpret heterogeneous lexicographic data across national borders, paving the way for ambitious, transnational, data-driven advancements in the field, while significantly reducing a duplication of effort across disciplinary boundaries.
+
+ELEXIS will be carried out by a balanced consortium with distributed geographical origins. It is composed of content-holding institutions and researchers with complementary backgrounds - lexicography, digital humanities, language technology and standardisation -  a crucial feature required to address the multi-disciplinary objectives of the project. In cooperation with CLARIN and DARIAH, it will focus on defining and providing common interoperability standards, workflows, conceptual models and data services as well as training and education activities focusing on user needs and cross-disciplinary fertilisations.</objective>
+  <title>European Lexicographic Infrastructure</title>
+<identifier>H2020INFRAIA20171twostage</identifier>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211041</rcn>
+  <acronym>MULTIECS</acronym>
+  <objective>The goal of this project is the development of a Multivariable Control System (MCS) by means of extended linearization techniques, based on a control-oriented thermodynamical modelling for the electric air conditioning pack. The focus will be on developing real-time capable low-order models. In a second step, these models will be calibrated using test results from the Topic Manager. The subsequent MCS design will be performed in the Matlab/Simulink environment, in order to guarantee compatibility with the Topic Manager certification standards and processes. After successful simulation of the MCS implementation in Matlab/Simulink, an experimental validation of the MCS is aimed at the Topic Manager’s facilities. The different objectives of the MULTIECS project are itemized as follows:
+• Derivation of symbolic control-oriented models for the electrical air-conditioning. 
+• Efficient parameter identification of the nonlinear dynamic models to used in the MCS design aiming a small number of necessary test cases.
+• Development of the multivariable optimal control structure in the Matlab/Simulink taing advantage of the extended linearisation techniques, especially the SDRE design.
+• Assessment by simulations and experimental validation of the multivariable control system.</objective>
+  <title>MULTIivariable Environmental Control System</title>
+<identifier>H2020CS2CFP04201602</identifier>
+</project>

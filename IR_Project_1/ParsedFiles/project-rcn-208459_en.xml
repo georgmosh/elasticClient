@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208459</rcn>
+  <acronym>ADVICE</acronym>
+  <objective>ADVICE aims at increasing the number of HEVs up to 10% of all vehicles registered in the mid-term range. This will be achieved by focusing on a market segment called “premium class”, which covers medium class, upper medium class and luxury vehicles up to SUVs. This segment is facing severe problems in reaching European environmental exhaust targets, when running on fossil fuel only, not the least due to the considerable vehicle weight.
+
+In ADVICE three physical demonstrator vehicles are built, ranging from mild-hybrid, plug-in-hybrid to full-hybrid and – concerning fuel type – from gasoline to diesel-driven.
+In addition, it will be shown that the whole range in between these demonstrator vehicles can be well covered by means of validated simulation, yielding a complete coverage of the whole “premium class” segment.
+
+ADVICE aims for a reduction of exhaust and CO2 emissions on WLTP of 20% and a 25% increase in electric driving range for P-HEVs at a maximum premium cost of 5% for HEV (15% for P-HEV) with respect to the best in-class non-hybrid diesel vehicles. Particular attention is devoted to optimum driveability and drive performance, which are essential when purchasing a “premium class” vehicle and thus crucial to achieve the market penetration aimed at. These objectives will be accomplished by:
+* Architecture-level  hybrid powertrain solutions, suited to be modularly applied to different segments  to increase their volumes while reducing costs
+* Advanced predictive control strategies and model predictive control strategies, taking the entire vehicle into account (not only the hybrid part)
+* Novel optimised approaches in the aftertreatment system
+* Newly developed high-temperature electronics, enabling novel strategies and approaches for energy- and thermal-management
+* Multi-core processor architectures, enabling sophisticated control strategies and models processed on-board the vehicles
+
+ADVICE results will be verified through vehicle validator independent tests</objective>
+  <title>ADvancing user acceptance of general purpose hybridized Vehicles by Improved Cost and Efficiency</title>
+<identifier>H2020GV2016INEA</identifier>
+</project>

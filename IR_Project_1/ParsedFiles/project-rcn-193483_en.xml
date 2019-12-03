@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193483</rcn>
+  <acronym>HESPERIA</acronym>
+  <objective>HESPERIA will produce two novel operational forecasting tools based upon proven concepts (UMASEP, REleASE). At the same time it will advance our understanding of the physical mechanisms that result into high-energy solar particle events (SEPs) exploiting novel datasets (FERMI/LAT/GBM; PAMELA; AMS) and it will explore the possibility to incorporate the derived results into future innovative space weather services. 
+In order to achieve these goals HESPERIA will exploit already available large datasets stored into databases such as the neutron monitor database (NMDB) and SEPServer that have been developed under FP7 projects from 2008 to 2013.
+The objectives of HESPERIA are:
+1) To develop two novel SEP forecasting systems based upon proven concepts.
+2) To develop SEP forecasting tools searching for electromagnetic proxies of the gamma-ray emission in order to predict large SEP events.
+3) To perform systematic exploitation of the novel high-energy gamma-ray observations of the FERMI mission together with in situ SEP measurements near 1 AU.
+4) To provide for the first time publicly available software to invert neutron monitor observations of relativistic SEPs to physical parameters that can be compared with the space-borne measurements at lower energies.
+5) To perform examination of currently unexploited tools (radio emission).
+6) To design recommendations for future SEP forecasting systems.
+The results will be openly accessible to the public through the dedicated web interface of HESPERIA and will further be posted in related servers such as NMDB and SEPServer. The HESPERIA consortium consists of 9 partners with complementary expertise covering all aspects of the project.  HESPERIA will also collaborate with a number of institutes and individuals from US and Russia, ensuring both the in depth analysis of the novel datasets to be utilized within the project and the efficient dissemination of the results to the whole space physics/space weather community.</objective>
+  <title>High Energy Solar Particle Events foRecastIng and Analysis</title>
+<identifier>H2020PROTEC2014</identifier>
+</project>

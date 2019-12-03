@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212352</rcn>
+  <acronym>TABEDE</acronym>
+  <objective>TABEDE aims to allow all buildings equipped with Building Energy Management Systems to integrate energy grid demand response schemes, overcoming limitations linked to missing interoperability, at reducedcost. For that purpose, TABEDE will allow connection of all dispatchable loads to the Building Energy System through a dedicated TABEDE interface, whatever the communication protocol. A dedicated smart grid communication protocol translator will be provided to ease the acceptance of the TABEDE system as well as a database of dispatchable load drivers. Moreover, in order to improve building efficiency, novel building energy management strategies will be proposed, in terms of electric load and thermal management, adapting to the evolving environment, as well as building continuous monitoring.
+TABEDE solution will be demonstrated and assessed through extensive simulation-based testing.  The proposed solutions will be deployed on three test sites (residential and tertiary)  that are representative of EU building stocks and conditions.</objective>
+  <title>TowArds Building rEady for Demand rEsponse</title>
+<identifier>H2020EE2017PPP</identifier>
+</project>

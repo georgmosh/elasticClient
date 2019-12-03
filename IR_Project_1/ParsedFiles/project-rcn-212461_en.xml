@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212461</rcn>
+  <acronym>MASTER</acronym>
+  <objective>An ever-increasing number of diverse, real-life applications, ranging from mobile phone calls to social media and land, sea, and air surveillance systems, produce massive amounts of spatio-temporal data representing trajectories of moving objects. Trajectories, commonly represented by sequences of timestamps and position coordinates, thanks to the high availability of contextual and semantic-rich data can be enriched and are evolving to more comprehensive and semantically significant objects. In the MASTER project we envision holistic trajectories, meaning trajectories characterized by the fact that the spatio-temporal and semantic aspects are intimately correlated and should be considered as a whole. However current state of art does not provide management and analysis methods “ready for use” for these multiple aspects trajectories.  
+The overarching objective of this project is to form an international and inter-sectoral network of partners working on a joint research programme  by developing methods to build, manage and analyse multiple aspects trajectories. These methods are driven by application scenarios from three different domains: tourism, sea monitoring and public transportation.</objective>
+  <title>Multiple ASpects TrajEctoRy management and analysis</title>
+<identifier>H2020MSCARISE2017</identifier>
+</project>

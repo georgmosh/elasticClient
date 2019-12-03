@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211055</rcn>
+  <acronym>ONE5G</acronym>
+  <objective>ONE5G commits to provide technical investigations and recommendations to evolve ‘5G’ towards ‘5G advanced’ as requested by the work program. Release 15 from 3GPP is about to set up a valuable initial specification for paving the way to reach the ultimate goals for 5G. However, we see major aspects not yet reasonably covered, requiring more research activities to happen: - Means ensuring 5G to be consistently rolled-out not only in agglomerations, but also in less densely populated areas, to  avoid the digital divide to occur as in earlier generations.
+- Means ensuring 5G to support all foreseen services efficiently and concurrently in a generic way, to avoid the emergence of a set of specialised solutions lacking synergy effects such as economy of scale and multiplexing gains.
+- Means ensuring 5G to efficiently handle all degrees of heterogeneity stemming from the multiplicity of services and environments, network nodes and devices, spectrum bands and access types (licensed, unlicensed and lightly licensed).
+
+In ONE5G, 14 experienced European players of wireless research are gathering to jointly drive forward the vision of 5G by 
+- delivering advanced link enhancements beyond Release 15, including efficient multi-service access schemes, advanced massive MIMO enablers and link management mechanisms
+- researching and proposing highly generic performance optimization schemes for 5G, to achieve successful deployment and operation, including optimizations for both the network operator and the E2E user-experienced performance
+- identifying the cost driving elements for the roll-out and operation and to propose adaptations to allow sustainable provision of wireless services everywhere
+- validating the developed extensions and modifications through different approaches: analytically, by means of extensive simulations and with selected proof-of-concepts
+- producing a high number of valuable publications, IPR and standardization contributions</objective>
+  <title>E2E-aware Optimizations and advancements for the Network Edge of 5G New Radio</title>
+<identifier>H2020ICT20162</identifier>
+</project>

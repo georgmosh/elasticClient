@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210828</rcn>
+  <acronym>ADAPT</acronym>
+  <objective>Airbus is currently conducting various experimental studies, dealing with installing microphones on the fuselage, on the wall of a wind tunnel test section or on specific microphone supports on the flow, in order to record the sounds emitted by each aircraft component (i.e. engine, wing etc.). In either case, microphone measurements are polluted by hydrodynamic noise, which hampers the correct assessment of acoustic signals emitted from aircraft components, thus leading to very low signal-to-noise ratio.
+A few methods exist today that can eliminate hydrodynamic noise from acoustic signals. However, the efficacy  of these methods strongly depends on various parameters, such as signal-to-noise-ratio, number of microphones, number of incoherent sources etc. No systematic study has been performed so far to assess the parameter boundaries within which acceptable results are obtained (e.g. within 0.5 dB error for example).
+The ADAPT consortium will improve and optimize the ability of identifying sources emitted by aircraft components by using the most effective techniques out of the three proposed approaches in the call for proposal. These three approaches are: aeroacoustic source separation, de-noising techniques based on cyclostationarity and aeroacoustic sources localization.
+Through these three approaches, the ADAPT project aims at delivering to AIRBUS a tool dedicated to separating airframe and engine noise components (tonal, broadband cyclostationary components in particular) from hydrodynamic pressure noise and identifying these sources in space, satisfying various technical and economical requirements that will be discussed out with AIRBUS at the beginning of the project.</objective>
+  <title>ADvanced Aeroacoustic Processing Techniques</title>
+<identifier>H2020CS2CFP04201602</identifier>
+</project>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>214602</rcn>
+  <acronym>DLT</acronym>
+  <objective>Deep Learning is one of the most vibrant areas of contemporary machine learning and one of the most promising approaches to Artificial Intelligence. Deep Learning drives the latest systems for image, text, and audio processing, as well as an increasing number of new technologies. The goal of this project is to advance on key open problems in Deep Learning, specifically regarding the capacity, optimization, and regularization of these algorithms. The idea is to consolidate a theoretical basis that allows us to pin down the inner workings of the present success of Deep Learning and make it more widely applicable, in particular in situations with limited data and challenging problems in reinforcement learning. The approach is based on the geometry of neural networks and exploits innovative mathematics, drawing on information geometry and algebraic statistics. This is a quite timely and unique proposal which holds promise to vastly streamline the progress of Deep Learning into new frontiers.</objective>
+  <title>Deep Learning Theory: Geometric Analysis of Capacity, Optimization, and Generalization for Improving Learning in Deep Neural Networks</title>
+<identifier>ERC2017STG</identifier>
+</project>

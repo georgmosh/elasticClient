@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199449</rcn>
+  <acronym>AllOxITD</acronym>
+  <objective>The objective of the proposal is the development of an all-oxide Ceramic Matrix Composites (CMC) inter turbine duct for testing of the component in a demonstrator engine. 
+The development steps include:
+- Designing the parts including the attachment to the metallic support structure
+- Defining design rules how to work with oxide CMCs for engine parts
+- Simulation of the parts behavior under engine loads
+- Assessment of the lifetime and reliability of the material in operation to translate the specimen behavior onto the component level
+- Optimizing the performance of the parts w.r.t. manufacturing parameters e.g. fiber orientation
+- Characterizing the material properties needed for the design process on specimen level. This includes the material development for example to improve the matrix system for prepreg technology
+- Manufacturing of the demonstrator parts
+- Develop a concept for fining qualification steps
+- Develop a concept for non-destructive testing
+- Validating simulation results with engine data resulting from engine tests
+For manufacturing oxide CMCs specimen and parts the following manufacturing techniques are included in the proposed project:
+- Winding
+- Prepreg technology (as automated as possible)
+- Braiding
+The path to final manufacture and validation will be documented and coordinated in close collaboration with the consortium partners and the topic manager.
+This proposal answers the CfP in “Work Package 4 – Advanced Geared Engine Configuration (HPC-LPT)” of the Engine Integrated Technology Demonstrators in Clean Sky 2. It utilizes the low specific weight of oxide CMCs to save weight and its inherent oxidation and temperature resistant nature to save cooling air. It therefore, contributes to the key objectives of the work package: improvement of efficiencies and innovative lightweight and temperature resistant materials.</objective>
+  <title>Development and Manufacturing of an All-Oxide Inter Turbine Duct for Aeroengines</title>
+<identifier>H2020CS2CFP01201401</identifier>
+</project>

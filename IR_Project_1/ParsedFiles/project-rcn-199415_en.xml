@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199415</rcn>
+  <acronym>SELFORGANICELL</acronym>
+  <objective>One of the most remarkable features of biological systems is their ability to self-organize in space and time. Even a relatively simple cell like the bacterium Escherichia coli has a precisely regulated cellular anatomy, which emerges from dynamic interactions between proteins and the cell membrane. Self-organization allows the cell to perform extremely challenging tasks. For example, for cell division, more than ten different proteins assemble into a complex, yet highly dynamic machine, which controls the invagination of the cell while constantly remodeling itself. Although the individual components involved have been largely identified, how they act together to accomplish this challenge is not understood. It has become clear that sophisticated biochemical networks give rise to intracellular organization, but we have yet to uncover the underlying mechanistic principles.
+In this research proposal, I aim to develop a detailed mechanistic understanding of the self-organizing, emergent properties of the cell. To this end, my research group will develop novel in vitro reconstitution experiments combined with high-resolution fluorescence microscopy and theoretical modeling. Following this “bottom-up” approach, we will quantitatively analyze collective protein dynamics and emergent mechanochemical properties of the bacterial cell division machinery. I aim to answer the following fundamental questions:
+1) What is the biochemical network giving rise to the dynamic assembly of the divisome?
+2) How do the components of the divisome interact to generate force? 
+3) How do peptidoglycan synthases build the cell wall? 
+By comparing protein dynamics in vitro with those measured in vivo, we will provide a link between molecular properties and the processes found in the living cell. This project will not only improve our understanding of the bacterial cell, but also open new research avenues for eukaryotic cell biology, synthetic biology and biophysics.</objective>
+  <title>Self-Organization of the Bacterial Cell</title>
+<identifier>ERC2015STG</identifier>
+</project>

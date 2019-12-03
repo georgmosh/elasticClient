@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194262</rcn>
+  <acronym>CYCLONE</acronym>
+  <objective>Application service providers (ASPs) now develop, deploy, and maintain complex computing platforms within multiple cloud infrastructures to improve resilience, responsiveness and elasticity of their applications.  The CYCLONE project targets the ASPs, providing them with software and tools that 1) facilitate the deployment, management, and use of their complex, multi-cloud applications and 2) enhance the end-to-end security and network management of those applications.
+
+Using agile methodologies and continuous delivery, CYCLONE integrates and improves mature, open-source components, such as StratusLab, OpennNaaS, SlipStream, and TCTP. Participants from the bioinformatics and energy sectors will guide the initial platform development; use cases from additional sectors identified during the project will drive its subsequent evolution.  Constant availability of the CYCLONE testbed allows all these users to rapidly prototype their complex cloud applications and to provide continuous feedback to the developers, thus validating the CYCLONE software’s design, implementation, and production quality.
+
+CYCLONE allows ASPs to aggregate resources from multiple cloud providers (private and public) to improve the reliability of their applications through geographic redundancy, to enhance the user experience by placing services (and data) near their users, to lower barriers between cloud providers via a cloud deployment engine with appropriate resource abstractions, and to tailor intra- and inter-site networking resources.  Coupled with application-level security features and trust bootstrapping mechanisms, CYCLONE allows ASPs to define their own innovative and secure cloud platform tailored to their needs and trusted by their users.</objective>
+  <title>Complete  Dynamic Multi-cloud Application Management</title>
+<identifier>H2020ICT20141</identifier>
+</project>

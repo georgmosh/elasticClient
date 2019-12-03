@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208087</rcn>
+  <acronym>CancerFluxome</acronym>
+  <objective>The metabolism of cancer cells is altered to meet cellular requirements for growth, providing novel means to selectively target tumorigenesis. While extensively studied, our current view of cancer cellular metabolism is fundamentally limited by lack of information on variability in metabolic activity between distinct subcellular compartments and cells.
+
+We propose to develop a spatio-temporal fluxomics approach for quantifying metabolic fluxes in the cytoplasm vs. mitochondria as well as their cell-cycle dynamics, combining mass-spectrometry based isotope tracing with cell synchronization, rapid cellular fractionation, and computational metabolic network modelling.
+
+Spatio-temporal fluxomics will be used to revisit and challenge our current understanding of central metabolism and its induced adaptation to oncogenic events – an important endeavour considering that mitochondrial bioenergetics and biosynthesis are required for tumorigenesis and accumulating evidences for metabolic alterations throughout the cell-cycle. 
+
+Our preliminary results show intriguing oscillations between oxidative and reductive TCA cycle flux throughout the cell-cycle. We will explore the extent to which cells adapt their metabolism to fulfil the changing energetic and anabolic demands throughout the cell-cycle, how metabolic oscillations are regulated, and their benefit to cells in terms of thermodynamic efficiency. Spatial flux analysis will be instrumental for investigating glutaminolysis - a ‘hallmark’ metabolic adaptation in cancer involving shuttling of metabolic intermediates and cofactors between mitochondria and cytoplasm. 
+
+On a clinical front, our spatio-temporal fluxomics analysis will enable to disentangle oncogene-induced flux alterations, having an important tumorigenic role, from artefacts originating from population averaging. A comprehensive view of how cells adapt their metabolism due to oncogenic mutations will reveal novel targets for anti-cancer drugs.</objective>
+  <title>Cancer Cellular Metabolism across Space and Time</title>
+<identifier>ERC2016STG</identifier>
+</project>

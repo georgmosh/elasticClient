@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>198051</rcn>
+  <acronym>BayesianMarkets</acronym>
+  <objective>Subjective data play an increasing role in modern economics. For instance, new welfare measurements are based on people’s subjective assessments of their happiness or their life satisfaction. A problem of such measurements is that people have no incentives to tell the truth. To solve this problem and make those measurements incentive compatible, I will introduce a new market institution, called Bayesian markets.
+Imagine we ask people whether they are happy with their life. On Bayesian markets, they will trade an asset whose value is the proportion of people answering Yes. Only those answering Yes will have the right to buy the asset and those answering No the right to sell it. Bayesian updating implies that “Yes” agents predict a higher value of the asset than “No” agents do and, consequently, “Yes” agents want to buy it while “No” agents want to sell it. I will show that truth-telling is then the optimal strategy.
+Bayesian markets reward truth-telling the same way as prediction markets (betting markets) reward people for reporting their true subjective probabilities about observable events. Yet, unlike prediction markets, they do not require events to be objectively observable. Bayesian markets apply to any type of unverifiable truths, from one’s own happiness to beliefs about events that will never be observed.
+The present research program will first establish the theoretical foundations of Bayesian markets. It will then develop the proper methodology to implement them. Finally, it will disseminate the use of Bayesian markets via applications.
+The first application will demonstrate how degrees of expertise can be measured and will apply it to risks related to climate change and nuclear power plants. It will contribute to the political debate by shedding new light on what true experts think about these risks. The second application will provide the first incentivized measures of life satisfaction and happiness.</objective>
+  <title>Bayesian markets for unverifiable truths</title>
+<identifier>ERC2014STG</identifier>
+</project>

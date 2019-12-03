@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207826</rcn>
+  <acronym>MERCURY</acronym>
+  <objective>The reduction of greenhouse gas emissions is a vital target for the coming decades. From a technology perspective, power
+generation is the largest responsible for CO2 emissions, therefore great mitigation efforts will be required in this area. From
+a policy perspective, it is common opinion that the European Union is and will remain leader in implementing clean policies.
+Basing on these considerations, the power sector and the European Union will be the two key actors of this project. The
+main tool adopted in this work will be WITCH, the integrated assessment model developed at Fondazione Eni Enrico Mattei
+(FEEM).
+The description of the power generation sector in WITCH is quite detailed, but needs to be integrated, especially as far as
+the electric infrastructure downstream the power generation system is concerned. In the first half of the project, developed at
+the outgoing host, the modeling of the electric sector will thus be completed and refined. In particular, four main aspects
+need to be assessed: i) system integration (i.e. the issues related to the non-negligible penetration of intermittent renewables
+in the grid), ii) electricity storage, iii) electrical grid, and iv) electricity trade.
+In the second half of the project, developed at the return host, the improved WITCH model will be employed in scenario
+assessment calculations. Firstly, the prospects in Europe of renewables, CCS and nuclear will be analysed. In particular,
+attention will be focused not so much on the pure technology aspects, but rather on policy issues such as the role of
+incentives in renewable diffusion, the slow CCS deployment, or the effects of the nuclear reactors ageing, or of their phaseout.
+Secondly, the focus will move on assessing the role of these technologies (and the consequent evolution of the electric
+infrastructure) according to different mitigation scenarios, and in particular considering different levels of global participation
+in EU-led climate mitigation.</objective>
+  <title>Modeling the European power sector evolution: low-carbon generation technologies (renewables, CCS, nuclear), the electric infrastructure and their role in the EU leadership in climate policy</title>
+<identifier>H2020MSCAIF2015</identifier>
+</project>

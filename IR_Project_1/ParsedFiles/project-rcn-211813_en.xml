@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211813</rcn>
+  <acronym>ADVaNCE</acronym>
+  <objective>The field of toxicology is evolving from purely descriptive to a highly data‐rich science. To structure this large amount of data and in this way make the usage more effective for the safety assessors, the concept of adverse outcome pathways was established providing a means of understanding how chemicals induce adverse effects through their toxicity pathways and modes of action. However, there are some doubts if the one initiating event - one adverse outcome relationship enforced on AOPs by the OECD guideline is able to cover more complex adverse effects like hepatocellular carcinoma resulting from non-mutagenic chemical exposure. Therefore, the ADVaNCE project will demonstrate based on the just mentioned example that combining all existing knowledge into an adverse outcome network formed by interlinked AOPs is needed to cover all the pathways and intervention points activated in order to contribute to the development of hepatocellular carcinomas. Computational approaches will be used to extract important key events and their relationships from existing data sources and the relevant literature. These will be compared with existing AOPs and further experimental validation will be started. The computational and experimental result will finally guide the development of an integrated testing strategy completely based on in silico and in vitro data, which development and validation regarding regulatory usage will be continued after the project.</objective>
+  <title>ADVerse outcome Network for non-mutagenic CarcinogEns</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

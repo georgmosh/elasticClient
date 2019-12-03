@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208966</rcn>
+  <acronym>ORIGAMI</acronym>
+  <objective>Magnetic fields lie at the heart of essentially all the outstanding problems in galactic evolution. However, the measurement of interstellar magnetic fields is very challenging.  We can either measure the strength or the direction of the magnetic field vector in different regions of the Milky Way.  Clearly, in order to assess the impact of the magnetic field in the core processes of galactic evolution, such as star formation and stellar feedback, we need to complement the observations with simulations of the magnetic field evolution.
+
+The most successful simulations of the galactic magnetic field evolution show that tiny magnetic seeds of cosmic origin were amplified to their current values through a dynamo process. In a dynamo, large-scale galactic processes such as differential rotation and turbulence twist magnetic field lines, and small-scale processes like Ohmic diffusion reconnect them.  However, simulations of this process so far lack the simultaneous modeling of the processes that generate turbulence and the realistic small-scale diffusion that drives the dynamo.
+
+This ambitious project will develop the first simulations that will include all the core processes of galactic evolution, such as a multi-phase interstellar medium, time-dependent star formation and stellar feedback, and the realistic non-ideal MHD terms necessary for modeling a dynamo.  The simulations will be performed with the RAMSES code, a throughly tested tool for galaxy evolution simulations.  The Adaptive Mesh Refinement technique employed in the code will allow capturing the self-consistent generation of turbulence by stellar feedback, and its zoom-in capabilities will allow re-simulating regions of interest with enough resolution to model the magnetic field diffusion.
+
+The outcome will be the first self-consistent model of the Galactic magnetic field, an essential input for cosmological, galaxy-evolution, and star-formation theories, and a reference tool for observational studies.</objective>
+  <title>The origin of the Galactic magnetic field</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

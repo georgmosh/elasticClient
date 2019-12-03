@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211822</rcn>
+  <acronym>SENTIENT</acronym>
+  <objective>The advances in electronic communication and computation have enabled the ubiquity of Cyber-Physical Systems (CPS): digital systems that regulate and control all sorts of physical processes, such as chemical reactors, water distribution and power networks. These systems require the timely communication of sensor measurements and control actions to provide their prescribed functionalities. Event-triggered control (ETC) techniques, which communicate only when needed to enforce performance, have attracted attention as a mean to reduce the communication traffic and save energy on (wireless) networked control systems (NCS). However, despite ETC’s great communication reductions, the scheduling of the aperiodic and largely unpredictable traffic that ETC generates remains widely unaddressed – hindering its true potential for energy and bandwidth savings.
+
+To address this problem, I will take up the following scientific challenges: (1) the construction of models for ETC’s communication traffic; (2) the design of schedulers based on such models guaranteeing prescribed performance levels. To reach these goals, I will employ scientific methods at the cross-roads between theoretical computer science, control systems and communications engineering. I propose to follow a two step approach that I have recently demonstrated: 
+(i) modeling as timed-priced-game-automata (TPGA) the timing of communications of event-triggered control systems; and (ii) solving games over TPGAs to prevent data communication collisions and ensure prescribed performances for the control tasks.
+
+I will produce algorithms facilitating the efficient implementation of control loops over shared communication resources and increasing the energy efficiency of wireless NCS by orders of magnitude. The advances will be demonstrated on automotive and wireless water-distribution control applications, showcasing the potential economic impact from the reduction of implementation and maintenance costs on CPSs.</objective>
+  <title>SCHEDULING OF EVENT-TRIGGERED CONTROL TASKS</title>
+<identifier>ERC2017STG</identifier>
+</project>

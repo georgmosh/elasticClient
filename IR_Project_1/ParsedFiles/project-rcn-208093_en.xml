@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208093</rcn>
+  <acronym>EPP</acronym>
+  <objective>One of the ultimate goals of economics is to inform a policy that improves welfare. Despite that the vast amount of empirical works in economics aims to achieve this goal, the current state of the art in econometrics is silent about concrete recommendation for how to estimate the welfare maximizing policy. This project addresses statistically optimal and practically useful ways to learn the welfare-maximizing policy from data by developing novel econometric frameworks, sampling design, and estimation approaches that can be applied to a wide range of policy design problems in reality.
+
+Development of econometric methods for optimal empirical policy design proceeds by answering the following open questions. First, given a sampling process, how do we define optimal estimation for the welfare-maximizing policy? Second, what estimation method achieves this statistical optimality? Third, how do we solve policy decision problem when the sampling process only set-identifies the social welfare criterion? Fourth, how can we integrate the sampling step and estimation step to develop a package of optimal sampling and optimal estimation procedures? 
+
+	I divide the project into the following four parts. Each part is motivated by important empirical applications and has methodological challenges related to these four questions. 
+
+1) Estimation of treatment assignment policy
+
+2) Estimation of optimal policy in other public policy applications
+
+3) Policy design with set-identified social welfare
+
+4) Sampling design for empirical policy design</objective>
+  <title>Econometrics for Public Policy: Sampling, Estimation, Decision, and Applications</title>
+<identifier>ERC2016STG</identifier>
+</project>

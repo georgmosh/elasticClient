@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213800</rcn>
+  <acronym>SENSORIANCE</acronym>
+  <objective>The goal of this project is to develop a cost-effective system to provide the aircraft with high-definition vision capabilities in the IR  and visual spectra.   This vision system combines information from various sources, including a compact camera –consisting of a cost effective, versatile, high-performance and highly-reliable optical system— and external sensors, distributed in the form of LRU modules. This information is then processed by a computer vision and image processing module to infer useful knowledge and event-reaction capabilities, aiding pilots during all phases of flight (taxi, takeoff, cruise, and landing). The visual information perceived by the pilot’s natural vision is enhanced (or even replacing, when needed) via an advanced flight vision and awareness system that provides obstacle detection and avoidance, as well as increased visibility for all weather conditions, increasing safety on flight operations.
+
+The developed system will be ITAR-free, to avoid delays related to export controls by the US, increasing its versatility and making it more appealing for prospective customers. This, along with the system’s lower cost due to the use of more affordable components, would substantially increase its chances to compete with other similar solutions worldwide.
+SENSORIANCE system will provide a complete enhance and synthesized images suite and it will allow:
+• To enhance the field of view. 
+• To reduce the risk of occurrence of an impact.
+• To Enable air transport system optimization 
+• To ensure compliance with safety standards and regulations. 
+• To use ROHs components
+• Requiring low investment in devices (COTs) 
+
+The SENSORIANCE applications span from industrial and vision related applications to aircraft Electro-Optical applications.</objective>
+  <title>SEnsorial awareNess System fOR obstacle detectIon And collisioN avoidanCE</title>
+<identifier>H2020CS2CFP06201701</identifier>
+</project>

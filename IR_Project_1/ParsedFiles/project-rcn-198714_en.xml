@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>198714</rcn>
+  <acronym>NOMA-MRI</acronym>
+  <objective>MRI is one of the most important human clinical imaging modalities. Over the past decade many technological advances have improved image quality substantially. One of the critical trends has been the move towards higher magnetic fields, which has transformed many clinical applications, but has also introduced significant challenges.  These higher fields correspond to higher operating frequencies, which lead to increased image non-uniformities, impairing clinical interpretation, and higher power deposition in the patient, posing significant safety issues. In addition, as the population as-a-whole becomes more obese, high quality MR images become increasingly difficult to acquire even on clinical 3 Tesla scanners. In order to tackle these challenges, MRI systems have become increasingly complicated and expensive.
+There are two concepts in this proposal which set out to address the issues outlined above. The first is the optimization of high permittivity materials to improve image quality for a number of different clinical applications on a person-by-person basis. This requires a full understanding of the effects of these materials, the ability to predict and manufacture the optimum material, and acquiring the best possible data. The second “high-risk high-gain”concept is a totally new way of constructing MR resonators, which is based on conducting and reconfigurable plasmas. This concept can significantly simplify MR resonator design, can enable completely new types of MR experiment to be performed, and has intriguing possibilities to improve hybrid imaging systems such as combined positron emission tomography/MRI scanners.</objective>
+  <title>Novel materials to improve magnetic resonance imaging</title>
+<identifier>ERC2014ADG</identifier>
+</project>

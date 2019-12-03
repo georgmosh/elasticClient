@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194540</rcn>
+  <acronym>DISTRUCT</acronym>
+  <objective>Structural graph theory has proved to be a powerful tool for coping with computational intractability. It provides a wealth of concepts and results that can be used to design efficient algorithms for hard computational problems on specific classes of graphs that occur naturally in applications.
+
+In many applications in computer science, the natural mathematical model are directed graphs. Unfortunately, research in structural graph theory has so far almost exclusively focussed on undirected graphs and no structure theory for directed graphs comparable to the tree-width and graph minors based approach for undirected graphs has been developed that would provide for a similar set of tools and concepts to deal with computational problems on directed graphs.  
+
+The objective of this proposal is to develop such a structure theory aimed specifically at algorithmic applications on directed graphs. The novelty of our approach is that:
+
+a) it is based on directed minors which allows us to avoid the algorithmic problems faced by existing digraph width measures and has not been studied before in this context 
+
+and 
+
+b) it facilitates our recent proof of the excluded directed    grid theorem which is likely to allow entirely new algorithmic techniques for directed graphs.
+
+The focus of the project is on the development of the structural foundations and algorithmic techniques for designing efficient algorithms for a wide range of algorithmic digraph problems. In particular, we will use an approach based on logical definability for developing such algorithmic techniques. 
+
+Furthermore, we will apply our methods to two specific application areas, model-checking in computer-aided verification and inference problems in Bayesian networks.</objective>
+  <title>Structure Theory for Directed Graphs</title>
+<identifier>ERC2014CoG</identifier>
+</project>

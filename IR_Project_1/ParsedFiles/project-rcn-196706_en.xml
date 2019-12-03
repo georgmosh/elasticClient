@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196706</rcn>
+  <acronym>LCODA</acronym>
+  <objective>The overall project objective is to develop an innovative low cost, low maintenance, high performance, high reliability electronic scanning radar sensor system (ES24) for level crossing obstacle detection, capable of detecting objects ranging from large vehicles to bicycles &amp; people, including people lying down. Key features are, only a single sensor is needed to identify the wide range of object sizes, the sensor has no rotating parts &amp; operates in all weathers.ES24 will enable track operators to monitor whether the track is clear or an object has been detected, significantly improving safety for both train passengers &amp; crossing users.
+More than 2,000 significant accidents occur each year on EU member states’ railways. Accounted economic costs are as high as €1.7bn. In 2013, 25% of all significant railway accidents (8% involving pedestrians, 17% vehicles) occurred at level crossings (LC’s). LC safety a key focus area across EU &amp; global rail networks. The European Rail Agency  report 573 significant LC accidents occurred in the EU in 2012, resulting in 373 deaths &amp; 336 serious injuries. Each significant LC accident is estimated to cost €1.7m, i.e. €974m for 2012. LC accidents have damaging impact on the key rail transport strengths: safety, reliability &amp; speed.
+Current object detection (LCOD) systems are expensive, have limited capability in terms of the size of object detected, need combined laser &amp; radar sensor solutions to meet operator needs &amp; generally have rotating parts requiring on-going maintenance. There are currently about 120 000 LCs in the EU. Reducing system cost &amp; improving the performance dramatically increases the addressable LCOD market.
+The Phase 1 project will deliver a detailed report providing a costed technical programme and detailed exploitation plan for the development of a low cost high performance Level Crossing obstacle detection system in phase 2 for high volume implementation in the rail market across Europe and globally.</objective>
+  <title>Electronic scanning MIMO Radar for railway level crossing obstruction detection  alerting</title>
+<identifier>H2020SMEINST12014</identifier>
+</project>

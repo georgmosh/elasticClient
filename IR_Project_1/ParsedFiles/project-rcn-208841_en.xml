@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208841</rcn>
+  <acronym>AssAZAx</acronym>
+  <objective>Efficiencies of European Electric Power (EEP) lines depend of the continuity and stability of the Transmission and Distribution (T&amp;D) network. Nowadays, the only monitoring of the power grid is qualitative and done visually through few periodic staff inspections. This poor monitoring is time consuming, expensive for both electric companies as well as citizens, present delays in situation of natural crisis, and consequently is not efficient.
+So it’s of prime importance to settle a European very precise and low cost automatic sensor for monitoring the stability of the electric grids, which does not exist on the market. So Alphageomega SME invented and realised a new innovative sensor called ReCETT (Remote Control of the Electrical Transmission Tower) which aims to quantitatively determine and monitor automatically the stability of EEP towers as well as their surroundings and associated infrastructures, and transmit sensor information in real time to end-users. This is done through a very precise, small, adaptive, low cost, robust, reliable, wireless, and real time connected ReCETT automatic monitoring displacement sensor.
+One remaining scientific problem to characterize any displacement is to individualize both rotation and translation from 2 perpendicular inclinometers and L1 RTK GNSS to achieve the assessment of small displacements along Z axis. Moreover, we needed to develop the associated software to get such calculation whatever the location and the position of the ReCETT sensor within the deformation area.
+We therefore look for an Innovation Associate (Postdoc Fellow) with good geodesist background in order to solve rotational and translational matrix calculations and able to compute and develop an associated software. Finally, as the Alphageomega ReCETT sensor fits well with the industrial needs (ERDF, Terna...), the Innovation Associate development will give to Alphageomega strong potentialities on the European and Worldwide deformation monitoring market.</objective>
+  <title>AssAZAx: Innovation Methodology for Ground Subsidence Monitoring (The Assessment of small displacements Along Zed Axis)</title>
+<identifier>H2020INNOSUP022016</identifier>
+</project>

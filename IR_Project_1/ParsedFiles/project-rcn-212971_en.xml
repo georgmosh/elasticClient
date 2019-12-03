@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212971</rcn>
+  <acronym>FunFiCO</acronym>
+  <objective>"Epoch-making observational, theoretical and computational developments make this an exceptional time for the
+understanding of gravity in the strong field regime. The recent detection of gravitational waves (GWs), together with other
+ongoing experiments; the discovery of unexpected compact objects in General Relativity (GR); and the breakthroughs in the
+field of Numerical Relativity (NR), make strong gravity a central player in the scientific scene. Exploring different scenarios in
+this context is timely and synergies are mandatory, for such an endeavor.
+
+This project focuses on the construction, theory, phenomenology and dynamics of new families of black holes (BHs) and
+compact objects that are being discovered in GR in the presence of fundamental fields and alternative theories of gravity. Particular focus will be given to astrophysical phenomenology, including GW signals. The research proposed is split into three main items, which, however, are mutually connected:
+
+(a) Construction and physical properties of ""hairy"" BHs and other compact objects, both in GR and other theories of gravity.
+Using numerical methods for solving elliptic coupled PDEs, in different models, we shall construct solutions, and organize
+them into publicly available libraries, of new types of compact objects, also addressing their physical and mathematical
+properties.
+
+(b) Astrophysical phenomenology I. We shall perform test-fields studies to address phenomenological properties of these
+solutions, including shadows and lensing of light, accretion disks and X-ray spectrum, trajectories of stars, Quasi periodic oscillations, scattering of different fields. Using linear perturbation theory, linear stability of these objects and response to perturbations (such as ringdowns) will be studied.
+
+(c) Astrophysical phenomenology II. Fully non-linear numerical evolutions will be performed, to study non-linear stability of these new objects and the GW signals of binaries, to be compared with observations."</objective>
+  <title>Fundamental fields and compact objects: theory and astrophysical phenomenology</title>
+<identifier>H2020MSCARISE2017</identifier>
+</project>

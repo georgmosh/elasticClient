@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211648</rcn>
+  <acronym>HiFi-ELEMENTS</acronym>
+  <objective>Within the automotive product development cycle virtual and heterogeneous testing is becoming increasingly established through component, module and vehicle-level simulation and Hardware-in-the-Loop test-beds—enabled by ever increasing computing power and communications bandwidth available.
+Though a number of standards in this field have been established (FMI, ASAM XiL API), models are still mostly created in a fragmented manner: using domain-specific tools to create, manage and execute simulations; no standardisation of the content of the functional interfaces (FMI does standardise the format); limited scalability. This fragmentation leads to a lot of redundant effort as models of the same component or system are re-created several times.
+HiFi-ELEMENTS will address this fragmentation through two main mechanisms: Firstly, we will develop, validate and publish a recommendation for standardisation of model interfaces for common e-drive components (e-machine, inverter, battery, DC/DC converter, thermal management system), and will implement compliant versions of existing models. Secondly, we will implement a seamless workflow linking extended versions of existing tools—a model/data management tool and a co-simulation tool for MiL and HiL environments—augmented with effort-saving automated methods for model parameterisation and test case generation.
+ Validation of standardised models and workflow will be done in 4 industrially relevant use cases depicting 4 common scenarios in e-drivetrain and EV development. On project conclusion, the interface recommendations and workflow methods will be disseminated in order to gain widespread EV-industry adoption. Consortium partners are very intensive users of virtual testing and will directly use the project results, while tool vendor partners will exploit the results by bringing extended software tools to market.</objective>
+  <title>High Fidelity Electric Modelling and Testing</title>
+<identifier>H2020GV2017</identifier>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>215394</rcn>
+  <acronym>NACHO</acronym>
+  <objective>Tobacco abuse elevates the risk of developing type 2 diabetes (T2D). This effect is attributed to nicotine, the major addictive compound in cigarettes and chewing tobacco. Nicotine acutely activates nicotinic receptors (nAchRs) while extended exposure results in receptor desensitization. Accumulating evidence suggests that long-term exposure to nicotine impairs beta cell function. Recent results (host laboratory) demonstrate that nicotine acutely modulates insulin secretion and that reduced nAchR expression in beta cells results in an increased risk for developing T2D. This suggests that activation of nAchRs is critical for beta cell function. However, the precise mechanisms to modulate beta cell function upon long-term exposure to nicotine in healthy and metabolically compromised conditions, have not been determined yet. 
+
+NACHO will investigate the effects of nicotine on insulin secretion using MafA mutant animals (model for beta cell dysfunction lacking specific nAchRs (Chrnb2/4)) and human islets. Molecular mechanisms by which nicotine affect insulin secretion will be studied by generating stable clones (CRISPR/Cas9) of human beta cells (EndoC-βH2) lacking CHRNB2/4 and evaluating cell signaling responses (calcium/sodium influx, exocytosis, plasma membrane potential) to nicotine/acetylcholine. The role of long-term nicotine exposure on beta cell adaptability will be assessed in diet-induced obese WT and MafA mutant mice treated with nicotine and evaluating beta cell function and proliferation in vivo (glucose tolerance) and ex vivo (insulin secretion and immunohistochemistry). 
+ 
+The clinical impact of specific nAchR gene risk alleles and nicotinic signaling on insulin secretion will be evaluated in non-diabetic humans. Understanding how nicotine influences beta cell function in diabetes development is of considerable clinical interest since tobacco abuse is common and smoking cessation therapy is widely used. NACHO will aid to develop personalized medicine.</objective>
+  <title>Nicotine actions on beta cell function in health and disease</title>
+<identifier>H2020MSCAIF2017</identifier>
+</project>

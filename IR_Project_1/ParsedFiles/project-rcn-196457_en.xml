@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196457</rcn>
+  <acronym>SmartX</acronym>
+  <objective>SmartX - an innovative ICT platform for electricity demand-supply management allows energy suppliers to optimize their operating costs on one hand and reduce electricity bills for their customers on the other. SmartX consists of a central control unit that makes energy supplier able to control energy consumption and generation at the level of single houselhold. For example energy vendor may be interested to limit some non-critical energy-consuming assets at the peak time (like air conditioning when nobody is at home) or maximize home-based PV installation capacity of its customer at the peak time. 
+Thanks to that, the vendor is able to buy less energy in the wholesale market at the peak times. Yielding control over some consuming/producing assets brings value to vendors' final customers - they will be able to pay less for the energy (less consumption in peak times) and/or get better price for the green energy they produce at home and they will not need to pay any attention in order to achieve that. Moreover vendors will probably offer better tariffs to the customers connected to SmartX as the cost of supply-demand risk management for such  group of customers will be much cheaper.</objective>
+  <title>SmartX is an innovative ICT platform for electricity demand-supply management</title>
+<identifier>H2020SMEINST12014</identifier>
+</project>

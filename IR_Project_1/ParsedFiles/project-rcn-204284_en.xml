@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204284</rcn>
+  <acronym>HyGrid</acronym>
+  <objective>The key objective of the HyGrid project is the design, scale-up and demonstration at industrially relevant conditions a novel membrane based hybrid technology for the direct separation of hydrogen from natural gas grids. The focus of the project will be on the hydrogen separation through a combination of membranes, electrochemical separation and temperature swing adsorption to be able to decrease the total cost of hydrogen recovery. The project targets a pure hydrogen separation system with power and cost of &lt; 5 kWh/kgH2 and &lt; 1.5 €/kgH2. A pilot designed for 25 kg/day of hydrogen will be built and tested.
+
+To achieve this, HyGrid aims at developing novel hybrid system integrating three technologies for hydrogen purification integrated in a way that enhances the strengths of each of them: Membrane separation technology is employed for removing H2 from the “low H2 content” (e.g. 2-10 %) followed by electrochemical hydrogen separation (EHP ) optimal for the “very low H2 content” (e.g. &lt;2 %) and finally temperature swing adsorption (TSA) technology to purify from humidity produced in both systems upstream. The objective is to give a robust proof of concept and validation of the new technology (TRL 5) by designing, building, operating and validating a prototype system tested at industrial relevant conditions for a continuous and transient loads. To keep the high NG grid storage capacity for H2, the separation system will target the highest hydrogen recovery.
+
+The project will describe and evaluate the system performance for the different pressure ranges within 0.03 to 80 bar (distribution to transmission) and test the concept at pilot scale in the 6-10 bar range.
+
+HyGrid will evaluate hydrogen quality production according to ISO 14687 in line not only with fuel cell vehicles (Type I Grade D) but also stationary applications (Type I Grade A) and hydrogen fueled ICE (Type I grade E category 3). 
+
+A complete energy and cost analysis will be carried out in detail.</objective>
+  <title>Flexible Hybrid separation system for H2 recovery from NG Grids</title>
+<identifier>H2020JTIFCH20151</identifier>
+</project>

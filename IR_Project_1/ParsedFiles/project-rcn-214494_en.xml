@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>214494</rcn>
+  <acronym>DeciGUT</acronym>
+  <objective>"Logic-based knowledge representation (KR) constitutes a vital area of IT. The field  inspires and guides scientific and technological developments enabling intelligent management of large and complex knowledge resources. Elaborate languages for specifying knowledge (so-called ontology languages) and querying it have been defined and standardized. Algorithms for automated reasoning and intelligent querying over knowledge resources are being developed, implemented and practically deployed on a wide scale. 
+Thereby, decidability investigations play a pivotal role to characterize what reasoning or querying tasks are at all computationally solvable. 
+Past decades have seen a proliferation of new decidable formalisms for KR, dominated by two major paradigms: description logics and rule-based approaches, most notably existential rules. Recently, these research lines have started to converge and first progress has been made toward identifying commonalities among the various formalisms. Still, the underlying principles for establishing their decidability remain disparate, ranging from proof-theoretic notions to model-theoretic ones. 
+DeciGUT will accomplish a major breakthrough in the field by establishing a ""Grand Unified Theory"" of decidability. We will provide a novel, powerful model-theoretic criterion inspired by advanced graph-theoretic notions. We will prove that the criterion indeed ensures decidability and that it subsumes most of (if not all) currently known decidable formalisms in the KR field.
+We will exploit our results toward the definition of novel decidable KR languages of unprecedented expressivity. We will ultimately extend our framework to encompass more advanced KR features beyond standard first order logic such as counting and non-monotonic aspects.
+Our research will draw from and significantly impact the scientific fields of AI, Database Theory and Logic, but also give rise to drastically improved practical information management technology."</objective>
+  <title>A Grand Unified Theory of Decidability in Logic-Based Knowledge Representation</title>
+<identifier>ERC2017COG</identifier>
+</project>

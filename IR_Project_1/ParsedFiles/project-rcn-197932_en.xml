@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>197932</rcn>
+  <acronym>HEALTH-CODE</acronym>
+  <objective>HEALTH-CODE aims at implementing an advanced monitoring and diagnostic tool for μ-CHP and backup PEM fuel cell systems equipped with different stacks. Such a tool is able to determine the FC current status (condition monitoring) to support stack failures detection and to infer on the residual useful lifetime. Five failure modes will be detected: i) change in fuel composition; ii) air starvation; iii) fuel starvation; iv) sulphur poisoning; v) flooding and de-hydration.
+
+The main project objectives are: i) the enhancement of electrochemical impedance spectroscopy (EIS) based diagnosis; ii) the development of a monitoring and diagnostic tool for state-of-health assessment, fault detection and isolation as well as degradation level analysis for lifetime extrapolation; iii) the reduction of experimental campaign time and costs. Moreover, the improvement of power electronics for FC is also considered. These targets will be achieved through the implementation of several methodologies and techniques, well suited for industrial application.
+
+Several algorithms will be developed relying on on-board EIS measurements of the fuel cell system impedance. Moreover, low-cost diagnostic concepts are also proposed for a straightforward implementation on FCS controllers.
+
+The project exploits the outcomes of the previous FCH 1 JU funded project D-CODE, during which a proof of-concept validated in laboratory (TRL3-4) was developed. HEALTH-CODE will increase the TRL up to level 5.
+
+The exploitation of the project outcomes will lead to low-cost and reliable monitoring and diagnostic approaches and related applications (e.g. power electronics). These results will have an impact on stationary FCS with a direct increase in electrical efficiency, availability and durability, leading to a reduction in maintenance and warranty costs, thus increasing the customers’ satisfaction. Therefore, HEALTH-CODE contributes to the enhancement of FC competitiveness towards a wider market deployment.</objective>
+  <title>Real operation pem fuel cells HEALTH-state monitoring and diagnosis based on dc-dc COnverter embeddeD Eis</title>
+<identifier>H2020JTIFCH20141</identifier>
+</project>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>201457</rcn>
+  <acronym>ANSWER</acronym>
+  <objective>Conventional robots usually consist of heavy rigid components, such as engines, gearboxes and rigid linkages that are made of high-density materials. Although they can perform complex movements and processes, they are typically not able to perform movements similar to those of biological models.
+Dielectric elastomer actuators (DEAs) allow flexible mechanisms to behave as artificial muscles. They typically consist of mechanically pre-strained elastomer membranes and compliant electrodes. They are lightweight and can produce impressive muscle-like strains. DEAs are capable of mimicking the well-established antagonistic principle found in nature. To control dielectric elastomer actuators, complex, expensive and external electronic control units are generally required, which often makes the practical application of DEA complicated and rather attractive of commercial products.
+However, dielectric elastomers can also act as sensors and piezoresistive switches (Dielectric elastomer switches - DESs), enabling the integration of monitoring and control functions in compliant components themselves.
+During the proposed project at the Biomimetics Laboratory at the University of Auckland and the TU Dresden, dielectric elastomer components will be used in complex soft robotic systems. The aim of the proposed project is to integrate sensing, signal processing and actuation by the use of only flexible dielectric elastomer components in soft robotic structures without using conventional electronics. 
+Based on the current knowledge of the DESs at the Biomimetics Laboratory, sensor-actuator systems comprising dielectric elastomer (DE) sensors, actuators and logic switches will be designed, to monitor, evaluate and react to certain environmental conditions.
+The developed laboratory scale processes will be transferred to modern production technologies at the Solid State Electronics Laboratory in Dresden in cooperation with the Werner-Hartmann-Zentrum for technologies of electronics.</objective>
+  <title>Autonomous Soft Robots Without Electronics</title>
+<identifier>H2020MSCAIF2015</identifier>
+</project>

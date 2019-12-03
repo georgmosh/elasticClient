@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206228</rcn>
+  <acronym>ST4RT</acronym>
+  <objective>The objective of the proposal is research in semantic, ontology based automation of transformations between heterogeneous data formats, and its application to a complex ‘after-sales’ process use case in an actual run-time demonstration scenario. The technology will leverage Shift2Rail Interoperability Framework (IF) components developed in the IT2Rail “lighthouse” project, extending it for use in related Shift2Rail projects under the “S2R-CFM-IP4-01-2015: Shopping, booking and ticketing of multimodal travel solutions” and “S2R-CFM-IP4-02-2015: Travel companion and tracking services” calls.  The project will additionally provide a case scenario for exercising the Governance and management structure developed under the related “S2R-OC-IP4-01-2016: IF Governance, ensuring its market uptake and sustainability” call.
+
+The objectives will be achieved through a partnership of specialist participants including research institutions, a major European rail operator, industry associations representing the rail sector and public transportation authorities, and industrial providers of mission critical ICT solutions to the rail sector.  Participants, which are also involved in the original consortium of designers for the IF in IT2Rail, will perform work organised in specific work packages focused on fundamental industrial research in semantic web technologies. These technologies will comprise ontology engineering and automated semantic transformations, in a dedicated work package, to provide the actual runtime demonstration scenario of the application of such technology to transformations of existing European TAP-TSI specification exchanges executed on an existing industrial platform for such exchanges.
+The project extends the capabilities of the IF as described in the Shift2Rail Multi Annual Action Plan contributing to the realisation of a distributed semantic “web of transport” integrating the TAP-TSI specification as one of its elements.</objective>
+  <title>Semantic Transformations for Rail Transportation</title>
+<identifier>H2020S2RJUOC2016012</identifier>
+</project>

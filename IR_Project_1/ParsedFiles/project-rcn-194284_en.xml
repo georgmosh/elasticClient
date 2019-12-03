@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194284</rcn>
+  <acronym>TAPPS</acronym>
+  <objective>Open and smart cyber-physical systems (CPS) are considered to be the next revolution in ICT with enormous economic potential enabling novel business models for integrated services and products. In many areas of CPS devices, there is a strong trend towards open systems, which can be extended during operation instantly adding functionalities on demand. The main goal of the TAPPS (Trusted Apps for open CPS) project is the development of a platform for CPS Apps, which can also access and modify device internals. Therefore, the solution will address all necessary layers from hardware over software to an app store concept always ensuring security and full real-time support for the applications. The extensibility and the pervasive trusted environment of TAPPS are important differentiators that will enable new market extensions to keep pace with user expectations and latest technology. 
+
+As current, rich execution platforms for apps are limited in security, the project will develop a parallel, real-time Trusted Execution Environment (TEE) for highly-trusted CPS Apps. The TEE is located separately from existing the execution environment inside the System Control Units and exploits functionalities provided by the novel hardware-, processor- and network-centric security mechanisms as well as a hypervisor for virtualization. Furthermore, TAPPS will provide and validate an end-to-end solution for development and deployment of trusted apps, including an App Store and a model-based tool chain for trusted application development including verification tools. This multi-level trusted Apps platform and tool chain are matured and validated in health and automotive application domains using industrial, realistic use cases paving the way for future exploitation in further demanding application domains.</objective>
+  <title>Trusted Apps for open CPS</title>
+<identifier>H2020ICT20141</identifier>
+</project>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212950</rcn>
+  <acronym>LOFAR4SW</acronym>
+  <objective>TThe LOFAR for Space Weather (LOFAR4SW) design proposal will deliver the full conceptual and technical design for creating a new leading-edge European research facility for space weather science.
+Space weather research is prominent in international research programmes (e.g., H2020, ESA, WMO, COSPAR), because of its high societal relevance: vital infrastructures depend on technology that is vulnerable to the impact of space weather events, particularly geomagnetic storms related to solar outbursts. The implemented LOFAR4SW facility will enable high-impact solar and space weather research, and will uniquely provide the missing link of global measurements of the interplanetary magnetic field – a key parameter in forecasting the severity of geomagnetic storms.
+The LOFAR4SW design project maximally leverages the infrastructure and technology of LOFAR; now the world’s foremost low frequency radio astronomy telescope and a widely recognised enabler of innovation. Designing a significant upgrade in hardware, algorithms, and software will allow to create, at a fraction of the cost of building a new facility, a large scale cutting-edge research facility providing simultaneous independent access to both the radio astronomy and the space weather research communities. 
+For the LOFAR4SW systems design approach, the consortium has a powerful combination of partners, with clear, focused work packages that engage science experts motivated by the physical research challenges and with up-to-date knowledge of the data analysis methods, and link these to engineers intimately familiar with LOFAR and highly experienced in low frequency and data-intensive processing techniques. Emphasis will also be placed on Dissemination of designed data analysis methods to prepare prospective users, on Governance development with stakeholders and policy makers to ensure a support base for a smooth evolution of the LOFAR facility, and on Outreach to promote wider public awareness of space weather issues.</objective>
+  <title>LOFAR for Space Weather</title>
+<identifier>H2020INFRADEV20171</identifier>
+</project>

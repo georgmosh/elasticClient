@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196825</rcn>
+  <acronym>MOSES</acronym>
+  <objective>The main objective of MOSES is to put in place and demonstrate at the real scale of application an information platform devoted to water procurement and management agencies (e.g. reclamation consortia, irrigation districts, etc.) to facilitate planning of irrigation water resources, with the aim of:
+• saving  water;
+• improving services to farmers;
+• reducing monetary and energy costs.
+
+To achieve these goals, the MOSES project combines in an innovative and integrated platform a wide range of data and technological resources: EO data, probabilistic seasonal forecasting and numerical weather prediction, crop water requirement and irrigation modelling and online GIS Decision Support System. 
+Spatial scales of services range from river basin to sub-district; users access the system depending on their expertise and needs. Main system components are:
+1. early-season irrigated crop mapping
+2. seasonal weather forecasting and downscaling
+3. in-season monitoring of evapotranspiration and water availability
+4. seasonal and medium/short term irrigation forecasting
+
+Four Demonstration Areas will be set up in Italy, Spain, Romania and Morocco, plus an Indian organization acting as observer. Different water procurement and distribution scenarios will be considered, collecting data and user needs, interfacing with existing local services and contributing to service definition. Demonstrative and training sessions are foreseen for service exploitation in the Demonstration Areas.
+The proposed system is targeting EIP on Water “thematic priorities” related to increasing agriculture water use efficiency, water resource monitoring and flood and drought risk management; it will be compliant to INSPIRE. This SME-led project address to the irrigated agriculture users an integrated and innovative water management solution.</objective>
+  <title>Managing crOp water Saving with Enterprise Services</title>
+<identifier>H2020WATER2014twostage</identifier>
+</project>

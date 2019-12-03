@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>203403</rcn>
+  <acronym>TAKE5</acronym>
+  <objective>The TAKE5 project is the next in a chain of thematically connected ENIAC JU KET pilot line projects which are associated with 450mm/300mm development for the 10nm technology node and the ECSEL JU project SeNaTe aiming at the 7nm technology node. The main objective of the TAKE5 project is the demonstration of 5nm patterning in line with the industry needs and the ITRS roadmap in the Advanced Patterning Center at the imec pilot line using innovative design and technology co-optimization, layout and device architecture exploration, and comprising demonstration of a lithographic platform for EUV technology, advanced process and holistic metrology platforms and new materials.
+A lithography scanner will be developed based on EUV technology to achieve the 5nm module patterning specification. Metrology platforms need to be qualified for 5nm patterning of 1D, 2D and 3D geometries with the appropriate precision and accuracy. For the 5nm technology modules new materials will need to be introduced. Introduction of these new materials brings challenges for all involved deposition processes and the related equipment set. Next to new deposition processes also the interaction of the involved materials with subsequent etch steps will be studied. The project will be dedicated to find the best options for patterning. 
+The project relates to the ECSEL work program topic Process technologies – More Moore. It addresses and targets as set out in the MASP at the discovery of new Semiconductor Process, Equipment and Materials solutions for advanced CMOS processes that enable the nano-structuring of electronic devices with 5nm resolution in high-volume manufacturing and fast prototyping. The project touches the core of the continuation of Moore’s law which has celebrated its 50th anniversary and covers all aspects of 5nm patterning development.</objective>
+  <title>Technology Advances and Key Enablers for 5 nm</title>
+<identifier>H2020ECSEL20152IAtwostage</identifier>
+</project>

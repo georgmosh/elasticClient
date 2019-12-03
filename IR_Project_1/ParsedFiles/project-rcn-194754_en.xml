@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194754</rcn>
+  <acronym>PILOTS</acronym>
+  <objective>Virtual platforms have been mainly used to support anticipation of embedded software (eSW) development of very complex System on Chip (SoC) or for Software-based functional validation of complex IP. The explosion of the number of connected things change the complexity paradigm: the challenge is now to manage hundreds of distributed platforms (SoCs or boards) that include processors, sensors, MEMs and communication devices.  
+
+Using physical board to prototype each of these platforms to verify the overall system behaviour is too expensive and not scalable for system providers. System integrators require a scalable solution for system prototyping. The use of virtual platforms appears to be the answer, but they lack tools to deploy and integrate this solution in their prototyping flow. 
+ 
+According to state of the art and technical analysis with CEA and Fraunhofer, no such solution is available today; as a long time provider of hardware integration platform, Magillem has been a pioneer in design environment software for SoC integration and SoC virtual platform since its early days and believe to be in a unique position to introduce a very innovative solution for IoT enablement. By using PILoTS, European leading system integrators, as well as suppliers of MEMS, micro-controllers, connected systems would save time and cost, during design, verification and certification, and vastly improve their competitiveness.</objective>
+  <title>Prototyping Internet Lot of Things Software</title>
+<identifier>H2020SMEINST12014</identifier>
+</project>

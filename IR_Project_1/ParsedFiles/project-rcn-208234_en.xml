@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208234</rcn>
+  <acronym>TERA</acronym>
+  <objective>The goal of this project is to improve the performance and efficiency of fiber-optic communication systems that operate at terabit-per-second data rates. This goal will be realized by analyzing and optimizing the error-correcting codes used by these systems.
+
+Our first objective is to derive a finite-length scaling law which characterizes the code performance as a function of the code length (in bits). As a major novelty, we consider deterministic codes, which can fulfill the stringent requirements of terabit-per-second systems in terms of target bit error rates and hardware implementation. A scaling law can be used, for example, to rapidly assess the code performance in order to identify trade-offs and optimize system parameters. It thus constitutes a fundamental tool in order to design next-generation systems and to further push the limits of fiber-optic data transport.
+
+Our second objective is to reduce the decoding complexity. Current algorithms waste resources (power) because they do not exploit valuable information that is exposed during the decoding process. We minimize complexity by designing efficient component code selection strategies. We will also theoretically analyze the expected complexity savings, in particular in the regime where the noise level approaches the code’s threshold. The development of low-complexity decoding algorithms plays an important role in the design of energy-efficient fiber-optic systems decoding contributes substantially to the overall energy consumption. Therefore, this work will help to ensure that future data traffic demands can be met in a sustainable way.
+
+Our results are broadly applicable also for Flash memory systems, vehicular communication networks, and the computation of sparse fast Fourier transforms.</objective>
+  <title>Coding for terabit-per-second fiber-optical communications</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

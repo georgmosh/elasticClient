@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211089</rcn>
+  <acronym>Content4All</acronym>
+  <objective>Improving the accessibility of content for the Deaf community is an important goal for both EU governments and broadcast industry regulators. Although legislation is being used to coerce content producers and broadcasters to do so, the cost of producing sign-language content and the negative impact of having a sign-interpreter appearing on the content for hearing individuals has relegated sign-language programming to late nights or a small number of sign-presented programs. A low-cost solution for personalized sign-interpreted content creation can address both of these problems, leading to greater accessibility to media content for Deaf users. 
+
+CONTENT4ALL proposes such a solution to the problem in the short-term, which is also commericalizable, and proposes innovations to technologies that can lead to automated sign-translation capabilities in long-term. To this end, it builds upon the technologies demonstrated by the consortium partners in previous EU projects. 
+
+As a first development a remote signing apparatus (located off-premises of the broadcaster) will be produced to capture a human sign-interpreter’s signs, pose and facial expressions and to parameterize this information. Then, it will be rendered photo-realistically as a 3D representation of the human sign-interpreter at the broadcaster for production of the personalized stream for Deaf users. 
+While this solution can be used commercially, resulting datasets will provide a vast source of information for learning how to parameterize sign information for translation purposes. 
+
+The second development of CONTENT4ALL will focus on advancing the algorithms/models used to do so, with the intent to create an open dataset for further research into automated signing. 
+
+Finally, CONTENT4ALL will demonstrate automated sign-translation applied to a real-world TV broadcasting scenario, which is envisaged to lead to new approaches and innovations in the area in the long-run.</objective>
+  <title>Personalised Content Creation for the Deaf Community in a Connected Digital Single Market</title>
+<identifier>H2020ICT20162</identifier>
+</project>

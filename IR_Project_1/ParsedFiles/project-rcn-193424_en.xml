@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193424</rcn>
+  <acronym>RECOBA</acronym>
+  <objective>In many aspects batch processes are superior to continuous. Therefore it is worthwhile to take advantage of recent progress in sensor technologies, modelling and automation to develop a new paradigm for the design and conduction of batch processes: a) operation at maximum efficiency, b) dynamic, quality driven process trajectories rather than fixed schedules c) detailed analysis and tracking of all relevant process and product parameter. The main objective of the proposed project is the maximization of efficiency (reg. quality, energy, raw materials, and costs) of batch processes. 
+Integrated process control is essential for an efficient operation of industrial batch processes: it tracks the evolution of product properties, detects deviations from the target values for product quality and derives corrective actions at a stage when an automatic compensation of deviations from an optimal trajectory is still possible. This contributes to optimal energy and raw material utilisation, shortens production time and enhanced the product quality. 
+With the ambition to deliver solutions with relevance to all sectors of the process industries, the RECOBA consortium represents a selection of batch processes operating industries and partners across the value chain of batch process control, among them 3 global players from the polymer industry (BASF), the steel industry (TKSE), and the silicon metal industry (ELKEM). 
+Within RECOBA there will be developed and validated:
+(1) New &amp; innovative solutions for the measurement of different types of quality aspects. 
+(2) New models to realise integrated process control of batch processes &amp; suitable online parameter adaptation technologies to keep these models valid.
+(3) Control modules to realise concepts for real-time, model based &amp; closed loop process control, which are easily adaptable to existing batch processes in various industrial sectors.
+(4) Business models to approach relevant industrial sectors for a future market entry.</objective>
+  <title>Cross-sectorial real-time sensing, advanced control and optimisation of batch processes saving energy and raw materials</title>
+<identifier>H2020SPIRE2014</identifier>
+</project>

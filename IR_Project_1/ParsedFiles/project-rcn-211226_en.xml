@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211226</rcn>
+  <acronym>ITUL</acronym>
+  <objective>Shannon's Information Theory paved the way for the information era by providing the mathematical foundations of digital information systems. A key underlying assumption of Shannon's key results is that the probability law that governing system is known, allowing to optimize the codebook and decoder accordingly. 
+
+There are a number of important situations where perfectly estimating the system law is impossible; in these situations the codebook and decoder must be designed without complete (or no) knowledge of the system law.
+The vast majority of the Information Theory literature makes strong simplifying assumptions on the model. Theoretical studies that provide a general treatment of information processing with uncertain laws are hence urgently needed. For general systems, standard asymptotic techniques cannot be invoked and new techniques must be sought. A fundamental understanding of the impact of uncertainty in general systems is crucial to harvesting the potential gains in practice. 
+
+This project is aimed at contributing towards the ambitious goal of providing a unified framework for the study of Information Theory with uncertain laws. A general framework based on hypothesis testing will be developed and code designs and constructions that naturally follow from the hypothesis testing formulation will be derived.
+This unconventional and challenging treatment of Information Theory will advance the area and will contribute to Information Sciences and Systems disciplines where Information Theory is relevant.
+
+A comprehensive study of the fundamental limits and optimal code design with law uncertainty for general models will represent a major step forward in the field, with the potential to provide new tools and techniques to solve open problems in close disciplines. Therefore, the outcomes of this project will not only benefit communications, but also areas such as probability theory, statistics, physics, computer science and economics.</objective>
+  <title>Information Theory with Uncertain Laws</title>
+<identifier>ERC2016COG</identifier>
+</project>

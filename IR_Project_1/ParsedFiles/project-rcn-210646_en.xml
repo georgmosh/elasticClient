@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210646</rcn>
+  <acronym>Anapphylaxis</acronym>
+  <objective>Adan Medical Innovation is a private company focused on the medical devices and the m-health solutions markets. We have patented an m-Health technology for anaphylaxis management, which consists on a smart case for an epinephrine auto-injector linked via Bluetooth to a medical mobile app. Anaphylaxis is a serious allergic reaction that is rapid in onset and may cause death. The only adequate treatment is an immediate intramuscular epinephrine injection by using an auto-injector. However, patient self-management of auto-injectors has several problems: a) Need to check periodically drug condition, b) low adherence because patients forget carrying the auto-injector, c) difficulties to administer intramuscular epinephrine. 
+Adanmi has developed the first integrated solution to solve all these issues: a) The smart auto-injector case monitors epinephrine condition; b) The smartphone alerts distance from auto-injector in case the subject forgets it, c) during anaphylaxis it initiates an automated emergency protocol alerting contacts with exact GPS location and providing administration video-instructions.</objective>
+  <title>The first Integrated m-Health solution for anaphylaxis management.</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

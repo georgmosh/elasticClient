@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>201059</rcn>
+  <acronym>OEMBS</acronym>
+  <objective>The quest for a complete understanding of out-of-equilibrium behaviors in entangled many-body systems is a fundamental challenge in contemporary physics. In contrast with equilibrium, where several effective approaches (based on low-energy approximations) are available, there is no effective framework to describe out-of-equilibrium phenomena yet. One has then to rely only on numerical methods, such as the time-dependent Density Matrix Renormalization Group (tDMRG).
+In this context, the goal of the project is to clarify fundamental aspects of out-of-equilibrium physics in strongly-entangled systems, both in one and in two dimensions. The proposed research pursues a very interdisciplinary approach, by combining state-of-the-art entanglement-based numerical tools, as well as exactly-solvable models. Specifically, in one dimension the project aims at developing a better numerical and analytical framework to: i) simulate the full out-of-equilibrium dynamics in integrable models, merging Monte Carlo and Bethe ansatz techniques; ii) understand the out-of-equilibrium behavior of many-body continuous systems, employing the framework of tensor network techniques (continuous matrix product states); iii) understand the interplay between disorder and integrability in many-body localized phases of matter. Finally, in two dimensions the aim of the project is to characterize the out-of-equilibrium signatures of topological order in quantum spin liquids, with special attention to the comparison with recent experimental results.</objective>
+  <title>Out-of-equilibrium entangled many-body systems</title>
+<identifier>H2020MSCAIF2015</identifier>
+</project>

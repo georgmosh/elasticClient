@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212161</rcn>
+  <acronym>HERMES</acronym>
+  <objective>TAITUS, a company with a 12+ years success track record providing services to the most relevant players in the space sector (e.g. ESA, THALES, AIRBUS) and big companies (e.g. PETROBRAS). Moreover, our talented professional team is composed by renown experts in the Space sector, as is the case of our CEO, Mr Felipe Martín-Crespo (15+ years’ experience as ESA’s Technical Officer of the Envisat Payload Data Segment development, in the Earth Observation Projects Division), or Mr Stephen Wu (25+ years’ experience in the field of Earth Observation, 15+ years’ experience in ESA’s establishment in Frascati, Italy).
+
+HERMES is a SW development ecosystem (HERMES SDK plus applications, plugins and services)that allows building quickly and efficiently SW systems for the space industry.
+1. Models successfully proven on-the-field on rigorous missions (e.g. Sentinel program).
+2. Our high quality SW Development Kit (SDK) let our clients save more than 65% of development cost, thanks to its high modularity and our SDK license cost is 50% cheaper than those from our competitors with equivalent features.
+3. Uncompromised embedded visualisations engine.
+
+More importantly, we offer a unique boost in execution performance.
+1. Our proprietary General Purpose Graphic Processing Unit (GPGPU) algorithmic (10x-100x boost in processing speed) let our clients obtain the results of the complex calculations involved in satellite-data acquisition missions in a few minutes instead of waiting several hours, which directly impacts their satellite-data consumption strategy (75% costs reduction).
+2. Moreover, this is a unique selling point that none of our competitors can offer and our main competitive advantage.
+3. Furthermore, timeliness is critical in applications such as disaster warning systems, where response time measures in terms of human lives, or natural disaster management, such as oil-spills where response time is critical to minimise the long-term environmental impact.</objective>
+  <title>High Efficiency Real-Time Multithreading Engine for Space applications</title>
+<identifier>H2020SMEINST220162017</identifier>
+</project>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208203</rcn>
+  <acronym>COEXIST</acronym>
+  <objective>Development of a Confined, Optically Enhanced X-ray Imaging Source for Tomography (COEXIST). This project aims to leverage fundamental physics research to enhance the soft X-ray emission of a laser produced plasma light source, which is core to the development of a table-top soft X-ray tomograph (SXT) system. Soft X-ray light sources from a laser produced plasma is an emerging technology in table-top sub-cellular imaging, capable of providing high-contrast, whole cell (~ 15-micron penetration depth), natural (fully hydrated), 3-dimensional, high-resolution (&lt; 25 nm) tomographs. Table top SXT systems are potentially a key research tool for future drug discovery and disease research, which currently rely on successful synchrotron beam-times applications for such images. Despite the potential, a fundamental drawback of table-top SXTs, when compared to synchrotron sources, is the relative brightness and thus the sample exposure time for imaging. The COEXIST project proposes to halve acquisition time of the SiriusXT soft X-ray light source and in turn improve image resolution, by increasing the laser plasma source brightness by up to a factor of ten This increase will be achieved via a combination of laser pre-pulsing, magnetic confinement and debris mitigation, technologies which have been proven via fundamental research, but have yet to emerge into a commercial SXT tool.</objective>
+  <title>Confined, Optically Enhanced, X-ray Imaging Source for Tomography</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

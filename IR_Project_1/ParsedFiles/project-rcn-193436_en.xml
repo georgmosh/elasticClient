@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193436</rcn>
+  <acronym>ACCEPT</acronym>
+  <objective>Assistant for Quality Check during Construction Execution Processes for Energy-efficienT buildings
+
+Problem: What the consortium sees as a major problem today is the potential loss of benefits of energy-efficient building components because of the lack of knowledge or bad implementation during the construction processes.
+
+
+Solution: During the project ACCEPT will be created – An assistant for quality check during construction execution processes for energy-efficienT buildings. The assistant will run on Smart Glasses and unobtrusively guide workers during the construction on site. This provides a standardized and coordinated process for all workers, ensuring that all benefits of energy-efficient building components are maintained.
+
+From a user perspective ACCEPT is focused on the following very clear main results:
+
+1. The Construction Operator Assistant App (CoOpApp) running on Smart Glasses, which passively collects data and actively provides guidance to the worker on site during the building process. (Pillar I: Advanced Knowledge Transfer for Energy-efficient Construction)
+2. A Site Manager App (SiMaApp)   running on a mobile device, which allows to remotely coordinate the working process as well as collect additional data on site by different sensors. (Pillar II: Agile Project Coordination for Bridging Heterogeneity)
+
+3. An interactive web-based Dashboard as a monitoring and quality assurance solution. The Dashboard will use self-inspection methods to determine important characteristics such as U-Values. (Pillar III: Adaptive Quality Assurance with Self-Inspection Features)
+
+The project is fully build around achieving a maximum of impaxt: The three results will be accompanied by 7 real-world pilots grouped into 3 piloting areas within the project. Pilots are located in 4 different EU countries.</objective>
+  <title>Assistant for Quality Check during Construction Execution Processes for Energy-efficienT buildings</title>
+<identifier>H2020EeB2014</identifier>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206314</rcn>
+  <acronym>HARMONIC</acronym>
+  <objective>This proposal is concerned with several themes which lie in the crossroads of Harmonic Analysis and Discrete Geometry. Harmonic Analysis is fundamental in all areas of science and engineering, and has vast applications in most branches of mathematics. Discrete Geometry deals with some of the most natural and beautiful problems in mathematics, which often turn out to be also very deep and difficult in spite of their apparent simplicity. The proposed project deals with some fundamental problems which involve an interplay between these two important disciplines.
+
+One theme of the project deals with tilings of the Euclidean space by translations, and the interaction of this subject with questions in orthogonal harmonic analysis. The PI has recently developed an approach to attack some problems in connection with the famous conjecture due to Fuglede (1974), concerning the characterization of domains which admit orthogonal Fourier bases in terms of their possibility to tile the space by translations, and in relation with the theory of multiple tiling by translates of a convex polytope, or by a function. A main goal of this project is to further develop new methods and extend some promising intermediate results obtained by the PI in these directions.
+
+Another theme of the proposed research lies in the mathematical theory of quasicrystals. This area has received a lot of attention since the experimental discovery in the 1980's of the physical quasicrystals, namely, of non-periodic atomic structures with diffraction patterns consisting of spots. Recently, by a combination of harmonic analytic and discrete combinatorial methods, the PI was able to answer some long-standing questions of Lagarias (2000) concerning the geometry and structure of these rigid point configurations. In the present project, the PI intends to continue the investigation in the mathematical theory of quasicrystals, and to analyze some basic problems which are still open in this field.</objective>
+  <title>Studies in Harmonic Analysis and Discrete Geometry: Tilings, Spectra and Quasicrystals</title>
+<identifier>ERC2016STG</identifier>
+</project>

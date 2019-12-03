@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196642</rcn>
+  <acronym>AARC</acronym>
+  <objective>The goal of AARC is to address technical and functional gaps that prevent the interoperability of existing R&amp;E AAIs. 
+AARC objectives are:
+1. Deliver the design of an integrated cross-discipline AAI framework, built on federated access production services (eduGAIN) 
+2. Increase the uptake of federated access within different research communities
+3. Pilot critical components of the proposed integrated AAI where existing production services do not address user needs
+4. Validate the results of both the JRA and SA by engaging with the research communities
+
+AARC goals will be achieved by:
+• Researching main technical (attribute providers, guest IdPs, support for non-web SSO) and policy aspects (level of assurance, security incidents, etc)
+• Supporting (commercial) services relevant to the R&amp;E community
+• Delivering training to targeted user communities (e.g. libraries, biomedical, arts and humanities) on both technical and legal aspects
+
+Relevance to the work programme: 
+1. Facilitate the deployment and promotion of a pan-European identity federation – Met by:
+• Designing an AAI framework that builds on federated access and on the evolution of eduGAIN’s interfederation approach  
+• Extensive dissemination of AARC results 
+2. Lower barriers to entry for organisations – Met by:
+• Delivering tools to enable federated access for institutions, services and guest users (also meets obj. Allow for public access at large) 
+• Delivering technical training tailored to institutions and services following the train-the-trainer model (also meets obj. Offer training and outreach for data professionals)
+3. Overcome technical, organisational and legal obstacles – Met by:
+• Policies and best practices for operational and security aspects for the integrated AAI
+• Training on legal aspects, built on experience with eduGAIN
+4. Enable the interoperability of different AAIs – Met by:
+• Models to offer collective services and to aggregate their accounting information
+• Pilots on security token</objective>
+  <title>Authentication and Authorisation for Research and Collaboration (AARC)</title>
+<identifier>H2020EINFRA20142</identifier>
+</project>

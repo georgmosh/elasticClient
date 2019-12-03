@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204971</rcn>
+  <acronym>EVERLASTING</acronym>
+  <objective>Batteries are not yet the ideal energy container they were promised to be.  They are expensive, fragile and potentially dangerous.  Moreover the current EV cannot compete yet with traditional vehicles when it comes to driving range and flexibility.  EVERLASTING intends to bring Li-ion batteries closer to this ideal by focusing on the following technology areas.
+•	Predicting the behavior of battery systems in all circumstances and over their full lifetime.  This enables accurate dimensioning and choice of the correct battery type, leading to lower cost.  It also facilitates the development of a powerful battery management system during all stages of its evolution from idea to fully tested product.
+•	Sensing signals beyond the standard parameters of current, voltage and temperature.  This multi-sensing approach provides more varied and in-depth data on the status of the battery facilitating a pro-active and effective management of the batteries, preventing issues rather than mitigating them.
+•	Monitoring the status of the battery by interpreting the rich sensor data. By intelligently combining this information with road, vehicle and driver data we intend to offer accurate higher-level driver feedback.  This induces a bigger trust and hence a lower range anxiety.
+•	Managing the battery in a proactive way, based on a correct assessment of its status.  Efficient thermal management and load management results in increased reliability and safety and leads to lower overall cost through an increased lifetime.
+•	Defining a standard BMS architecture and interfaces and gathering the necessary support in the market.  This allows an industry of standard BMS components to flourish which will result in lower cost.</objective>
+  <title>Electric Vehicle Enhanced Range, Lifetime And Safety Through INGenious battery management</title>
+<identifier>H2020GV2015</identifier>
+</project>

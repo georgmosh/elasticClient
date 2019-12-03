@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196950</rcn>
+  <acronym>nuClock</acronym>
+  <objective>Atomic clocks are the backbone of our modern communication and navigation technology, e.g. through the global positioning system (GPS). Improving these clocks will open up exciting new applications in geodesy, fleet tracking, autonomous vehicles, augmented reality and shed light on some of the most fundamental questions in research.
+
+Today’s best atomic clocks lose only 1 second in 30 billion years, making them the most precise measurement devices ever built. However, such clocks are extremely delicate and susceptible to external perturbations; they can only be operated in specialized laboratories.
+
+We propose to develop a novel type of clock, based on a unique nuclear transition in Thorium-229. This nuclear clock will be fundamentally different from existing atomic clocks, which are based on transitions in the electron shell. It will be largely inert to perturbations, simpler by design, and holds the potential to outperform existing atomic clocks in terms of precision.
+So far, progress towards an application of the Thorium nuclear transition has been hampered by the extreme technological challenges related to the scarcity of 229Th, insufficient detector resolution, and exotic lasers frequencies. Suitable technology is only becoming available just now. Furthermore, this research demands supreme expertise in a variety of fields, encompassing nuclear and atomic physics, quantum optics, metrology, as well as detector- and laser technology. Our interdisciplinary consortium is assembled to precisely match these requirements, joining for the first time Europe’s leading research groups in the respective fields.
+
+The work will focus on two objectives; (i) finding clear evidence of the transition and measuring its frequency, and (ii) developing all key components required for operation of a nuclear clock. We are certain that next-generation satellite-based navigation technology and other precision timing applications will greatly benefit from more precise and robust clocks.</objective>
+  <title>Towards a nuclear clock with Thorium-229</title>
+<identifier>H2020FETOPEN20142015RIA</identifier>
+</project>

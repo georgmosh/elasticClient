@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205309</rcn>
+  <acronym>REDOXDRUGS</acronym>
+  <objective>The Peroxiredoxin proteins represent a currently untapped molecular therapeutic target. We recently characterised a range
+of novel chemical compounds that could alter the function of one of the peroxiredoxin family members, peroxiredoxin 4
+(PRDX4). The approach involved high-throughput computational “virtual” compound screening involving our supercomputer
+facility at the University of Cambridge. Given our success in finding chemicals that could affect the function of these
+proteins, we would now like to screen and provide proof-of-principle evidence of the efficacy of novel compounds for further
+development as therapeutic agents.
+
+This process has been very rapid for prototyping novel molecules, from idea to hit compound validation in biological assays
+in less than 6 months. This rapid development cycle is highly cost-efficient and produces a range of chemical “hits” that
+could subsequently be taken forward as “lead” compounds for pre-clinical and clinical studies in the future, as novel
+therapeutics for a range of diseases ranging from cardiovascular and metabolic disease to cancer.</objective>
+  <title>Discovery and commercialisation of novel compounds targeting redox proteins</title>
+<identifier>ERC2015PoC</identifier>
+</project>

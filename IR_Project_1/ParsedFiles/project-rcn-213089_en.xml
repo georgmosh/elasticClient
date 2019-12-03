@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213089</rcn>
+  <acronym>Mont-Blanc 2020</acronym>
+  <objective>The Mont-Blanc 2020 (MB2020) project ambitions to initiate the development of a future low-power European processor for Exascale. MB2020 lays the foundation for a European consortium aiming at delivering a processor with great energy efficiency for HPC and server workloads.  A first generation product is scheduled in the 2020 time frame.
+
+Our target is to reach exascale-level power efficiency (50 Gflops/Watt at processor level) with a second generation planned for 2022. Therefore, we will, within MB2020: 
+1. define a low-power System-on-Chip (SoC) implementation targeting Exascale, with built-in security and reliability features;
+2. introduce strong innovations to improve efficiency with real-life applications and to outperform competition (vector instruction implementation, memory latency and bandwidth, power management, 2.5D integration);
+3. develop key modules (IPs) needed for this implementation; 
+4. provide a working prototype demonstrating MB2020 key components and system level simulations, with a co-design approach based on real-life applications;
+5. explore the reuse of these building blocks to serve other markets than HPC. 
+
+Our key choices are:
+a) To use the ARM ISA (Instruction Set Architecture) because its has strong technological relevance and it offers a dynamic ecosystem, which is needed to deliver the system software and applications mandatory for successful market acceptance. 
+b) To design, implement or leverage new technologies (Scalable Vector Extension, NoC, High Bandwidth Memory, Power Management, …) as well as innovative packaging technologies to improve the versatility, performance, power efficiency, reliability, and security of the processor.
+c) To improve on the economic sustainability of processor development through a modular design that allows to retarget our SoC for different markets.</objective>
+  <title>Mont-Blanc 2020, European scalable, modular and power efficient HPC processor</title>
+<identifier>H2020ICT20171</identifier>
+</project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212131</rcn>
+  <acronym>INSIKT</acronym>
+  <objective>In 2015-2016, 20+ terrorist attacks occurred in EU28, all of them carried out by individuals radicalized by terrorist propaganda. Recruitment of this new breed of terrorists was done via social media and the Internet. 
+
+To prevent such events from happening in the future and fight radicalization, it is crucial to detect cyberpropaganda early. However, social media providers (e.g. Twitter) admit that at the moment there is no adequate tool to identify terrorist-related content on the Internet. As the result, they are forced to rely on proprietary spam-fighting tools, user reports and human analysis to track down radicalized accounts that promote terrorism.
+ 
+Insikt Intelligence is a Spanish SME led by the EYIF 2016 Female Web Entrepreneur finalist that developed INSIKT, a novel social data mining platform to detect &amp; defeat violent online radicalization. An early version of INSIKT was validated by several EU law enforcement agencies (LEAs), approved and attracted commercial interest.  This Phase 2 project will trial INSIKT at 4 European LEAs that are looking for effective tools to prevent radical messages from spreading and reaching people vulnerable to radicalization.
+ 
+INSIKT provides a novel solution for LEA analysts to detect terrorist propaganda on all social media: it identifies radical content, suspicious messages and covert radicalization process with the help of sophisticated text mining algorithms. INSIKT relies on deep learning to develop automatically new models which can be used to detect other criminal activity as well. INSIKT is fit to become an important new tool in LEAs’ investigation and evidence gathering arsenal, giving them highly accurate, multilingual and real-time detection capabilities.
+
+This project will allow us to improve INSIKT, integrate it with existing LEA tools and commercialize it, addressing the needs of the €60+B security market, with the effect of creating 50+ jobs and €11.7M annual revenue within 5 years from market launch.</objective>
+  <title>Novel Social Data Mining Platform to Detect and Defeat Violent Online Radicalization</title>
+<identifier>H2020SMEINST220162017</identifier>
+</project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208107</rcn>
+  <acronym>PLANETESYS</acronym>
+  <objective>The goal of this ERC Consolidator Grant proposal is to make significant contributions to our understanding of the formation of planetary systems and the chemical composition of planets. I will achieve this by developing a planet formation model that integrates the most relevant physical processes and combines the newly discovered pebble accretion mechanism with gravitational interaction between a high number of growing embryos. Exploiting the results of the computer simulations will allow me to address three major, outstanding research questions in the study of planets and their formation:
+
+* What are the dominant physical processes that shape planetary systems?
+
+* How are solids flash-heated in protoplanetary discs?
+
+* What are the conditions for forming habitable planets?
+
+I will follow the chemical composition of solid bodies in a protoplanetary disc as they grow from dust grains to fully fledged planets. This will shed light on the formation pathways of all major planetary classes – from terrestrial planets, over super-Earths to ice giants and gas giants – in orbital configurations acquired under the combined effects of planetary growth, migration and gravitational interaction between the developing planets. I will examine the role of the CO iceline as a nursery for planetary embryos that grow and migrate to form cold gas giants akin to Jupiter and Saturn in our Solar System. I will also explore the formation of the mysterious chondrules – widespread in primitive meteorites – by lightning discharge during planetesimal formation and address the role of chondrules for planet formation. Finally, I will simulate the delivery of life-essential volatiles to terrestrial planets and super-Earths in the habitable zone, considering the simultaneous growth of rocky and icy planetary embryos and gravitational stirring by migrating giant planets, for a wide range of planetary system architectures.</objective>
+  <title>The next-generation planet formation model</title>
+<identifier>ERC2016COG</identifier>
+</project>

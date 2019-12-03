@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210172</rcn>
+  <acronym>ASTEROID</acronym>
+  <objective>Large infrared (IR) imagers in the NIR to VLWIR wavelength ranges are critical requirements for Earth observation, and Science and Astronomy missions. They provide information not available in the visible wavelength range like, for example, object temperature or chemical composition. 
+The technology available in Europe today allows for detectors with around 1 Mega pixel to be manufactured. It is not able to produce the 4 Megapixel detectors necessary for future missions.
+Europe needs to become non-dependent for the procurement of these types of detectors.
+
+It is the goal of ASTEROID to develop the technology that will make Europe non-dependent for large IR detectors. The technology to be developed is based on HgCdTe detection layers grown on CdZnTe substrates and on large dimensions Si Read Out Integrated Circuits (ROIC). By adjusting its composition, the use of HgCdTe detection layers makes it possible to address all the wavelengths required, from visible to VLWIR wavelengths.
+
+ASTEROID will use the contributions from 6 partners in 5 different fields to develop the building blocks for large IR detectors:
+• ROIC processing: EVG and Sofradir
+• HgCdTe and CdZnTe processing: CEA-LETI and Sofradir
+• Hybridization of the ROIC and detection layers: Sofradir
+• Thermo-Mechanical Modeling: ADDL
+• Electro-optic and connectivity characterization: IFAE and CEA-IRFU</objective>
+  <title>ASTronomy EuROpean Infrared Detection</title>
+<identifier>H2020COMPET2016</identifier>
+</project>

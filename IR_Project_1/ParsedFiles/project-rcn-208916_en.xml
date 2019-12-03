@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208916</rcn>
+  <acronym>TcCFT</acronym>
+  <objective>Recently a number of research efforts have been dedicated to the conformal bootstrap. The basic principle is that conformal symmetry and quantum mechanics should suffice to fix uniquely the dynamics of Conformal Field Theories (CFTs), which lie at the fixed points of the renormalisation group flow. This has led to ground-breaking results, such as the unprecedented determination of scaling dimensions in non-trivial CFTs including the celebrated Ising model in 3d. Thus far these endeavours have focused only on the simplest examples of correlation functions with low-spin operators or to supersymmetric CFTs.
+
+The project aims at advancing the goals of the CFT bootstrap further, by developing a combination of theoretical and numerical tools to systematically apply the bootstrap to correlation functions of higher-spin operators. The long term goal of TcCFT is to apply these tools to carve out the space of non-supersymmetric CFTs. Its short term objectives of developing effective techniques to manage higher-spin operators are of interest also in a broader context, for such operators are ubiquitous in any CFT.
+
+This proposal combines my expertise on higher-spin methods with world leading experts in the bootstrap program, and a secondment which will allow me to refine my programming skills needed for the computational parts of the project. The outcomes of the project will be critical in achieving a greater understanding of the landscape of quantum field theories, and with it allow me to proceed to the next step of my career and obtain a tenure track position in Italy.</objective>
+  <title>Tools to Carve out Conformal Field Theories</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

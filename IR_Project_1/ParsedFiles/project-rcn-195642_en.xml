@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>195642</rcn>
+  <acronym>NEW4NEW</acronym>
+  <objective>Computational modelling of molecules and materials has had a great impact on understanding experimental observations and suggesting new routes for development. A prominent example are chemical reactions where modelling allows one to follow the motion of atoms and to obtain a detailed insight into the process.
+To model chemical reactions, quantum mechanics for electrons is needed and currently the most widely used method for this task is Kohn-Sham density functional theory (DFT). DFT is exact in principle, but in practice, different approximations are made. These approximations affect the accuracy of description of both strong intramolecular forces (chemical bonds) and weaker intermolecular interactions (e.g., van der Waals forces). If the errors are significant, one can obtain misleading results.
+
+Systems where an accurate description of both strong and weak forces is crucial are molecules in porous materials, such as zeolites.
+Zeolites are important industrial catalysts and also perspective materials for gas separation. During the catalytic process, molecules interact first weakly with the zeolite before chemical reaction takes place.
+Therefore, if we want to further improve the function of porous materials or develop new ones with desired chemical activity, we need to be able to model reliably both strong and weak forces.
+
+It is the goal of this project to develop new reliable methods that will enable the development of new materials. This goal will be accomplished by combining state-of-the-art DFT approximations for modelling strong and weak interactions and implementing promising schemes recently proposed.
+Using the expertise of the host group, we will use data available for zeolites and molecules in zeolites to validate the methods and understand their accuracy.
+The ability to model reliably processes in porous materials will have a large impact on the development of materials in a range of fields, including materials for solving future energy needs.</objective>
+  <title>New methods for new materials</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

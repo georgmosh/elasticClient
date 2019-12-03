@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211742</rcn>
+  <acronym>ReFreeDrive</acronym>
+  <objective>The ReFreeDrive project is focused on contributing to avoid the use of rare earth magnets through the development of a next generation of electric drivetrains, ensuring the industrial feasibility for mass production while focusing on the low cost of the manufacturing technologies. 
+This proposal intends to study and develop simultaneously two solutions for the power traction system of electrical vehicles. Both solutions are brushless AC electrical machines: induction machine with fabricated and copper die-cast rotor (IM) and synchronous reluctance (SynRel) machine. Through their configurations these machines not only are rare-earth magnet free, but also share common features that can be exploited during the design step, as well in the manufacturing process. These common features lead to a complex synergy between the two technologies, which justify the development of different topologies of electric machines in just one project.
+The design of the ReFreeDrive motors will take as a premise the reduction of use of materials, as more than half of the final price is formed by raw materials cost. Also, a minimization of manufacturing costs will be ensured by an early involvement of manufacturers, from the design stage. ReFreeDrive motor topologies have good room for cost reduction by off-setting permanent magnet use. However, it is not feasible to change the commodity prices for copper and steel. Therefore, one of the key avenues for cost reduction is the reduction of size through different techniques (outer rotor, higher rotational speed, compact winding…). An optimized use of copper on the project provides technical design with a higher efficiency due to lower losses regards other alternatives, and more efficient heat management.
+Beyond the motor design, ReFreeDrive also consider an integrated design of the power train that allows the optimization of the electric connections, the cooling systems and the housing.</objective>
+  <title>Rare Earth Free e-Drives featuring low cost manufacturing</title>
+<identifier>H2020GV2017</identifier>
+</project>

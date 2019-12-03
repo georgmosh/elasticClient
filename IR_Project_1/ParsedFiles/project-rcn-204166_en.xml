@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204166</rcn>
+  <acronym>BEST</acronym>
+  <objective>BEST will determine how semantic technologies can be used effectively to maximise the benefits of adopting SWIM, one of the major results of SESAR.
+
+SWIM offers an “information sharing” approach to ATM information management and its adoption offers advantages for better situational awareness and information management.  But the full benefits of SWIM can only be achieved if advanced support can be provided for developing smart SWIM-based applications that manage information effectively, and semantic technologies offer a promising way to do that.   BEST identifies a set of focused research questions about how to exploit semantic technologies in a practical way in an ATM setting, and will produce concrete results that help address these.
+
+The project will experiment with use of semantic technologies with several use cases, and build on that experience to produce guidelines (aimed at practitioners) about how to use ontologies in flexible ways to describe meta-data, and how these can be used in innovative yet scalable ways.
+
+BEST envisages use of multiple modular ontologies to maximise flexibility and applicability to specific application scenarios, but within a framework where compliance with the wider requirements of SWIM and the SESAR AIRM can be assured.  This involves both technical compliance testing and governance aspects.
+
+While BEST is primarily a research-oriented project, it is also designed to ensure relevance to and suitability for ATM operations, through project activities and the involvement of a Reference Group of key stakeholders.
+
+The consortium includes a mixture of research and industrial partners (including one SME), all with extensive ATM experience.  Several project partners have had leading roles in AIRM and SWIM work in SESAR, but some partners are new to SESAR and offer “new blood”.  The consortium also provides leading expertise on semantic technologies.
+
+The project duration will be 24 months, with a requested funding of just under 600 K€.</objective>
+  <title>Achieving the BEnefits of SWIM by making smart use of Semantic Technologies</title>
+<identifier>H2020SESAR20151</identifier>
+</project>

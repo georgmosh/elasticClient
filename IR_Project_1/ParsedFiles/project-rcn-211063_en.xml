@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211063</rcn>
+  <acronym>5GTANGO</acronym>
+  <objective>Telecommunication networks have become a critical infrastructure for economic growth and social prosperity. Current networks will be unable to face the future demands and their increasingly diverse set of services, users, applications and requirements what is forcing network operators to transform them. At the centre of this network transformation is the broad-scale deployment of Network Function Virtualization (NFV) and Software-Defined Networking (SDN). 
+5GTANGO puts forth the flexible programmability of 5G networks with i) a NFV-enabled Service Development Kit (SDK), ii) a Store with advanced validation and verification mechanisms for VNFs/Network Services qualification (including 3rd party contributions) and iii) a modular Service Platform in order to bridge the gap between business needs and network operational management systems.  We propose an integrated vendor-independent platform where the outcome of the development kit, that is a packaged NFV forwarding graph, is automatically tested and validated in the Store for their posterior deployment with a customizable orchestrator compatible with common existing Virtual Infrastructure Managers (VIM) and SDN controllers in the market. This end-to-end ecosystem for the agile development and deployment of services realises an extended NFV DevOps model between service developers, telecom operators and vertical industries, increasing operational efficiency, facilitating the implementation and validation of new services and accelerating the adoption of NFV technologies.
+5GTANGO system will be demonstrated in two vertical pilots: advanced Manufacturing and immersive Media. 
+5GTANGO will actively promote collaboration and try to influence the SDOs most relevant for the project such as ETSI NFV or IETF, as well as the key open source initiatives such as OSM and Open-O. It is also 5GTANGO’s ambition to make key contributions to the 5G-PPP Programme, the targeted KPIs and commits to work with its peer 5G-PPP projects.</objective>
+  <title>5G Development and validation platform for global industry-specific network services and Apps</title>
+<identifier>H2020ICT20162</identifier>
+</project>

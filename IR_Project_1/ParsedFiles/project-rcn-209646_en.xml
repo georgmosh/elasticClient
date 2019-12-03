@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>209646</rcn>
+  <acronym>OPTiAGE</acronym>
+  <objective>The lifespan of genetically identical organisms varies depending on the environment they are exposed to. A well-known example is the extension of lifespan by nutrient restriction, as observed in animals as diverse as nematodes and rhesus monkeys. Why does the lifespan of animals change with environmental conditions? Is there an advantage to living longer when food is poor, and to living shorter when food is plentiful?
+Evolutionary theory, known as the disposable soma theory (DST), proposes that organisms age due to the accumulation of damage. According to theory, aging can be delayed by continuous damage repair, but such repair requires resources which are then unavailable for other tasks, such as reproduction. The DST therefore postulates a trade-off between longevity and reproduction dictated by the limitation of available resources. The optimal allocation of resources to self-maintenance depends on the environment. In particular, increased allocation to self-maintenance is predicted to maximize fitness when nutrients are scarce.
+Combining theory and experiment, I will investigate how the optimal allocation of resources to self-maintenance depends on nutrient availability using the nematode C. elegans as a model system. I will quantify the partitioning of resources between self-maintenance and reproduction using isotope labelling and kinetic modelling, and modulate resource allocation using available genetic alleles and directed mutation. Employing a competitive growth assay, I will test if fitness depends on resource allocation by an inverse U-shaped function, as predicted by theory and examine how the optimal resource allocation depends on nutrient availability. I will thereby assess if worms adapt their rate of aging to maximize their fitness in different environments.
+Ultimately, the proposed combination of mathematical modelling and developmental genetics will pave the way for a new line of research using optimality principles to study organismal development.</objective>
+  <title>The trade-off between longevity and reproduction: optimal control of aging</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

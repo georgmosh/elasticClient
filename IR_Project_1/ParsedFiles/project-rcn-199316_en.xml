@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199316</rcn>
+  <acronym>RegoLight</acronym>
+  <objective>Future human activity on the lunar surface will use 3D printing to build infrastructure from lunar soil using the Sun as the only source of energy. Today this technology is considered disruptive; tomorrow it will be the standard. The RegoLight project will investigate the sintering process of lunar regolith simulants by means of concentrated sun light in order to prepare for future lunar missions for building infrastructure (leveled terrain, dust shelters, launch pads etc.) and structural components for lunar habitats.
+Solar sintering of regolith is currently at TRL3 , being able to build a regolith ‘brick’ in a laboratory set-up with a moving table in a solar furnace. RegoLight aims at enhancing this specific additive layer manufacturing technique –which seems very promising for lunar applications since it does not involve any consumables– by further characterizing the parameters for sintering different types of regolith and by developing a movable printing head capable both of pointing the concentrated solar beam at the required spot and of deploying incrementally additional layers of regolith in order to continue with the additive building process.
+Based on the mechanical properties of solar sintered regolith architectural scenarios and applications will be developed, taking into account the benefits of additive layer manufacturing and novel construction concepts for lunar gravity. This detailed Finite Element Modeling will provide a first insight into lunar architectural scenarios using this technology: With a concurrent engineering approach sample structures will be printed having been derived from ‘big picture’ scenarios and bottom up approaches at the same time.
+The project objective is the development of a regolith solar sintering device breadboard which will be validated in a relevant environment (TRL5). The parts printed in a thermal vacuum chamber will undergo mechanical properties tests to build a database and FEM analysis for validation of the concepts.</objective>
+  <title>Sintering Regolith with Solar Light</title>
+<identifier>H2020COMPET2015</identifier>
+</project>

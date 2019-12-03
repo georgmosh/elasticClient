@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204337</rcn>
+  <acronym>SDN-Polygraph</acronym>
+  <objective>Most enterprises depend on the Internet and on computer networks. Costs associated to network malfunctions are huge and have been estimated via market surveys from around 30,000€/hour on average, which yields average yearly losses of more than 5M€ per company. Because network downtime is so costly, companies invest in network visibility solutions. The market of Network Performance Monitoring (NPM) is currently estimated at 2,200M€, growing at &gt;11% yearly.
+However, enterprises are still not investing as much as they should in network visibility, for two main reasons: Deployment complexity and Upfront costs. Current products are hardware based, are very expensive and their license costs must be paid up-front. Should these two barriers fall, the NPM market would explode, as every mid-to-large company, even the larger SMEs, would acquire such solutions.
+The first requirement to avoid malfunctions and correctly operate a network is visibility (the ability to understand what happens in a network). A technical revolution is currently undergoing, called Software-Defined Networking (SDN). SDN allows software components to act on the network and make it “programmable”.
+SDN opens the door to create a zero-hardware network visibility product that can be deployed with one click, seamlessly collect network traffic statistics, and send them to the cloud for analysis and can also alter the behaviour of the network based on that analysis. Through SME Instrument Phase 1, Talaia has developed a Minimum Viable Product demonstrating its technological viability, has implemented a Business Plan which proves the feasibility of the solution and has placed itself in an advantageous position to gain this new market niche.
+Talaia will develop a fully-featured product, and offer it as a service using the Software-as-a-Service (SaaS) model and take it to international markets for large-scale commercialization. Forecasts estimate 64 new jobs and sales of more than 17M€by 2022.</objective>
+  <title>Cloud-based Monitoring Service for Software Defined Networks</title>
+<identifier>H2020SMEINST220162017</identifier>
+</project>

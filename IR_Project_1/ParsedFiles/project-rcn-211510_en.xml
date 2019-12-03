@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211510</rcn>
+  <acronym>AutoPro</acronym>
+  <objective>Internationalized markets are facing increasing individualization of customer needs. Handling product variety becomes more
+difficult as products become more complex and integrated. Current manufacturing systems show structural rigidity that
+makes terribly cumbersome to cope with product model changes, product mix variation, and lot size reduction. High
+investments are usually required to streamline the assembly system. Production integrated software are often vague, don’t
+offer complex scenarios occurrence and the result can drift immensely away from the real implementation.
+Arculus offers an ICT integrated solution for an enhanced production system implementing a higher number of variants and,
+at the same time, increasing productivity by 30%-60%. Its software provides a virtual real-time shadow of all the elements in
+production getting a clear view on how Key Performance Indicators are affected. Smart Autonomous Guided Vehicles
+(AGVs) are then exploited for material flow management. Car manufacturers, highly dependent on new technological
+processes to remain competitive, will be the first enthusiastic customers’ target. Within the overall project Arculus intends to
+optimize its ICT platform customizing the navigation control and integrating an enhanced software interface and an
+automatic communication protocol. Arculus will surely support the EC target to increase industry’s share of GDP to 20% by
+2020. A forecasted global market for advanced manufacturing technologies of €750 billion by 2020 and a target industry
+representing a key pillar of the EU economy, will leverage this innovative solution.</objective>
+  <title>An adaptive system for modular automotive production to boost efficiency and reduce manufacturing cost.</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

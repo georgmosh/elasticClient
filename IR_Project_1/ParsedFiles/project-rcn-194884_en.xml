@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194884</rcn>
+  <acronym>SpeechXRays</acronym>
+  <objective>The SpeechXRays project will develop and test in real-life environments a user recognition platform based on voice acoustics analysis and audio-visual identity verification. SpeechXRays will outperform state-of-the-art solutions in the following areas:
+• Security: high accuracy solution (cross over accuracy1 of 1/100 ie twice the commercial voice/face solutions) 
+• Privacy: biometric data stored in the device (or in a private cloud under the responsibility of the data subject)
+• Usability: text-independent speaker identification (no pass phrase), low sensitivity to surrounding noise
+• Cost-efficiency: use of standard embedded microphone and cameras (smartphones, laptops)
+The project will combine and pilot two proven techniques: acoustic driven voice recognition (using acoustic rather than statistical only models) and multi-channel biometrics incorporating dynamic face recognition (machine vision analysis of speech, lip movement and face).
+The vision of the SpeechXRays project is to provide a solution combining the convenience and cost-effectiveness of voice biometrics, achieving better accuracies by combining it with video, and bringing superior anti-spoofing capabilities.
+The technology will be deployed on 2000 users in 3 pilots: a workforce use case, an eHealth use case and a consumer use case. 
+The project lasts 36 months and is coordinated by world leader in digital security solutions for the mobility space.</objective>
+  <title>Multi-channel biometrics combining acoustic and machine vision analysis of speech, lip movement and face</title>
+<identifier>H2020DS20141</identifier>
+</project>

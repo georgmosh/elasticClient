@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213332</rcn>
+  <acronym>Rubedo CVM</acronym>
+  <objective>One of the major driving forces for the depth perception market is the increasing use of mobile robots and drones for multiple applications. Without reliable vision and particularly depth perception unmanned vehicles are unable to detect obstacles and adaptively plan motion paths. Moreover, the new generation of robotic machines strongly depend on the ability to acquire, organize, and interpret surrounding visual data in real-time in order to stay aware of the environmental situation and act adequately.
+Robot and autonomous vehicle manufacturers or system manufacturers do not have the necessary skills, knowledge and know-how for computer vision development, therefore they would much rather use a standard computer vision solution. Currently in the market there is no truly affordable standardized stand-alone COTS 3D computer vision solution, which is capable of high resolution low power long range real-time optical depth sense with deep learning based natural object perception capabilities out of box – something, that is universally appreciated by many mobile robotic system manufacturers and integrators.
+Rubedo Sistemos has already developed and successfully tested a prototype of CVM (computer vision module) – the first affordable, compact low power long-range high-resolution real-time depth sense technology for 3D perception at longer distances for mobile robotics. Rubedo CVM has been designed as a maintenance-free standalone product which provides high definition images, accurate measure of the environment depth, and can be trained to extract natural objects of interest in real-time.
+Thorough analysis of market and user needs as well as an elaboration of a business plan is needed in order to ensure successful commercialization of Rubedo CVM. This feasibility study will help validating the market in addition to providing a stepping-stone for future preparation of investor readiness as well as serve as a roadmap for market replication of the product.</objective>
+  <title>FEASIBILITY STUDY FOR THE RUBEDO CVM – INNOVATIVE OPTICAL COMPUTER VISION MODULE FOR UNMANNED VEHICLES</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

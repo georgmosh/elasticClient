@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199488</rcn>
+  <acronym>eWINE</acronym>
+  <objective>The elastic Wireless Networking Experimentation (eWINE) research project will realize elastic networks that can scale to a high number of users in a short timespan through the use of an agile infrastructure (intelligent software and flexible hardware), enabling: (1) dynamic on-demand end-to-end wireless connectivity service provisioning, (2) elastic resource sharing in dense heterogeneous and small cell networks (HetSNets), and (3) intelligent and informed configuration of the physical layer. 
+
+eWINE will develop and validate algorithms for advanced Cognitive Networking (context determination &amp; sensing, optimization &amp; negotiation techniques, and online learning algorithms) through experimentally-driven research on top of existing FIRE/FIRE+ facilities (CREW, WiSHFUL, FLEX). Several partners are involved in these facility projects.
+The consortium includes both academic researchers and industrial developers (3 SMEs + 1 multinational company). The uptake of the project results will be promoted by making openly available the Intelligence Toolbox and organizing the eWINE Grand Challenge; through Open Calls of WiSHFUL; and by educating the wireless community via FORGE, VideoLectures.net and YouTube.
+
+To cope with the increasing density of wireless devices, eWINE will primarily address the EU’s need for intelligent solutions to mitigate the spectrum scarcity and network configuration problems and strengthen the competitiveness of European companies (reducing development costs, speeding product validation and shortening time-to-market) in developing innovative products able to increase wireless capacity and energy efficiency, and lower electromagnetic exposure. The project results will lead to improved European innovation in several domains (secured &amp; robust communication, IoT, 5G, etc.). eWINE will leverage research to exploit the full potential of the coordinated use of heterogeneous wireless networks, and as such will contribute significantly to regulatory policies and standardization.</objective>
+  <title>elastic WIreless Networking Experimentation</title>
+<identifier>H2020ICT2015</identifier>
+</project>

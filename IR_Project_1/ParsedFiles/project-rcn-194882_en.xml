@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194882</rcn>
+  <acronym>INDIGO-DataCloud</acronym>
+  <objective>The INDIGO-DataCloud project (INDIGO for short) aims at developing a data/computing platform targeted at scientific communities, deployable on multiple hardware, and provisioned over hybrid (private or public) e-infrastructures. This platform will be built by leading European developers, resource providers, e-infrastructures and scientific communities in order to ensure its successful exploitation and sustainability.
+
+All members of the consortium share the common interest in developing advanced middleware to sustain the deployment of service models and user tools to tackle the challenges of the Big Data era. INDIGO will exploit the formidable know-how that was built in Europe along the past ten years of collaborations on scientific computing based on different consolidated and emerging paradigms (HPC, Grid and Cloud).
+
+Regarding Cloud computing, both the public and private sectors are already offering IaaS-type Cloud resources. However, numerous areas are of interest to scientific communities where Cloud computing uptake is currently lacking, especially at the PaaS and SaaS levels. The project therefore aims at developing tools and platforms based on open source solutions addressing scientific challenges in the Cloud computing, storage and network areas.
+
+INDIGO will allow application development and execution on Cloud and Grid based infrastructures, as well as on HPC clusters. The project will extend existing PaaS solutions, allowing public and private e-infrastructures, including those provided by EGI, EUDAT, PRACE and HelixNebula, to integrate their existing services, make them available through GEANT-compliant federated and distributed AA policies, guaranteeing transparency and trust in the provisioning of such services.
+
+INDIGO will also address the development of a flexible and modular presentation layer connected to the expanded PaaS and SaaS frameworks developed by the project and allowing innovative user experiences, also from mobile appliances.</objective>
+  <title>INtegrating Distributed data Infrastructures for Global ExplOitation</title>
+<identifier>H2020EINFRA20142</identifier>
+</project>

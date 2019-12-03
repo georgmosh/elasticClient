@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>209482</rcn>
+  <acronym>INCEPTION</acronym>
+  <objective>Recent developments in the areas of nonlinear control theory and sensor technology paved the way to the derivation of flight control laws that are significantly less dependent on nominal aircraft model data. In addition, novel and complex methods which make use of advanced fault detection and online identification algorithms to estimate the aircraft’s achievable flight envelope and to provide protection in case of adverse conditions, such as system failures or damages are arising.
+
+Project INCEPTION proposes to develop and combine the abovementioned research topics, exploring the INCEPTION of an innovative approach to the design of automatic flight control systems, supported by sensor-based (almost model-independent) control laws with the ability of online reconfiguration following failure scenarios.
+
+By employing self-reconfigurable mechanisms and control laws that are less sensitive to model mismatch INCEPTION aims to provide an enhanced level of safety for future aircraft. The objective is to predict and adapt to safe flight regimes of operation, even in the presence of unprecedented and unknown failures, and to enable the development of generic flight control systems, applicable to different aerial platforms. These motivations are completely aligned with the European vision for aviation safety portrayed in the ACARE Flightpath 2050 Report, which envisages the prediction and mitigation of technical and operational issues through advanced on-board systems.
+
+Project INCEPTION focuses on researching and developing the best approach to achieve the proposed targets, to implement it into a coherent system and to test its performance in Unmanned Aircraft and evaluate its future applicability to General and Commercial Aviation. To accomplish these tasks, the INCEPTION Consortium includes renowned universities within the domains addressed by the project, a company that develops advanced inertial sensors and an SME that engineers and operates its own UAV fleet.</objective>
+  <title>Incremental Nonlinear flight Control supplemented with Envelope ProtecTION techniques</title>
+<identifier>H2020MG2016TwoStages</identifier>
+</project>

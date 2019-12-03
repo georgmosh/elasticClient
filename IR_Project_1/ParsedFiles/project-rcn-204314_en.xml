@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204314</rcn>
+  <acronym>ECo</acronym>
+  <objective>The overall goal of ECo is to develop and validate a highly efficient co-electrolysis process for conversion of excess renewable electricity into distributable and storable hydrocarbons via simultaneous electrolysis of steam and CO2 through SOEC (Solid Oxide Electrolysis Cells) thus moving the technology from technology readiness level (TRL) 3 to 5.
+In relation to the work program, ECo will specifically:
+• Develop and prove improved solid oxide cells (SOEC) based on novel cell structure including electrode backbone structures and infiltration and design of electrolyte/electrode interfaces to achieve high performances and high efficiencies at ~100 oC lower operating temperatures than state-of-the-art in order to reduce thermally activated degradation processes, to improve integration with hydrocarbon production, and to reduce overall costs.
+• Investigate durability under realistic co-electrolysis operating conditions that include dynamic electricity input from fluctuating sources with the aim to achieve degradation rates below 1%/1000 h at stack level under relevant operating conditions.
+• Design a plant to integrate the co-electrolysis with fluctuating electricity input and catalytic processes for hydrocarbon production, with special emphasis on methanation (considering both external and internal) and perform selected validation tests under the thus needed operating conditions.
+• Test a co-electrolysis system under realistic conditions for final validation of the obtained results at larger scale.
+• Demonstrate economic viability for overall process efficiencies exceeding 60% using results obtained in the project for the case of storage media such as methane and compare to traditional technologies with the aim to identify critical performance parameters that have to be improved.
+Perform a life cycle assessment with CO2 from different sources (cement industry or biogas) and electricity from preferably renewable sources to prove the recycling potential of the concept.</objective>
+  <title>Efficient Co-Electrolyser for Efficient Renewable Energy Storage - ECo</title>
+<identifier>H2020JTIFCH20151</identifier>
+</project>

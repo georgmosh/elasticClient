@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210226</rcn>
+  <acronym>VICTORIA</acronym>
+  <objective>Video recordings have become a major resource for legal investigations. Since no mature video investigation tools are available and trusted by LEAs, investigators still need to carry out the analysis of videos  almost exclusively manually. Current practices are too resource intensive to handle the yet huge and steadily increasing volume of videos that need to be analysed after crimes and terrorist acts. The consequence is that LEAs cannot analyse all available videos because of the huge effort needed, and the extraction of first clues from videos after a terrorist attack takes more time.
+VICTORIA will address this need and deliver a Video Analysis Platform (VAP) that will accelerate video analysis tasks by a factor of 15 to 100 (depending on the use case), while providing very reliable results. 
+To achieve this, VICTORIA will 1) develop a set of TRL-6 video analytics selected for their relevance in video investigation related to crimes and terrorist acts, 2) increase significantly the usability of delivered tools by involving LEAs directly in all stages of the development process, from specifications, over assessment of several VAP prototype versions, up to field trials in LEA operational conditions, 3) create an ecosystem around an open VAP concept, that will facilitate sustainable innovation and market growth for video investigation products, 4) train LEA investigators in the use of the VAP, 5) ensure that VICTORIA activities and results meet EU Legal-Ethical-Privacy rules. 
+The VAP will have a scalable architecture based on big data technologies, feature new user interface paradigms allowing complex semantic  investigation queries and 4D crime scene reconstruction, be adaptable to specific user needs,  and be future proof thanks to an open analytics plug-in feature, based on standardized interfaces and open to third party suppliers. 
+The consortium includes 4 LEAs, 6 renowned research groups, 2 SMEs and 2 industrial companies, world-leaders in security markets.</objective>
+  <title>Video analysis for Investigation of Criminal and TerrORIst Activities</title>
+<identifier>H2020SEC201620171</identifier>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208651</rcn>
+  <acronym>ML-TEXTSUM</acronym>
+  <objective>In our daily life, we are submerged by huge amounts of text, coming from different sources such as emails, news, reports, and so on. The availability of unprecedented volumes of data represents both a challenge and an opportunity. On one hand, it can lead to information overload, a phenomenon that limits one’s capacity to understand an issue and act in the presence of too much information. On the other hand, the effective harnessing of this information has undeniable economical potential. Furthermore, In the European context, special needs to be put to multilingualism to guarantee global access to high quality information.
+
+The objective of this application is to develop ML-TEXTSUM, a system for efficient and accurate multi-lingual text summarization. That is, given as input a text document, the system will output a summary of the document in the same or in a different language. Building on recent breakouts in machine learning and natural language processing, I propose a novel architecture for ML-TEXTSUM that will be able to produce high quality summaries while at same time remain modular enough so that new languages can be added with minimal effort. The availability of such system shall allow citizens, regardless of their language, to better handle the information overload and to gain access to critically distilled information (e.g., what is a certain newspaper’s opinion on the same topic this year? Are male/female athletes portrayed differently by the media?). 
+
+The project is characterized by the interplay of multiple disciplines: the proposed architecture requires to master a combination of natural language processing and machine learning techniques. At the same time, the formidable scale of this system will require the development of novel distributed optimization methods. This interplay will be achieved thanks to my past and future collaborations, my solid background in optimization and machine learning, as well as through the acquisition of new ad-hoc skills.</objective>
+  <title>Multi-language text summarization</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

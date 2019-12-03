@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>202875</rcn>
+  <acronym>Cohesin loading</acronym>
+  <objective>The cohesin-complex mediates sister chromatid cohesion from S-phase until mitosis and is involved in the formation of higher-order chromatin structure. To fulfill these vital functions, cohesin is loaded and positioned in the genome by mechanisms that are only poorly understood. In vitro, loading of cohesin on DNA only requires ATP and a loading-complex formed by Scc2-Scc4, while loading in vivo on chromatin is regulated by additional factors. For example, in Xenopus laevis oocytes, cohesin loading strictly depends on pre-replication complexes (pre-RCs), which are formed in telophase/G1. 
+Mechanistic studies are required to understand how cohesin-loading occurs at the molecular level. I will first determine the mechanism by which Scc2-Scc4 loads cohesin on DNA. Using single-molecule FRET and optical tweezers, I will monitor the effect of Scc2-Scc4 on conformational changes of cohesin as it is loaded on a DNA template. After characterizing this minimal loading reaction, I will reconstitute cohesin-loading during telophase/G1 using a purified system. With these experiments I will address why and how loading of cohesin is regulated by the formation of pre-RCs.</objective>
+  <title>Elucidating the molecular mechanism of cohesin-loading</title>
+<identifier>H2020MSCAIF2015</identifier>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212012</rcn>
+  <acronym>IN2DREAMS</acronym>
+  <objective>The predicted growth of transport, especially in European railway infrastructures, is expected to introduce a dramatic increase in freight and passenger services by the end of 2050. To support sustainable development of these infrastructures, novel data-driven ICT solutions are required. These will enable monitoring, analysis and exploitation of energy and asset information for the entire railway system including power grid, stations, rolling stock and  infrastructure. IN2DREAMS will address these challenges through two distinct work streams: WS1, focusing on the management of energy-related data and WS2, focusing on the management of asset-related data. IN2DREAMS will develop and demonstrate a modular cloud-based open data management platform (ODM) facilitating ubiquitous support of both energy and asset services. 
+
+WS1 will provide energy metering services through a dynamically reconfigurable platform offering improved reliability, ease of monitoring and on-the-fly optimisation for the entire railway system. This will include a heterogeneous secure and resilient telecommunication platform comprising both wireless and wireline technologies converging energy and telecom services. This infrastructure will interconnect a plethora of monitoring devices and end-users to the railway control centre and will include an ODM platform for data collection, aggregation and analysis, able to scale with the railway operators needs. This platform will be non-intrusive exploiting advanced signal processing and intelligent learning algorithms.
+
+Within WS2, IN2DREAMS will concentrate on defining IT solutions and methodologies for business-secure decision support in the field of data processing and analytics for railway asset management. The general aim is to study and proof the application of smart contracts in the railway ecosystems, by addressing also legal and regulatory implications, and advanced visual and rule-based data analytics, including metrics for performance assessment.</objective>
+  <title>INtelligent solutions 2ward the Development of Railway Energy and Asset Management Systems in Europe</title>
+<identifier>H2020S2RJUOC2017</identifier>
+</project>

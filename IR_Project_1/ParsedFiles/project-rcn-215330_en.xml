@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>215330</rcn>
+  <acronym>VeSPA</acronym>
+  <objective>Concurrent computation, organised as a decentralised collection of interacting components, is now ubiquitous.
+Our society increasingly relies on such systems for sensitive and critical infrastructure:
+to make this safe and sustainable we need a formal approach to analyse and certify the correctness of concurrent software.
+Our trust in concurrent systems is based on three key properties:
+
+1. Safety: can the system crash?
+2. Progress: will the system be reactive to requests?
+3. Security: no secret is ever leaked.
+
+Proving such properties of concurrent systems must take into consideration all possible executions, a space is so huge and complex that we lack proper tools to reason about it, both manually and automatically. This is called the analysis scalability problem. While the case of Safety has been extensively studied, Progress and Security still lack a scalable methodology for verification.
+
+The VeSPA project attacks the analysis scalability problem for Progress and Security, from the point of view of Specification. Good specifications enable true encapsulation of behaviour in the reasoning, addressing scalability by allowing correctness proofs to be more modular and organised in layers of abstractions.
+
+VeSPA will reach this goal by:
+
+1) studying specifications for verification of progress in fine-grained blocking concurrent programs (building on Gardner's work);
+2) apply this specification theory to the industrial case of the Erlang programming language (building on D'Osualdo's experience); and
+3) develop a compositional verification method for security protocols (advancing recent work of D'Osualdo)
+
+The approach of VeSPA incorporates work in neighbouring but disjoint sub-fields of Concurrency Theory (automata theory, process algebra, type systems and software specification) bringing together the unique expertise of Dr. D'Osualdo and Prof. Gardner, unifying and generalising the approaches.</objective>
+  <title>Verification and Specification through Progress Abstractions</title>
+<identifier>H2020MSCAIF2017</identifier>
+</project>

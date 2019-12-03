@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194225</rcn>
+  <acronym>AutoPost</acronym>
+  <objective>In today´s era of automation and intelligent systems, a huge amount of video and film post-production work can still only be completed manually by specialized artists. In the case of visual effects (VFX) and 2D/3D conversion, artists spend about 20%-40% of their time doing labour-intensive additive and subtracting retouching.
+To address this issue, AutoPost will develop productive end-user solutions for small and medium post-houses, by embedding scientific state-of-the-art solutions for tracking deformable surfaces and natural video matting into the established workflow of visual effects and 2D-to-3D conversion artists. The AutoPost solutions will considerably reduce the workload and will make post-production performance more efficient, both creatively and financially, while still allowing supervision and artistic control of the results by the user.
+To ensure a professional adoption, the developed tools will be accessible through a general plugin suite, The AutoPost Plugin Suite, for industry-standard post-production platforms as well as SDKs and functional plugin prototypes. The developments will be accomplished in accordance with the real-world working requirements defined by SME project partners from the creative industries, who will act as stakeholders for other post-houses, end-users and further external partners from their networks.
+AutoPost’s tools will allow companies to reduce the weight of the labour cost factor in their competitive profile, aiming to boost the competitiveness of the EU post-houses in every market, especially since infrastructure and labour costs can dictate where in the world films are finally produced. 
+To fulfil AutoPost’s objectives, a complementary and compact group of engineers, VFX and 2D/3D conversion artists, compositing experts and business-related professionals will work together, specifying, developing and evaluating the tools.</objective>
+  <title>Deformable Surface Tracking and Alpha Matting for the Automation of Post-production Workflows</title>
+<identifier>H2020ICT20141</identifier>
+</project>

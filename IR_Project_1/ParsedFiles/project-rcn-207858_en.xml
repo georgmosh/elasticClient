@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207858</rcn>
+  <acronym>CUTACOMBS</acronym>
+  <objective>In this proposal we plan to extend mathematical foundations of algorithms for various variants of the minimum cut problem within theoretical computer science.
+Recent advances in understanding the structure of small cuts and tractability of cut problems resulted in a mature algorithmic toolbox for undirected graphs under the paradigm of parameterized complexity. In this position, we now aim at a full understanding of the tractability of cut problems in the more challenging case of directed graphs, and see opportunities to apply the aforementioned successful structural approach to advance on major open problems in other paradigms in theoretical computer science.
+The specific goals of the project are grouped in the following three themes.
+
+Directed graphs. Chart the parameterized complexity of graph separation problems in directed graphs and provide a fixed-parameter tractability toolbox, equally deep as the one in undirected graphs. Provide tractability foundations for routing problems in directed graphs, such as the disjoint paths problem with symmetric demands.
+
+Planar graphs. Resolve main open problems with respect to network design and graph separation problems in planar graphs under the following three paradigms: parameterized complexity, approximation schemes, and cut/flow/distance sparsifiers. Recently discovered connections uncover significant potential in synergy between these three algorithmic approaches.
+
+Tree decompositions. Show improved tractability of graph isomorphism testing in sparse graph classes. Combine the algorithmic toolbox of parameterized complexity with the theory of minimal triangulations to advance our knowledge in structural graph theory, both pure (focused on the Erdos-Hajnal conjecture) and algorithmic (focused on the tractability of Maximum Independent Set and 3-Coloring).</objective>
+  <title>Cuts and decompositions: algorithms and combinatorial properties</title>
+<identifier>ERC2016STG</identifier>
+</project>

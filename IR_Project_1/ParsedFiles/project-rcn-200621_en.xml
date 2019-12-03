@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200621</rcn>
+  <acronym>ANIMATION</acronym>
+  <objective>NICo-Lab is a spin-off company from the departments of Radiology and Biomedical Engineering and Physics of the Academic Medical Centre (AMC) in Amsterdam. They have developed a toolbox that consists of tailored algorithms to analyse and quantify different aspects of neurovascular medical images of patients that suffered from acute strokes. The toolbox can be applied in two ways; 1) as a service to clinical trials to support management, analysis and quantification of images therein and 2) as a decision support system for clinicians (neuro-radiologists, neuro-surgeons and neurologists) that treat acute stroke patients. Nico-Lab has established proof-of-concept for the first application by supporting a clinical trial (MR CLEAN). Quantitative analysis of 500 images demonstrated the benefits of intra-arterial (vs. intravenous) treatment of these patients. The main objectives of this SME Phase I project are to investigate the commercial feasibility of the second application as decision support system for clinicians. Radiological images are an important tool for clinicians to make treatment decisions for acute stroke patients. The NICo-Lab toolbox can support this decision through delivering fast and accurate analysis and quantification of the images to the clinicians. The field of acute strokes has seen many developments in treatment strategies in the last year, further underscoring the need for decision support systems such as the NICo-Lab toolbox.</objective>
+  <title>Automatic Neurovascular Image Analysis and Quantification</title>
+<identifier>H2020SMEINST12015</identifier>
+</project>

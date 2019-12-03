@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>203373</rcn>
+  <acronym>YEASTMEMORY</acronym>
+  <objective>The emergence of intelligence –the ability to remember and analyze data to make decisions– was a milestone in evolution. Intelligence and memory are usually associated with plastic neuronal connections in higher organisms. However, new discoveries hint that a rudimentary form of intelligence is rooted in networks that regulate gene expression in a wide range of organisms, including bacteria and yeasts. Specifically, we and others have shown that microbes show plastic behavioral responses to past experiences, such as previously available nutrients or stresses. This implies that information about the past is somehow retained and passed to next generations, where it influences cellular regulation.
+
+The goal of this project is to use a simple eukaryotic regulatory circuit as a model to obtain a comprehensive picture of the different genes and molecular mechanisms underlying history-dependence (hysteresis) in cellular regulation. Specifically, we will study maltose (MAL) regulation in budding yeast, because this signaling pathway serves as a model for gene regulation circuits in other organisms, including humans. We will use a combination of genetic screens, live-cell microscopy in custom-built microfluidic devices, and mathematical modeling to pursue four aims:
+
+1. To provide a comprehensive quantitative analysis of hysteresis in MAL regulation 
+2. To unravel the molecular mechanisms contributing to hysteresis 
+3. To unravel the epigenetic mechanisms allowing hysteresis to extend over several generations
+4. To characterize the ecological relevance of hysteresis
+
+This project will establish an innovative model for hysteresis and generate a genome-wide, systems-level view of how past influences can be stored in regulatory cascades to influence cellular decision-making. The results will contribute to a paradigm shift in our view of biological regulation and memory, with possible applications in fields as diverse as industrial microbiology, synthetic biology and medicine.</objective>
+  <title>Memory in biological regulatory circuits</title>
+<identifier>ERC2015CoG</identifier>
+</project>

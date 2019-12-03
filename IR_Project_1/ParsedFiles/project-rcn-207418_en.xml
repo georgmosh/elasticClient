@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207418</rcn>
+  <acronym>SNABO</acronym>
+  <objective>In this project, we develop a microwave nanobolometer invented in the ERC Starting Grant ”Single-Photon Microwave Devices: era of quantum optics outside cavities (SINGLEOUT)” into a proof of concept and carry out a market analysis and partnering with the relevant industrial players in the field.
+
+For a successful proof of concept, a self-calibrating function will be implemented into the nanobolometer, providing us with an extremely sensitive and easy-to-use detector for microwave radiation. The new device will be designed, fabricated, and measured. 
+
+Due to the lack of spectrum analysers operating at cryogenic temperatures, our self-calibrating nanobolometer will provide a must-to-have piece of equipment for R&amp;D facilities working on cryoelectronics and quantum technology. Thus licensing agreements with companies working on cryostats and cryosystems will be pursued.
+
+The key performance indicators of our nanobolometer such as detection bandwidth, dynamics range, and sensitivity will be compared with the existing room-temperature technology and a potential market share for our nanobolometer will be mapped. Especially, the opportunities for commercial systems already utilizing cryogenic components such as superconducting filters at cellular phone base stations will be investigated.
+
+During this ERC PoC project, also other business opportunities will be studied and possibilities for founding a spin-out company will be actively sought for.</objective>
+  <title>Self-calibrating nanobolometer based on superconductor–normal-metal hybrids</title>
+<identifier>ERC2016PoC</identifier>
+</project>

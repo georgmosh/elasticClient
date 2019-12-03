@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>197841</rcn>
+  <acronym>SYMCAR</acronym>
+  <objective>Individuals, industries, and nations are depending on software and systems using software. Automated approaches are needed to eliminate tedious aspects of software development, helping software developers in dealing with the increasing software complexity. Automatic program analysis aims to discover program properties preventing programmers from introducing errors while making changes and can drastically cut the time needed for program development.
+This project addresses the challenge of automating program analysis, by developing rigorous mathematical techniques analyzing the logically complex parts of software. We will carry out novel research in computer theorem proving and symbolic computation, and integrate program analysis techniques with new approaches to program assertion synthesis and reasoning with both theories and quantifiers. The common theme of the project is a creative development of automated reasoning techniques based on our recently introduced symbol elimination method. Symbol elimination makes the project challenging, risky and interdisciplinary, bridging together computer science, mathematics, and logic.
+Symbol elimination will enhance program analysis, in particular by generating polynomial and quantified first-order program properties that cannot be derived by other methods. As many program properties can best be expressed using quantified formulas with arithmetic, our project will make a significant step in analyzing large systems. Since program analysis requires reasoning in the combination of first-order logic and theories, we will design efficient algorithms for automated reasoning with both theories and quantifiers. Our results will be supported by the development of world-leading tools supporting symbol elimination in program analysis.
+Our project brings breakthrough approaches to program analysis, which, together with other advances in the area, will reduce the cost of developing safe and reliable computer systems used in our daily life.</objective>
+  <title>Symbolic Computation and Automated Reasoning for Program Analysis</title>
+<identifier>ERC2014STG</identifier>
+</project>

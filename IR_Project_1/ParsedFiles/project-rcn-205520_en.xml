@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205520</rcn>
+  <acronym>DeMAnD</acronym>
+  <objective>The DeMAnD project has been set up to plan and execute an efficient mechanical material characterization program to deliver within the time duration set out by the JU a dynamic material property data base for typical aircraft materials, with a special focus on seat and crash absorbing structures of small aircraft. 
+This dynamic material characterization will be carried out over a wide range of strain rates, ranging from quasi-static loading up to high strain rates of 500 s-1.
+The project brings together renowned experts in the areas of test method development, static and dynamic testing of aircraft materials and structures, simulation and design of aeronautical crashworthiness structures and data reduction and preparation for dynamic finite element codes and material models.
+For the various strain rate regimes, the best suitable test equipment has been identified and is available within the consortium. This will ensure the determination of high quality material data and complete stress-strain curves from static up to high strain rate loading, allowing the derivation of the strain rate dependent material behavior for all material properties needed for predictive crashworthiness simulations.</objective>
+  <title>Dynamic aircraft MAterial property Database</title>
+<identifier>H2020CS2CFP02201501</identifier>
+</project>

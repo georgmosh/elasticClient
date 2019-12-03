@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204923</rcn>
+  <acronym>WINDASH</acronym>
+  <objective>"The H2020 ""Digital Agenda for Europe” Flagship Initiative has the goal of providing all EU citizens with Internet speeds above 30Mbps and above 50% households above 100Mbps.  Delivering such speeds and reaching so many households will require the creation of a new generation of wireless access networks.
+
+This action will study Wireless with Increased Network Density, Antennas, Spectrum and Heterogeneity (W.I.N.D.A.S.H.). Wireless communications increasing these resources received little attention in the past due to technical difficulty. However, traditional wireless systems with not-so-large bandwidth, antenna arrays and density are operating close to the capacity limit and research must move on to higher frequency bands, antenna architectures with massive numbers of elements, and increased device density, in order to deliver new significant increments in capacity.
+
+Such ambitious redesign of classic wireless systems will require simultaneous innovation in multiple fields, including the signals in the physical layer and the wireless network architectures and behaviors. This project follows a cross-layer interdisciplinary approach with collaboration between two excellent research groups that contribute complementary expertise: The Wireless System Group at Stanford University (communications), and the SIGNET group at University of Padova (networks). 
+
+The main research objectives of this action are
+1. To study the fundamental properties of the relation between a wireless network capacity, its architecture and increased bandwidth, antenna dimensions and density.
+2. To bridge the gap between the physical and network layers on this research field.
+3. To design wireless network architectures that maximize the potential benefit of increased resources.
+4. To develop optimal resource allocation schemes that maximize network performance in these architectures.
+4. To create simulation and demonstration tools that verify the results and ease transfer of solutions to industry."</objective>
+  <title>Wireless with Increased Network Density, Antennas, Spectrum and Heterogeneity</title>
+<identifier>H2020MSCAIF2015</identifier>
+</project>

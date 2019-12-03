@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>201348</rcn>
+  <acronym>SMART-LANLIGHT</acronym>
+  <objective>Measuring and controlling light-matter interactions at the nanoscale is critical for many applications affecting both science and society, ranging from disease detection and treatment to quantum-based information science. Performing studies of these interactions requires a nano source of light, high resolution detection and accurate three dimensional manipulation.
+However, most of the existing nano-optical techniques offer a subset, but not all, of these elements. We propose in this project to develop a system for measuring optical fields properties on nanostructures with nano-emitter levitating by a Paul also called radio-frequency trap. We will use -but not limited to- a lanthanide doped particle as the nano-emitter. Specifically, lanthanides are sensitive to both optical electric and magnetic field so that full understanding of the optical near-field properties is achievable, in an unprecedented way. We then plan to employ this new technique for investigating nanolight-matter interactions on technologically-important nanostructures such as optical antennas, nanophotonic circuits, metamaterials etc... This new and original probing technique will open the ways to a large variety of applications such as high resolution imaging of nanophotonics components (nano-optical circuiterie, spin domain, ...) or biological samples but also e.g cancer diagnostic and therapy since lanthanide can be used for tumor cell detection and photodynamic therapy.</objective>
+  <title>New Scanning nearfield Microscopy method bAsed on Radio-frequency Trap and LANthanide nanoprobe for LIGHT matter interaction.</title>
+<identifier>H2020MSCAIF2015</identifier>
+</project>

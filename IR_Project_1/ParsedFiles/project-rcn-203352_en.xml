@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>203352</rcn>
+  <acronym>ReArrhenius</acronym>
+  <objective>The main objective of this project is to evaluate the validity of using temperature correction factors (e.g. Q10) to predict the rates of micropollutant biodegradation in natural communities. The Q10 correction factor is based on the Arrhenius equation, which gives degradation kinetic rate constants as a function of temperature, and it is widely adopted in modelling (such as numerical fate models) in environmental exposure assessments. Despite its popularity, the Q10 approach is still the object of great debate among scientists, as the Arrhenius relationship holds over a very small temperature range for biological systems, in which microorganisms can function, and it is based on the assumption of compositional and functional ubiquity of the microbial communities. However, a change in temperature does not only impact chemical kinetic rates, but also determines shift and adaptation of the microbial population towards degraders that survive and perform better at the altered temperature.  This project will adopt a multidisciplinary approach where biotransformation assays, kinetic modelling and high-throughput microbiological assays will be integrated to provide a thorough understanding of temperature dependence of micropollutant biotransformation kinetics in aerobic biological systems, taking into account the strong relationship between taxon traits and the environment.</objective>
+  <title>Re-evaluation of temperature correction in microbial biodegradation kinetics</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

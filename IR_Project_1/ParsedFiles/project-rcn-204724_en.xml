@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204724</rcn>
+  <acronym>LeukaemiaTargeted</acronym>
+  <objective>In Europe, around two million individuals die from cancer each year. Cancer is a genetic disease and each patient's tumour contains several genetic lesions which are identified by next generation sequencing (NGS) and influence patient's outcome. A global current challenge lies in translating NGS data into benefit of cancer patients.
+As attractive novel therapeutic concept, precision medicine addresses genetic lesions using targeted therapies. A large number of targeted drugs and compounds exist and are currently developed such as kinase inhibitors; unfortunately, numerous clinical trials on targeted therapies failed.
+In order to better exploit NGS data, it is important to discriminate between genetic lesions that are required and maintain patients' tumours in vivo and others that do not – an impossible mission so far. My proposal aims at solving this key question. 
+Using acute leukaemia as model tumour disease, we propagate primary tumour cells from patients in immuno-deficient mice. We recently pioneered a worldwide unique technique which allows the distinct genetic manipulation of individual patients' tumour cells while they grow in vivo.
+We will molecularly target tumour-specific genetic lesions one by one; if tumour load is reduced, the lesion fulfils an essential function; essential lesions represent attractive therapeutic targets. Using our cutting edge technology, we will identify genetic lesions with essential, tumour-relevant function
+(i) in established tumour disease and
+(ii) in the clinically challenging situations of minimal residual disease and relapse.
+Our approach implements a new paradigm for target selection in oncology. Our work introduces molecular target validation as important step into the value chain of precision medicine which will tailor drug development by industry and academia. Our approach will improve patient care and the success rate of clinical trials for the benefit of patients suffering acute leukaemia and putatively other cancers.</objective>
+  <title>Selecting genetic lesions with essential function for patients' leukaemia in vivo as targets for precision medicine</title>
+<identifier>ERC2015CoG</identifier>
+</project>

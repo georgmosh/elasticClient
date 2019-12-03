@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200794</rcn>
+  <acronym>EQEC</acronym>
+  <objective>This proposal will advance the theory of quantum error correction towards its application in real physical devices, in particular superconducting transmon qubit systems. The research will result in proposals for experiments: how to use physical qubits to redundantly represent logical quantum information and how error information can be obtained and classically processed. The research will consider novel ways of using transmon qubits to achieve a universal fault-tolerant surface code architecture. The research will produce a design of a universal fault-tolerant architecture in which qubits are encoded in the electromagnetic field of a (microwave) cavity. Research will also focus on mathematical and numerical studies in quantum error correction which are technology-independent, but shed light on coding overhead, decoding efficiency and logical universality.</objective>
+  <title>Engineering Quantum Error Correction</title>
+<identifier>ERC2015CoG</identifier>
+</project>

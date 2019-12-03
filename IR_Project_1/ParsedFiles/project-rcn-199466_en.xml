@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199466</rcn>
+  <acronym>MODULAR</acronym>
+  <objective>Atomic ensembles are routinely prepared and manipulated in the quantum regime using the powerful techniques of laser cooling and trapping. To achieve similar control over the vibrations of nanofabricated mechanical oscillators is a goal that is vigorously pursued, which recently led to the first observations of ground-state cooling and quantum behavior in such systems.
+
+In this project, we will explore the new conceptual and experimental possibilities offered by hybrid systems in which the vibrations of a mechanical oscillator are coupled to an ensemble of ultracold atoms. An optomechanics setup and an ultracold atom experiment will be connected by laser light to generate long-distance Hamiltonian interactions between the two systems. This modular approach avoids the technical complications of combining a cryogenic optomechanics experiment and a cold atom experiment into a highly integrated setup. At the same time, it allows to investigate intriguing conceptual questions associated with the remote control of quantum systems.
+
+The coupled mechanical-atomic system will be used for a range of experiments on quantum control and quantum metrology of mechanical vibrations. We will implement new schemes for ground-state cooling of mechanical vibrations that overcome some of the limitations of existing techniques, explore coherent mechanical-atomic interactions and Einstein-Podolsky-Rosen entanglement, and use such entanglement for measurements of mechanical vibrations beyond the standard quantum limit. The extensive experience of the PI in atomic quantum metrology and hybrid optomechanics will be a valuable asset in this endeavor.
+
+Besides the interesting perspective of observing quantum phenomena in engineered mechanical devices that are visible to the bare eye, the project will open up new avenues for quantum measurement of mechanical vibrations with potential impact on the development of mechanical quantum sensors and transducers for accelerations, forces and fields.</objective>
+  <title>Modular mechanical-atomic quantum systems</title>
+<identifier>ERC2015STG</identifier>
+</project>

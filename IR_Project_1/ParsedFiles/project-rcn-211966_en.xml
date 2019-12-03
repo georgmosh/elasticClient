@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211966</rcn>
+  <acronym>X2RAIL-2</acronym>
+  <objective>X2RAIL-2 represents the 2nd proposal of the Shift2Rail members in the IP2 “Advanced Traffic Management &amp; Control Systems” domain.
+The pillar (IP2) challenge is to increase functionalities of the existing signalling and automation systems and related design and validation processes providing a more competitive, flexible, real-time, intelligent traffic management and decision support system, and maintaining backward compatibility to the existing European Rail Traffic Management System (ERTMS) and especially its European Train Control System component (ETCS).
+The X2RAIL-2 project aims, according to the MAAP, to research and develop four selected key technologies to foster innovations in the field of railway signaling and automation systems within the following Technology Demonstrators (TDs):
+Fail-Safe Train Positioning (TD2.4) - To achieve a significant reduction of the use of traditional train detection systems by means of the attainment of an absolute and safe train positioning system based on a multi-sensor concept, where GNSS is the preferred technology.
+On-Board Train Integrity (TD2.5) - To achieve the safe On-board Train Integrity to allow the application of new signaling train separation concepts (e.g. Moving Block or Virtual Block) based on the train self -localization rather than on traditional train detection systems.
+Formal Methods  (TD2.7) - To innovate and standardise processes and interfaces in the evolution phases of a signaling project (e.g.: design, implementation, test &amp; commissioning, operation &amp; maintenance) to rationalize the approach and to reduce time-to-market costs. 
+Traffic Management Evolution (TD2.9) - To improve standardisation and integration of Traffic Management processes with the aim to achieve flexibility and scalability within the choice of functional service module managed by TMS. 
+The X2RAIL-2 project aims at reaching TRL5/6 demonstrators.</objective>
+  <title>Enhancing railway signalling systems based on train satellite positioning, on-board safe train integrity, formal methods approach and standard interfaces, enhancing Traffic Management System functions</title>
+<identifier>H2020S2RJUCFM2017</identifier>
+</project>

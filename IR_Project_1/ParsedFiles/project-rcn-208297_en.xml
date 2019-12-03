@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208297</rcn>
+  <acronym>PREDICT</acronym>
+  <objective>Neuroblastoma are pediatric tumors that respond poorly to chemotherapy and have a very poor prognosis. To improve treatment options, a global development towards precision medicine is ongoing. This strongly focusses on molecular genetic target identification in tumors and subsequent assigning patients to the best trials according to their molecular profile. Still it is difficult to predict which patients will benefit from these targeted compounds. In addition, if tumors do respond to single compound targeted therapy, they almost always relapse. These tumor evolution processes could be prevented by simultaneous intervention in different activated tumor pathways.
+
+We now want to study how we can select patients that will most likely respond to a targeted compound and what combinations of targeted compounds are most effective? This can’t be tested in a clinical setting since the number of neuroblastoma patients that can be included in Phase1/2 trials is very small. Recent research shows that tumor organoids mimic human tumors and can effectively be used as xenograft in nude mice as well. These in vitro and in vivo models could be used as an alternative selection system for optimal combination treatment in a personalized approach.
+
+The overall aim is now to test if combinations of targeted compounds can cause complete remission in neuroblastoma organoid model systems to select combination treatment options for personalized clinical trials
+
+For this purpose we will generate neuroblastoma organoids that properly represents the complexity and heterogeneity of individual tumors and build a repository that represents the various subtypes of neuroblastoma tumors. We will identify synergistic compound combinations that are effective in neuroblastoma tumors that are characterized by specific molecular genetic aberrations. Thereby we will build an efficient pipeline to generate personalized models that can be used in precision medicine programs to perform compound validation.</objective>
+  <title>PREcision medicine Drug combination testing In neuroblastoma organoids to guide Clinical Trials</title>
+<identifier>ERC2016STG</identifier>
+</project>

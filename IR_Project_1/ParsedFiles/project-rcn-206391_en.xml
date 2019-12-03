@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206391</rcn>
+  <acronym>SONNET</acronym>
+  <objective>A revelation in today´s mobile is networks is SON (Self-Organizing technology) technology, which is seen as a playing pivotal role towards reducing the management costs of networks. In legacy networks, still many network elements and associated parameters are manually configured. The associated operations costs are significant. Specialized expertise must be maintained to tune these network parameters, and the existing manual process is time-consuming and potentially error-prone. In addition, this manual tuning process inherently results in comparatively long delays in updating values in response to the often rapidly changing network topologies and operating conditions, resulting in sub-optimal network performance. SON is capable of collecting information from the network, so as to perform self-configuration, self-optimization, self-healing and etc, so as to reduce the operation cost through less human involvement, and to optimize the service quality through robust and prompt network optimization.   
+
+In this proposal, we aim to drive further cost savings in the way networks are managed today by amplifying further the coverage zone of SON within the network. We believe that key technologies such as network sharing and Coordinated Multipoint (CoMP) can benefit from SON technology solutions. We will consider a complex context-aware heterogeneous network that is slowly becoming a 5G reality, and investigate the notion of SON CoMP and SO network sharing, as key technologies to reduce cost and energy per bit in legacy and future emerging mobile technologies.</objective>
+  <title>Self-OrganizatioN towards reduced cost and eNergy per bit for future Emerging radio Technologies</title>
+<identifier>H2020MSCARISE2016</identifier>
+</project>

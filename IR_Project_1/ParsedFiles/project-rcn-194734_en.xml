@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194734</rcn>
+  <acronym>I-Fusion</acronym>
+  <objective>"The environmental emissions impact of transport is currently a major concern and has to be minimized at a world-wide level (Carbon footprint, NOx, Particulates, Soot). In order to meet the "20-20-20" targets, greenhouse gas emissions reduction in EU and improvement in the EU's energy efficiency has to be performed. To do so, one way to achieve this goal is to optimize fuel consumption by proposing technologies and practices.
+While there is huge variation in fuel compositions placed on the international market, car Engine Electronic Control Units (ECU) are built and calibrated with only one specific reference fuel. This universal calibration implies safety margins leading to penalties in terms of CO2 and other pollutant exhaust emissions in real conditions. 
+I-FUSION project objective is to develop a Fuel Quality Sensing (FQS) technology, to be installed on-board vehicles equipped with thermal engines. This sensor will provide real-time information on fuel composition to the ECU, giving the opportunity to adapt all Engine actuators (injection, Exhaust Gas Recirculation…) in order to reduce both consumption and CO2 emissions by up to 5% and to reduce pollutant emissions by up to 20% at source. 
+The project is leaded and composed by an innovative French SME, SP3H, which develops new technologies focused on the profiling of fuel molecular structure for the control and reduction of emissions of carbon dioxide and other pollutants.
+SP3H will conduct a feasibility study (phase 1) to prove the technical compatibility with the automotive application by an endurance test in operational environment (more than 100 000 km). Associated to the business data, the phase 1 will provide all the information necessary to the next phases."</objective>
+  <title>Innovative FUel Sensor for engIne OptimisatioN</title>
+<identifier>H2020SMEINST12014</identifier>
+</project>

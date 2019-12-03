@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208924</rcn>
+  <acronym>FABCARB</acronym>
+  <objective>Irritable bowel syndrome (IBS) is one of the most commonly diagnosed conditions in the EU with a prevalence of 10-15%, and although not fatal, it is associated with significant co-morbidities and societal costs. The causes of IBS are not well understood, although it has been suggested that there are dietary triggers of the disease, in particular fermentable carbohydrates such as resistant starch (RS). It is believed that alterations to the gut microbiota in IBS sufferers’ leads to changes in the mechanism of fermentation of carbohydrates, resulting the symptoms such as abdominal pain, bloating and diarrhoea commonly associated with IBS.
+This project aims to identify the underlying mechanisms of fermentation of different forms of RS in healthy and IBS patients groups, and to uncover key differences in RS fermentation between these two groups. This will contribute to a deeper understanding of the underlying causes of IBS and help inform improved dietary guidelines and treatment options for patients.
+The approach I will take is to use in vitro chemostat models of the human colon, seeded with faeces from either healthy or IBS patient volunteers. Different physical forms of RS will be used as substrates for the colon models. The fermentation behaviour of the different substrates will be characterised in detail. The kinetics of gas and short chain fatty acid production will be monitored during fermentation. 16S sequencing will be used to identify key fermentative genera, and to assess differences in microbiota between healthy and IBS groups. This sequence data will then be used to generate specific probes for fluorescence in situ hybridisation microscopy to explore differences in the physical interaction between microbes and starch during fermentation.
+These data will be used to identify differences in microbial community composition, key fermentative species and fermentation pathways and end-products between different forms of RS by healthy and IBS patient microbiota.</objective>
+  <title>Fermentation And behaviour of carbohydrates in the colon</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

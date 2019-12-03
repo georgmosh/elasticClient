@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206417</rcn>
+  <acronym>VITE</acronym>
+  <objective>The VITE proposal is addressed to the call S2R-OC-IP2-02-2015-IT virtualization of testing environment. The main objective of VITE proposal is to reduce on-site tests for signalling systems leading to reducing overall testing costs. To achieve this main objective the work is organized in two main streams:
+First, to propose a testing framework by carefully analysing user’s needs and current situation and from there building a process that can be accepted by all railway stakeholders and whose main strength will be to perform as many tests as possible in the lab. An analysis of uncertainties and a simulation of GSMR QoS as well as a proposed methodology for test protocols optimisation will also be addressed.
+Secondly, to propose a standard architecture for the lab testing including the interface specifications for both the connection between real equipment and the lab tools as for the connection between different labs for remote testing. This architecture will be developed together with some SW tools that will help to automatise lab testing.
+To validate the test process framework and the lab architecture demonstrations by the participating labs using real track and train data from three of the most significant European countries deploying ETCS (Spain, Italy and Belgium), as well as an assessment by NoBos, DeBos and users from these three countries are also foreseen.
+Finally VITE has some dissemination and coordination actions to ensure the success and usefulness of the project in particular regarding the coordination with S2R-CFM-IP2-01-2015 and other S2R initiatives.
+The expected impact of the project is to significantly contribute to the development of a Zero Onsite testing environment.
+The VITE consortium involves users (RU and IM), independent labs, NoBos/DeBos and engineering and technological companies, all of them leading companies in the railway sector and in particular in signalling and ERTMS. This consortium thus complements the know-how and expertise of the S2R JU members.</objective>
+  <title>Virtualisation of the testing environment</title>
+<identifier>H2020S2RJUOC2015012</identifier>
+</project>

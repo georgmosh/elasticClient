@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213440</rcn>
+  <acronym>PICOMETRICS</acronym>
+  <objective>Understanding nanostructures down to the atomic level is the key to optimise the design of advanced materials with revolutionary novel properties. This requires characterisation methods enabling one to quantify atomic structures with high precision.
+
+The strong interaction of accelerated electrons with matter makes that transmission electron microscopy is one of the most powerful techniques for this purpose. However, beam damage, induced by the high energy electrons, strongly hampers a detailed interpretation. To overcome this problem, I will usher electron microscopy in a new era of non-destructive picometer metrology. This is an extremely challenging goal in modern technology because of the increasing complexity of nanostructures and the role of light elements such as lithium or hydrogen. Non-destructive picometer metrology will allow us to answer the question: what is the position, composition and bonding of every single atom in a nanomaterial even for light elements?
+
+There has been significant progress with electron microscopy to study beam-hard materials. Yet, major problems exist for radiation-sensitive nanostructures because of the lack of physics-based models, detailed statistical analyses, and optimal design of experiments in a self-consistent computational framework. In this project, novel data-driven methods will be combined with the latest experimental capabilities to locate and identify atoms, to detect light elements, to determine the three-dimensional ordering, and to measure the oxidation state from single low-dose recordings. The required electron dose is envisaged to be four orders of magnitude lower than what is nowadays used. In this manner, beam damage will be drastically reduced or even be ruled out completely.
+
+The results of my programme will enable precise characterisation of nanostructures in their native state; a prerequisite for understanding their properties. Clearly this is important for the design of a broad range of nanomaterials.</objective>
+  <title>Picometer metrology for light-element nanostructures: making every electron count</title>
+<identifier>ERC2017COG</identifier>
+</project>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210840</rcn>
+  <acronym>ADVISE</acronym>
+  <objective>ADVISE aims to advance the ultrasonic inspection of complex structured materials, for which conventional ultrasonic techniques suffer from severe performance limitations due to the micro and/or macro-structure. The project relies on a multi-pronged strategy: 
+- Model-assisted inspection enhancement tools allow the iterative optimisation of customised transducers and associated excitation signals, to specify the most appropriate inspection approach.
+- Novel in-situ characterisation techniques acquire specific information about the structure to be inspected; then model-assisted optimisation tools fine-tune the inspection parameters in the field.
+- Model-assisted diagnostic tools take a-priori, model-predicted and in-situ obtained information into account to fully exploit the information contained in full matrix capture (FMC) acquisitions, using adaptive imaging methods, backscatter filtering and inversion strategies.
+The main output of the project is thus a step change improvement in performance in terms of inspectable depth, defect detection and characterisation accuracy. For austeno-ferritic cast components, an increase of the inspectable depth of 70 to 85 mm is aimed for. Equally importantly, the in-situ characterisation for specific inspections will provide the confidence needed to make safe decisions from measured indications without the significant conservatism that is needed in many cases currently. 
+ADVISE brings together leading experts and key stakeholders with long-term commitments to this subject, covering construction, operation, and all aspects of in-service inspection. They will collaborate for new nuclear power constructions, maintenance of ageing power stations and safe operation of plants at end of life, addressing both Western European and Russian designs. An Industrial Advisory Board will play a major role throughout the project to guarantee a focus on the key issues and thereby ensure rapid deployment of the ADVISE developed techniques and tools.</objective>
+  <title>ADVanced Inspection of Complex StructurEs</title>
+<identifier>NFRP201620171</identifier>
+</project>

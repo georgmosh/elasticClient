@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>197960</rcn>
+  <acronym>Robolution</acronym>
+  <objective>The increasing scarcity for raw materials, growingly strict regulations (European Waste Directive &amp; Landfill tax escalation) and social pressure have turned waste into a resource, making recycling highly attractive. This has created a major market opportunity for new technologies that achieve high purity of sorted materials at a low cost.
+
+ZenRobotics Oy has developed a robotic waste sorting system ZenRobotics Recycler (ZRR) that has the potential to revolutionise waste sorting, replacing low-performing hazardous manual jobs with highly efficient and fast autonomous robotic pickers. The key innovation of ZRR is a unique machine-learning based system, which gathers gigabytes of data of its environment, makes smart decisions and moves a robot arm in an unpredictable environment. Given the novelty of the technology, a paradigm shift is necessary in waste management for wide uptake of ZRR.
+
+The Robolution project develops the prototype ZRR into a reliable and commercially attractive system for sorting Commercial and Industrial waste that forms more that 25% of total waste stream. The project focuses on:
+• Robot motion control to be able sort faster smaller objects and pick larger and heavier objects.
+• Recognition to detect new fractions (plastics, ferrous/non-ferrous metals) with 95% purity and recovery.
+• Development of the reporting tool enabling optimization within a waste sorting plant.
+• Optimization of the ZRR commissioning and service to shorten time-to-market time.
+• Testing and demonstration of the new functionality in real life conditions.
+
+ZenRobotics targets the global waste sorting equipment market currently worth about €1.5-3 billion annually, but thanks to technological advances, the market is likely to explode. The expected annual turnover of the Commercial and Industrial waste ZRR reaches €150 million by 2021.</objective>
+  <title>Robotic Recycling Revolution</title>
+<identifier>H2020SMEINST22014</identifier>
+</project>

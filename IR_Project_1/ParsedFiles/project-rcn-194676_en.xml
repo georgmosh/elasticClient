@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194676</rcn>
+  <acronym>MIGOSA</acronym>
+  <objective>In today’s cameras the photographic film has been replaced by image sensors, which are silicon chip transforming light into digital images. The image sensors have large amount of pixels measuring locally the amount of light impinging on the pixel and jointly forming the digital image. The image sensors are manufactured like any other silicon chips in foundries having clean rooms and sophisticated silicon processing tools.
+
+So far there have been two different ways to readout the pixel specific signal, namely, External Gate (EG) configuration utilized e.g. in present Charge Coupled Device (CCD) and Complementary Metal Oxide Semiconductor (CMOS) image sensors as well as Internal Gate (IG) readout configuration that is prone to manufacturing issues and consequently its use is extremely limited. The EG was invented in the sixties and the IG in the seventies. The problem with both of them is that they suffer from non-optimal low light performance.
+
+Pixpolar has invented, developed, and patented (more than 20 patents are already granted) a third fundamentally new image sensor pixel readout configuration called the Modified Internal Gate (MIG) that provides superior low light performance when compared to the two other older technologies.
+
+The MIGOSA project comprises three different tasks. The first one is business plan development work comprising meetings with potential customers in order to ensure that there is sufficient need for the MIG technology and that the development work fulfills customer needs. The second one is an Intellectual Property Right (IPR) study to be performed in order to investigate whether there are any IPR obstacles for MIG image sensor manufacturing. The third one is a manufacturability study performed by the chosen foundry in order to find out whether our pixel design complies with the foundry’s manufacturing process.</objective>
+  <title>Modified Internal Gate image sensor for low light optimised Out-door Security  surveillance Applications</title>
+<identifier>H2020SMEINST12014</identifier>
+</project>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>202055</rcn>
+  <acronym>SLMK</acronym>
+  <objective>A fundamental philosophical question is whether the mind can be mechanised. Attempts to answer it so far have been inconclusive; I argue that with the tools of mathematical logic this question can be sharpened and addressed in a framework where genuine progress can be achieved.
+I will consider a disjunctive thesis proposed by Gödel (known as Gödel's Disjunction) as a precise version of this question. Once sharpened, the question becomes whether a Turing machine (an idealised computer) can output exactly the statements that are 'absolutely provable'—i.e. the mathematical statements that can be proved in principle by an idealised mathematician not bound by limitations of time and cognitive resources. Gödel's Disjunction states that either the powers of the human mind exceed those of a Turing machine, or there are true but unprovable mathematical statements—i.e. mathematical statements that are beyond the reach of human reason. My proposed research will provide a novel account of 'absolute provability' or 'provability in principle' by developing a formal framework that overcomes the philosophical and technical shortcomings of the previous approaches. Having formulated the correct framework for absolute provability and uncovered its underlying mechanisms, I will be able to determine the status of Gödel’s disjunction. This will shed considerable light on the question of whether mind can be mechanised, a question central to philosophy of mind and artificial intelligence, and on the scope and limits of mathematical knowledge.</objective>
+  <title>The Scope and Limits of Mathematical Knowledge</title>
+<identifier>H2020MSCAIF2015</identifier>
+</project>

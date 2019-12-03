@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196153</rcn>
+  <acronym>CMSHInBeauty</acronym>
+  <objective>The goal of this proposal is to understand the behaviour of bottomonia, i.e., bound states of bottom quark pairs,
+in heavy-ion collisions.  The dissociation of these states is directly linked to the temperature of the quark-gluon plasma (QGP) formed in these collisions. However, additional effects not related to the QGP formation, referred to as cold nuclear matter effects, are also thought to play a role, complicating the interpretation of present data.
+
+A new quantity is proposed to disentangle these effects and isolate the dissociation effect of the QGP: the ratio of the nuclear modification factors (a normalized comparison of heavy-ion and proton-proton collisions) of bottomonia and open beauty. This quantity is particularly powerful if measured over the entire cross section, down to low transverse momentum.
+
+The open beauty measurement, carried out via non-prompt J/psi identification, is challenging at low transverse momentum and the project will start by a technical development aiming at reaching transverse momentum = 0 GeV/c in the heavy-ion environment. The measurements of bottomonia and open beauty will then be carried out with the high luminosity data at increased centre-of-mass energy that will be provided by LHC at the end of 2015.
+
+The final piece of the bottomonia puzzle is the measurement of the Xb excited states, which have never been measured in heavy-ion collisions, but which give a significant feed-down contribution to the Y(1S) ground state.  A feasibility study of this difficult measurement will conclude this proposal.</objective>
+  <title>Measuring the open to closed beauty ratio in heavy-ion collisions at LHC</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

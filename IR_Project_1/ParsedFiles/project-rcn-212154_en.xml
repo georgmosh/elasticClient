@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212154</rcn>
+  <acronym>TFence</acronym>
+  <objective>Terafence is developing a state-of-the-art Firmware/microchip, “TFence™”, patents pending, for cyber-secured connectivity,
+and mechanical waves to control medical implants. This advanced Firmware/chip ensures total protection from tampering by
+enabling data outflow while completely blocking data entry and with it malicious attacks.
+· The “TFence™” is designed to meet the IoT cyber security market requirements. Data outflow while completely blocking
+data entry and malicious attacks
+· One-way communication by means of small &amp; cheap hardware Converting multi protocols from the secured network to
+multi protocols for the unsecured network
+· Supporting numerous sensors at the secured network and analyzing initial real time profiling/statistics
+· IoT/sensors profiling to protect from botnet activities</objective>
+  <title>A patent pending solution/microchip for the IoT cybersecurity market requirements: no access toonline software updates, very small size, inexpensive hardware, low energy consumption.</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

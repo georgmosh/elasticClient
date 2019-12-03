@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>201382</rcn>
+  <acronym>SGPCM</acronym>
+  <objective>Graphene plasmons (GPs) enable the transport and control of light on an extreme subwavelength scale as well as the dynamic tunability via electric-gate voltage, which can be exploited for numerous applications such as for strong light-matter interactions, tunable infrared biosensing and absorption spectroscopy, subwavelength optical imaging, as well as for the development of tunable transformation optics devices, metamaterials and metasurfaces. 
+
+However, electric GP tuning still has the limitations that could hinder potential applications. First, the electric-gate tuning of GPs is a volatile method, i.e. the tuned states of GPs cannot be kept without the applied bias. Consequently, GP electro-optic devices like plasmonic switches cannot provide the storable ‘on-’ and ‘off-’ states for low-energy-consuming signal control and processing. Second, the electric-gate tuning is usually slow, which cannot switch or modulate the GPs in an ultrafast time scale. 
+
+In this proposal, we want to demonstrate that switchable phase change materials can offer a simple way to circumvent those two limitations and provide GPs with non-volatile, ultrafast and all-optical switching functionalities. These new functionalities would significantly enhance the application potential of GPs in the fields of optical sensing, all-optical plasmonic signal processing including modulation, switching and computing, and memory and digital metasurface and metamaterials.</objective>
+  <title>Switching graphene-plasmon with phase-change materials</title>
+<identifier>H2020MSCAIF2015</identifier>
+</project>

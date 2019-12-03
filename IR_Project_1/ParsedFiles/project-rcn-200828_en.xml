@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200828</rcn>
+  <acronym>MALET</acronym>
+  <objective>The goal of this project is the development of Modelica libraries (Dymola compatible) to simulate Electrical Environmental Control System (E-ECS) architectures including thermal management perimeter. The efforts will be focused on developing an optimized model to simulate vapour cycle systems (VCS) and liquid loop systems at both steady state and transient operational conditions. In addition, an appropriate strategy will be adopted to couple the thermal and the electrical environments to achieve an integrated simulation of the complete architecture.
+E-ECS architectures include different cooling systems and electrical components which will be modelled within this project. The system/components to be modelled are:
+• Vapour cycle systems (VCS), including compressors, reservoirs, valves, heat exchangers, etc.
+• Liquid loop systems, including pipes, pumps, cold plates, heat exchangers, liquid and diphasic coolants, etc.
+• Air cycle systems, including compressors, turbines, air-to-air heat exchangers, fans, sprayers, etc.
+• Jet pumps
+• Electrical components, such as power electronics and electrical motors
+• Wing ice protection systems
+A multi-level approach will be considered given the object-oriented nature of Modelica. In general, components will be modelled based on their appropriate governing equations (e.g. conservation law of energy, mass and momentum), needed empirical information (e.g. heat transfer correlations), and needed relevant parameters (e.g. compressor efficiencies). However, the modelling will be carried out considering different levels of detail. For instance, heat exchangers will be modelled from simple lumped approaches (e.g. ε-NTU based) to more detailed distributed approaches (e.g. finite volume method).</objective>
+  <title>Development of MODELICA Libraries for ECS and Thermal management architectures</title>
+<identifier>H2020CS2CFP01201401</identifier>
+</project>

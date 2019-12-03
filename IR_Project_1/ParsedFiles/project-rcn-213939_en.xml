@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213939</rcn>
+  <acronym>InSPIRe</acronym>
+  <objective>InSPIRe aims at fulfilling all the requirements of the CfP JTI-CS2-2017-CFP06-REG-01-09 “Innovative low power de-icing system” by designing, developing, and manufacturing a demonstrator for a safe, reliable and compact electrothermal low power de-icing system integrated in the wing leading edge for regional aircraft. The proposed technology will be demonstrated in the Icing Wind Tunnel at TRL5 and will be able to meet the goals of Clean Sky 2, WP2.3.1 “Low power WIPS” of the REG IADP.
+The core of the proposed ice protection system is a proprietary heater layer technology developed by Villinger GmbH, which is an elastic, semi-conductive polymer that can be applied as a thin coating to a variety of parts and components. The key features of the proposed system are:
+• Low-power electrothermal de-icing capability, offering a 40% power requirement decrease compared to the benchmark electrothermal de-icing protection system;
+• High system flexibility in terms of allowed configurations and full compatibility with morphing structure;
+• In-service fault tolerance and maintenance-free architecture;
+• Wider temperature operating range than the benchmark electrothermal de-icing protection system;
+The performance of the InSPIRe technology will be achieved due to: 
+• Low thermal inertia of the system, reducing the runback ice formation during unheated periods 
+• Enhanced thermal diffusivity, i.e. lower conductive and convective heat losses
+• Possibility of removing the parting strip, further reducing the power demand of the system
+• Advanced control strategy to optimise heater scheduling
+
+The InSPIRe system will be designed by a highly experienced consortium relying on state-of-the-art numerical simulation, innovative materials and manufacturing techniques, and thorough testing and qualification activities. The technology will be delivered fully compliant with Civil Certification requirements.</objective>
+  <title>Innovative Systems to Prevent Ice on Regional Aircraft</title>
+<identifier>H2020CS2CFP06201701</identifier>
+</project>

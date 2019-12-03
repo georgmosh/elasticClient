@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194116</rcn>
+  <acronym>EDSA</acronym>
+  <objective>Data explosion on the web, fuelled by social networking, micro-blogging, as well as crowdsourcing, has led to the Big Data phenomenon. This is characterized by increasing volumes of structured, semi-structured and unstructured data, originating from sources that generate them at an increasing rate. This wealth of data provides numerous new analytic and business intelligence opportunities to various industry sectors. Therefore, more and more industry sectors are in need of innovative data management services, creating a demand for Data Scientists possessing skills and detailed knowledge in this area. Ensuring the availability of such expertise will prove crucial if businesses are to reap the full benefits of these advanced data management technologies, and the know-how accumulated over the past years by researchers, technology enthusiasts and early adopters.
+
+The European Data Science Academy (EDSA) will establish a virtuous learning production cycle whereby we: a) analyse the required sector specific skillsets for data analysts across the main industrial sectors in Europe; b) develop modular and adaptable data science curricula to meet these needs; and c) deliver training supported by multiplatform and multilingual learning resources based on our curricula. The curricula and learning resources will be continuously evaluated by pedagogical and data science experts during both development and deployment.</objective>
+  <title>European Data Science Academy</title>
+<identifier>H2020ICT20141</identifier>
+</project>

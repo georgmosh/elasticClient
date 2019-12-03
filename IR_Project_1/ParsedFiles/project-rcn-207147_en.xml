@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207147</rcn>
+  <acronym>HoloCyt</acronym>
+  <objective>Cervical cancer causes 13.000 deaths and 34.000 new cases in the European Union. 200M tests are performed worldwide per year representing a $3,4B market.
+
+Today two tests are performed to diagnose cervical cancer. Firstly, a cervical smear is analysed by a pathologist via a visual subjective inspection using traditional microscopy. This is an 8-step process performed by several persons at different locations. Secondly, if positive, a molecular 4-step HPV test is performed. Results are available after 3 to 4 weeks causing anxiety and frustration for the patient. Typical instruments are expensive and have high related operational costs.
+
+Ovizio has designed a direct read vial allowing for the sample to be directly analysed without manipulation. The technology automatically generates objective data, identifying cells, detecting malicious cells and combines cytology and HPV in one test. This is a 3-step process: 1. sampling, 2. analysing, 3. report generation. The test is performed on a small low-cost device giving results in minutes rather than days allowing for near patient testing.
+
+A proof of concept and alpha prototype have been built with basic software algorithms. Several test have been performed at hospitals in Belgium and France resulting in two scientific publications and enthusiasm from key opinion leaders.
+
+The breakthrough technology transforms microscopic images into actionable data, corresponding to a market need of faster and improved testing, allowing healthcare organisations of member states to reduce costs and improve testing ratio’s. The company has a team that has done it before completed with highly skilled subject experts in the field and has launched 3 products laying the foundations for this project.</objective>
+  <title>A rapid, low-cost, cervical cancer screening platform</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

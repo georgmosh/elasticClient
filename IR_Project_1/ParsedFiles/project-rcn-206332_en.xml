@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206332</rcn>
+  <acronym>E2mC</acronym>
+  <objective>E2mC aims at demonstrating the technical and operational feasibility of the integration of social media analysis and crowdsourced information within both the Mapping and Early Warning Components of Copernicus Emergency Management Service (EMS). The Project will develop a prototype of a new EMS Service Component (Copernicus Witness), designed to exploit social media analysis and crowdsourcing capabilities to generate a new Product of the EMS Portfolio.
+The purpose of the new Copernicus Witness Service Component is to improve the timeliness and accuracy of geo-spatial information provided to Civil Protection authorities, on a 24/7 basis, during the overall crisis management cycle and, particularly, in the first hours immediately after the event. This will result in an early confirmation of alerts from running Early Warning Systems as well as first rapid impact assessment from the field.
+The technological enabler of the Copernicus Witness is the innovative and scalable Social&amp;Crowd (S&amp;C) Platform, developed by E2mC. 
+Heterogeneous social media data streams (Twitter, Facebook, Instagram,… and different data: text, image, video, …) will be analysed and sparse crowdsourcing communities will be federated (crisis specific as Tomnod, HOT, SBTF and generic as Crowdcrafting, EpiCollect,…).
+Two demonstration loops will validate the usefulness of Copernicus Witness and the S&amp;C Platform suitability to allow EC to evaluate possible Copernicus EMS evolution options. E2mC will perform demonstrations within realistic and operational scenarios designed by the Users involved within the Project (Civil Protection Authorities and Humanitarian Aid operators, including their volunteer teams) and by the current Copernicus EMS Operational Service Providers that are part of the E2mC Consortium. 
+The involvement of social media and crowdsourcing communities will foster the engagement of a large number of people in supporting crisis management; many more citizens will become aware of Copernicus.</objective>
+  <title>Evolution of Emergency Copernicus services</title>
+<identifier>H2020EO2016</identifier>
+</project>

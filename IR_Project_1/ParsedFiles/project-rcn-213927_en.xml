@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213927</rcn>
+  <acronym>ALOHA</acronym>
+  <objective>Deep Learning (DL) algorithms are an extremely promising instrument in artificial intelligence, achieving very high performance in numerous recognition, identification, and classification tasks. To foster their pervasive adoption in a vast scope of new applications and markets, a step forward is needed towards the implementation of the on-line classification task (called inference) on low-power embedded systems, enabling a shift to the edge computing paradigm. Nevertheless, when DL is moved at the edge, severe performance requirements must coexist with tight constraints in terms of power/energy consumption, posing the need for parallel and energy-efficient heterogeneous computing platforms. Unfortunately, programming for this kind of architectures requires advanced skills and significant effort, also considering that DL algorithms are designed to improve precision, without considering the limitations of the device that will execute the inference. Thus, the deployment of DL algorithms on heterogeneous architectures is often unaffordable for SMEs and midcaps without adequate support from software development tools. 
+The main goal of ALOHA is to facilitate implementation of DL on heterogeneous low-energy computing platforms. To this aim, the project will develop a software development tool flow, automating:
+• Algorithm design and analysis;
+• Porting of the inference tasks to heterogeneous embedded architectures, with optimized mapping and scheduling;
+• Implementation of middleware and primitives controlling the target platform, to optimize power and energy savings.
+During the development of the ALOHA tool flow, several main features will be addressed, such as architecture-awareness (the features of the embedded architecture will be considered starting from the algorithm design), adaptivity, security, productivity, and extensibility. 
+ALOHA will be assessed over three different use-cases, involving surveillance, smart industry automation, and medical application domains.</objective>
+  <title>software framework for runtime-Adaptive and secure deep Learning On Heterogeneous Architectures</title>
+<identifier>H2020ICT20171</identifier>
+</project>

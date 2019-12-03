@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212191</rcn>
+  <acronym>SCALAR</acronym>
+  <objective>Damage associated with climate change is a core benchmark in science and policy. Macro Integrated Assessment Models estimating damages are criticized for neglecting risk distribution, adaptation dynamics and the possible collapse of regional economies. Micro-level social science studies contain substantial knowledge on individual behavior, decisions under risk and autonomous climate adaptation, and go beyond monetary losses by focusing on resilience. This knowledge can ameliorate theoretical and empirical flaws in current macro assessments, if adequate scaling up methods were to exist. 
+SCALAR aims to bridge the gap between micro and macro research traditions by modeling the behavioral aspects of autonomous adaptation processes of heterogeneous agents, and integrating them into macro level climate policy models. The project focuses on floods. Its innovative nature allows to revisit the classic micro-macro aggregation problem through a unique combination of:
+1) New behavioral data on climate adaptation decisions collected in multiple survey waves using mobile applications, going beyond a snapshot to uncover evolving decision processes;
+2) Advances in agent-based modeling to scale up adaptation decisions of heterogeneous households and firms to a regional economy while including land use and hazard data;
+3) Cutting-edge ways of integrating micro-simulation models with traditional macro models to synergize the two approaches for developing new theory- and data-grounded macro damage assessments.
+SCALAR will drive a major breakthrough in integrating behavioral aspects of human decision-making into macro climate policy models. It will enable the quantitative exploration of cross-scale damage cascades, the identification of thresholds over which autonomous adaptation impacts the macro level, and the tracing of the emergence of socio-economic resilience as climate change unfolds. The methodological advancements will have impact far beyond the domain of climate adaptation.</objective>
+  <title>Scaling up behavior and autonomous adaptation for macro models of climate change damage assessment</title>
+<identifier>ERC2017STG</identifier>
+</project>

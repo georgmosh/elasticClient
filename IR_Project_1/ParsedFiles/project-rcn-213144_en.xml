@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213144</rcn>
+  <acronym>PRIViLEDGE</acronym>
+  <objective>Blockchain and distributed ledger technologies (DLTs) have emerged as one of the most revolutionary developments in recent years, with the goal of eliminating centralised intermediaries and installing distributed trusted services. They facilitate trustworthy trades and exchanges over the Internet, power cryptocurrencies, ensure transparency for documents, and much more.
+Although based on cryptographic techniques at their core, the currently deployed DLTs do not address privacy. Indeed, the very idea of a public ledger that stores a verifiable record of transactions at first appears inherently incompatible with the privacy requirements of many potential applications, which use sensitive data such as trade secrets and personal information. New cryptographic techniques and protocols are therefore needed to protect the data, facilitate these applications, and make DLTs deliver on their promises.
+PRIViLEDGE realises cryptographic protocols supporting privacy, anonymity, and efficient decentralised consensus for DLTs. In PRIViLEDGE, several European key players in cryptographic research and from the fintech and blockchain domains unite to push the limits of cryptographic protocols for privacy and security. Results from PRIViLEDGE are demonstrated through four ledger-based solutions: (1) verifiable online voting; (2) contract validation and execution for insurance; (3) university diploma record ledger; and (4) update mechanism for stake-based ledgers. The selected use cases are diverse and represent the principal application domains of DLT; this ensures wide reach and impact of the techniques developed in PRIViLEDGE beyond the immediate scope of the project.</objective>
+  <title>Privacy-Enhancing Cryptography in Distributed Ledgers</title>
+<identifier>H2020DSLEIT2017</identifier>
+</project>

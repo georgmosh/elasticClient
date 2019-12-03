@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>197512</rcn>
+  <acronym>ICaRO</acronym>
+  <objective>Our understanding of ion channel operation is limited to inferences based on functional data and to static snapshots of their structures where they are available. Cyclic nucleotide-modulated channels and calcium-activated K+ channels play crucial roles in a myriad of physiological processes ranging from signal transduction to neuronal excitability. The binding of ligands to specialized intracellular domains modulates the opening/closing (gating) equilibrium of these channels. Both the high resolution structures - in open and closed conformation - of these channels and the precise mechanism of ligand-mediated channel activation are unknown. The present proposal aims to understand the mechanism of ion channel modulation by ligands. To accomplish this goal we will utilize prokaryotic homologues of these channels reconstituted in artificial membranes. High-speed atomic force microscopy (HS-AFM) will allow us to directly observe individual ion channel molecules in action at high spatiotemporal resolution and in physiological conditions. Through UV-laser pulses caged ligands (caged-Ca2+ or caged-cAMP) will be liberated during HS-AFM imaging and the conformational changes associated to ligand binding monitored in real time. Differences between liganded and unliganded channel structures will provide insight into the mechanism of ligand gating. The obtained data will be compared to single channel current recordings under comparable conditions.</objective>
+  <title>Ion Channels and Receptors Operation</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

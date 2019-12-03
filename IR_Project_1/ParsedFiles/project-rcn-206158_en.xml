@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206158</rcn>
+  <acronym>ERGO</acronym>
+  <objective>European Robotic goal-oriented autonomous COntroller (ERGO)
+The specific objective of ERGO is thaen to deliver the most advanced but flexible space autonomous framework/system suitable for single and/or collaborative space robotic means/missions (orbital and surface rovers) demanding robust operations with adaptable levels of autonomy.
+Due to the intrinsic similarities of addressed scenarios, especially for what concerns surface applications, ERGO has to be/and has been thought so to be applicable to terrestrial robotic applications requiring high level of autonomy. 
+In order to achieve this challenging objective, the ERGO team has been settled such to guarantee strong background both in robotics in general and operational autonomous space robotic missions (GMV, ADS, SciSys), as well as state of the art expertise in goal oriented autonomy (GMV),  planning (King College, University of Basel, GMV), guidance and navigation for robotic applications (GMV, ADS, SciSys), formal validation and verification (UGA-UGA), on-board critical software design and development (GMV, Ellidiss ).</objective>
+  <title>EUROPEAN ROBOTIC GOAL-ORIENTED AUTONOMOUS CONTROLLER</title>
+<identifier>H2020COMPET2016</identifier>
+</project>

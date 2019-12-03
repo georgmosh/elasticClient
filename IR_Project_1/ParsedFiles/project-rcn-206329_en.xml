@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206329</rcn>
+  <acronym>GaNOMIC</acronym>
+  <objective>Satellite contractors are permanently looking for cost and performance improvements. This cascades to the PPU, a subsystem having a very high impact on the cost and performance of EP systems.
+Hence, we propose to focus on the PPU “heart” studying a disruptive power converter, with major innovations complementary to the incremental improvements, beyond the state of the art. We will demonstrate and combine in a synergistic way innovative technologies (such as GaN, digital control, adaptive filtering and embedded packaging), thus resulting in a radical breakthrough applicable to advanced EP architectures based on such PPU designs. The consortium plans to demonstrate the selected technologies by means of a 7.5 kW power converter to be tested in electrical propulsion existing test facilities, thus providing measurable validation, and specification definition, within the 2016 Phase 1 time frame.
+This will lead to dramatic improvements in cost, mass and volume targeting part list reduction (by 3), converter efficiency (98%) and optimized thermal characteristics (200°C), translating into system optimization and increased power requirements.
+Being at the forefront of technological developments, the consortium members are able to anticipate emerging technologies and medium to long term performance requirements consistent with existing and planned space programs at national, commercial and ESA levels. GaNOMIC will constitute a solid technical basis for future Direct Drive configurations, and further down the line, to “distributed” configurations where the PPU can be eliminated altogether.
+In addition to promoting and accelerating the development of breakthrough EP-related concepts, the consortium members have identified other markets, e.g. aeronautics and automotive, which could benefit from these innovating high performance power converter and related technologies under consideration.
+The consortium is committed to continue this study in future calls of the SRC.</objective>
+  <title>GaN in One Module Integrated Converter for EP systems</title>
+<identifier>H2020COMPET2016</identifier>
+</project>

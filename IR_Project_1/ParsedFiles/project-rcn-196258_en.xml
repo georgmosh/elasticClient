@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196258</rcn>
+  <acronym>MDLab Ginestra</acronym>
+  <objective>MDLab (Modeling Dielectric Laboratory) has developed a novel micro- and nano-electronic devices simulation software focused on the physical phenomena occurring in the dielectric layers i.e. charge and ion transport, charge trapping, and structural degradation. The MDLab software has several distinctive features (i.e., automatic interpretation and calibration, full reliability simulation, focus on dielectric-based devices with a multi-scale atomic approach, flexible graphical interface resembling a measurement instrument) compared to the TCAD software available on the market, which represents a great opportunity to successfully enter the market by responding to needs currently not covered by competitive commercial TCAD tools. Thanks to a novel user interface concept designed to be intuitive, a broad adoption of the software is expected from non-simulation-experts, who can benefit from the Graphical User Interface (GUI) simplicity, allowing connecting the electrical curves to the atomic/physical properties of the dielectric materials in an intuitive simulation environment.  
+MDLab aims at becoming an European and worldwide company developing simulation software for electronic devices, changing the way simulation tools are used in the semiconductor industry, thanks to the friendly and flexible interface connecting electronic device performance/reliability to atomic device properties.</objective>
+  <title>A novel characterization- and reliability-oriented simulation software for dielectric-based nano-electronic devices</title>
+<identifier>H2020SMEINST12014</identifier>
+</project>

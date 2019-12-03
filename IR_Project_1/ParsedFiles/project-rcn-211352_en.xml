@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211352</rcn>
+  <acronym>SWING</acronym>
+  <objective>Internet of Things (IoT) is becoming more and more part of our daily life. By connecting physical reality and virtual world into new smart environments, IoT is continuously evolving in innovative contents, areas of application, visions and technologies, hence contributing to make our lives easier, safer, more efficient and more user-friendly. Implementation of IoT in Industrial context is also known under the names of Industry 4.0 (I4.0) and is expected to contribute to EU manufacturing renaissance. 
+Global technology providers already offer I4.0 integrated technology platforms, providing hw, sw and connectivity solutions, useful to implement I4.0 functions. However, there is a market niche of small-medium sized Original Equipment Manufacturers who find unsatisfactory the adoption of these I4.0 integrated technology platforms because (i) they require a drastic change in the control architectures of their equipment and therefore high re-design efforts, (ii) they provide calculation and processing powers (typically based on PLCs or PCs) over-dimensioned with respect to the application requirements, (iii) they imply an increase in costs of the equipment.
+SWING project aims to meet the unattained needs of this market niche by offering a revolutionary industrial automation architecture based on a family of power supplies that makes unnecessary to use PLCs or PCs to implement I4.0 paradigm. These Devices will be enhanced by remote control and preventive maintenance services delivered via a Web Platform, constantly enriched by innovative applications provided through a specific Apps Marketplace.
+The feasibility study aims to assess the opportunities and risk, as well as to plan the activities necessary: 
+- To industrialize the device and the correlated web platform and apps marketplace.
+- To plan the pre-commercial validation of the SWING system.
+- To test the potential target market to achieve a successful business exploitation.</objective>
+  <title>Smart connected poWer continuity system enablING European industrial renaissance</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

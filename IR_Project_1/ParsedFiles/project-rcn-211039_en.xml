@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211039</rcn>
+  <acronym>HiLICo</acronym>
+  <objective>Although the market demand of displays bright enough to allow the diffusion of readable information against a very bright landscape is important, in particular in the avionics application, existing technologies still do not allow the desired brightness combined with very low power consumption and very compact volume.
+In this context, the HiLICo project aims at developing a new generation of monochrome and full-color emissive GaN micro-displays with 1920 x 1200 pixel resolution (WUXGA), 8-μm pixel pitch, very high brightness (over 1MCd/cm²) and good form factor capabilities that will enable the design of ground breaking compact see-through system for next generation Avionics applications.
+To achieve this aim, HiLICo will address the following challenges:
+1. development of high-quality GaN based LED epilayers designed to fulfill targeted demonstrator performances;
+2. design and fabrication of an active matrix in advanced Complementary metal oxide semi-conductor (CMOS) technology to control each individual pixel;
+3. coupling of the LED structure and the CMOS, building a monolithic structure on which LED arrays will be fabricated with high precision, thus making monochrome, active-matrix, high-resolution GaN microdisplays;
+4. addition of colour converters (quantum dots and 2D Multi-Quantum Wells layers) on such blue emitting devices, for fabricating bi-color and full-color display demonstrators;
+5. design and manufacture of the electronics followed by the test and evaluation of the complete micro display device. First demonstrators will be qualified for future commercialisation.
+The technology developed will contribute to the increase of European competitiveness, through the rapid and important deployment of innovative products on the microdisplay market, as well as Head-Up Displays, Head-mounted displays and smart Eyewears.
+The consortium gathers 1 RTO, 1 large company and 2 SMEs. They will mobilise a grant of 4 091 583 € with an effort of 283 PM.</objective>
+  <title>High Luminescence In Cockpit</title>
+<identifier>H2020CS2CFP04201602</identifier>
+</project>

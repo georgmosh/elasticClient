@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200786</rcn>
+  <acronym>SpeedInfTradeoff</acronym>
+  <objective>The starting point of this research proposal is a recent result by the PI, making progress in a half century old,
+notoriously open problem. In the mid 1960’s, Tukey and Cooley discovered the Fast Fourier Transform, an
+algorithm for performing one of the most important linear transformations in science and engineering, the
+(discrete) Fourier transform, in time complexity O(n log n).
+In spite of its importance, a super-linear lower bound has been elusive for many years, with only very limited
+results. Very recently the PI managed to show that, roughly speaking, a faster Fourier transform must result
+in information loss, in the form of numerical accuracy. The result can be seen as a type of computational
+uncertainty principle, whereby faster computation increases uncertainty in data. The mathematical argument
+is established by defining a type of matrix quasi-entropy, generalizing Shannon’s measure of information
+(entropy) to “quasi-probabilities” (which can be negative, more than 1, or even complex).
+This result, which is not believed to be tight, does not close the book on Fourier complexity. More importantly,
+the vision proposed by the PI here reaches far beyond Fourier computation. The computation-information
+tradeoff underlying the result suggests a novel view of complexity theory as a whole. We can now revisit
+some classic complexity theoretical problems with a fresh view. Examples of these problems include better
+understanding of the complexity of polynomial multiplication, integer multiplication, auto-correlation and
+cross-correlation computation, dimensionality reduction via the Fast Johnson-Linednstrauss Transform (FJLT;
+also discovered and developed by the PI), large scale linear algebra (linear regression, Principal Component
+Analysis - PCA, compressed sensing, matrix multiplication) as well as binary functions such as integer multiplication.</objective>
+  <title>Speed-Information Tradeoffs: Beyond Quasi-Entropy Analysis</title>
+<identifier>ERC2015CoG</identifier>
+</project>

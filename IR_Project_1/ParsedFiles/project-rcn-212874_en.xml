@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212874</rcn>
+  <acronym>WellCO</acronym>
+  <objective>WellCo delivers a radical new ICT-based solution in the provision of personalised advice, guidance and follow-up of users for the adoption of healthier behaviour choices that help them to maintain or improve their physical cognitive, mental and social well-being for as long as possible.  
+Advice is given through behaviour change interventions specifically tailored to the singularities of each user (user-centred approach); these interventions range from goals to achieve on a Social Network to recommended activities around the 7 areas defined in WellCo: cognitive stimulation, leisure and entertainment, supporting groups, physical activity, health status, nutrition and tips. Recommendations and goals are provided after performing an assessment of the status for determining the probability of a given disease expression. This assessment accounts: user’s profile, context (Life Plan), socio-economic agents, health and mental status derived from the data of wearable sensors seamlessly integrated into ADL of the user and user’s mood after the application of Affective Computing via visual and speech emotion recognition. 
+Guidance and follow-up is provided by the Virtual Coach developed in WellCo; this consists in affective-aware coach that is always active and interacts through speech with the user in order to: 1) act as virtually interface among the user and the platform managing the flow of all user-platform and platform-user interactions (NLi) 2) empower users in their behaviour change process through simulation activities tailored to their current mood (Affective Computing).
+The whole service is also followed-up and continuously supported by a multidisciplinary team of experts as well as users’ close caregivers that provide their clinical evidence (Expert- Related Outcomes) and knowledge about the user (Observer-Related Outcomes) to ensure effectiveness and accuracy of the change interventions.</objective>
+  <title>Wellbeing and Health Virtual Coach</title>
+<identifier>H2020SC12017CNECT1</identifier>
+</project>

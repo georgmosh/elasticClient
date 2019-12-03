@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>195650</rcn>
+  <acronym>DISC</acronym>
+  <objective>The recent years have witnessed the explosion of services and applications such as email, cloud computing, social
+and media networks, and video sharing. The grand challenge is to store, process and transfer this massive amount
+of data. According to recent estimates, the data to be stored grows at a rate of 45% per year, a factor of 40 by
+2024. Data centers typically employ a collection of cheap devices/nodes, which are connected forming a so-called
+distributed storage (DS) system, where a central server keeps track of where each file is stored and performs all
+network operations. Every day, knowingly or unknowingly people connect to various private and public DS systems.
+It is nowadays accepted that current DS systems cannot face the unabated growing of digital data volume. Nextgeneration
+storage systems desperately need new technologies to improve their robustness to node failures, storage
+efficiency, complexity, and cost efficiency, in order to sustain the information revolution of modern societies.
+This project addresses the challenges above using modern coding theory and optimization theory. Our focus is
+on the application of sparse-graph erasure correcting codes to large DS networks. The proposed project falls into the
+category of fundamental research, but it is driven by practical concerns, and we expect our findings to give new and
+relevant insights for the design of practical coding schemes for next-generation DS systems.</objective>
+  <title>Distributed storage based on sparse-graph codes</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

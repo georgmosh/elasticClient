@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>209769</rcn>
+  <acronym>InsideLoops</acronym>
+  <objective>The LHC era of fundamental physics presents a formidable challenge for theorists - the precision of Standard Model predictions should be improved by a factor of two. One of the major bottlenecks is the availability of two-loop scattering amplitudes in quantum chromodynamics (QCD), which is largely limited to 2 -&gt; 2 processes due to the daunting complexity of the perturbative series. The need for amplitudes of higher-multiplicity processes calls for new analytic insights into the intricate structure of gauge theories.
+
+This project centers around one such insight - colour-kinematics duality - and aims to convert it into a powerful ally for future QCD calculations. This will be possible because the duality, recently generalised from the purely gluonic sector to full QCD, contains valuable information about non-Abelian gauge theories. In particular, it relates aspects of QCD calculations that are simpler to aspects, which are thought to be much harder. This input non-trivially constrains the S-matrix and thus can be used to reduce the number of subcalculations needed. To achieve this, we plan to pursue the four following lines of research:
+- systematise the relations among generalised unitarity cuts, which follow from tree-level amplitude relations induced by the duality of colour and kinematics;
+- simplify the analytic structure of loop integrands via smart loop momentum parametrisation;
+- develop tools for tree-level amplitudes in six-dimensional gauge theories, which serve as input for dimensionally-regulated two-loop amplitudes in four dimensions;
+- calculate previously inaccessible two-loop amplitudes contributing to NNLO corrections to 2 -&gt; 3 QCD processes at the LHC.
+
+This will improve our understanding of gauge theories and open the way to previously intractable calculations of higher-loop scattering amplitudes, such as the next-to-next-to-leading-order amplitude for 2 -&gt; 3 parton scattering, thus making a major impact on the field of perturbative QCD.</objective>
+  <title>Colour and Kinematics of Quarks and Gluons inside Loops</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

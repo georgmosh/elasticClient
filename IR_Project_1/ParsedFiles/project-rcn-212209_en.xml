@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212209</rcn>
+  <acronym>SPOCkS MS</acronym>
+  <objective>The main question to be addressed by SPOCk’S MS is how protein complex conformation adapts to local changes, such as processing of polyproteins, protein phosphorylation or conversion of substrates. While labelling strategies combined with mass spectrometry (MS), such as hydrogen deuterium exchange and hydroxyl footprinting, are very versatile in studying protein structure, these techniques are employed on bulk samples averaging over all species present. SPOCk’S MS will remedy these by studying the footprinting and therefore exposed surface area on conformation and mass selected species. Labelling still happens in solution avoiding gas phase associated artefacts. The labelling positions are then read out using newly developed top-down MS technology. Ultra-violet and free-electron lasers will be employed to fragment the protein complexes in the gas phase. In order to achieve the highest possible sequence and thus structural coverage, lasers will be complemented by additional dissociation and separation stages to allow MS^N. SPOCk’S MS will allow sampling conformational space of proteins and protein complexes and especially report about the transient nature of protein interfaces. Constraints derived in MS will be fed into a dedicated software pipeline to derive atomistic models. SPOCk’S MS will be used to study intracellular viral protein complexes, especially coronaviral replication/transcription complexes, which are highly flexible and often resist crystallisation and are barely accessible by conventional structural biology techniques.
+Objectives:
+- Integrate labelling with complex species selective native MS for time-resolved structural studies
+- Combine fragmentation techniques to maximise information content from MS
+- Develop software suite to analyse data and model protein complex structures based on MS constraints
+- Apply SPOCk’S MS to protein complexes of human pathogenic viruses</objective>
+  <title>Sampling Protein cOmplex Conformational Space with native top down Mass Spectrometry</title>
+<identifier>ERC2017STG</identifier>
+</project>

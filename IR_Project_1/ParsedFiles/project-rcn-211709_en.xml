@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211709</rcn>
+  <acronym>ONFIRE</acronym>
+  <objective>Future (5G) services will impose stringent requirements in the design and operation of transport networks: increased capacity, low latency, high availability and dynamicity, reduced service provisioning with lower OpEx, while considering end-to-end service objectives (QoS and QoT). 
+To cope with traffic growth in a cost-effective way, an appealing strategy focuses on deploying elastic and programmable commodity optical hardware via disaggregation (white boxes) combined with transmission technologies. 
+To address both end-to-end service objectives and traffic dynamicity, an interesting approach leverages the benefits provided by SDN/NFV control and the automated decisions and re-configuration opportunities enabled by cognitive algorithms. For this, SDN/NFV provides unified control on top of systems’/devices’ programmability, regardless of the data infrastructure (packet, optical, IT), while exploiting the large real-time monitored information dynamically to adopt actions leading to attain service end-to-end objectives and more optimal network operation and resource utilization.
+Those hardware and software solutions constitute ONFIRE R&amp;D goals which basically target the design, deployment and experimental evaluation of disaggregated optical transport hardware automatically articulated by novel cognitive algorithms supported by a SDN/NFV architecture. To do so, ONFIRE proposes a three-year research programme centred on two European industrial PhDs. PhD candidates will benefit from an intensive training process combining the strengths of both: i) CTTC as research institution to acquire research tools and methodology, with UPC as associated partner offering its PhD programme; ii) ALUD as a vendor delivering a highly valuable view of research activities and its impact on industrial ecosystem. Targeted PhD training programme is devised to maximize the synergy between the collaborators and promote career opportunities of ONFIRE researchers in the European ICT Research Area.</objective>
+  <title>Future Optical Networks for Innovation, Research and Experimentation</title>
+<identifier>H2020MSCAITN2017</identifier>
+</project>

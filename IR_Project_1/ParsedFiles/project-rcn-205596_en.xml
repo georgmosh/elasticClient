@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205596</rcn>
+  <acronym>HyproCell</acronym>
+  <objective>Individualised production is an emerging trend in manufacturing. Laser-based Additive Manufacturing (LBAM) fits well with this trend, due to its capability of transforming digital designs directly into physical products. LBAM is not yet competitive for a widespread industrial adoption: post-processing operations are necessary and they are not currently integrated, human intervention is needed to overcome technology gaps, and a poor integration with production planning systems hinders process traceability and resource optimisation. 
+HyProCell proposes the combination of available cutting-edge LBAM machines and ICT innovations within an integrated multiprocess production cell, which will include at least LBAM and subtractive manufacturing machine/s, in order to ensure a fully finished product from the incoming raw material. The general objective of HyProCell is to implement and validate this concept in real settings, manufacturing real parts and measuring obtained benefits. 
+HyProCell is expected to produce a sound impact on all the stakeholders of LBAM-related industry:
+- Making feasible a demand-driven LBAM production process supported on fast manufacturing procedure development capacities;
+- Creating highly automated and integrated multiprocess production cells, thus reducing dramatically downtime.
+- Enabling the rapid reconfiguration of the production cells, for scalability and/or new product demands, thanks to their modular architecture.
+- Fully enabling end-users to address new production trends.
+Relevant technological impacts are expected on hardware and software levels. 
+A well-balanced consortium representing from machine manufacturers and end-users to Photonics experts, industrial automation specialist, ICT for smart manufacturing providers and technical services assures to meet project goals. Heavy involvement of SMEs (50% of the budget) guarantees an outstanding innovation push.</objective>
+  <title>Development and validation of integrated multiprocess HYbrid PROduction CELLs for rapid individualized laser-based production</title>
+<identifier>H2020FOF2016</identifier>
+</project>

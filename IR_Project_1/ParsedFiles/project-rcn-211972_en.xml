@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211972</rcn>
+  <acronym>My-TRAC</acronym>
+  <objective>My-TRAC project aims to deliver an innovative application for seamless transport and an ecosystem of models and algorithms for Public Transport – PT user choice simulation, data analytics and affective computing. My-TRAC stands out from other technologies due to three main reasons. First, My-TRAC fosters unprecedented involvement of users during, before and after a trip through a smart Human-Machine interface and numerous functionalities such as crowdsourcing, group recommendations, data exchange. Second, the application implements a vast array of technologies, such as affective computing, Artificial Intelligence and user choice simulation, that fuse expertise from multiple fields. Third, My-TRAC facilitates engagement of multiple stakeholders by seamlessly integrating services and creating connections between Rail operators, Mobility-as-a-Service and other PT providers.
+My-TRAC application is a travel companion designed to operate similarly to a human companion; understanding traveller’s attributes and state-of-mind to derive conclusions from vague information as any human does. In addition, My-TRAC will be the traveller’s gateway to various services related to using PT, having Rail in the epicentre. My-TRAC application will also provide predictive information concerning disruptions and disturbances. It will not only display data but analyse them through innovative algorithms to provide improved recommendations.
+My-TRAC also involves PT operators through the “operators’ interface” where they can retrieve and visualize aggregated data on users’ movements and state-of-mind that will assist in strategic and dynamic operations. Data that the operators retrieve are aggregated and anonymized while all models and algorithms are applied on the mobile device of the user, seamlessly integrating the “privacy-by-design” concept.
+The consortium will test the idea in 4 pilot locations with the cooperation of local operators: NS (NL), ATTIKO Metro (GR), FGC (SP), Fertagus (PT).</objective>
+  <title>My TRAvel Companion</title>
+<identifier>H2020S2RJUOC2017</identifier>
+</project>

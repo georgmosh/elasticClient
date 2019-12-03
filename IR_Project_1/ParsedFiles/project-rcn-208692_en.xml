@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208692</rcn>
+  <acronym>CombLimit</acronym>
+  <objective>Graph limit theory is a new and important field, motivated by large real-life networks such as the internet, the nervous system, traffic networks, social networks, interaction graphs of proteins, etc. Sparse graph limit theory is a direction partially inspired by these applications. This is a new and intensively studied field, and one of the two main topics of the research proposed. Local algorithms or constant-time distributed algorithms is an important tool for sparse graph limit theory, and this is in the focus of the proposed research. It is also useful to understand stochastic processes and phase transitions in large networks, and it is strongly related to ergodic theory.
+The applicant very recently demonstrated through some examples that the tools of limit theory can be very useful in solving combinatorial problems as well. This observation opened the door for plenty of new applications, which are also in the focus of the proposed research.
+With the proposed CombLimit initiative the applicant would complement the research agenda of the Rényi Institute, and he would also be an important link connecting pure mathematics with its applications in computer science, economics, physics and biology. Upon completion of the CombLimit MSCA program, the applicant will have a good basis for successfully applying a tenured/permanent position at Rényi Institute.</objective>
+  <title>Limit Theory in Combinatorics</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

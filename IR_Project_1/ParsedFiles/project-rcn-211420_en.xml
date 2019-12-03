@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211420</rcn>
+  <acronym>IBIS</acronym>
+  <objective>The main objective of the IBIS project is to develop an ultrasensitive, compact and low cost platform for the label-free quantitative detection of single proteins, and specifically the characterisation of nanometric extracellular vesicles. We will develop a prototype to transfer our novel detection scheme from the laboratory to the clinical environment and, based on user-feedback, develop a commercialization plan. 
+In the fight against cancer and neurodegenerative diseases, exosomes are being perceived as potential biomarkers that can be sampled non-invasively. Reliable quantitative detection and analysis is needed to exploit the full potential of exosomes in diagnostics and therapy.
+The proposed innovation comprises a novel all optical approach: In-line Balanced Interference Scattering (IBIS). The balanced detection is implemented by a tailor-made attenuation mask into the back-focal-plane of a microscope, allowing the detection of particles as small as 15 kDa. The IBIS signal is directly proportional to the particle volume and can hence be used to quantify size distributions of nanoparticles reliably. IBIS microscopy only requires low-cost consumer grade detectors and an extremely simple optical setup. 
+Specific goals of this proposed PoC project are: 
+(i) Simplification of the current laboratory implementation to improve robustness and further reduce the cost, 
+(ii) Careful characterisation of extracellular vesicle signals and binding behaviour under laboratory conditions,
+(iii) Construction of a compact benchtop prototype and implementation under clinical conditions,
+(iv) Feedback guided optimisation of the prototype by comparing laboratory (high sensitivity, specialist) and clinical (reduced sensitivity, non-specialist) results, 
+(v) Design-optimisation of commercial implementations based on market research from clinical settings and national healthcare buyers. Definition of IP and market positioning and strategy.</objective>
+  <title>Platform for label-free quantitative detection of single proteins and extracellular vesicles</title>
+<identifier>ERC2016PoC</identifier>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>214476</rcn>
+  <acronym>cureCD</acronym>
+  <objective>The Inflammatory Bowel Diseases (IBD), Crohn’s Disease (CD) and Ulcerative Colitis (UC) are chronic/relapsing disorders that affect over six million individuals worldwide. Mucosal ulcers, the hallmark of CD, are the result of a complex interaction between microbiota, immune cells, and gut epithelia. Healing of mucosal ulcers is associated with better outcomes, but is achieved in less than half of cases. Past attempts to suppress central and conserved nodes of the immune system failed due to opposing off-target deleterious effects on epithelial renewal. Therefore, there is a critical need to identify more tissue specific targets that lead to mucosal healing and to improved outcomes.
+
+Using mRNAseq of intestinal biopsies, we identified a widespread dysregulation of long non-coding RNAs (lncRNA) in the ileum of treatment naïve pediatric CD patients. Importently, we identified significant correlations between lncRNA and mucosal ulcers.  CD lncRNA, after carful mechanistic exploration, are highly promising targets for potential future intervention as they regulate diverse cellular functions and exhibit a more tissue specific expression in comparison to protein coding genes. The core goal of this proposal is to understand the role of CD lncRNA in ulcer pathogenesis focusing on granulocytes and epithelial functions in the contexts of their interactions with the microbiota.
+
+I plan to utilize state of the art informatics, RNAseq and microbiome profiles together with advanced and novel experimental lab model and co-culture systems, patients-derived prospectively collected tissues, and gut microbiota to explore the role of CD lncRNA function in mediating healing of mucosal ulcers. This work carries the potential to guide new novel therapeutic strategies for mucosal healing with minimal off-targets effects. In a broader prospective, this work will expand our relative limited understanding regarding the role of lncRNA in mediating human diseases.</objective>
+  <title>Function of long non-coding RNA in Crohn Disease Ulcer Pathogenesis</title>
+<identifier>ERC2017STG</identifier>
+</project>

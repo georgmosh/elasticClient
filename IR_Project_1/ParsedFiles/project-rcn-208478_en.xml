@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208478</rcn>
+  <acronym>POLYAMACHINES</acronym>
+  <objective>Gene expression is tightly regulated to allow rapid responses to cellular stimuli. In eukaryotes, the 3´ polyA tail of mRNAs plays key roles in post-transcriptional control. The Cleavage and Polyadenylation Factor (CPF), Ccr4–Not and Pan2–Pan3 multiprotein complexes add or remove polyA tails to regulate mRNA stability and efficiency of translation. They control expression of genes in the inflammatory response, miRNA-targeted gene silencing and expression of maternal mRNAs in oocyte development. These processes are deregulated in disease, including cancer and neurological disorders.
+
+Although the proteins that add and remove polyA tails are known, their mechanisms are poorly understood. My lab recently established methods to reconstitute the polyA machinery. This led to new insights into the link between transcription and polyadenylation, new understanding of the molecular mechanisms of deadenylation, and details of RNA recruitment.
+
+In this proposal, my objective is to understand the molecular basis for polyadenylation and deadenylation of specific mRNAs. This is now possible because of our novel methodological and biological advances. We will determine high-resolution structures of the polyA machinery using electron cryo-microscopy (cryo-EM), reconstitute their biochemical activities in vitro and study their in vivo functional roles. We use this integrated approach to study intact multiprotein complexes, not individual subunits or domains. This involves considerable technical challenges and an investment in developing high quality purifications and new structural methods. I will determine how the four enzymatic activities of CPF are coupled, the mechanisms by which Ccr4–Not targets specific RNAs, and the molecular basis for RNA recognition by Pan2–Pan3. Together, this will provide new biological and technological insights, leading to understanding of fundamental processes in gene expression and the role of polyA tails in disease.</objective>
+  <title>The polyA machinery: Elucidating the molecular mechanisms of mRNA polyadenylation, deadenylation and RNA recognition</title>
+<identifier>ERC2016COG</identifier>
+</project>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213774</rcn>
+  <acronym>FRECOM</acronym>
+  <objective>Motivation
+The enormous growth in the Internet of Things and server farms for cloud services has increased the strain on the optical communication infrastructure. By 2025, our society will require data rates that are physically impossible to implement using current state-of-the-art optical communication technologies. This is because fibre-optic communication systems are rapidly approaching their fundamental capacity limits imposed by the Kerr nonlinearity of the fibre. Nonlinear distortion limits the ability to transport and detect the information stream. This is a very critical problem for increasing the data rates of any optical fibre communication system. 
+
+Proposed research 
+The only physical quantities not affected by the nonlinearity are eigenvalues, associated with the optical fibre propagation equation. Eigenvalues are thereby ideal candidates for information transport. The concept of eigenvalues is derived under the assumption that the fibre is lossless and that there is no noise in the system which is not strictly correct. Therefore, novel methodologies and concepts for the design of a noise mitigating receiver and a noise robust transmitter are needed to reap the full benefits of optical communication systems employing eigenvalues. This proposal will develop such strategies. This will be achieved by combining, for the first time, the fields of nonlinear optics, optical communication and nonlinear digital signal processing. The results from the project will be verified experimentally, and will form the basis for a new generation of commercial optical communication systems.
+
+Preliminary results
+Our proof-of-concept results demonstrate, for the first time, that noise can be handled by employing novel receiver concepts. An order of magnitude improvement compared to the state-of-the-art is demonstrated.
+
+Environment 
+The research will be carried out in close cooperation with leading groups at Stanford University and Technical University of Munich.</objective>
+  <title>Nonlinear-Distortion Free Communication over the Optical Fibre Channel</title>
+<identifier>ERC2017COG</identifier>
+</project>

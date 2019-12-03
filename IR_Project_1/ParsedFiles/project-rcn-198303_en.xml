@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>198303</rcn>
+  <acronym>BioExcel</acronym>
+  <objective>Life Science research has become increasingly digital, and this development is accelerating rapidly. Biomolecular modelling techniques such as homology modelling, docking, and molecular simulation have advanced tremendously due to world-leading European research, resulting in extreme demands for better computational performance and throughput as these tools are used in applied research and industrial development. This research has direct influence on our daily life in areas such as health and medical applications, the development of new drugs, efficient drug delivery, biotechnology, environment, agriculture and food industry. Life Science is one of the largest and fastest growing communities in need of high-end computing, and it is a critically important industrial sector for Europe. However, compared to some other disciplines, the use of e-Infrastructure is still relatively new - many advanced techniques are not applied commercially due to limited experience. It requires significant support to:
+• Make e-Infrastructure useable by researchers who are not computing experts,
+• Improve the performance and applicability of key life science applications,
+• Handle large amounts of data in computational workflows.
+
+BioExcel proposes to tackle these challenges by establishing a dedicated CoE for Biomolecular Research, covering structural and functional studies of the building blocks of living organisms - proteins, DNA, saccharides, membranes, solvents and small molecules like drug compounds - all areas where with large academic and industrial users bases in Europe. Specifically, BioExcel will
+• Improve the efficiency and scalability of important software packages for biomolecular research;
+• Improve the usability of ICT technologies for biomolecular researchers in academia and industry;
+• Promote best practices and train end users in making good use of both software and e-Infrastructure.
+• Develop appropriate governance structures and business plans for a sustainable CoE.</objective>
+  <title>Centre of Excellence for Biomolecular Research</title>
+<identifier>H2020EINFRA20151</identifier>
+</project>

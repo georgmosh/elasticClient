@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204106</rcn>
+  <acronym>CHROMTOPOLOGY</acronym>
+  <objective>Transcriptional regulation of genes in eukaryotic cells requires a complex and highly regulated interplay of chromatin environment, epigenetic status of target sequences and several different transcription factors. Eukaryotic genomes are tightly packaged within nuclei, yet must be accessible for transcription, replication and repair. A striking correlation exists between chromatin topology and underlying gene activity. According to the textbook view, chromatin loops bring genes into direct contact with distal regulatory elements, such as enhancers. Moreover, we and others have shown that genomes are organized into discretely folded megabase-sized regions, denoted as topologically associated domains (TADs), which seem to correlate well with transcription activity and histone modifications. However, it is unknown whether chromosome folding is a cause or consequence of underlying gene function.
+To better understand the role of genome organization in transcription regulation, I will address the following questions:
+
+(i) How are chromatin configurations altered during transcriptional changes accompanying development?
+(ii) What are the real-time kinetics and cell-to-cell variabilities of chromatin interactions and TAD architectures?
+(iii) Can chromatin loops be engineered de novo, and do they influence gene expression?
+(iv) What genetic elements and trans-acting factors are required to organize TADs?
+
+To address these fundamental questions, I will use a combination of novel technologies and approaches, such as Hi-C, CRISPR knock-ins, ANCHOR tagging of DNA loci, high- and super-resolution single-cell imaging, genome-wide screens and optogenetics, in order to both study and engineer chromatin architectures.
+These studies will give groundbreaking insight into if and how chromatin topology regulates transcription. Thus, I anticipate that the results of this project will have a major impact on the field and will lead to a new paradigm for metazoan transcription control.</objective>
+  <title>Understanding and manipulating the dynamics of chromosome topologies in transcriptional control</title>
+<identifier>ERC2015STG</identifier>
+</project>

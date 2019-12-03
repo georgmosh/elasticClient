@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>209593</rcn>
+  <acronym>PROXNET</acronym>
+  <objective>The goal of the PROXNET project, which will be realised during the mobility of Christophe Crespelle in the Algorithms group
+of Bergen, is to open a new way for analysing, modelling and managing complex networks, through graph editing problems.
+The reason why these networks are said to be complex is that they are loosely structured, due to the part of uncertainty and
+randomness they contain. On the other hand, the real-world context where they come from strongly constrains their
+organisation and gives them some specific structure. The difficulty in retrieving this structure is that it is altered by the noise
+resulting from the uncertainty and randomness that these networks contain. In the PROXNET project, we will retrieve the
+hidden structures of complex networks thanks to graph editing problems, which consist in changing some adjacencies of the
+graph in order to obtain a desired property. We will develop the algorithms necessary to solve graph editing problems
+relevant to our approach on huge instances of graphs, we will apply them to real-world datasets and use the results obtained
+in order to design new models of complex networks.
+One key theoretic challenge in this context is to optimally solve the editing problems considered, which are computationally
+difficult (NP-hard). A very promising technique to do so is preprocessing. It consists in reducing the size of the instance by
+applying some reduction rules, in such a way that the optimal solution on the reduced instance is the same as the one on the
+original instance. The Algorithms group of the University of bergen is a world-wide leader on this topic which will constitute
+the main training action of Christophe Crespelle during his mobility.</objective>
+  <title>Modelling Complex Networks Through Graph Editing Problems</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196385</rcn>
+  <acronym>PAYPLUG LABS</acronym>
+  <objective>The European e-commerce market is growing fast, but the complexity of setting up online payments and the concerns about credit card fraud still represent significant barriers that prevent many SMEs from trading online. Indeed, the EU’s target for 33% of SMEs to be selling online by 2015 is far from being met (only 14% in 2013).
+
+    PayPlug Labs aims to offer SMEs a next generation payment system that will reduce software integration costs thanks to a state-of-the-art REST API, and provide low-touch fraud protection thanks to modern statistical algorithms and machine learning.
+
+    The project fills the gap between traditional online payment solutions, that require expensive integration efforts, and e-wallet solutions. Additionally, existing fraud detection systems are commercialised separately and rely on dated “rule-based” technologies implying prohibitive set up costs for SMEs.
+
+    The project will be led by PayPlug, a company created in 2012 that has developed an easy-to-install online payment “plugin” for micro-enterprises. The company is composed of a talented management team with a strong background (Google, Harvard, Polytechnique), and a high-profile advisory board. The company has attracted 1.4M€ of private investment and employs 10 full-time employees.</objective>
+  <title>Next generation online payments and fraud detection API for European SMEs</title>
+<identifier>H2020SMEINST22014</identifier>
+</project>

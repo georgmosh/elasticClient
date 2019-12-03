@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210704</rcn>
+  <acronym>EASED3D</acronym>
+  <objective>Europe has an ageing demographic, 25% of the population over 40 years old suffer from eye disesase. As an example, 5% of the diagnosed disease are categorised as Age-related Macular Degeneration (hereafter AMD). This disease can be treated, if diagnosed early.
+
+The problem:
+A number of severe diseases, such as AMD, can be diagnosed by scanning and analyzing the retina, however due to microscopic movement of the eye, only a small part of the retina can be “photographed” as the current technology is too slow to capture a clear image. 
+The method used to diagnose eye diseases is called “Optical Coherence Tomography” (hereafter OCT)  2D imaging, and is usually performed by specialised eye doctors (ophthalmologists). To enable earlier diagnosis,  screening for eye diseases such as AMD are increasingly being done by opticians, but due to the complexity of the eye, and the quality of the 2D images, this leads to many false-positives. 
+Despite the clear benefit of earlier screening, the many false-positive resulys found by opticians are a burden on ophthalmologist and are taking up time and resources.
+
+The solution:
+OCTLIGHT has developed a patented specialized light source module, that enables OCT “eye scanner” devices to scan the eye 10x faster than the technology presently used, giving them the ablity to do clear wide field 3D image scans of the eye.
+
+The wide field 3D images make it easier for ophthalmologists to detect eye diseases, but just as significant, the high quality of the data (image) allows for the use of Machine Learning  for diagnosing eye diseases.  
+This means that OCTLIGHTs technology enables better screening, which can be combined with Machine Learning to enable better and more reliable diagnosis even if performed by opticians. This should reduce the many false-positives found, enabling efficient and cost-saving diagnosis and treatment.</objective>
+  <title>Early screening of eye diseases using automated diagnosis of high-fidelity 3D images</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

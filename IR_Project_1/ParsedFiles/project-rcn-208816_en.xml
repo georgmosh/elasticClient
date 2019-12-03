@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208816</rcn>
+  <acronym>DUALITY</acronym>
+  <objective>We propose to develop the theoretical foundations of transforming memory into data rates, and to explore their practical ramifications in wireless communication networks.
+
+Motivated by the long-lasting open challenge to invent a communication technology that scales with the network size, we have recently discovered early indications of how preemptive use of distributed data-storage at the receiving communication nodes (well before transmission), can offer unprecedented throughput gains by surprisingly bypassing the dreaded bottleneck of real-time channel-feedback. For an exploratory downlink configuration, we unearthed a hidden duality between feedback and preemptive use of memory, which managed to doubly-exponentially reduce the needed memory size, and consequently offered unbounded throughput gains compared to all existing solutions with the same resources. This was surprising because feedback and memory were thought to be mostly disconnected; one is used on the wireless PHY layer, the other on the wired MAC.
+
+This development prompts our key scientific challenge which is to pursue the mathematical convergence between feedback-information-theory and preemptive distributed data-storage, and to then design ultra-fast memory-aided communication algorithms that pass real-life testing.
+This is a structurally new approach, which promises to reveal deep links between feedback information theory and memory, for a variety of envisioned wireless-network architectures of exceptional promise. In doing so, our new proposed theory stands to identify the basic principles of how a splash of memory can surgically alter the informational-structure of these networks, rendering them faster, simpler and more efficient. In the end, this study has the potential to directly translate the continuously increasing data-storage capabilities, into gains of wireless network capacity, and to ultimately avert the looming network-overload caused by these same indefinite increases of data volumes.</objective>
+  <title>Theoretical Foundations of Memory Micro-Insertions in Wireless Communications</title>
+<identifier>ERC2016COG</identifier>
+</project>

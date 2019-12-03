@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193700</rcn>
+  <acronym>PAMPA</acronym>
+  <objective>Plastic packaging solutions are foreseen as a good candidate to drastically reduce the cost of microwave equipment for future telecom satellite payloads. The objective of PAMPA project is to develop a plastic component technology, from the supply of the packaged microwave component with a reliability level compatible with space constraints up to its assembly on board using SMT (Surface Mount Technology) process. In order to demonstrate the potential of such technology,  a flexible, digitally controlled microwave chain, representative of the need for new generation telecom satellite payloads, will be implemented on printed circuit board. Such technologies are particularly appealing for flexible microwave equipment, as  the ASIC (Application Specific Integrated Circuit) and the microwave components can be assembled on board using the same SMT process. Furthermore, the use of a multilayer printed circuit board for the microwave chain is convenient for the implementation of dense DC routing of the command signals.
+To achieve the objective, the consortium gathers a manufacturer of satellite equipment,  a Monolithic Microwave Integrated Circuit (MMIC) foundry, an industrial specialized in SMT manufacturing process and an academic partner with valuable knowledge in reliability of microelectronics packaging. It should be outlined that the MMIC foundry involved in the project is a dual foundry as it provides both plastic packaged components for the Automotive market in QFN (Quad-Flat No-leads) housings and  bare MMIC with a Space grade quality.
+The main challenge will be to successfully spin-in a plastic technology coming from another harsh environment market that has drastic cost concerns, the Automotive, to the Space domain.</objective>
+  <title>Plastic Components for Advanced Microwave Equipment of New Generation SatCom PAyloads</title>
+<identifier>H2020COMPET2014</identifier>
+</project>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211210</rcn>
+  <acronym>BigData@Heart</acronym>
+  <objective>Despite remarkable progress in the management of cardiovascular disease (CVD), major unmet needs remain with regard to mortality, hospitalisations, quality of life (QoL), healthcare expenditures and productivity. Acute coronary syndrome (ACS), atrial fibrillation (AF) and heart failure (HF) are major and growing components of the global CVD burden. Optimal management of these conditions is complicated by their complex aetiology and heterogeneous prognoses. Poor definition at the molecular level and co- / multi-morbidities form major challenges for the development and delivery of targeted treatments. This renders response to therapy unpredictable, with large inter-individual variation and, importantly, small or undetectable treatment effects in large trials of unselected patients.
+
+Today’s treatment guidelines still reflect the scientific constraints of an earlier era where clinical markers to guide therapy are limited to conventional risk factors and end-organ damage, and where the main endpoint in clinical trials is patient death. Hence, drug development pipelines from early target validation through to late post-marketing work have proven to be slow, expensive and high-risk: the chance of eventual approval for a CVD drug candidate in Phase I trials is 7%, the lowest of any disease category (shared with oncology)2. Moreover, tolerability of medication and adherence to treatment show wide variations. There is thus a need for better definition of these diseases, their markers and endpoints (including better segmentation of current heterogeneous patient groups acknowledging underlying mechanisms and comorbidities) and of their outcomes/prognoses (including functional capacity and quality of life [QoL]).
+
+BigData@Heart’s ultimate goal is to develop a Big Data-driven translational research platform of unparalleled scale and phenotypic resolution in order to deliver clinically relevant disease phenotypes, scalable insights from real-world evidence and insights driving drug development and personalised medicine through advanced analytics.  To accomplish this, BigData@Heart will:
+•	Assemble an unparalleled array of big-data sets
+•	Create a responsive and agile research framework to address the objectives
+•	Create systems to leverage existing state-of-the-art solutions from different sources to enable combination for high-power identification, harmonisation, access and analysis of distributed data
+•	Develop and expand on this distributed data for further analysis
+•	Create novel frameworks for disease definitions based on up-to-date scientific evidence
+•	Leverage unique database access and big data science expertise to validate (and tweak) the novel frameworks through a number of pilot studies with high and immediate social relevance
+•	Involve all relevant stakeholders (including policy makers and insurers) to ensure full support for this new framework
+•	Ensure proper, wide dissemination of the framework and project results, to maximise impact and speed at which the results will be broadly implemented in the EU, and so that they may serve as a template or inspiration for the rest of the world
+•	Set new and durable standards for cardiovascular big-data science for the next decades
+
+BigData@Heart uniquely brings together key players and stakeholders in the CVD field to address the challenges outlined above. The clinical researchers involved in BigData@Heart have been instrumental in shaping current treatment and management of HF, AF and ACS. They will join forces with leading epidemiologists and big data scientists from across Europe and leading European cardiovascular professional and patient organisations. This team is complemented with a powerful group of players from the pharmaceutical industry. Through its partners, BigData@Heart has access to most of the relevant large-scale European CVD databases, ranging from electronic health records and disease registries through well-phenotyped clinical trials and large e</objective>
+  <title>Big Data @ Heart</title>
+<identifier>H2020JTIIMI2201507twostage</identifier>
+</project>

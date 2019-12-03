@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>209718</rcn>
+  <acronym>interACT</acronym>
+  <objective>There is currently a high desire by manufacturers to introduce Automated Vehicles (AVs), SAE level 3 and above, to the market. As AVs are likely to be deployed in mixed traffic, they need to interact safely and efficiently with other (non-equipped) users, including manually driven vehicles, cyclists and pedestrians. Although obstacle detection by AVs is almost flawless, these vehicles cannot communicate their intentions to other road users. This limitation currently reduces their appeal and value to the user. To ensure intuitive and cooperative interaction between the AV and others, and a smooth flow of all traffic, it is essential that there is good means of communication between all actors. The main objective of interACT is to substantially improve this communication and cooperation strategy. interACT will provide an overview of current human-machine interactions in mixed traffic, and increase chances of safe deployment of AVs by developing novel software and HMI hardware components for reliable and user-centric communication between an AV with its users. interACT will: 
+1) Use social-psychological models to compile a catalogue of interactions, identifying the main communication needs of road users in current and future traffic scenarios 
+2) Improve software algorithms and sensor capabilities for assessing intention recognition and behaviour prediction of surrounding road users 
+3) Use a Cooperation and Communication Planning Unit to integrate planning algorithms, providing synchronized and integrated communication protocols 
+4) Ensure safety of road users by developing easy-to-verify software for a safety layer, and novel methods for fail-safe trajectory planning. 
+Prototypes will be developed and evaluated in multi-actor simulators and two test vehicles, assessing ease-of-use, acceptance, safety and reliability. The impact of this successful communication on reduction of crashes, improvement of traffic flow and acceptance of AVs by society will be investigated.</objective>
+  <title>Designing cooperative interaction of automated vehicles with other road users in mixed traffic environments</title>
+<identifier>H2020ART2016TwoStages</identifier>
+</project>

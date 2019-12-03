@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>197138</rcn>
+  <acronym>PhotoniX</acronym>
+  <objective>To match the demand of the productivity of modern computing systems, which is growing three orders of magnitude per decade, the single interconnect channel bit data rate should double each 2.5 years and the number of channels per link increase 5-fold each 10 years. Until recently copper was the dominant interconnect technology ($120 billion). At higher frequencies the electromagnetic losses and cross-talk are drastically enhanced, and new technologies are required. Since 2012 60 thousands energy-efficient optical links made of multimode fibers (MMF) powered by Vertical cavity surface-emitting lasers (VCSELs) are used in a single rack of supercomputer. 
+Due to its small size, circular surface emission pattern, low operating current and a narrow spectrum VCSELs result a low cost, energy-efficient optical modules. Bit date rates up to 14Gb/s over 100m are reached by the industry. Scaling of the device to higher speeds is challenging as the modulation bandwidth is increasing as a square root of the drive current, while the degradation accelerates exponentially.  At higher pulse frequencies the transmission distance rapidly decreases with pulse broadening. 
+The way to match the speed upgrade is to apply advanced nanotechnology concepts. 
+-	Properly designed ultrathin strained narrow gap insertions as gain medium drastically enhances the modulation bandwidth at the same current;
+-	Introducing of strained barriers preventing the nonequilibrium carriers’ escape from the gain region allows further improvement of the modulation bandwidth and reliability.
+-	Optical design by oxide-confined aperture induced diffraction allows single mode operation extending the transmission length, …
+VI-Systems GmbH was first to pioneer and ship VCSELs transmitters up to 40Gb/s over 100m, far beyond the limits at that time. 25Gb/s transmission exceeding 1 km of is achieved for parallel MMF links. 
+VIS will commercialize its novel interconnect technology and extend it up to 50Gb/s per channel.</objective>
+  <title>PHOtonic Transmitters for Optical Networks and Interconnects in energy-efficient datacentres, supercomputers and homes based on VCSELs</title>
+<identifier>H2020SMEINST22014</identifier>
+</project>

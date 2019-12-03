@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206508</rcn>
+  <acronym>AUTOPILOT</acronym>
+  <objective>"Automated driving is expected to increase safety, provide more comfort and create many new business opportunities for mobility services. The market size is expected to grow gradually reaching 50% of the market in 2035. 
+The IoT is about enabling connections between objects or ""things""; it’s about connecting anything, anytime, anyplace, using any service over any network. There is little doubt that these vehicles will be part of the IoT revolution. Indeed, connectivity and IoT have the capacity for disruptive impacts on highly and fully automated driving along all value chains towards a global vision of Smart Anything Everywhere.
+In order to stay competitive, the European automotive industry is investing in connected and automated driving with cars becoming moving “objects” in an IoT ecosystem eventually participating in BigData for Mobility. AUTOPILOT brings IoT into the automotive world to transform connected vehicles into highly and fully automated vehicle.
+The well-balanced AUTOPILOT consortium represents all relevant areas of the IoT eco-system. IoT open vehicle platform and an IoT architecture will be developed based on the existing and forthcoming standards as well as open source and vendor solutions. Thanks to AUTOPILOT, the IoT eco-system will involve vehicles, road infrastructure and surrounding objects in the IoT, with a particular attention to safety critical aspects of automated driving. AUTOPILOT will develop new services on top of IoT to involve autonomous driving vehicles, like autonomous car sharing, automated parking, or enhanced digital dynamic maps to allow fully autonomous driving.
+AUTOPILOT IoT enabled autonomous driving cars will be tested, in real conditions, at four permanent large scale pilot sites in Finland, France, Netherlands and Italy, whose test results will allow multi-criteria evaluations (Technical, user, business, legal) of the IoT impact on pushing the level of autonomous driving.
+
+"</objective>
+  <title>AUTOmated driving Progressed by Internet Of Things</title>
+<identifier>H2020IOT2016</identifier>
+</project>

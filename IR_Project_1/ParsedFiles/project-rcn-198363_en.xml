@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>198363</rcn>
+  <acronym>CAxMan</acronym>
+  <objective>The objectives of Computer Aided Technologies for Additive Manufacturing (CAxMan) are to establish Cloud based Toolboxes, Workflows and a One Stop-Shop for CAx-technologies supporting the design, simulation and process planning for additive manufacturing. More specifically the objectives are to establish analysis-based design approaches with the following aims:
+-To reduce material usage by 12% through introducing internal cavities and voids, whilst maintaining component properties; 
+-To optimize distribution and grading of material for multi-material additive manufacturing processes; and
+-To facilitate the manufacture of components which are currently impossible or very difficult to produce by subtractive processes (e.g., cutting and abrasive operations);
+-To enhance analysis-based process planning for additive manufacturing including thermal and stress aspects, and their interoperability with the design phase; 
+-To enable the compatibility of additive and subtractive processes in production in order to combine the flexibility of shape in additive manufacturing with the surface finish of subtractive processes.
+CAxMan delivers:
+-Cloud Portal in form of a market place - of Cloud application and services addressing the design, analysis, production chain for additive manufacturing. Hence, all necessary software components to act a Broker of such services will be developed in CAxMan. ARCTUR will host the marketplace.
+-An ecosystem of Open Source of algorithmic toolkits for additive manufacturing will be established during the life time of the project, in order to enable sustainability of the marketplace after the project duration, SINTEF will trigger the Open Source community.
+-Lessons Learned and practical pattern collections of quantifiable advantages of findings with respect to interoperable model representations for the design production chain for Additive Manufacturing
+-Proposed extension to ISO 10303 (STEP) Part 242 edition 2, and byISO / ASTM52915</objective>
+  <title>Computer Aided Technologies for Additive Manufacturing</title>
+<identifier>H2020FoF2015</identifier>
+</project>

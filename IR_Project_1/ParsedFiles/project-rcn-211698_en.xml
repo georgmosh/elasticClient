@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211698</rcn>
+  <acronym>MUMMERING</acronym>
+  <objective>The overarching goal of MUMMERING is to create a research tool that encompasses the wealth of new 3D imaging mo-dalities that are surging forward for applications in materials engineering, and to create a doctoral programme that trains 15 early stage researchers (ESRs) in this tool. This is urgently needed to prevent that massive amounts of valuable tomogra-phy data ends on a virtual scrapheap. The challenge of handling and analysing terabytes of 3D data is already limiting the level of scientific insight that is extracted from many data sets. With faster acquisition times and multidimensional modali-ties, these challenges will soon scale to the petabyte regime. To meet this challenge, we will create an open access, open source platform that transparently and efficiently handles the complete workflow from data acquisition, over reconstruction and segmentation to physical modelling, including temporal models, i.e. 3D “movies”. We consider it essential to reach this final step without compromising scientific standards if 3D imaging is to become a pervasive research tool in the visions for Industry 4.0.
+The 15 ESRs will be enrolled in an intensive network-wide doctoral training programme that covers all aspects of 3D imag-ing and will benefit from a varied track of intersectoral secondments that will challenge and broaden their scope and ap-proach to research. The ESRs will exit the MUMMERING network as highly attractive and employable PhDs with a practical and qualified take on industrial research.</objective>
+  <title>MUltiscale, Multimodal and Multidimensional imaging for EngineeRING</title>
+<identifier>H2020MSCAITN2017</identifier>
+</project>

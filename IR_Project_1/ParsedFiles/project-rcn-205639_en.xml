@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205639</rcn>
+  <acronym>UHPE</acronym>
+  <objective>Conventional and Smart Bearings for Ground Test Demo
+
+The overall objective of the I²BS project is to develop innovative smart bearings for an Ultra High Propulsion Efficiency (UHPE) Ground Test Demonstrator that not only meet the demo specification but also provide significant safety improvement compared to existing standards. I²BS pursues an integrated approach comprising the development of sensor technologies, energy harvesting, wireless communication, data management and algorithms to monitor bearing behaviour in challenging operating conditions (e.g. high temperature, high speed and high thrust). As part of the UHPE Demonstration Project, I²BS will design, develop, evaluate and test interchangeable conventional and smart bearings for the UHPE demonstrator. The bearing design will fulfil all requirements and safety standards for aerospace applications. The ‘smart’ bearings will be able to deliver, in real time, information on the bearing’s main functional characteristics and health including temperature, axial &amp; radial load, ball or roller or cage speed, lubrication quality, radial clearance and premise of failure on each part of the bearing.</objective>
+  <title>Integrated Intelligent Bearing Systems for UHPE Ground Test Demo (I²BS)</title>
+<identifier>H2020CS2CFP02201501</identifier>
+</project>

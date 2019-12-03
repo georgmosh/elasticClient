@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205841</rcn>
+  <acronym>CORREL-CT</acronym>
+  <objective>Proposal summary (half page)
+The vision is firstly, to develop correlative tomography to radically increase the nature and level of information (morphological, structural and chemical) that can be obtained for a 3D volume of interest (VoI) deep within a material or component by coupling non-destructive (3D+time) X-ray tomography with destructive (3D) electron tomography and, secondly to exploit this new approach to shed light on damage accumulation processes arising under demanding conditions. Successful completion of this project will provide new 3D &amp; 4D insights across many areas and yield key experimental data for multiscale models.
+Objective 1: To build the capability of correlative tomography
+- To connect platforms across scales and modalities in order to track a VoI that may be located deep below the surface and to combine multiple techniques within a single platform.
+- To add new facets to correlative tomography including
++ 3D chemical imaging
++ 3D crystal grain mapping
++ the local stress distribution
++ mechanical performance mapping at the VoI scale
+Objective 2: To apply it to gain new insights into damage accumulation
+Correlative tomography will provide a much richer multi-faceted hierarchical picture of materials behaviour from life science to food science from geology to cultural heritage. This project will focus specifically on identifying the nucleation, propagation and aggregation of damage processes in engineering materials.
+- We will identify and track the mechanisms that control the progressive degradation of conventional bulk engineering materials operating under demanding conditions.
+- We will examine the hierarchical strategies nature uses to control failure in natural materials through heterogeneous chemistry, morphology and properties. Alongside this we will examine the behaviour of man-made nano-structured analogues and whether we can exploit some of these strategies.</objective>
+  <title>Correlative tomography</title>
+<identifier>ERC2015AdG</identifier>
+</project>

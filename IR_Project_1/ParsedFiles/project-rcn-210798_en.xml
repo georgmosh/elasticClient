@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210798</rcn>
+  <acronym>SCOTT</acronym>
+  <objective>Creating trust in wireless solutions and increasing social acceptance are major challenges to achieve the full potential of the Internet of Things. SCOTT, with 57 key partners from 12 countries (EU + Brazil), will provide efficient solutions of wireless, end-to-end secure, trustworthy connectivity and interoperability to bridge the last mile to the market (TRL 6-7).
+
+SCOTT focusses on wireless sensor &amp; actuator networks and communication in mobility, smart infrastructure and health, thus addressing essential European societal challenges and significantly contributing to burning issues such as Automated Vehicles or Industry 4.0.
+
+SCOTT is based on 15 industrial use cases with a focus on cross-domain applications and heterogeneous environments, emphasizing 5G and cloud computing aspects. It uses a standardized multi-domain reference architecture, fully compliant with ISO 29182, which fosters reusability, scalability, and interoperability.
+Nearly 50 reusable technical building blocks will be developed and utilized, proving cross-domain sharing of trustable wireless technologies and services. Finally, more than 20 tangible demonstrators will be presented all over Europe to a broader public.
+
+Following a user-centred design to put security and privacy really in the hands of the user, SCOTT will build up and apply a dedicated Trusted System Development Framework to significantly foster acceptance of SCOTT solutions on the market, including the creation of an unprecedented, standardisable ‘privacy labelling’.
+
+SCOTT covers full value chains from silicon to end-users/operators showing full vertical integration. Via reference implementations and open innovation approaches as well as close cooperation with AIOTI and other cluster organizations, SCOTT will establish an attractive, long-term eco-system.
+Ultimately, SCOTT will foster Europe’s independence for security enabling components and systems and will further boost the growing “internet economy”.</objective>
+  <title>Secure COnnected Trustable Things</title>
+<identifier>H2020ECSEL20162IAtwostage</identifier>
+</project>

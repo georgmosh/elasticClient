@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204974</rcn>
+  <acronym>optiTruck</acronym>
+  <objective>The automotive industry has made a substantial effort in recent years in developing powertrain technologies to improve fuel efficiency on Heavy-Duty Vehicles (HDVs). Due to increasing road freight traffic, however, projections indicate that total HDV energy use and CO2 emissions are expected to remain stable at the current level over the long term, if no policy action is taken. This is clearly incompatible with the goal of reducing greenhouse gas emissions from transport by around 60% below 1990 levels by 2050.
+The overall objective of optiTruck is to further improve energy efficiency by at least 20% on Euro VI HDVs (40t). To achieve this, optiTruck will develop a global optimiser which brings together the most advanced technologies from powertrain control and intelligent transport systems, with a number of innovative and complementary elements to maximise the potential utilisation of individual innovations. Through real driving trials, optiTruck will demonstrate this objective, taking account road topography, traffic and weather condition, vehicle configuration and transport mission.
+optiTruck will develop a comprehensive impact assessment methodology to extend this local and small-scale demonstration to a wider evaluation to explore potential benefits of using the rich cloud data sources and powerful computing facilities for fast-than-real-time modelling and simulation. It will also take account of social equity, economic, and environmental factors in the assessment to address the main societal challenges for the sector.
+optiTruck will facilitate the creation of a global platform not only for exchanging existing knowledge between automotive industries, but also for promoting horizontal collaboration in new ways essential for wider uptake of energy saving solutions across the sector, Europe and the world, which is the ultimate goal the optiTruck partners strive to achieve within and beyond this project.</objective>
+  <title>optimal fuel consumption with Predictive PowerTrain  control and calibration for intelligent Truck</title>
+<identifier>H2020GV2015</identifier>
+</project>

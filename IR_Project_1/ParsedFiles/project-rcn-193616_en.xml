@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193616</rcn>
+  <acronym>NewNGR</acronym>
+  <objective>In recent years general relativity (GR) has become an increasingly important new tool in areas of physics beyond its traditional playground in astrophysics. The main motivation for this comes from the AdS/CFT correspondence which conjectures an equivalence between gravity in anti-de Sitter (AdS) spaces and certain conformal field theories (CFT’s). Via this correspondence, GR now plays a key role in improving our understanding of non-gravitational physics at strong coupling.
+
+The AdS/CFT correspondence naturally leads to the study of GR in dimensions greater than four and/or in AdS spaces. Our current understanding of GR in these new settings is rather limited but it has been realized that the physics of gravity can be significantly different than in the 4d asymptotically flat case. Moreover, to access these new gravitational phenomena numerical methods have been and will be essential. However, the use of numerical GR beyond the traditional 4d asymptotically flat case is still in its infancy. The goal of this project is to improve our understanding of GR in higher dimensions and/or AdS spaces using numerical techniques. To achieve this goal, we will focus on the study of the following topics:
+
+1. Develop stable codes for doing numerical GR in AdS and higher dimensions. We will use numerical GR and the AdS/CFT correspondence to study out of equilibrium phenomena in strongly coupled CFT’s. We will also use numerical GR to understand the endpoint of the various black hole instabilities and thereby address long standing conjectures in GR.
+
+2. New types of stationary black holes. We will use numerical GR to numerically construct new types of black holes in higher dimensions and in AdS, with novel topologies and fewer symmetries than the known ones. We shall apply them to the study of equilibrium configurations in strongly coupled gauge theories at finite temperature.</objective>
+  <title>New frontiers in numerical general relativity</title>
+<identifier>ERC2014STG</identifier>
+</project>

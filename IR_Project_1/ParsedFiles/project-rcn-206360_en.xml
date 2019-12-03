@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206360</rcn>
+  <acronym>PrEstoCloud</acronym>
+  <objective>PrEstoCloud project will make substantial research contributions in the cloud computing and real-time data intensive applications domains, in order to provide a dynamic, distributed, self-adaptive and proactively configurable architecture for processing Big Data streams. In particular, PrEstoCloud aims to combine real-time Big Data, mobile processing and cloud computing research in a unique way that entails proactiveness of cloud resources use and extension of the fog computing paradigm to the extreme edge of the network. The envisioned PrEstoCloud solution is driven by the microservices paradigm and has been structured across five different conceptual layers: i) Meta-management; ii) Control; iii) Cloud infrastructure; iv) Cloud/Edge communication and v) Devices, layers. 
+This innovative solution will address the challenge of cloud-based self-adaptive real-time Big Data processing, including mobile stream processing and will be demonstrated and assessed in several challenging, complementary and commercially-promising pilots. There will be three PrEstoCloud pilots from the logistics, mobile journalism and security surveillance, application domains. The objective is to validate the PrEstoCloud solution, prove that it is domain agnostic and demonstrate its added-value for attracting early adopters, thus initialising the exploitation process early on.</objective>
+  <title>PrEstoCloud - Proactive Cloud Resources Management at the Edge for Efficient Real-Time Big Data Processing</title>
+<identifier>H2020ICT20161</identifier>
+</project>

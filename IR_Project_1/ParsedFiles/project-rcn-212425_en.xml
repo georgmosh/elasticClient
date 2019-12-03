@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212425</rcn>
+  <acronym>TechTIDE</acronym>
+  <objective>Travelling Ionospheric Disturbances (TIDs) constitute a threat for operational systems for which the ionosphere is an essential part (i.e., radio systems) or for which the ionosphere is fundamentally a nuisance (i.e. GNSS based systems and applications). The overarching objective of TechTIDE is to design and test new viable TID impact mitigation strategies for the technologies affected by the TIDs and in close collaboration with operators of these technologies, to demonstrate the added value of the proposed mitigation techniques which are based on TechTIDE products.  To achieve this main goal, it is necessary to address the following specific objectives:
+i. Improve understanding regarding the physical processes resulting in the formation of TIDs, and consequently to identify the drivers in the interplanetary medium, the magnetosphere and the atmosphere;
+ii. Define the impact of the TIDs on the space based navigation systems (mainly EGNOS services and N-RTK) and on ground-based HF communication and geolocation systems;
+iii. Develop improved methodologies, based on consortium partners’ algorithms, suitable to support for the first time the direct,real-time identification and tracking of TIDs over wide world regions;
+iv. Establish an operational system to issue warnings of the occurrence of TIDs over the region extending from Europe to South Africa, to estimate the parameters that specify the TID characteristics and the inferred perturbation, and provide all additional geophysical information to the users to help them assess the risks and to develop mitigation techniques, tailored to their applications;
+v. Work systematically with potential users to assess the functionality, reliability and efficiency of the TechTIDE services paving the way to its systematic exploitation from users and to its sustainable operation.</objective>
+  <title>Warning and Mitigation Technologies for Travelling Ionospheric Disturbances Effects</title>
+<identifier>H2020COMPET2017</identifier>
+</project>

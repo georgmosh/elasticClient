@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205913</rcn>
+  <acronym>ACAP</acronym>
+  <objective>The proliferation of mobile and ubiquitous computing technology is radically changing the ways in which we live our lives: from interacting with friends &amp; family, to how we produce &amp; consume services and engage in business. However, this pervasiveness of technologies, and their increasingly seamless integration and inter-operation, are blurring the boundaries  between systems. This poses significant challenges for security engineers who aim to design systems that monitor and control the movement of digital or physical assets across those boundaries.
+
+My ERC Advanced Grant on Adaptive Security and Privacy (ASAP) is investigating ways in which security controls can change in response to changes in the context of operation of systems. However, since the monitoring of such elusive and changing boundaries is difficult, we have developed an adaptive security approach that monitors valuable assets that are managed by a system, and changes the means and extent by which those assets are protected in response to changes in assets and their values. This could radically change the way security is designed and implemented in a range of applications because it allows for a choice of appropriate protection, depending on particular requirements.
+
+In ASAP, we developed the modelling and computational capabilities  of our approach, including some prototype tool fragments that demonstrate the approach in our lab. However, interest from our industrial collaborators, evidenced by direct funding of follow-on research, and the demonstration of our prototypes to senior management and potential customers, has motivated us to pursue a proof of concept (PoC) assessment of our work in a more systematic and targeted way. To this end, this ERC PoC will:
+
+1) Develop a robust prototype demonstrator, instantiated in two application areas (access control &amp; cloud computing);
+2) Conduct a market analysis, aided by the demonstrator;
+3) Subject to (2), develop a commercialisation strategy and plan</objective>
+  <title>Asset Centric Adaptive Protection</title>
+<identifier>ERC2015PoC</identifier>
+</project>

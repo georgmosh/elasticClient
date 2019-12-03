@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213111</rcn>
+  <acronym>FENTEC</acronym>
+  <objective>Functional encryption (FE), has been recently been introduced as a new paradigm of encryption systems to overcome all-or-nothing limitations of classical encryption. In an FE system the decryptor deciphers a function over the message plaintext: such functional decryptability makes it feasible to process encrypted data (e.g. on the Internet) and obtain a partial view of the message plaintext. This extra flexibility over classical encryption is a powerful enabler for many emerging security technologies (i.e. controlled access, searching and computing on encrypted data, program obfuscation…). 
+FENTEC’s mission is to make the functional encryption paradigm ready for wide-range applications, integrating it in ICT technologies as naturally as classical encryption. The primary objective is the efficient and application-oriented development of functional encryption systems. FENTEC’s team of cryptographers, software and hardware experts and information technology industry partners that will document functional encryption needs of specific applications and subsequently design, develop, implement and demonstrate applied use of functional cryptography. 
+Ultimately, a functional encryption library for both SW and HW-oriented application will be documented and made public so that it may be used by European ICT entities. With it, the FENTEC team will build emerging security technologies that increase the trustworthiness of the European ICT services and products. Concretely, the FENTEC team will showcase the expressiveness and versatility of the functional encryption paradigm in 3 use cases:
+• Privacy-preserving digital currency, enforcing flexible auditing models
+• Anonymous data analytics enabling computation of statistics over encrypted data, protecting European Fundamental Rights of Data Protection and Privacy
+• Key and content distribution with improved performance &amp; efficiency as foundational technology for establishing secure communication among a vast amount of IOT devices.</objective>
+  <title>Functional Encryption Technologies</title>
+<identifier>H2020DSLEIT2017</identifier>
+</project>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210845</rcn>
+  <acronym>IPANEMA</acronym>
+  <objective>IPANEMA is a joint numerical and experimental undertaking to understand and improve the separation efficiency of inertial particle separators (IPS), which are integrated in the intake to protect turboprop engines from the ingestion of dust particles and water. The project first focuses on the numerical and experimental tools used for this type of studies and design.  Based upon a complementary detailed experimental and numerical study using Large Eddy Simulation of simplified geometries, representative of the IPS and the intake, practical design tools will be developed and calibrated and integrated into an automated design chain. Subsequently, a full configuration will be studied both experimentally and numerically, in order to assess the design, investigate geometrical sensitivities and suggest geometrical optimisations. 
+
+During the course of the project, new numerical and experimental techniques will be developed. Together with a detailed reference validation database on simplified geometries, these improved techniques will provide a significant contribution to future scientific research on particle separators and particulate flows in general.</objective>
+  <title>Inlet PArticle Separator Numerical  ExperiMental Assessment</title>
+<identifier>H2020CS2CFP04201602</identifier>
+</project>

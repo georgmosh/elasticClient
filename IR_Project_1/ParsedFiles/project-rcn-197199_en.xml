@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>197199</rcn>
+  <acronym>CORAL</acronym>
+  <objective>E-commerce businesses and SMEs have realised that globalisation is essential for their commercial growth and key for being resilient against crises in local markets. When an e-commerce decides to go global, translation is probably the most critical asset. In fact, recent studies show that about half of the consumers would never buy at websites where the information is not available in their language. However, SMEs face important economical and technological barriers that prevent their websites to be appropriately translated into the languages of their potential consumers, leaving many business out of the global market. This is an important loss, given the dimensions of the e-commerce market ($1,552 bn in 2013) and its growth rate (up to 33% from 2010 to 2015 in some regions).
+
+Currently e-commerces attempting to solve this problem can opt for:
+1) professional or crowdsourced translation services, often perceived as too expensive;
+2) inexpensive machine translation (MT) services whose quality is not enough to achieve consumer trust.
+Project CORAL will provide an innovative cost-oriented translation service that will allow e-commerces to adopt a lean strategy when entering a new market, by providing a fine-grained compromise between quality and cost. This will be achieved by using proprietary technology that
+1) discovers the most important texts, at the page level, that should be assigned to human translators;
+2) lowers the cost for less important texts by using specialised MT.
+Using a pay-as-you-go approach, CORAL will provide cost-effective internationalisation. This unprecedented flexibility will allow SMEs of any size to enter new international markets without the current economical barriers.
+
+During Phase 1 we aim at finding early adopters that help us assess the revenue streams and product/market fit, and ensure economical viability. In Phase 2, we plan to bring the product from TRL6 to TRL9 by following the guidance provided by our early adopters.</objective>
+  <title>Cost-ORiented Agile Localisation</title>
+<identifier>H2020SMEINST12015</identifier>
+</project>

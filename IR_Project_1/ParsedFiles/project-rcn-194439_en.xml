@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194439</rcn>
+  <acronym>NAIADES</acronym>
+  <objective>Wide scale implementation of renewable energy will require growth in production of inexpensive, efficient energy storage systems. The extension of battery technology to large-scale storage will become necessary as intermittent renewable energy sources such as wind, solar and wave become more prevalent and integrated into electrical grid. Lithium-ion battery appears as quite mature for this application but its cost per mWh remains high in comparison to high temperature technology such as Zebra, which integrate low cost sodium base materials. Furthermore, as the use of large format lithium battery becomes widespread; increase demand for lithium commodity chemicals combined with geographically constrained Li mineral reserves will drive up prices. Based on the wide availability and low cost of sodium, ambient temperature sodium-based batteries have the potential for meeting large scale grid energy storage needs. In NAIADES we will demonstrate the feasibility of ambient temperature Na-ion battery from the knowledge and achievement that has been done at the laboratory scale, up to a module demonstration in a realistic application environment.  
+Several European industrials, institutes and universities belonging to ALISTORE-ERI have decided to join their efforts to assess the Na-ion technology for stationary storage application through building a 1 kW modules system Na-ion cell which will serve as data base to demonstrate economical and public acceptance.
+These module prototypes will be developed to meet performances in a 1kW system in a cost-effective, sustainable and environmental-friendly manner. New energy policy will be developed to integer the Na-ion battery in the Smart Grid initiative and promote the penetration of renewable energy in the electric network.</objective>
+  <title>Na-Ion bAttery Demonstration for Electric Storage</title>
+<identifier>H2020LCE20143</identifier>
+</project>

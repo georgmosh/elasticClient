@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213772</rcn>
+  <acronym>MetaRegulation</acronym>
+  <objective>Metastatic growth of cancer cells requires extracellular matrix (ECM) production. The current understanding is that transcription factors regulate ECM production and thus metastatic growth by increasing the expression of collagen prolyl 4-hydroxylase (CP4H). In contrast, we recently discovered that metabolism regulates CP4H activity independently of the known transcription factors. Specifically, we found that loss of pyruvate metabolism inhibits CP4H activity and consequently ECM–dependent breast cancer cell growth. Based on this discovery we propose the novel concept that metabolism regulates metastatic growth by increasing ECM production. 
+
+In this project we will investigate the following questions: 1) What is the mechanism by which pyruvate regulates CP4H activity in breast cancer cells? To address this question we will investigate pyruvate metabolism and ECM production in 3D cultures of various breast cancer cell lines using 13C tracer analysis, metabolomics, and two-photon microscopy based ECM visualization. 2) How can this novel metabolic regulation be exploited to inhibit breast cancer-derived lung metastases growth? To address this question we will inhibit pyruvate metabolism in metastatic breast cancer mouse models using genetically modified cells and small molecules in combination with immuno- and chemotherapy. 3) How can this novel regulation be translated to different metastatic sites and cancers of different origin? To address this question we will determine the in vivo metabolism of breast cancer-, lung cancer-, and melanoma-derived liver and lung metastases (using metabolomics and 13C tracer analysis), and link it to ECM production (using two-photon microscopy based ECM visualization). 
+
+With this project we will deliver a novel concept by which metabolism regulates metastatic growth. In a long-term perspective we expect that targeting this novel metabolic regulation will pave the way for an unexplored approach to treat cancer metastases.</objective>
+  <title>Metabolic regulation of  metastatic growth</title>
+<identifier>ERC2017COG</identifier>
+</project>

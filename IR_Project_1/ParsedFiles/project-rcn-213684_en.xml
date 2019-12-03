@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213684</rcn>
+  <acronym>KYTERA COMPANION</acronym>
+  <objective>KYTERA COMPANION aims to disrupt the current setup in the elderly home care market with a real-time monitoring solution detecting emergency situations based on context analysis for elderly people.
+Elderly people (+65) are a vulnerable category of citizens, with half of them, who experience a long lie after fall, die within six months even if no direct injury has occurred. Thus, the elders themselves, their families and care givers demand a reliable detection solution of such situations. Currently, there are various technologies as panic buttons, accelerometer-based fall detection systems and motion sensors, but they all provide limited, unreliable detection of emergency situations (including many false alarms) and they lack well-being information, which means that daily routines changes remain unnoticed.
+KYTERA COMPANION, is a pioneering monitoring solution, consists of a wearable wristband, a mesh-network sensor system and a cloud-based software with a mobile app. Our technology can detect up to 95% of both soft and hard falls, through analyzing the elders’ activity patterns and deducing the activity context. Moreover, our solution provides accurate well-being (hygiene, nutrition, sleep) and location (based on full indoors positioning technology and advanced posture analysis) information, achieving almost zero false alarms. On top of that, we enable collateral financial savings compared to Residential Car Facilities for Elderly (can be up to €1,600/month in countries like UK or France).
+Kytera Technologies is an expert technology SME, consisting of experts with long-term experience from wireless communication industry.</objective>
+  <title>Disrupting the elderly home care with contextual analysis software</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

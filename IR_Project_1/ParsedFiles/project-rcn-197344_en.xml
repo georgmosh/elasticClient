@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>197344</rcn>
+  <acronym>5G-Crosshaul</acronym>
+  <objective>Mobile data traffic is forecasted to increase 11-fold between 2013 and 2018. 5G networks serving this mobile data tsunami will require fronthaul and backhaul solutions between the RAN and the packet core capable of dealing with this increased traffic load while fulfilling new stringent 5G service requirements in a cost-efficient manner.
+The 5G-Crosshaul project aims at developing a 5G integrated backhaul and fronthaul transport network enabling a flexible and software-defined reconfiguration of all networking elements in a multi-tenant and service-oriented unified management environment. The 5G-Crosshaul transport network envisioned will consist of high-capacity switches and heterogeneous transmission links (e.g., fibre or wireless optics, high-capacity copper, mmWave) interconnecting Remote Radio Heads, 5GPoAs (e.g., macro and small cells), cloud-processing units (mini data centres), and points-of-presence of the core networks of one or multiple service providers.  This transport network will flexibly interconnect distributed 5G radio access and core network functions, hosted on in-network cloud nodes, through the implementation of: (i) a control infrastructure using a unified, abstract network model for control plane integration (5G-Crosshaul Control Infrastructure, XCI); (ii) a unified data plane encompassing innovative high-capacity transmission technologies and novel deterministic-latency switch architectures (5G-Crosshaul Packet Forwarding Element, XFE).  
+Demonstration and validation of the 5G-Crosshaul technology components developed will be integrated into a software-defined flexible and reconfigurable 5G Test-bed in Berlin. Mobility-related 5G-Crosshaul experiments will be performed using Taiwan’s high-speed trains. 5G-Crosshaul KPI targets evaluated will include among others a 20% network capacity increase, latencies &lt;1 ms and 30% TCO reduction.
+The 5G-Crosshaul proposal addresses the ICT 14-2014 call of the Horizon 2020 Work Programme 2014-15 with a special focus on the P7 objectives defined by the 5GPPP IA.</objective>
+  <title>5G-Crosshaul: The 5G Integrated fronthaul/backhaul</title>
+<identifier>H2020ICT20142</identifier>
+</project>

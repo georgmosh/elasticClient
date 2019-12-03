@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212063</rcn>
+  <acronym>ABIOS</acronym>
+  <objective>The emergence of life is one of the most fascinating and yet largely unsolved questions in the natural sciences, and thus a significant challenge for scientists from many disciplines. There is growing evidence that ribonucleic acid (RNA) polymers, which are capable of genetic information storage and self-catalysis, were involved in the early forms of life. But despite recent progress, RNA synthesis without biological machineries is very challenging. The current project aims at understanding how to synthesize RNA in abiotic conditions. I will solve problems associated with three critical aspects of RNA formation that I will rationalize at a molecular level: (i) accumulation of precursors, (ii) formation of a chemical bond between RNA monomers, and (iii) tolerance for alternative backbone sugars or linkages. Because I will study problems ranging from the formation of chemical bonds up to the stability of large biopolymers, I propose an original computational multi-scale approach combining techniques that range from quantum calculations to large-scale all-atom simulations, employed together with efficient enhanced-sampling algorithms, forcefield improvement, cutting-edge analysis methods and model development. 
+My objectives are the following:
+1 • To explain why the poorly-understood thermally-driven process of thermophoresis can contribute to the accumulation of dilute precursors. 
+2 • To understand why linking RNA monomers with phosphoester bonds is so difficult, to understand the molecular mechanism of possible catalysts and to suggest key improvements. 
+3 • To rationalize the molecular basis for RNA tolerance for alternative backbone sugars or linkages that have probably been incorporated in abiotic conditions.   
+This unique in-silico laboratory setup should significantly impact our comprehension of life’s origin by overcoming major obstacles to RNA abiotic formation, and in addition will reveal significant orthogonal outcomes for (bio)technological applications.</objective>
+  <title>ABIOtic Synthesis of RNA: an investigation on how life started before biology existed</title>
+<identifier>ERC2017STG</identifier>
+</project>

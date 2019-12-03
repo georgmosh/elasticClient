@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208589</rcn>
+  <acronym>MSIOAM</acronym>
+  <objective>Optoacoustic imaging is a highly scalable and versatile method that can be used for optical resolution microscopy (OR-OAM) at superficial  depth yet can be adapted for tomographic imaging with ultrasonic resolution at centimeter penetration scale. However, the imaging speed of OR-OAM is slow as far as concerned with acquisition of volumetric data, which greatly restricts its usage in applications involving dynamic biological processes.
+    In this MSCA project, we propose to develop a new approach using multifocal structured illumination in conjunction with a spherical ultrasonic array detection to achieve real-time volumetric optoacoustic imaging in both optical and acoustic resolution modes. Several challenges are to be addressed to reach these objectives. Firstly, a multifocal structured illumination system with two identical beamsplitting gratings will be designed and fabricated. Secondly, optoacoustic signal unmixing method for the spherical ultrasonic array detection geometry will be developed and image reconstruction algorithms based on the unmixed signals devised. Thirdly, calibration methods for the proposed system will be investigated. Finally, real-time volumetric optoacoustic imaging will be demonstrated in living animals. 
+    With the proposed method, real-time volumetric imaging at multiple penetration scales can be accomplished, making it possible to study dynamic functional, kinetic and metabolism parameters at the cellular, organ and whole organism level. By opening new possibilities for visualization of multi-scale dynamics not attainable with existing imaging modalities, the new method will broadly affect both pre-clinical and clinical imaging in the fields of in vivo cell tracking, targeted molecular imaging, studies of tumor dynamics and neovascularization, functional brain imaging.</objective>
+  <title>Multifocal structured illumination optoacoustic microscopy</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

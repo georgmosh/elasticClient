@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196219</rcn>
+  <acronym>TCN TimeAnalyzer</acronym>
+  <objective>TCN TimeAnalyzer™ is a unique application providing worst-case (and best-case) timing predictions of a switched Ethernet network by analyzing a model of the network.
+
+A central part in TCN TimeAnalyzer™ is the computational engine that implements a set of formulas that allows the computation of upper bounds on frame latency, jitter and maximum frame buffer space required in each switch. The formulas are a result of applying real-time scheduling analysis to packet forwarding in a packet switched Ethernet network. These formulas constitute a computational model which allows the prediction of how the limited speed of physical network devices and contention among different packets for the same network resources gives rise to latency, jitter, etc. for a specific packet forwarded between two nodes in the network. The computational analysis engine will incorporate models of every component used in the network and also every other entity that compete for the same network resources as the packet under observation.
+
+TCN TimeAnalyzer™ builds simulation models of how different configuration parameters and packet scheduling mechanisms of certain switches will affect worst case traffic situations.
+
+A feasibility study shall be developed verifying the technological/practical as well as economic viability of the innovation.
+Activities will focus on innovation activities such as demonstration, testing, prototyping, piloting, scaling-up, design aiming to bring the product to industrial readiness and maturity for market introduction. It will also include some research to further develop the computational engine.</objective>
+  <title>TimeAnalyzer in real-time networks</title>
+<identifier>H2020SMEINST12014</identifier>
+</project>

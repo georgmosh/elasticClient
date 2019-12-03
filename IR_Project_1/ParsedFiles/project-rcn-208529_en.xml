@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208529</rcn>
+  <acronym>BrainChip</acronym>
+  <objective>"Cherry Biotech is an innovative French company which develops and commercializes microfluidic instruments for life sciences and healthcare. We position ourselves on a  biological research market in which we are developing a range of tools dedicated to high resolution imaging. Other cellular environment control systems are also in test or development to support business growth. This technical base and the transversal skills held by the team has ideally positioned Cherry Biotech to carry out ambitious projects in the growing market  of the Organs on a chip.
+The design, development and implementation of microfluidic devices called ""Organ-on-a-Chip"" require the understanding and the integration of numerous components (technical, biological issues and constraints ...).
+The candidate will take over from its genesis to the development of proof of concept the development of a microfluidic instrumentation platform to test therapeutic molecules on artificial organs (Brain) integrated within microfluidic chips. His challenge will be to integrate a complex technical environment (instrumentation, sensors, microfluidics) with important biological constraints.
+"</objective>
+  <title>Human on Chip : Microsensor unit and control algorithm integration for brain on a chip drug testing applications and development</title>
+<identifier>H2020INNOSUP022016</identifier>
+</project>

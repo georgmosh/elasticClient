@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200923</rcn>
+  <acronym>ConAQuMe</acronym>
+  <objective>In the last years the novel, potentially revolutionary, possibilities offered by quantum mechanical systems have been deeply explored giving rise to a whole spectrum of Quantum Technologies, which are expected to have a big impact on the everyday life of future generations. Quantum metrology represents one of the most promising of these second generation quantum technologies: its aim is to exploit quantum mechanics to perform ultra-precise measurement not achievable by means of classical approaches. 
+Yet, a major obstacle still stands in the way of their full exploitation: preserving quantum coherence, the necessary ingredient for quantum protocols to outperform their classical counterparts, is a very difficult task. As it happens in ``classical technologies'', where the effect of noise is neutralized by monitoring and controlling the signal and its environment, quantum control is going to play a fundamental role for the development of noise-resilient protocols based on quantum mechanics.
+The main goal of this fellowship is to develop a more general framework for noisy quantum metrology, encompassing quantum control techniques based on time-continuous measurements and real-time feedback, and considering more general non-Markovian noisy evolutions. Beside answering fundamental questions, we will also design protocols for specific physical systems, with a particular attention for quantum opto-mechanical setups.</objective>
+  <title>Quantum Control for Advanced Quantum Metrology</title>
+<identifier>H2020MSCAIF2015</identifier>
+</project>

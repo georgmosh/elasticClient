@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>195530</rcn>
+  <acronym>EM-Pillars</acronym>
+  <objective>Electron cryomicroscopy (cryo-EM) is rapidly emerging as a powerful technique for high-resolution structure determination of protein complexes. Despite recent advances, there is still ample room for improvement of this method, in particular regarding sample preparation. Outstanding challenges are reproducibility of freezing conditions to obtain an optimal ice thickness; to prevent unfolding or preferential orientation of proteins against the hydrophobic air-water interface; and a limited accuracy of beam-induced motion correction for relatively small particles. Here, we propose to study how DNA origami objects that are added in with the sample may affect cryo-EM grid preparation. In addition, by examining a variety of DNA origami structures in the electron microscope, we also aim to identify and improve on structural weaknesses in their design. We will test new design strategies, analyse those, and use them for application in cryo-EM. Thereby, this proposal will facilitate both cryo-EM structure determination and the design of nano-tools that are made from DNA.</objective>
+  <title>Controlled cryo-EM sample preparation through DNA-Origami pillars</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

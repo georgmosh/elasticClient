@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208795</rcn>
+  <acronym>EXPERTISE</acronym>
+  <objective>Energy and Mobility are two primary driving forces in the 21st century. Development of incremental and disruptive technologies will have key impacts on the world’s societies, and on safety, security and competitiveness of Europe. Amongst those technologies, gas turbines will play a major role. Recovery of shale gas depends decisively on compressors. Modern gas supplied power plants are bridging towards the age of renewable energies. Aeroengines are to undergo the most massive changes in their history with the advent of composite materials, gear boxes, and turbine-electric concepts separating generation of power and thrust. A technological commonalities of the upcoming challenges is the need for full model based development and computer system simulation.
+
+There is agreement on this in the computational fluid dynamics (CFD) community. The structural dynamics and vibration questions are at present far from being addressed adequately. While US agencies and Asian powers have already started to prepare themselves, European research organisations and companies still seem to be too fragmented to reach critical research ressources and start corresponding initiatives. There are two main reasons for this. First, the physics of mechanical joining technologies that dominate the damping behavior of the large-scale structures under debate, are still poorly understood. Second, there is a lack of high performance computing (HPC) capabilities in structural dynamics, which goes back to the lack of knowledge of effective HPC technologies for structural dynamics. 
+
+Since the US, China and India have started efforts in the field, we propose a European contribution through a Marie Curie ETN to allow a first generation of early stage researchers to catch up on the topics, ideally open up new fields of insight and approaches, and finally form a seed group for the upcoming challenges of the European turbine industry with respect to nonlinear structural dynamics and HPC.</objective>
+  <title>models, EXperiments and high PERformance computing for Turbine mechanical Integrity and Structural dynamics in Europe</title>
+<identifier>H2020MSCAITN2016</identifier>
+</project>

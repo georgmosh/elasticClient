@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211824</rcn>
+  <acronym>PHONUIT</acronym>
+  <objective>In the last decades, the power to control photons and electrons paved the way for extraordinary technological developments in electronic and optoelectronic applications. The same degree of control is still lacking with quantized lattice vibrations, i.e. phonons. Phonons are the carriers of heat and sound. The understanding and ability to manipulate phonons as quantum particles in solids enable the control of coherent phonon transport, which is of fundamental interest and could also be exploited in applications. Logic operations can be realized with the manipulation of phonons both in their coherent and incoherent form in order to switch, amplify, and route signals, and to store information. If brought to a mature level, phononic devices can become complementary to the conventional electronics, opening new opportunities.
+I envision to realize each part of this technology exploiting phonons and to bring them together in an integrated circuit on chip: a phononic integrated circuit. The objective of the proposal is:
+A: the realization of coherent phonon source and detector;
+B: the realization of phonon computation with the use of thermal logic gates;
+C: the realization of phonon based quantum and thermal memories.
+To this end it is crucial to engineer nanoscale heterostructures with suitable interfaces, and to engineer the phonon spectrum and the interface thermal resistance. Phonons will be launched, probed and manipulated with a combination of pump-probe experiments and resistive thermal measurements on chip.
+The proposed research will be of great relevance for fundamental research as well as for technological applications in the field of sound and thermal management.</objective>
+  <title>Phononic Circuits: manipulation and coherent control of phonons</title>
+<identifier>ERC2017STG</identifier>
+</project>

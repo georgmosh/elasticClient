@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207612</rcn>
+  <acronym>NeuroAgents</acronym>
+  <objective>"Neural networks and deep learning algorithms are currently achieving impressive state-of-the-art results. In parallel computational neuroscience has made tremendous progress with both theories of neural computation and with hardware implementations of dedicated brain-inspired  computing platforms.
+However, despite this remarkable progress, today’s artificial systems are still not able to compete with biological ones in tasks that involve processing of sensory data acquired in real-time, in complex and uncertain settings. One of the reasons is that neural computation in biological systems is very different from the way today's computers operate: it is tightly linked to the properties of their computational embodiment, to the physics of their computing elements and to their temporal dynamics. Conventional computers on the other hand operate with mainly serial and synchronous logic gates, with functions that are decoupled from their hardware implementation, and with discretized and virtual time.
+In this project we will combine the recent advancements in machine learning and neural computation with the latest developments in neuromorphic computing technology to design autonomous systems that can express robust cognitive behavior while interacting with the environment, through the physics of their computing substrate. To achieve this we will embed in robotic platforms microelectronic neuromorphic processors and sensors that implement biophysically realistic neural computational primitives and dynamics. We will adopt active-sensing and on-line spike-based learning strategies, context and state-dependent computation, and probabilistic inference methods for ""programming"" these neuromorphic cognitive agents to solve challenging tasks in real-time. 
+Our results will lead to compact low-power intelligent sensory-motor systems that will have a large impact on service and consumer robotics, Internet of Things, as well as prosthetics and personalized medicine."</objective>
+  <title>Neuromorphic Electronic Agents: from sensory processing to autonomous cognitive behavior</title>
+<identifier>ERC2016COG</identifier>
+</project>

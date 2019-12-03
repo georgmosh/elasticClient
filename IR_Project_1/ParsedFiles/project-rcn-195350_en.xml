@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>195350</rcn>
+  <acronym>SmartMammaCAD</acronym>
+  <objective>In this project, Dr. Ignacio Alvarez Illan proposes to develop a novel automated diagnosis system that supports the radiologist in the breast cancer diagnosis in Dynamic Contrast Enhance-Magnetic Resonance Imaging (DCE-MRI) by including critical components of the radiological work-flow such as motion compensation, segmentation and diagnosis of breast tumours. The expected results of this interdisciplinary project will definitely have applications and impact in the European society and its health and the overarching goals of the '2020 Vision for the European Research Area’. Specifically, improving diagnosis of major diseases such as breast cancer is a research priority in the European Union. 
+
+The main goal and overall objective of this project is to develop computer aided diagnosis (CAD) methods, and image processing techniques to improve diagnostic accuracy and efficiency of cancerrelated breast lesions. Non-mass-enhancing lesions exhibit a heterogeneous appearance in breast MRI with high variations in kinetic characteristics and typical morphological parameters, and have a specificity and sensitivity much lower than mass-enhancing lesions. For this reason, new segmentation algorithms and kinetic parameters can be potentially used as an alternative to the methods for mass-enhanced lesions. 
+
+To develop and implement CAD methods and image processing techniques, three different research objectives are presented in this project. They include basic research, strategic research, applied research and transfer of knowledge: i) Develop non-rigid registration and segmentation techniques to incorporate spatial variations in temporal enhancement. ii) Develop kinetic feature descriptors to quantify significant differences between the benign and malignant lesions. iii) Develop and validate algorithms, interfaces and software implementation for real applications of CAD of breast cancer.</objective>
+  <title>Intelligent Automated System for detecting Diagnostically Challenging Breast Cancers</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>201279</rcn>
+  <acronym>QuP</acronym>
+  <objective>The aim of this innovative and high-impact interdisciplinary proposal is to investigate the potential properties and applications
+of plasmonic metallic nanostructures that enable the confinement of light to scales beyond the diffraction limit, known as
+quantum plasmonics. Latest studies have revealed the quantization of surface plasmon polaritons (SPPs). It could be the
+stepping stone for the generation of miniaturized photonic components for the quantum control of light. This implies that the
+SPPs would represent a totally new sort of information carrier for nanoscale circuitry, enabling a revolutionary bridge
+between current diffraction-limited microphotonics and bandwith-limited nanoelectronics, paving the way for integrated
+quantum information processing. Thus, in a first stage we will develop integrated nanoscale quantum plasmonics building
+blocks on-a-chip, such as efficient single-photon sources or transistors, which is the component required for the fabrication
+of true nanoscale quantum computing logic gates. We also plan to exploit the low-Ohmic-losses and prospects for large
+scale production of ultra-compact cutting-edge graphene plasmonic circuits. This research will be lastly applied to single
+molecule sensing. Experiments will be performed using innovative techniques for nanofabrication of photonic nanostructures
+and for characterization. The expected results will allow taking advantage of quantum interference effects, setting up the
+optical response of the extremely low losses Long Range (LR) SPPs modes within a quantum framework and showing that
+graphene layers produce strong light-matter interaction and extreme optical field confinement. The results will be compared
+with ab initio simulations, giving a precise and consistent experimental and theoretical panorama of quantum plasmonics.</objective>
+  <title>Long Range Surface Plasmon Polaritons as an Alternative Information Carrier for Nanoscale Quantum Circuitry</title>
+<identifier>H2020MSCAIF2015</identifier>
+</project>

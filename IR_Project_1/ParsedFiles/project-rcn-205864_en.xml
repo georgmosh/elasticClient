@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205864</rcn>
+  <acronym>MOSAIC</acronym>
+  <objective>MOSAIC project aims to exceed the goal of the Strategic Energy Technology (SET) Plan - European Commission of producing CSP electricity at a cost below 0.10 €/kWh. To exceed this goal a commercial CSP plant of &gt; 1GW of nominal capacity is foreseen, in which  high nominal capacity of CSP plant is reached in a modular way where each MOSAIC module delivers thermal energy to linked thermal energy storage systems that supply their energy to a high capacity power block (&gt;1GW). This modular configuration guarantees reliability, flexibility and dispatchability according to the needs of the electrical grid while reduces significantly the specific cost of the Power block (€/MW installed).  
+Each MOSAIC module consists of an innovative fixed spherical mirror concentrator arranged in a semi-Fresnel manner and an actuated receiver based on a low cost closed loop cable tracking system. This configuration reduces the moving parts of the whole system decreasing solar field cost while keeping high concentration ratios. This will assure high working temperatures thus high cycle efficiencies and a cost effective use of thermal storage systems. 
+Energy from the sun is collected, concentrated and transferred to the heat transfer fluid at module level where, due to the modular concept, distances from the solar concentrator to the receiver are much shorter that those typical from solar tower technologies. As a result, the efficiency of energy collection is maximized, atmospherical attenuation is minimized and accuracy requirements can be relaxed.
+All these technical benefits contribute to a much lower capital cost of the whole system while keeping efficiency and reliability. This has consequently a strong impact in the final cost of electricity production.  First figures show LCOE estimated values below 0.10€/kWh for CSP power plants of 100 MW nominal power based in MOSAIC concept, additional cost reductions are expected for greater capacities (&gt;1GW) exceeding the goal of the SET plan</objective>
+  <title>MOdular high concentration SolAr Configuration</title>
+<identifier>H2020LCE2016RESCCSRIA</identifier>
+</project>

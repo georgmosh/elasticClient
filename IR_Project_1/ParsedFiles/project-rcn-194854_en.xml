@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194854</rcn>
+  <acronym>FORENSOR</acronym>
+  <objective>Covert evidence gathering has not seen major changes in decades. Law enforcement Agencies (LEAs) are still using conventional, manpower based techniques to gather forensic evidence. Concealed surveillance devices can provide irrefutable evidences, but current video surveillance systems are usually bulky and complicated, are often used as simple video recorders, and require complex, expensive infrastructure to supply power, bandwidth, storage and illumination.  
+Recent years have seen significant advances in the surveillance industry, but these were rarely targeted to forensic applications. The imaging community is fixated on cameras for mobile phones, where the figures of merit are resolution, image quality, and low profile. A mobile phone with its camera on would consume its battery in under two hours. Industrial surveillance cameras are even more power hungry, while intelligent algorithms such as face detection often require extremely high processing power, such as backend server farms, and are not available in conventional surveillance systems.  
+
+Here we propose to develop and validate a novel, ultra-low-power, intelligent, miniaturised, low-cost, wireless, autonomous sensor (“FORENSOR”) for evidence gathering. Its ultra-sensitive camera and built-in intelligence will allow it to operate at remote locations, automatically identify pre-defined criminal events, and alert LEAs in real time while providing and storing the relevant video, location and timing evidence. FORENSOR will be able to operate for up to two months with no additional infrastructure. It will be manageable remotely, preserve the availability and the integrity of the collected evidence, and comply with all legal and ethical standards, in particular those related to privacy and personal data protection. The combination of built-in intelligence with ultra-low power consumption could help LEAs take the next step in fighting severe crimes.</objective>
+  <title>FOREnsic evidence gathering autonomous seNSOR</title>
+<identifier>H2020FCT2014</identifier>
+</project>

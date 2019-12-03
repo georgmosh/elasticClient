@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205183</rcn>
+  <acronym>DEMIURGE</acronym>
+  <objective>The scope of this project is the automatic design of robot swarms. Swarm robotics is an appealing approach to the  coordination of large groups of robots. Up to now, robot swarms have been designed via some labor-intensive process.
+
+My goal is to advance the state of the art in swarm robotics by developing the DEMIURGE: an intelligent system that is able to design and realize robot swarms in a totally integrated and automatic way
+
+The DEMIURGE is a novel concept. Starting from requirements expressed in a specification language that I will define, the DEMIURGE will design all aspects of a robot swarm - hardware and control software.
+
+The DEMIURGE will cast a design problem into an optimization problem and will tackle it in a computation-intensive way. In this project, I will study different control software structures, optimization algorithms, ways to specify requirements, validation protocols, on-line adaptation mechanisms and techniques for re-design at run time.</objective>
+  <title>Automatic Design of Robot Swarms</title>
+<identifier>ERC2015CoG</identifier>
+</project>

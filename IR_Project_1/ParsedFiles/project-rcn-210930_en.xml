@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210930</rcn>
+  <acronym>DissectPcG</acronym>
+  <objective>The activities of the Polycomb group (PcG) of repressive chromatin modifiers are required to maintain correct transcriptional identity during development and differentiation. These activities are altered in a variety of tumours by gain- or loss-of-function mutations, whose mechanistic aspects still remain unclear.
+
+PcGs can be classified in two major repressive complexes (PRC1 and PRC2) with common pathways but distinct biochemical activities. PRC1 catalyses histone H2A ubiquitination of lysine 119, and PRC2 tri-methylation of histone H3 lysine 27. However, PRC1 has a more heterogeneous composition than PRC2, with six mutually exclusive PCGF subunits (PCGF1–6) essential for assembling distinct PRC1 complexes that differ in subunit composition but share the same catalytic core.
+
+While up to six different PRC1 forms can co-exist in a given cell, the molecular mechanisms regulating their activities and their relative contributions to general PRC1 function in any tissue/cell type remain largely unknown. In line with this biochemical heterogeneity, PRC1 retains broader biological functions than PRC2. Critically, however, no molecular analysis has yet been published that dissects the contribution of each PRC1 complex in regulating transcriptional identity.
+
+We will take advantage of newly developed reagents and unpublished genetic models to target each of the six Pcgf genes in either embryonic stem cells or mouse adult tissues. This will systematically dissect the contributions of the different PRC1 complexes to chromatin profiles, gene expression programs, and cellular phenotypes during stem cell self-renewal, differentiation and adult tissue homeostasis. Overall, this will elucidate some of the fundamental mechanisms underlying the establishment and maintenance of cellular identity and will allow us to further determine the molecular links between PcG deregulation and cancer development in a tissue- and/or cell type–specific manner.</objective>
+  <title>Dissecting the Function of Multiple Polycomb Group Complexes in Establishing Transcriptional Identity</title>
+<identifier>ERC2016COG</identifier>
+</project>

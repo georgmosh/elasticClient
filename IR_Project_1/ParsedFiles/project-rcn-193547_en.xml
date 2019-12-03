@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193547</rcn>
+  <acronym>COMPUTED</acronym>
+  <objective>PROBLEM: Despite extensive research on human-computer interaction (HCI), no method exists that guarantees the optimal or even a provably good user interface (UI) design. The prevailing approach relies on heuristics and iteration, which can be costly and even ineffective, because UI design often involves combinatorially hard problems with immense design spaces, multiple objectives and constraints, and complex user behavior.
+
+OBJECTIVES: COMPUTED establishes the foundations for optimizing UI designs. A design can be automatically optimized to given objectives and constraints by using combinatorial optimization methods that deploy predictive models of user behavior as objective functions. Although previous work has shown some improvements to usability, the scope has been restricted to keyboards and widgets. COMPUTED researches methods that can vastly expand the scope of optimizable problems. First, algorithmic support is developed for acquiring objective functions that cover the main human factors in a given HCI task. Second, formal analysis of decision problems in UI design allows combating a broader range of design tasks with efficient and appropriate optimization methods. Third, a novel interactive UI optimization paradigm for UI designers promotes fast convergence to good results even in the face of uncertainty and incomplete knowledge.
+
+IMPACT: Combinatorial UI optimization offers a strong complement to the prevailing design approaches. Because the structured search process has a high chance of finding good solutions, optimization could improve the quality of interfaces used in everyday life. Optimization can also increase cost-efficiency, because reference to optimality can eliminate fruitless iteration. Moreover, because no preknowledge of UI design is required, even novices will be able to design great UIs. Even in “messy,” less well-defined problems, it may support designers by allowing them to delegate the solving of well-known sub-problems.</objective>
+  <title>Computational User Interface Design</title>
+<identifier>ERC2014STG</identifier>
+</project>

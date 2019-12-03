@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199377</rcn>
+  <acronym>AlmaCrypt</acronym>
+  <objective>Cryptology is a foundation of information security in the digital world. Today's internet is protected by a form of cryptography based on complexity theoretic hardness assumptions.  Ideally, they should be strong to ensure security and versatile to offer a wide range of functionalities and allow efficient implementations.  However, these assumptions are largely untested and internet security could be built on sand.
+The main ambition of Almacrypt is to remedy this issue by challenging the assumptions through an advanced algorithmic analysis.
+In particular, this proposal questions the two pillars of public-key encryption: factoring and discrete logarithms.  Recently, the PI contributed to show that in some cases, the discrete logarithm problem is considerably weaker than previously assumed.  A main objective is to ponder the security of other cases of the discrete logarithm problem, including elliptic curves, and of factoring. We will study the generalization of the recent techniques and search for new algorithmic options with comparable or better efficiency.
+We will also study hardness assumptions based on codes and subset-sum, two candidates for post-quantum cryptography. We will consider the applicability of recent algorithmic and mathematical techniques to the resolution of the corresponding putative hard problems, refine the analysis of the algorithms and design new algorithm tools.
+Cryptology is not limited to the above assumptions: other hard problems have been proposed to aim at post-quantum security and/or to offer extra functionalities. Should the security of these other assumptions become critical, they would be added to Almacrypt's scope. They could also serve to demonstrate other applications of our algorithmic progress.
+In addition to its scientific goal, Almacrypt also aims at seeding a strengthened research community dedicated to algorithmic and mathematical cryptology.</objective>
+  <title>Algorithmic and Mathematical Cryptology</title>
+<identifier>ERC2014ADG</identifier>
+</project>

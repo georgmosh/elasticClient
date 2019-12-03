@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210364</rcn>
+  <acronym>MwHresEP</acronym>
+  <objective>MwHresEP: Multi-well High-resolution Electrophysiology Platform
+
+The aim of this proof-of-concept project is to make initial steps in translating the high-density microelectrode array (HD-MEA) chip technology, which has been developed in the ERC project “NeuroCMOS” (AdG 267351, Subproject 1) into a commercial product. The project will be performed in collaboration with the spin-off company MaxWell Biosystems AG (http://www.mxwbio.com/) that has been founded after the NeuroCMOS project end by collaborators of the PI laboratory and a lab at Riken (Japan) with the purpose to commercialize the developed CMOS-based chip technology and software for neuroscientific research and industrial use in drug discovery and development. The initial steps undertaken in this PoC include (i) the development of a multi-well-plate prototype, suitable for drug discovery applications, that can host CMOS microelectrode arrays in each well. Moreover, we will (ii) develop the needed soft- and hardware to prove the feasibility of integrating the chip system prototype into cell-culture automation platforms, and we will work to (iii) obtain initial data from commercially available human induced-pluripotent-stem-cell (iPSC) -derived neurons.</objective>
+  <title>Multi-well High-resolution Electrophysiology Platform</title>
+<identifier>ERC2016PoC</identifier>
+</project>

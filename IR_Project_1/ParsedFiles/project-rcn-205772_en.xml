@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205772</rcn>
+  <acronym>TITANIUM</acronym>
+  <objective>The TITANIUM proposal aims to develop a software demonstrator for geometry processing and 3D urban modeling, in order to facilitate the pre-commercialization of novel software components for the Computational Geometry Algorithms Library. The proposed demonstrator will include novel approaches resulting from the ERC-funded IRON project (‘Robust Geometry Processing’, StG-2010-257474), which are illustrated by publications presented at premier conferences in our field (receiving two best paper awards) and a patent submitted in 2015. The expected outcomes of TITANIUM will be versatile methods for 3D reconstruction and simplification of data gathered from geometric measurements, as well as related methods specifically tailored to urban modeling. These methods represent a significant step forward by offering unrivaled levels of robustness, and automated generation of levels of detail that are semantically meaningful. The acronym TITANIUM, a robust and lightweight material, conveys our wish to streamline the geometric modeling pipeline through robust algorithms and lightweight representations. This Proof of Concept project will also implement the steps required for pre-commercialization. In view of this goal, we have included an industrial partner, GeometryFactory, a spinoff from Inria launched in 2003. We have already established preliminary contacts in the fields of metrology and geographic information systems. These contacts will provide real-world industrial case studies.</objective>
+  <title>Software Components for Robust Geometry Processing</title>
+<identifier>ERC2016PoC</identifier>
+</project>

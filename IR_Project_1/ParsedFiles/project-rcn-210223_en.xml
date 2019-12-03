@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210223</rcn>
+  <acronym>COMPACT</acronym>
+  <objective>Cyber threats are the most significant and growing risk for public administrations (PA). However, technological, organisational and structural issues hamper the ability, especially for local PAs (LPAs) to improve their cyber security level. Budget constraints and evolving legal, ethical, societal and privacy regulations  render the situation even more complex.
+COMPACT’s goal is to empower local LPAs to become the main actors of their cyber-resilience improvement process. COMPACT’s objectives are to 1) increase awareness, skills and protection; 2) foster information exchange between European LPAs; 3) link LPAs to major EU initiatives, including the newly created cyber-security private-public partnership. 
+COMPACT innovates at technological level and at process level – an important dimension in engaging LPA employees in the improvement of cyber-resilience. At technological level, COMPACT innovates in real time security monitoring, security awareness training,  information sharing, cyber-security gamification, risk assessment, and threat intelligence. At process level, COMPACT adapts the Plan-Do-Check-Act cycle for LPAs to do iterative removal of security bottlenecks and achieve compliance to EN ISO/IEC 27001 and BS ISO/IEC 27005. 
+COMPACT delivers an integrated platform with 4 types of tools/services – 1)  risk assessment, 2) education, 3) monitoring, and 4) knowledge sharing – characterized by a high degree of usability by non IT experts and automation. It protects LPAs’ investments by interoperating with market solutions from major vendors. It eases deployment and adoption by being both cloud-enabled (i.e. it addresses cloud specific issues) and cloud-ready (i.e. it can be deployed – if users wish– on the cloud). COMPACT validates its results through 5 challenging use cases provided by 5 users in 4 European countries. 90% of COMPACT solutions will achieve TRL7 and the residual part TRL6.</objective>
+  <title>COmpetitive Methods to protect local Public Administration from Cyber security Threats</title>
+<identifier>H2020DSSC72016</identifier>
+</project>

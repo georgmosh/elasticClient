@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193648</rcn>
+  <acronym>Oscillations</acronym>
+  <objective>This project aims to reveal the origin and principal functions of spatiotemporal signalling oscillations in the context of embryonic development. Vertebrate embryo segmentation offers a particularly suitable context to study an assembly of ultradian, genetic oscillators, which in addition, exhibit striking synchronization that generates periodic, wave-like patterns. 
+
+Using the mouse model, in which three major signalling pathways (Wnt, Notch and Fgf) have been found to oscillate in activity with a period of ~2 hours, we aim to address the following key questions: How do signalling gradients control higher-order, spatiotemporal synchronization of genetic oscillators? What is the role of self-organization? What is the function of spatiotemporal signalling dynamics that are phase-shifted between multiple pathways for developmental patterning? To address these challenging questions, we bring together a unique combination of quantitative real-time imaging, novel ex vivo assays and multi-modal, i.e. genetic, chemical and physical functional perturbations. 
+
+To this end, we propose to employ customized knock-in reporter mouse lines developed in my lab and cutting edge microscopy for simultaneous quantification of multiple, oscillating signaling pathway activities and protein dynamics. We aim to combine these dynamic quantification with novel functional perturbations which are made possible due to a critical technical breakthrough achieved in my lab: an ex vivo primary cell culture assay that recapitulates mouse mesoderm patterning, including complex oscillatory wave patterns, and segment formation, in a simplified, 2-dimensional (2D) context. This ex vivo assay will allow an unprecedented versatility of (time-resolved) perturbations and simultaneous quantitative, dynamic read-out at both molecular and phenotypic level. 
+
+Our approach thus has an outstanding potential and is ideally positioned to reveal how temporal order emerges and impacts on developmental patterning.</objective>
+  <title>Oscillatory signaling dynamics – a quantitative approach to reveal their origin and function in development</title>
+<identifier>ERC2014STG</identifier>
+</project>

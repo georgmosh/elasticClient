@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205398</rcn>
+  <acronym>MAESTRO</acronym>
+  <objective>MAESTRO aims to develop and combine with existing Selective Laser Melting (SLM) techniques five innovations that will constitute the basis of a highly competitive manufacturing value chain: (1) a single pre-process software for a numerical chain combining all mandatory steps and configurations of SLM together with its related pre- and post-processes, (2) Hybridization of SLM with MIM, (3) Adaptive process control of SLM, (4) system level integration of a modular platform, (5)  open access to an easy-to-use demonstration platform to reinforce to EU leadership in AM. 
+These innovations will enable SLM to overcome the current limitations (speed, productivity, costs) to address large scale markets: productivity will be improved by 30%, cost reduced by 30% with quality towards zero defect. 
+The performances of the MAESTRO platform will be assessed through a substantial number of demonstrators (7 in total: 4 brought by project partners, 3 selected through a EU-wide dissemination event). 
+The MAESTRO consortium is composed of 10 complementary partners from 5 European countries. It is a well-balanced consortium with relevant expertise in SLM for tooling and aerospace applications (PEP), Materials and processes (CEA), Manufacturing technologies (UoB), Software Development (ALTAIR), MIM (OBE), SLM machine manufacturer (EOS). It is completed by 4 end-users from key sectors: Semiconductors and their packaging (III-V LAB), Automotive (CRF), Space (GEMMATE), Railway (ALSTOM).</objective>
+  <title>Modular laser based additive manufacturing platform for large scale industrial applications</title>
+<identifier>H2020FOF2016</identifier>
+</project>

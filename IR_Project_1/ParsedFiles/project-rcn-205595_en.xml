@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205595</rcn>
+  <acronym>SmartSDK</acronym>
+  <objective>SmartSDK aims at creating a sustainable FIWARE ecosystem between Europe and Mexico by leveraging on existing FIWARE outcomes and building reference standards for common challenges. 
+
+To fulfil this goal, SmartSDK will analyse successful FIWARE applications deployed in Europe and derive from these applications a set of FIWARE-based reference service architectures and reference data models to support the agile development of smart solutions for sustainability challenges of today world. In this perspective, SmartSDK will adopt existing Open Standards and Open Source solutions leveraging on results of European and Mexican initiatives based on FIWARE. 
+By “standardizing” these efforts in a reference Software Development Kit (SDK) for smart applications, SmartSDK will foster a long-term collaboration between Europe and Mexico on FIWARE building on shared societal and economical challenges in Europe and Mexico. 
+
+The collaboration will promote increased FIWARE adoption in Mexico as ecosystem for developing smart solutions, through the involvement of cities, innovative SMEs and startups. This will insure a wide impact in Mexico and Europe and will support the growth of new FIWARE-based businesses through the direct involvement of a network of around ICT 30 incubators and accelerators with access to more than 1000 ICT Innovative companies and startups and the support of Wayra Mexico (owned by Telefonica), the local branch of the worldwide largest accelerator.
+
+The participation of key FIWARE partners in Europe (TID, CREATE-NET) and Mexico (INFOTEC, ITESM), the support of European startups building on FIWARE technology (HOPU, UBI), and Future Internet researchers from Mexico (CECISE, CENIDET, INAOE) under the experienced guide of R&amp;D consultancy specialist and key promoter of FIWARE internationalization (MARTEL) are a unique asset for ensuring SmartSDK success.</objective>
+  <title>A FIWARE-based SDK for developing Smart Applications</title>
+<identifier>H2020ICT2016INT</identifier>
+</project>

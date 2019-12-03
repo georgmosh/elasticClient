@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193464</rcn>
+  <acronym>FourByThree</acronym>
+  <objective>Industrial robots have demonstrated their capacity to answer the needs of many industrial applications, offering a high degree of dexterity, accuracy and efficiency.
+However, when the application requires the collaboration between the robot and the worker, including workspace sharing, it is not feasible to use standard industrial robots due to safety being compromised 
+Recently, new robotic products have appeared on the marked claiming to be safe when used in the vicinity of humans, offering the possibility to control the force exerted in case of collision. However they lack the flexibility (in terms of possible physical configurations) or are very expensive.
+Furthermore, even these robots are offered as isolated products without rich perception capabilities or adequate responsive behaviours that have to be developed by the system integrators for any new manufacturing process.
+FourByThree proposes the development of a new generation of modular industrial robotic solutions that are suitable for efficient task execution in collaboration with humans in a safe way and are easy to use and program by the factory worker.
+Consortium partners in this proposal have already achieved relevant results in different technologies that are fundamental to solving the outlined problem of automating the factory floor by means of modular robots, collaborating with human workers. The approach is to adapt those results, make them more reliable and integrate them in order to achieve the final goal of the project.
+The acronym of the proposal refers to the two main foci of the proposal: the FOUR main characteristics of FourByThree (Modularity, Safety, Usability, Efficiency) and the THREE main actors (Humans, Robots, Environment) in the manufacturing scenarios.
+The proposal outlines a Business Model and a Business Plan that will be further elaborated through the project.</objective>
+  <title>Highly customizable robotic solutions for effective and safe human robot collaboration in manufacturing applications</title>
+<identifier>H2020FoF2014</identifier>
+</project>

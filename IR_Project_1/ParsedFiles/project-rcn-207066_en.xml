@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207066</rcn>
+  <acronym>is3DMIMO</acronym>
+  <objective>It is predicted that wireless network traffic will increase 1000 times in the next decade. The exponential traffic growth is not uniform across geographical areas and mainly takes place in indoor hot spots. Hence, high capacity indoor venues represent the biggest network capacity increase challenge.
+
+The recently emerged 3D MIMO technology provides a promising dimension to provide extra capacity gain in hot spots. In particular, the 3D deployment of small cells (SCs) equipped with 3D MIMO antenna arrays will take advantage of 3D distribution of user equipment (UE) in typical high capacity venues, and represents an excellent technical combination to address the indoor high capacity challenge. The 3D deployment of SCs with 3D MIMO antenna arrays faces technical challenges ranging from 3D MIMO antenna array design, performance evaluation, the lack of understanding of 3D MIMO SC network performance limits to the optimal 3D SC network deployment.
+
+The is3DMIMO project aims to address these technical challenges by assembling a team of four partners in the UK, Sweden and China with complementary expertise. During the project, the is3DMIMO consortium aims to achieve the following objectives:
+•	characterize and model indoor 3D MIMO channels for typical indoor environments;
+•	develop a reliable OTA antenna characterization method for 3D MIMO SCs;
+•	characterize OTA performance in laboratory conditions as compared to real-life 3D MIMO small cell scenarios;
+•	obtain fundamental understanding of the network performance gains achievable by 3D SCs with 3D MIMO antenna arrays;
+•	develop techniques for jointly optimizing the deployment locations of SC access points (APs) and their 3D MIMO configurations; and
+•	provide 3D MIMO SC network planning and deployment guidelines for typical 3D indoor scenarios. 
+The achievement of the above objectives will provide crucial inputs for multiple-antenna and 5G/B5G system design, and will increase network capacity in indoor hot spots by 20-30%.</objective>
+  <title>indoor small-cell Networks with 3D MIMO Array Antennas</title>
+<identifier>H2020MSCARISE2016</identifier>
+</project>

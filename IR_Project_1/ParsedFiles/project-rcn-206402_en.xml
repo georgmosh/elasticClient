@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206402</rcn>
+  <acronym>PJ17 SWIM-TI</acronym>
+  <objective>Single European Sky – the vision is clearly described in the European ATM Master Plan. Reaching the goals for the European Airspace is only possible with focused and extensive technical developments on European level. One of the major challenges is making sure every actor in ATM has the right information at the right time and in a consistent manner, as ATM information is the key to many concepts developed in SESAR. Extensive research was conducted in SESAR 1 under this topic called “System-Wide Information Management (SWIM)”.
+
+Our project addresses the technical infrastructure of SWIM as an enabler to the other projects. It will build on the SESAR 1 research results by integrating the aircraft on the one hand and the military stakeholders on the other hand into the SWIM infrastructure. The aircraft is an essential provider of information with regard to the flight trajectory and an information user, e.g. for meteorological information, which ensures a more efficient flight progress. Integration with the military will contribute to a more complete picture of the traffic situation. Both aspects will improve trajectory based operations and thus improve the experience for the passengers. The common runtime registry will extend the capability of the SESAR 1 SWIM design-time (static) registry by acting as a real-time directory, used to dynamically discover and connect to deployed SWIM services, suited best for the current request during operation, like the internet’s Domain Name Service. This will provide the consumers with an efficient access to the SWIM services, thus facilitating cost-effective operation.
+
+The companies involved in this project are the only ones that can deliver this kind of result. Not on their own – but as the unique cooperation between air navigation service providers and air and ground industry. This ensures the capabilities not only to come up with the concepts and develop prototypes, but also to provide sustainable results usable throughout Europe.</objective>
+  <title>SWIM Technical Infrastructure</title>
+<identifier>H2020SESAR20152</identifier>
+</project>

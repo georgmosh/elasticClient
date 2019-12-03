@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200134</rcn>
+  <acronym>HANK</acronym>
+  <objective>Stroke (and in general, any kind of Acquired Brain Damage – ABD –) and spinal cord injuries significantly affect thousands of individuals annually, leading to considerable physical impairment and functional disability. Gait is one of the most important activities of daily living affected in stroke survivors. Recent technological developments in powered robotics exoskeletons can create powerful adjunctive tools for rehabilitation and potentially accelerate functional recovery. A novel lower limb robotic exoskeleton, namely HANK, will represent a significant advance over the state-of-the-art for gait rehabilitation in stroke survivors. Its unique value proposition is based on:
+•	It incorporates all the existing technologies to control the movement of the exoskeleton, plus the use of EEG signals, facilitating the neuronal rehabilitation of the ABD patients and restoring the neuronal connections.
+•	It gives to the rehabilitation doctors and physiotherapist the opportunity to use the best movement strategy for each patient, thanks to its independent control system for each articulation (hip, knee and ankle). 
+•	It allows the patients’ movements by controlled directly by the EEG signals (the exoskeleton can be managed directly by the mental orders of the patients), allowing the possibility to walk again for full paraplegic and quadriplegic patients, as these ones affected by spinal cord injuries.
+•	Any of the competitors has implemented the ankle control system. Having the ankle joint control, HANK allows to the patients a smoother movement.  
+•	And, last but no least, it will be have a very competitive price compared with the existing competence
+Robotic Assisted Rehabilitation (RAR) services is an emerging and fast growing market, with a very reduced number of companies producing exoskeleton for lower extremities rehabilitation purposes for ABD patients, and no one of these companies is European. GOGOA Mobility Robots will be the first EU company to go to the market.</objective>
+  <title>European advanced exoskeleton for rehabilitation of Acquired Brain Damage (ABD) and/or spinal cord injury's patients.</title>
+<identifier>H2020FTIPilot20151</identifier>
+</project>

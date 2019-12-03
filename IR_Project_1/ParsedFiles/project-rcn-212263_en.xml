@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>212263</rcn>
+  <acronym>TECNEC</acronym>
+  <objective>MAIN GOAL: To characterize the metabolic changes, fuelling growth of tumor endothelial cells (TECs) versus normal healthy endothelial cells (NECs), and identify &amp; validate metabolic genes, deregulated in TECs, as targets for anti-angiogenic cancer therapy. 
+
+BACKGROUND &amp; RATIONALE: Tumors stimulate blood vessel growth (angiogenesis) to nourish cancer cells, but current anti-angiogenic treatments lack sufficient efficacy. NECs are widely used for anti-angiogenesis development, but TECs, the real target cells, have been dismissed, even though they differ fundamentally from NECs. We pioneered NEC metabolism research and demonstrated that inhibition of specific metabolic pathways can block angiogenesis. Nothing is however known on TEC metabolism. I hypothesize that TECs “hyper-activate” their metabolism in a tissue-specific manner, and that targeting TEC metabolism is a novel concept for inhibiting tumor angiogenesis. 
+
+METHODOLOGY: We will perform a transcriptomic and metabolomic analysis of TECs &amp; NECs isolated from cancer patients, use an in-house developed bioinformatics platform (BIOMEX) to analyze the omics data in order to rank deregulated metabolic genes, and construct TEC-tailored genome scale metabolic network models (GEMs) allowing in silico computational modeling to predict metabolic targets that affect TEC but not NEC growth. The in vitro angiogenic activity of top targets will be biologically validated directly or after a negative selection shRNA-based screen, followed by validation in preclinical tumor models in vivo, using conditional knockout mice. All procedures are operational. Deliverables include in vivo validated metabolic targets, driving tumor angiogenesis.  
+
+NOVELTY, OVERALL &amp; CLINICAL IMPACT: These pioneering studies on TEC metabolism promise to open up new horizons/opportunities for cancer research. Treatment with inhibitors of the validated targets promises to normalize hyperactive TEC metabolism as a novel anti-angiogenic cancer therapy.</objective>
+  <title>Preclinical concept validation of tumor endothelial cell metabolism for novel anti-angiogenic therapy</title>
+<identifier>ERC2016ADG</identifier>
+</project>

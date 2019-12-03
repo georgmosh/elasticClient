@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199571</rcn>
+  <acronym>EINSTAIN</acronym>
+  <objective>"Nowadays, almost all General Aviation piston-powered aircrafts are powered by Avgas fuel. For decades, piston engines like Lycoming and Continental were allowed to burn only this type of fuel, which is characterized by high-octane values, very low vapor pressure indexes and high costs because of its poor production quantity, tracked and certified production and high performances.
+The “compression ignition” engine can provide a fuel consumption reduction from 30% to 50% compared to Avgas engine. An additional benefit of the replacement of Avgas piston engine with a diesel engine is obtained due to the reduced fuel price. 
+This “compression ignition” piston engines are able and certified to operate with kerosene and/or Jet fuels, so their use  is justified in areas, such as Europe, Africa, Russia, China and many others, where aviation gasoline (Avgas, also known as 100LL) cost is significantly higher than jet fuels.
+Therefore the objective of this project is to demonstrate the feasibility of an efficient “diesel” engine installation on a FAR/EASA Part23, 9 to 11 seats twin engine aircraft configuration and reduce as much as possible the related increase in drag, respect to a conventional engine, by using Computational Fluid Dynamics (CFD) in the design phase. 
+In order to achieve this goal the SR460, a six-cylinders, air/oil-cooled turbo-diesel engine produced by SMA, will be used as reference and installed on the TECNAM P2012 TRAVELLER aircraft.
+The main advantages are reported as following:
+•	The average fuel consumption will be of around 45kg/hr/engine against an average of 130kg/hr of a turboprop engine;
+•	P2012 will be the first twin engine aircraft available in both ""Avgas"" and ""kerosene"" capable variants;
+•	P2012 with SR460 will have a very competitive acquisition cost, comparable to the same-passengers’ capability of the single engine turboprop.
+"</objective>
+  <title>Engine INSTallation And INtegration</title>
+<identifier>H2020CS2CFP01201401</identifier>
+</project>

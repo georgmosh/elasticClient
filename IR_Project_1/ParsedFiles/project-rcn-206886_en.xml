@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206886</rcn>
+  <acronym>EVALVE</acronym>
+  <objective>Mechanical forces are fundamental to cardiovascular development and physiology. The interactions between mechanical forces and endothelial cells are mediated by mechanotransduction feedback loops. My lab is interested in understanding how hemodynamic forces modulate cardiovascular function and morphogenesis. Overall, our recent work is unraveling the biological links between mechanical forces, mechanotransduction and endothelial cell responses. The heart beats 2.6 billion times in a human lifetime and heart valves are amongst the most mechanically challenged structures of the body. The cardiac valves are made of endocardial cells (EdCs) and extracellular matrix components. Most valve diseases have their origins in embryogenesis, either as signs of abnormal developmental processes or the aberrant re-expression of fetal gene programs normally quiescent in adulthood. 
+
+This project is directed towards the elucidation of the biomechanical mechanism of mechanotransduction at the subcellular and molecular level and in addressing how EdCs integrate this information to form and maintain a functional cardiac valve. We will identify the mechanosensors at work in EdCs and their roles during cardiac valve development and repair. To do so, we will implement unique optical methodologies the lab has pioneered to characterize endocardial mechanotransduction: 1) Optical tweezing combined with mechanical stress reporters to test the mechanosensitivity of EdCs; 2) High resolution live microscopy and mathematical modeling to quantify mechanical forces; 3) 3D cell lineage studies to understand how cells respond and organize during pathological valve development. We will also use high-throughput mRNA- and ChIP-sequencing to characterize the transcriptional network activated by forces. 
+
+When completed this proposal will shed light on a critical, but little explored, aspect of congenital valve defects and will be useful for identifying new targets for therapeutic interventions.</objective>
+  <title>Biomechanics and signaling in models of congenital heart valve defects</title>
+<identifier>ERC2015CoG</identifier>
+</project>

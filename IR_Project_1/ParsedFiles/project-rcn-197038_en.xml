@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>197038</rcn>
+  <acronym>OPTEPLA</acronym>
+  <objective>The EU is pursuing the political aim to reduce CO2 emissions by 40%, to reduce the number of deaths by car accidents by half and to support methods for more effective use of cars and automobile fleets. The proposed project will provide effective support in reaching these ambitious goals.
+
+With OPTEPLA we want to develop an open telematics platform based on the OBDII standard. It consists of a small and cost effective OBDII device for the transmission of the entirely available electronic vehicle data and an open data platform, which receives, formats and analyses these data. There is currently no technical solution in the aftermarket, by means of which for any car manufacturer and for every installed controller device the communications data produced can be exported to an internet environment. 
+
+For commercialization third party developers will build upon the technology innovative telematics applications such as remote diagnostics and predictive maintenance systems, intelligent driving assistance systems, mapping of CO2 or fine dust concentrations or remote opening/closing car door technology. This technology will be very simple to retrofit to most vehicles. In a development period of only two years, telematics applications based on this platform could quickly experience widespread use and help to make vehicular traffic in the EU significantly safer, more environmentally friendly and more efficient.
+In the feasibility study of phase 1 we want to find out whether it is technically and economically possible to integrate the complex logic of an integrated vehicle diagnostic system into a miniaturized OBD connector and to reduce its manufacturing costs from currently €120 to less than €10. The expected outcome of the feasibility study is to allow the company to validate its business concept and to make evidence-based decisions about its product viability and market opportunities.</objective>
+  <title>Open OBDII Telematics Platform - OPTEPLA</title>
+<identifier>H2020SMEINST12015</identifier>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>204541</rcn>
+  <acronym>PhotoCloth</acronym>
+  <objective>Computer Graphics is the area of computer science that studies methods for digitally synthesizing and animating visual content. Among all the potential contexts where computer graphics techniques can be used, cloth animation is a particularly interesting case since, in the real world, clothing is far more than just the physical objects that we wear; clothing is a key element to show someone’s expressiveness and motion, it even defines his or her identity. 
+
+However, cloth animation is a complex and extremely high-dimensional problem. To digitally synthesize cloth animation, a large number of properties that affect the way cloth behaves need to be estimated: textures, deformations, collisions, materials, illumination, etc. 
+
+Current approaches for cloth animation tried to overcome this challenging problem following two main trends: image-based methods use captured data to construct a low-dimensional model to digitally synthesize new animations, however they can only sample a small portion of the high-dimensional space of cloth and poses; the physics-based methods aim to simulate cloth only using mathematical equations that express physics laws, however, they are computationally expensive and have trouble replicating real-world behavior. 
+
+This fellowship will investigate a new  model for cloth simulation that combines a physical-based method with image-based infomation to generate real-time believable cloth animation. The new model will use a multi-scale framework to handle the dynamic geometry and appearance at different levels of detail. The most salient dynamic geometric properties of the animation will be handled by a low-resolution representation of the cloth using a physics-based model, which reduces the high-dimensionality of the pose space to a lower-dimensional subspace.  Mid- and fine-scale details such as shading, wrinkles and appearance will be incorporated by an image-based approach, using the input imagery to learn to predict those properties.</objective>
+  <title>PhotoCloth: A framework to synthesize real-time photorealistic cloth animation from video input.</title>
+<identifier>H2020MSCAIF2015</identifier>
+</project>

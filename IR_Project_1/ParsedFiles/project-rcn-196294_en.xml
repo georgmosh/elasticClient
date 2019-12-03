@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196294</rcn>
+  <acronym>SINANN</acronym>
+  <objective>SINANN will leverage the identified capability of SonarSim’s high-performance Computational Ocean Acoustics framework to unlock a tangible 10-15% efficiency improvement in coastal zone seabed survey operations. The resulting productivity step change could potentially double the profit margin of a typical survey vessel, an expensive capital investment costing a minimum of €10 million per annum to operate. A significant portion of operational survey time is wasted collecting redundant seabed data and correcting routine errors caused by the inherent deficiencies in traditional manual based vessel path planning and swath coverage prediction processes. SINANN enables end users to identify the optimal fit for purpose survey configuration pre-survey, predict expected seabed survey performance analytics, and execute the optimal survey strategy in the field through smart high performance computerised solutions. Target end users are blue chip survey organisations involved in National charting, offshore oil and gas, marine renewable energy, and subsea telecoms.</objective>
+  <title>Sonar INtegrated Advanced NavigatioN</title>
+<identifier>H2020SMEINST12014</identifier>
+</project>

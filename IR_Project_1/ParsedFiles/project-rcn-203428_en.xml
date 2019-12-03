@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>203428</rcn>
+  <acronym>Milli-Tech</acronym>
+  <objective>The Milli-Tech proposal aims at a novel technology platform serving both computation and sensing: electronic switch architectures, called steep slope switches, exploiting new device physics and concepts in emerging 2D materials to achieve operation at voltages below 100 millivolts. Such switches will have a subthreshold slope below 10mV/decade, significantly more abrupt than MOSFET thermal limit of 60mV/decade at room temperature and in great advance to any beyond CMOS switches. Such characteristics will dramatically improve both the energy efficiency of logic circuits and the transduction sensitivity for many classes of sensors.
+The project will develop a technological platform called ‘millivolt technology’ focusing on low power digital and sensing/analog electronic functions exploiting steep slopes, with the goal of lowering the energy per useful function (computed and sensed bit of information) by a factor of 100x. 
+Such ultra-low operation voltage will contribute to solving major challenges of nanoelectronics such as power issues and it will enable energy efficient super-sensitive sensors for Internet-of-Everything (IoE).
+Milli-Tech includes fundamental research on new solid-state steep slope device concepts: heterostructure tunnel FETs in 2D Transition-Metal-Dichalcogenides (TMD), 2D Van der Waals super-lattice energy filter switch and hybrid architectures combining two switching principles: band-to-band-tunneling and metal-insulator-transition or negative capacitance in VO2, used as additive technology boosters.
+Milli-Tech plans breakthroughs by precise demonstrators: (i) energy efficient computation blocks for Von-Neumann ICs at sub-100mV, (ii) Active Pixel Sensors based on 2D TMD/GeSn tunnel FETs for IR imagers, (iii) Terahertz detectors based on hybrid 2D VO2/TMD switches (iii) ultra-sensitive 2D steep slope charge detectors for biosensing. The high-risk ‘millivolt technology’ will be highly rewarding by enabling the energy efficient revolution for IoE.</objective>
+  <title>Milli-Volt Switch Technologies for Energy Efficient Computation and Sensing</title>
+<identifier>ERC2015AdG</identifier>
+</project>

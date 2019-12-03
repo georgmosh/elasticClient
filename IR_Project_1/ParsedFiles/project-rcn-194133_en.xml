@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194133</rcn>
+  <acronym>SUPERSEDE</acronym>
+  <objective>The number of available software applications in the form of web services, mobile apps, etc., is dramatically increasing over the years. This software exploits data collected through various sensors, and online data sources. Its users can access it through a variety of devices, mostly based on mobile technology. 
+Software providers can hardly predict the acceptance of the applications they deliver. The great diversity in execution contexts and user preferences makes it difficult to personalize the software to fit all users’ needs. The complexity of those systems and the data involved turn out to be a solution to the problem and offer new opportunities for software engineers. 
+The SUPERSEDE project proposes a feedback-driven approach for software life cycle management, with the ultimate purpose of improving users’ quality of experience. Decisions on software evolution and runtime adaptation will be made upon analysis of end-user feedback and large amount of data monitored from the context. An integrated platform will articulate the methods and tools produced in the project.
+The project will provide advancements in several research areas however, the major contribution will be in integrating methods and tools from the mentioned areas, thus providing a new solution framework for software evolution and adaptation for data-intensive applications.
+Three use cases have been identified to provide a solution, which is based on the needs of different companies. They are representative for different data-intensive application domains (i.e. energy consumption, sport event webcasting). This diversity also allows a validation of the methods and tools produced to ultimately provide evidence of potential for productivity gains.
+CONSORTIUM: 8 partners with large scientific, dissemination and exploitation expertise on the topics of the project. Balanced consortium from different perspectives: geographical (5 countries) and profile (4 academic partners + 4 companies, 2 large and 2 SMEs).</objective>
+  <title>SUpporting evolution and adaptation of PERsonalized Software by Exploiting contextual Data and End-user feedback</title>
+<identifier>H2020ICT20141</identifier>
+</project>

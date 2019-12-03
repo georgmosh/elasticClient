@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206477</rcn>
+  <acronym>PowAlgDO</acronym>
+  <objective>Convex relaxations, such as linear and semidefinite programming, constitute one of the most powerful techniques for designing efficient algorithms, and have been studied in theoretical computer science, operational research, and applied mathematics. We seek to establish the power convex relaxations through the lens of, and with the extensions of methods designed for, Constraint Satisfaction Problems (CSPs).
+
+Our goal is twofold. First, to provide precise characterisations of the applicability of convex relaxations such as which problems can be solved by linear programming relaxations. Secondly, to derive computational complexity consequences such as for which classes of problems the considered algorithms are optimal in that they solve optimally everything that can be solved in polynomial time. For optimisation problems, we aim to characterise the limits of linear and semidefinite programming relaxations for exact, approximate, and robust solvability. For decision problems, we aim to characterise the limits of local consistency methods, one of the fundamental techniques in artificial intelligence, which strongly relates to linear programming relaxations.
+
+Recent years have seen some remarkable progress on characterising the power of algorithms for a very important type of problems known as non-uniform constraint satisfaction problems and their optimisation variants. The ultimate goal of this project is to develop new techniques and establish novel results on the limits of convex relaxations and local consistency methods in a general setting going beyond the realm of non-uniform CSPs.</objective>
+  <title>Power of Algorithms in Discrete Optimisation</title>
+<identifier>ERC2016STG</identifier>
+</project>

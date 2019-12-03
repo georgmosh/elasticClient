@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>198656</rcn>
+  <acronym>BHstabNL</acronym>
+  <objective>Humankind has always been on a quest to uncover the secrets of our universe and ``detect the inmost force that binds the world and guides its course''. We intend to take important steps towards a more profound understanding of nature's mysteries by employing black holes (BHs).
+These exciting objects have been predicted by Einstein's general relativity (GR), one of the most successful models to-date to describe our universe,
+and they also appear in more fundamental theories attempting to marry GR with quantum physics.
+ 
+BHs can be viewed as the point-particle analogue of classical mechanics
+and play a key role in vastly different fields ranging from astrophysics and cosmology to high-energy physics. The latter enters the game in the context of higher dimensional gravity and the gauge/gravity duality which offers a unique tool to explore hard-to-tackle phenomena in field theories by investigating gravity in asymptotically anti-de Sitter (AdS) spacetimes.
+
+Despite recent progress concerning the properties of BHs in these scenarios, most studies have been restricted to the linear regime. We wish to push these limits beyond the state-of-the-art and investigate the non-linear, dynamical behaviour and stability of BHs in asymptotically AdS and higher dimensional spacetimes, thus opening up an entirely new window to gain insight into the mechanisms that make our world tick.
+Specifically, we wish to explore the superradiant (SR) instabilities and the recently discovered gravitational turbulence in the former case and the non-linear response of BHs towards both the bar-mode and ultra-spinning instabilities in the latter. With the latest progress on the conceptual, theoretical and methodological level the time is ripe to accomplish these challenging goals by establishing novel techniques combining numerical relativity (NR), ``standard'' perturbative methods and the large-D expansion
+recently developed by leading European researchers.</objective>
+  <title>The fate of black holes in high-energy physics -- exploring their dynamical instabilities</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

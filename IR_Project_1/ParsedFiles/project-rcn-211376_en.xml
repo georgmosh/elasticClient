@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211376</rcn>
+  <acronym>WTM-RECYCLE</acronym>
+  <objective>WTM-RECYCLE addresses the call JTI-CS2-2016-CFP04-REG-01-05 and will in total re-design an existing WT-model (designed and manufacturing in the JTI-CS-project LOSITA), manufacture the new parts and implement them in into the model and finally perform a WT-tests focused on delivering aerodynamic data. The results will be post-processed and implemented into an aerodynamic database supported by CFD.
+
+The model updates to be performed focus on changes that can be roughly summarized in two groups:
+
+a.)    At first model updates reflecting a new design state are implemented (e.g. fuselage geometry, fuselage length).
+
+b.)    Solutions developed within the REG-ITD which shall be tested and assessed in the WT. This specifically involves the morphing LE, TE and winglet, which shall be used as High-Lift devices.
+
+The project addressing this task is organized straight-forward using a consortium of three partners that have proven their competence in WT-model design, aerodynamic analysis and assessment as well as manufacturing in recent R&amp;D projects. WT-test activities are subcontracted to the RUAG-WT, which is the obvious choice for test including this model. In total the project strongly benefits from the experience with the initial model of two of the partners (IBK and EUROTECH) obtained in the LOSITA-project, since they will also support the WTM-RECYCLE project.
+
+Finally an aerodynamic assessment and an extrapolation towards full-scale will be performed under the responsibility of KTH in order to display the benefits of the new High-Lift-devices.</objective>
+  <title>Large scale wind tunnel turboprop aircraft model integrating morphing devices for aerodynamic experimental assessment</title>
+<identifier>H2020CS2CFP04201602</identifier>
+</project>

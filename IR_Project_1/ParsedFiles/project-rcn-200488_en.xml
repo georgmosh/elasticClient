@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200488</rcn>
+  <acronym>E-TSIN</acronym>
+  <objective>This proposal presented by Indra Sistemas and CEIT jointly, try to answer in the best way the call JTI-CS2-2014-CFP01-SYS-02-02.
+The referred call and this associated proposal are framed inside of the packet 4.1.2.4 (Modular power controller for advanced landing system) of the System ITD for the Cleansky2 project.
+This project will develop a next generation power controller for electric taxi. This controller shall
+feature increased power density, bidirectional power conversion, modularity, scalability, and multifunctionality
+to support wide range of aircraft applications.
+Inside this global project of aircraft electrical moving on ground (e-TAXI), this concrete WP, try to answer the necessity of electrical power converters to:
+- Supply new electrical motors inside of the landing gear system (getting energy from electrical sources inside the aircraft)
+- Re-charge dedicated batteries inside the aircraft for the landing gear system. This function will help to have additional power available in batteries to be used when necessary, as in acceleration moments. Moreover, the re-charge will be done when aircraft speed on ground is enough or there is a necessity of braking (producing electrical braking over the motors).
+Then, proposal solution in this call develops a solution answering both functions and getting a global optimization of the system. This solution is done in accordance with aeronautical standards (environmental constrains), where the participants in this proposal have a vast experience.
+This proposal is presented by the consortium INDRA &amp; CEIT that have all competences and skills to develop this project in time and performances, based in its experience in bidirectional and modular power electronic converters and well-known aeronautic standards, rules and process, more when Indra base its business in manufacturing of aeronautic equipment and system, totally verified and qualified.</objective>
+  <title>Modular, scalable, multi-funtional, high power density power controller for electrical taxi</title>
+<identifier>H2020CS2CFP01201401</identifier>
+</project>

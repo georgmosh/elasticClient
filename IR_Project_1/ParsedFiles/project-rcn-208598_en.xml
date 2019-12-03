@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208598</rcn>
+  <acronym>OMICS</acronym>
+  <objective>Cell surface receptors react to a multitude of signal molecules that trigger cellular responses and regulate cell fate. The malfunction of receptors and signals in cells may lead to the development of many diseases, including cancer, diabetes, neurodegeneration or autoimmune disorders. Thus, understanding complex signal pathways is key for future therapeutic approaches and drug development. 
+
+This project concerns the development of a high throughput microfluidic device for the investigation of early cell signalling, which is triggered by ligand-decorated DNA origami nanostructures, immobilized on a microarray-patterned surface inside the microfluidic device. By combining state-of-the-art top-down microstructuring and bottom-up self-assembly, this approach allows to present ligands on surfaces with a full control of their absolute number, stoichiometry and nanoscale orientation, enabling to closer mimic the natural cell environment. While the principal functioning of origami-based ligand presentation has very recently been demonstrated by the beneficiary,  the here proposed implementation in a microfluidic chip will improve surface stability and robustness, as well as allow automated, on-surface assembly and cell culture processes to open the door to multiplexing and high throughput analyses.</objective>
+  <title>Origami-based Microfluidic Interface for Cell Signalling</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>198540</rcn>
+  <acronym>EyeTrack</acronym>
+  <objective>The EyeTrack project develops the first eye-tracking system truly adapted to mobile usages and seamlessly combined with a user-testing environment accessible to every digital team.
+Measuring visual attention in mobile usage is highly challenging.
+Optimising user experience of a mobile application during agile development implies testing the app “in the wild”, with real users. It requires methodology to measure observable interaction issues, and adapted technology to detect issues from visual interactions with the digital content (where people look is undetectable by direct observation of users).
+Mobile user experience is one of the biggest challenges that faces every app launched on the market. However thousands of digital project teams lack reliable tools to optimise their work and reduce testing costs, while hoping to trigger the right consumer behaviors.
+This market is partially addressed by eye-tracking solutions that are expensive, difficult to use, and offering limited capacity in terms of data analysis. Current systems for mobile devices are either stationary or inaccurate.
+Matchic Labs develops a new and accurate Eye-Tracking solution for Mobile Usage and Agile Testing, enabling development teams to easily build tests, collect data, and get results. Fast.
+Meant for field-testing with real users, it is built around an innovative eye-tracking system adapted to mobile usages: ultra light hardware, plus Software as a Service environment that analyses visual behaviors of panels of users.
+Digital teams will reduce project risk and improve their apps based on easy to understand analysis.
+The EyeTrack project is aimed at a €1B and fast growing market where ad agencies, user experience professionals, and mobile app developers require cost effective tools adapted to their digital project cycles.
+Phase 1 will tackle industrial feasibility, technical feasibility of eye-tracking in daylight, customer validation, and the development of a detailed business plan.</objective>
+  <title>DISRUPTIVE EYE TRACKING FOR MOBILE EXPERIENCE OPTIMISATION</title>
+<identifier>H2020SMEINST12015</identifier>
+</project>

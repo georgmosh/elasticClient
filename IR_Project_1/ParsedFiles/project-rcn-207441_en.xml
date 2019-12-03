@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207441</rcn>
+  <acronym>CAPID</acronym>
+  <objective>Almost every person in Europe now has access to a connected touch device and the creation of new capacitive sensing devices has become easy and cost effective. Building on this, the CAPID project wants to develop ‘c-tokens’, that interact with these touchscreen and capacitive readers. C-tokens are thin and flexible, metal-oxide tags, integrated in paper and plastic products. The tags will send a dynamic capacitive signal into the reading devices.
+C-tokens make it possible to identify and locate low cost and high volume products, like cards or labels, to the internet, just by putting them on a touchscreen. The number of different ID’s is very high and make it possible to create unique codes per product. The very small footprint (much smaller than NFC or QR) and low thickness make it possible to integrate them in a product as thin and flexible as a playing card. They are more secure than QR (can be copied) or NFC (can be read from distance) and they can detect the exact position of an object (important for board game applications).
+The tags will harvest the necessary energy from the capacitive screen, trough capacitive coupling or photovoltaic technology. The high end c-token can communicate with the touchscreens bi-directionally, making use of photo sensors inside the cards.
+Objective 1 is the development of the different components, like the flexible thin-film IC’s in metal oxide technology and printed electrode arrays as well as the integration of photovoltaic and photosensors.
+Objective 2 is the implementation of scalable manufacturing processes for assembly and integration of all the components into finished products. 
+Objective 3 is the realization of application demonstrators, one for each of the 3 end-users in the consortium. A first application is an interactive board game (Cartamundi Digital), a second application focuses on a more secure ticket system for events (ICS Festival Services) and the third one is providing a new way of mobile payments through touc</objective>
+  <title>Capacitive Identification Tokens</title>
+<identifier>H2020ICT20161</identifier>
+</project>

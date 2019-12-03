@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193336</rcn>
+  <acronym>lightMaterInt</acronym>
+  <objective>The interaction between light and material leads to beautiful visual phenomena that greatly enrich our perception of the world.  The ability to measure and model light scattering is central to almost any field of science. However, light transport in rich scenes is a complex process involving a long sequence of scattering events. Computationally modeling, reproducing and acquiring the processes generated so easily by Mother Nature is an extremely challenging task.  While several computational models have been proposed, they are all making various simplifying assumptions that cannot capture the full complexity of light transport processes in nature. In the proposed research, we suggest new measurement strategies and new inference algorithms that will allow us to infer more information on light and material interaction. 
+ 
+Specifically, the research will focus on the following tasks: (i) Acquiring internal sub-scattering, and recovering the volumetric structure of partially translucent objects using transient imaging data; (ii) Acquiring external illumination from its reflection on diffused objects; (iii) Exploiting illumination for developing digital light sensitive displays, capable of presenting 3D scenes with spatially varying reflectance properties. 
+ 
+As light scattering is such a fundamental phenomenon, our envisioned new tools have applications in almost any field of science, from astronomy to microscopy, and in medicine. We plan to push the bound on the penetration depth of medical imaging devices, and allow chemists to infer more information on material decomposition through scattering.  In earth science we can infer aerosol density from the scattering of sunlight in the atmosphere and ocean, a central challenge in any study of climate and pollution. In addition, we will pursue new technological developments such as light sensitive displays, offering a novel form of immersive visual experience, and new technologies of coded security cameras.</objective>
+  <title>Exploiting light and material interaction</title>
+<identifier>ERC2014STG</identifier>
+</project>

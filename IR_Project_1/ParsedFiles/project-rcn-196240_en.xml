@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196240</rcn>
+  <acronym>BLACKBINDER</acronym>
+  <objective>"Musicians play the scores basically like they did 200 years ago.The musician must hand off the instrument to turn the page and it is complicated passing scores and maintain proper posture. They also spend large spaces and budget to store and preserve scores that are easily deterioorated. In addition, collaborative work is a hard task due to the lack of synchronization.
+
+With BlackBinder solution, New Music Now will offer the music community a "pageless scrolling" technology-based system that allow: Continuously display of scores at the pace the musician sets and improve in this way the interpretation, allowing the musician being holding the instrument at any time (Page concept disappears).
+Synchronization for collaborative work is possible, annotations writing and sharing, and specific functionalities for every instrument.
+
+To benefit from this, the musician must download to his tablet the bbApp application which is complemented with 3 other services/products that offer maximum utility being used supplementary:
+
+bbSet: physical device that supports the tablet and allows the user to interact with the app by wireless pedals.
+bBinder: storage space in  the cloud for scores downloaded from bbsore or uploaded by the musician from his own background music and turned into XML format.
+bbStore: online store for individuals or publishers to sell scores with bbsecure technology anti-piracy. Impossibility to get the score of bBinder and send it to another user. Its visualization is only possible with the bbApp. Scores are also encrypted (for user recognition) so if they were finally removed from the bBinder, even so, they cannot be used for another user who is not the owner.
+
+Taking into account the high number of musicians worldwide, the described needs and the BlackBinder characteristics show a clear link between the really large gap in the musicians environment and the great business opportunity for the proposed solution."</objective>
+  <title>Black Binder, all-in System of Digital Scores</title>
+<identifier>H2020SMEINST12014</identifier>
+</project>

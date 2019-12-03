@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211060</rcn>
+  <acronym>SaT5G</acronym>
+  <objective>The introduction and global roll out of eMBB service within 5G raises coverage and network dimensioning issues in underserved and unserved areas, especially in low ARPU regions of emerging markets, and on mobile platforms (e.g. vessels and aircraft). Satcom systems are the only economic solution to address these scenarios provided that they are seamlessly integrated into the future 5G architecture and optimum efficiency is achieved via technological synergies between 5G mobile and satcom systems.
+
+SaT5G will bring satcom into 5G by defining optimal satellite-based backhaul and traffic offloading solutions. It will research, develop and validate key 5G technologies in order to take the best value of satcom capabilities (e.g. multicast for content and VNF delivery, ubiquity and resiliency) and mitigate its inherent constraints (e.g. latency). It will identify novel business models and economically viable operational collaborations that integrate the satellite and terrestrial stakeholders in a win-win situation. SaT5G will validate, through specific research pillars, the required technology bricks that will enable the targeted markets to be addressed.
+
+The project gathers key stakeholders from the global satcom industry partnering with MNOs, SMEs and research centres with the expertise from cellular network operation, architecture design, transmission, virtualisation, network management, business modelling, security, content multicast &amp; caching. The SaT5G External Advisory Board involves MNOs, satellite and vertical stakeholders.
+
+SaT5G will capitalise on and drive the standardisation effort initiated in 3GPP and ETSI since Q3 2015 by several consortium partners and Advisory Board members. A key feature of SaT5G is demonstrations of satellite integration in 5G network testbeds to validate the technology developed and scenarios. The project aims to be the main vector for defining the integration of satellite solutions for 5G in 3GPP.</objective>
+  <title>Satellite and Terrestrial Network for 5G</title>
+<identifier>H2020ICT20162</identifier>
+</project>

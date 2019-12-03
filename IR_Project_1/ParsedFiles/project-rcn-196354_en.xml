@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196354</rcn>
+  <acronym>Diricore</acronym>
+  <objective>Tumor growth requires continuous synthesis of proteins, nucleic acids and lipids that are important components of the cell. Demand for amino acids as the building blocks for protein synthesis in rapidly dividing tumor cells is often much higher than that of normal cells. Such increased demand can represent a vulnerability of the tumor. Importantly, this vulnerability is already being exploited for therapy in one instance: Addition of L-asparginase - an enzyme lowering the concentration of the amino acid asparagine in blood - to chemotherapy against acute lymphoblastic leukemia, resulted in a dramatic increase in cure from 5% to 95% of patients treated. Recent scientific publications highlight the fact that tumors are often metabolically rewired, and multiple examples of altered amino acid demand and/or turnover have been demonstrated in different cancer indications. Multiple drugs are under development that target amino acid availability, uptake or biosynthesis.
+
+The challenge is to identify the potential sensitivity of individual tumors to such drugs.
+
+Recently, we developed diricore, a procedure for determination of restrictions in the availability of particular amino acids for protein synthesis. To demonstrate the potential for diricore’s diagnosis capability in cancer, revealing proline limitations for protein synthesis in kidney cancer.  We also used kidney cancer cell lines to verify sensitivity to proline deprivation, suggesting therapeutic possibilities. 
+
+We propose here to develop diricore towards a commercial diagnostic platform for determining limiting amino acid availability profiles in cancer patients. This information will guide physicians in taking dietary measures or prescribing drugs that inhibit amino acid uptake or biosynthesis.</objective>
+  <title>Exploiting vulnerabilities in protein synthesis for cancer diagnosis and therapy</title>
+<identifier>ERC2014PoC</identifier>
+</project>

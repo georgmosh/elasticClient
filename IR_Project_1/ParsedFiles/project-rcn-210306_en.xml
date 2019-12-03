@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210306</rcn>
+  <acronym>AF-Cyber</acronym>
+  <objective>Recent studies states that "Devices will continue to grow in volume and variety, and the forecast for connected devices by 2020 is  200 billion and climbing". The increase of connectivity brings a drastic impact on the increase of cyber attacks. Protecting measurements are not enough, while finding who did the attack is a crucial for preventing the escalation of cyber attacks.
+AF-Cyber will relieve part of the cyberattacks problem, by supporting forensics investigation and attribution with logical-based frameworks representation, reasoning and supporting tools. 
+AF-Cyber main core will be a logic-based framework for performing attribution of cyber attacks, based on forensics evidence and an intelligent methodology for dynamic evidence collection. It will analyse and valuate analytically Cyber Forensics applications. Different forensics reasoning rules and techniques will be extracted and a categorization of forensics evidence will be constructed. A new logical formalism will be introduced for representing the analytical and non-monotonic reasoning needed for solving the attribution problem. A tool, based on the logical framework for the attribution reasoning, will be developed. The tool will be tested with different real examples. The tool given the different evidence gives as result a quantitative/probabilistic answer of where the attack came from. A second version of the tool will be developed which will guide the forensics analyst during his work on collecting the evidence, and reasoning about them. A dynamic forensics evidence collection will be designed based on the different reasoning rules, and the involvement of data mining/machine learning algorithms. 
+Cyber security concerns are part of ICT security and Digital Security call. AF-Cyber is in-line with the latest EU Commissions measures for addressing cyber threats, the Connected Digital Single Market: Digital Security call and ENISA’s calls for threat landscapes &amp; cyber security exercises.</objective>
+  <title>Logic-based Attribution and Forensics in Cyber Security</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211070</rcn>
+  <acronym>NGPaaS</acronym>
+  <objective>Cloud innovations have had a major impact on the IT industry but not yet on networks. The danger is that 5G will be a niche industry providing basic connectivity for the cloud applications and services boom. The NGPaaS project envisages 5G as: a build-to-order platform, with components, features and performance tailored to a particular use case; developed through a “Dev-for-Operations” model that extends the IT industry’s DevOps approach to support a multi-sided platform between operators, vendors and verticals; and with revised Operational and Business Support Systems (OSS/BSS) to reflect the new parameters and highly dynamic environment. NGPaaS can enable 5G to become central to a cooperative future with cloud developers, by removing the technological silos between the telco and IT industries. NGPaaS builds on 5G-PPP phase 1 projects and lays the foundation for large-scale phase 3 deployments and industrial usage, through a stepped validation of several Telco, IoT/vertical and combined scenarios culminating in a live test in Paris-Saclay campus that can incorporate innovative SMEs selected for showcasing NGPaaS’s operational, service and business benefits.</objective>
+  <title>Next Generation Platform as a Service</title>
+<identifier>H2020ICT20162</identifier>
+</project>

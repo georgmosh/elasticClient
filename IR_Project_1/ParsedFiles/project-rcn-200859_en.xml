@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200859</rcn>
+  <acronym>SAPIENT</acronym>
+  <objective>The present SAPIENT (Satellite and terrestrial architectures improving performance, security and safety in ATM) proposal addresses a new innovative application in the field of CNS/ATM system (H2020 SESAR ER Call 2015 Work Area 2, ER-08-2015) focusing exploitation of the synergies of Communications and Navigation technologies and the 4D trajectory management concept.
+In this frame, the SAPIENT project aims at supporting the Technology Communication and Navigation roadmaps and the stakeholders roadmaps for the Air-Ground datalinks (European ATM Masterplan issue 2012), in the timeframe soon following the Step 3 (availability of High integrity Air-Ground datalink comms service, Multi constellation GNSS, 4D trajectory based operation).
+SAPIENT project is strictly linked to the current phase of SESAR, taking into account the analysis and the definition activities carried out in the WP15 CNS and, in particular, the results of P15.2.4 and P15.2.6. 
+In addition, taking into account the SESAR work on Remote Piloted Aircraft System (see P15.2.4 task 105 and Medale project), the SAPIENT system aims at improving the performance of the RPAS Command, Control and Communication  satellite datalink, that is recognized as one of the major technical gaps for the RPAS integration in the civilian airspace.</objective>
+  <title>Satcom and terrestrial architectures improving performance, security and safety in ATM</title>
+<identifier>H2020SESAR20151</identifier>
+</project>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200315</rcn>
+  <acronym>HEASIT</acronym>
+  <objective>GreenWaves Technologies’ strategy is to offer a high-data-rate radio interface, Green-OFDM, to LPWAN networks. Green-OFDM brings a significant cost advantage and more autonomy than Wi-Fi and LTE alternatives, while maintaining the existing network architecture and functionalities of LPWANs, which neither Wi-Fi nor LTE can do. There is a consensus among experts regarding the explosion in the number of connected objects in the coming years and certainly a speculative inflation. The company’s core strategy is to boost the transfer speeds of LPWANs from 10 kbit/s to few Mbit/s, upgrading them to high-data-rates networks.</objective>
+  <title>High Efficiency Access Solution for the Internet of Things</title>
+<identifier>H2020SMEINST22015</identifier>
+</project>

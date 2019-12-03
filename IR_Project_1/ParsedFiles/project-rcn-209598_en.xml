@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>209598</rcn>
+  <acronym>HELIOS</acronym>
+  <objective>In quantum information science and technology, two main encodings of information are traditionally used: a ‘discrete-variable’ (DV) approach, based for instance on single photons, and a ‘continuous-variable’ (CV) one, which relies on continuous degrees of freedom such as amplitude and phase of a light field. A mostly unexplored area combines these two different approaches to create ‘optical hybrid schemes’. Recently, entanglement between particle-like and wave-like optical qubits, i.e. CV-DV entanglement, has been generated for the first time by the host group. This resource holds the promise of heterogeneous quantum networks where the two encodings can be combined or interconverted. In this context, the proposed research activities aim at investigating, harnessing, and using the potential of this yet unexplored photonic resource.</objective>
+  <title>Hybrid Entanglement of Light for Interconnected Optical Networks</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

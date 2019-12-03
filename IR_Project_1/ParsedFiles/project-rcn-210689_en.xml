@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210689</rcn>
+  <acronym>Domo4mAI</acronym>
+  <objective>Domo4m proposes a home &amp; office automation solution that maximizes energy savings in each household or office, and enables a higher penetration of automated homes and offices due to affordable costs, ability to retrofit existing premises, and the ease of use of the solution. To achieve this, we use Artificial Intelligence (AI) to
+learn, predict and react on user’s habits to maximize efficiency, and leverage the flexibility of software running on standard hardware with existing wireless protocols.
+Existing Home Automation systems are complex and expensive. Our solution takes an innovative approach to overcome these barriers by implementing:
+• Cost reduction
+  o Leverage economies of scale using smartphone based HW, to run our SW on an automation controller deployed at customer´s households.
+  o Use of inexpensive standard based sensors and actuators to maximize the number of controlled devices at an affordable price.
+  o Subscription based model to lower barrier and provide new value added services
+• Simplify usage:
+  o The AI algorithms included in our SW will implement a ready to use “home configuration” that will be automatically customized to our user´s behaviour and preferences with a minimum user interaction, while keeping security, confidentiality and privacy levels.
+  o We intend to implement and end to end managed service model, were a local field force will consult, install and support most of our solution deployments.
+
+Most systems today implement siloes of functionality (heating control, lighting, entertainment, security), compromising user adoption. Our system leverages SW flexibility to implement a single control platform for all devices at home.
+In conclusion, our solution would accelerate home &amp; office automation adoption to reach predicted 20% penetration. Home &amp; Office automation can save up to 27% o energy consumption to contribute to EU target to reduce energy consumption.</objective>
+  <title>Domo4m: Scalable Intelligent home  office automation for energy savings</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

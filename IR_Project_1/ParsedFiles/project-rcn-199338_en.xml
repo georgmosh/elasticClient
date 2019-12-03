@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199338</rcn>
+  <acronym>STARS</acronym>
+  <objective>The STARS project paves the way for the future EGNSS deployment in safety relevant railway applications. By evolving the highly developed and deployed ERTMS standard through the implementation of the satellite positioning functionality, it will be possible to reduce the cost of the future railway signalling systems, especially for lines with lower traffic density. The project deals with three main topics: 1) The elaboration of reference data and characterisation of the railway environment through a measurement campaign; 2) The assessment of the EGNSS performances achievable in the railway environment with the determination of the applicable requirements for the positioning system as well as the necessary evolutions of EGNSS services and ERTMS/ETCS functions and 3) Quantification of the economic benefits and specifying the possible implementation roadmap when applying the EGNSS on railways.
+The project is strongly linked with other initiatives and actions on the same topic in Europe. In order to feed directly into the standardization work of ERTMS, the project partners will cooperate closely with UNISIG. Moreover, the project will actively interact with NGTC (EU funded FP7) and the results will be directly implemented by SHIFT2RAIL, providing the practical demonstrators for different categories of railway tracks. The approach developed in STARS is also taking the profit of the strong know-how inherited from civil aviation, making this project as completely integrated and consistent in overall activities in Europe and worldwide, leading to the effective deployment of the satellite technologies in advanced railway signalling systems.</objective>
+  <title>Satellite Technology for Advanced Railway Signalling</title>
+<identifier>H2020Galileo20151</identifier>
+</project>

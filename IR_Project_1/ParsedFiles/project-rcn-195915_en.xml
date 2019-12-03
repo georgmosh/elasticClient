@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>195915</rcn>
+  <acronym>EPICONNECT</acronym>
+  <objective>This proposal for a Marie Sklodowska-Curie Global Fellowship is meant for the training of Dr. Pieter van Mierlo, currently at Ghent University, in the Functional Brain Mapping Laboratory (FBM Lab) of the University of Geneva, one of the world leading brain imaging laboratories. The goal of the project is to explore the communication between brain regions in epilepsy patients to ameliorate their treatment.  
+In the first stage a non-invasive tool, ElectroEncephaloGraphy (EEG), will be used to measure the electric field of the brain through electrodes placed on top of the scalp. By measuring the voltage difference between the EEG electrodes the electric field of the brain can be studied with a high temporal resolution (ms). Recently, high density EEG (hd-EEG) systems have been developed with up to 256 electrodes. These systems allow more accurate measurements compared to the old systems having only ± 32 electrodes. The FBM Lab is one of the few labs that have hd-EEG recordings of epilepsy patients. In this project we will develop an algorithm to investigate the brain networks in epilepsy patients based on hd-EEG recordings. The brain networks will be studied to localize the epileptic focus, the brain region that causes the seizures. 
+In the second stage hd-EEG will be combined with functional Magnetic Resonance Imaging (fMRI) that images the concentration of oxygen in the brain with a high spatial resolution (mm). The simultaneously recorded hd-EEG / fMRI allows studying the brain networks with both a high temporal and spatial resolution. Furthermore, fMRI is more sensitive to record brain activity of deep brain structures compared to hd-EEG. The added value of combining hd-EEG with fMRI to localize the epileptic focus will be assessed.
+In the third and final stage, the developed algorithms will be implemented at the UGent. A prospective study will be done to quantify the influence of functional connectivity analysis on patients’ treatment management.</objective>
+  <title>Functional brain networks in epilepsy</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

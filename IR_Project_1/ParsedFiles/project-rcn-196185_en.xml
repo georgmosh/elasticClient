@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196185</rcn>
+  <acronym>RemBAP</acronym>
+  <objective>Energy optimization is a challenge driven by high energy costs and the increasingly stringent regulatory framework. The characterization of inefficiencies in buildings typically requires complex and costly on-site audits performed by energy management experts, hindering the adoption of energy efficiency measures by small and medium-sized energy consumers, among them many SMEs. Our current web-based software customers have requested artificial intelligence capabilities in our software platform allowing personalized recommendations to be issued remotely by the system to end users. RemBAP is the answer to this demand. It will significantly simplify and reduce the implementation and maintenance costs of efficiency optimization and constitutes a strategic development for our company, DEXMA. 
+
+Energy use optimization has become a priority driven by high energy costs and the increasingly stringent regulatory framework. DEXMA is already helping hundreds of medium-sized end-users worldwide reduce consumption through bill tracking, monitoring of utility meters, data analysis and savings verification with our web based energy management software. 
+
+As a response to customer demand, this project aims at integrating advanced analytics to our DEXCell software platform allowing for remote recommendations to be issued, significantly simplifying the process and reducing the implementation costs of energy efficiency management. The proposed innovation will allow DEXMA to reach a much higher number of end users, substantially increasing the company’s revenue, creating new jobs and ultimately contributing to large scale energy efficiency. Our main objective for Phase 1 is to evaluate the feasibility of the additional technical developments and to outline the feasibility and strategy for commercialization in different market sectors.</objective>
+  <title>Remote Building Analytics platform for Utilities to deliver large-scale efficiency to SMEs and commercial portfolios</title>
+<identifier>H2020SMEINST12014</identifier>
+</project>

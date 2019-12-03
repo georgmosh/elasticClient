@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213071</rcn>
+  <acronym>REFLEX</acronym>
+  <objective>The REFLEX project aims at developing an innovative renewable energies storage solution, the “Smart Energy Hub”, based on reversible Solid Oxide Cell (rSOC) technology, that is to say able to operate either in electrolysis mode (SOEC) to store excess electricity to produce H2, or in fuel cell mode (SOFC) when energy needs exceed local production, to produce electricity and heat again from H2 or any other fuel locally available. 
+The challenging issue of achieving concomitantly high efficiency, high flexibility in operation and cost optimum is duly addressed through improvements of rSOC components (cells, stacks, power electronics, heat exchangers) and system, and the definition of advanced operation strategies. 
+The specifications, detailed system design and the advanced operation strategies are supported by modelling tasks.
+An in-field demonstration will be performed in a technological park, where the Smart Energy Hub will be coupled to local solar and mini-hydro renewable sources and will provide electricity and heat to the headquarters of the park. It will demonstrate, in a real environment, the high power-to-power round-trip efficiency of this technology and its flexibility in dynamic operation, thus moving the technology from Technology Readiness Level (TRL) 3 to 6.
+The Smart Energy Hub being modular, made of multistacks/multimodules arrangements, scale up studies will be performed to evaluate the techno-economic performance of the technology to address different scales of products for different markets. 
+To reach these objectives, REFLEX is a cross multidisciplinary consortium gathering 9 organisations from 6 member states (France, Italy, Denmark, Estonia, Spain, Finland). The partnership covers all competences necessary: cells and stacks development and testing (ELCOGEN, CEA, DTU), power electronics (USE, GPTech), system design and manufacturing (SYLFEN), system modelling (VTT), field test (Envipark), techno-economical and market analysis (ENGIE).</objective>
+  <title>Reversible solid oxide Electrolyzer and Fuel cell for optimized Local Energy miX</title>
+<identifier>H2020JTIFCH20171</identifier>
+</project>

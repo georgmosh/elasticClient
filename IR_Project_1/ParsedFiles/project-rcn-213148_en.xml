@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213148</rcn>
+  <acronym>3D-MUSE</acronym>
+  <objective>The IoT is composed of connected devices that are characterized by their interaction with the environment via a plethora of sensors and actuators. The trend goes to ever more complex interactions and thus an increase in the number of different sensors integrated in the same product, which in turn requires the processing capability to handle all of those sensors.
+ 
+At the same time those systems are expected to still perform on an ever lower power budget, preferably so low as to be able to operate purely on power scavenging. And of course the cost needs to be moderate too. The electronics at the heart of such a system needs to be mixed-signal electronics that interfaces to the analog sensors and actuators, but can also provide the necessary digital processing power.  
+
+3D-MUSE wants to spearhead   the progression from what we shall refer to as 'systems-in-stack' to true 'systems-in-cube' that monolithic/sequential 3D integration will enable. We define the former as a 3D system that is characterized by locating functional blocks within a single plain in the (typically parallel/wafer-bonding) 3D integration stack, while the latter makes use of the full emancipation of the interconnect density in the third dimension of sequential 3D integration and rather implements functional blocks in a volume comprising multiple tiers. We shall demonstrate this concept by conceiving novel architectures for micro circuits in a volume in a two tier 3D sequential integration process. In particular, we have identified mixed-signal circuits as, on one hand, a major bottleneck for functional performance scaling of sensor nodes and smart sensors in the IoT and cyberphysical systems, and on the other hand, excellent candidates for beneficial trade-offs when implemented as circuits in a volume with using two specialize tiers, one for analog device options and another for optimal digital designs. We shall refer to such a technology as 'multi-process' sequential 3D integration.</objective>
+  <title>3D Multi-Process Sequential Integration for Smart Sensor Interfaces</title>
+<identifier>H2020ICT20171</identifier>
+</project>

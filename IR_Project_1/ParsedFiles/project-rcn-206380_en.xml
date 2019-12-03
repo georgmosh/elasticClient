@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206380</rcn>
+  <acronym>Cargo Beacon</acronym>
+  <objective>Hiotech is an innovative Swedish SME whose ambition is to solve a pressing logistics challenge – to make damages or losses to valuable cargo known to the stakeholders before the goods arrive, so that corrective measures could take place with least impact on manufacturing and supply chains.
+
+Realizing that globally almost €90B worth of goods are mishandled or damaged every year, and that there are market segments with stringent requirements on transportation (such as industrial equipment parts or medical substances), Hiotech designed Cargo Beacon – a compact, ruggedized logger of temperature, humidity and shocks. Cargo Beacons are designed to be long-lasting, highly-reusable and low cost – with manufacturing costs at €10 they pose a serious competitive threat to existing loggers with less functionality and a price tag of €100-500.
+
+Cargo Beacons communicate their measurements via a dedicated gateway that connects them to a cloud-based data services portal. These services provide additional analytics to the goods owners &amp; recipients and logistics operators. These services include identification of damage cause, optimization of goods flows, reduction of bottlenecks and others. Cargo Beacons are currently on trial with Nefab Group – a packaging solutions OEM, with additional trials pending.
+
+During the 6-month feasibility study, Hiotech will validate further the product/market fit of Cargo Beacons in industrial equipment and medical substances markets, and will seek endorsements of this technology from insurance companies that frequently need evidence that goods were transported in full compliance with signed contracts and no damage or wastage took place.</objective>
+  <title>Cargo Beacons – no unexpected delays or losses in shipments of valuable cargo</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207278</rcn>
+  <acronym>THZCALORIMETRY</acronym>
+  <objective>Time-resolved THz-Calorimetry Explores Molecular Recognition Processes
+
+Definition: “THz-calorimetry is the science of measuring low frequency density of states kinetics for the purpose of deriving the entropy changes associated with biological processes in real time.”
+
+Goal: Our scientific vision is to introduce time-resolved “THz-Calorimetry” to access the entropy changes of the protein and the solvent accompanying enzymatic reactions or more general molecular recognition processes, i.e. under non-equilibrium conditions with envisioned time resolutions of nanoseconds. 
+Advances in THz technology will make it possible to develop strong, ultrafast THz sources in the frequency range up to 10W that allow the detection of frequency-resolved transient low frequency spectra of biological samples with μsec or even nsec time resolution. We will correlate the transient THz spectra with changes in the entropy and enthalpy, both experimentally and theoretically. Ultrafast THz-calorimetry is an innovative tool to access to the specific transient entropy changes of molecular recognition processes under non-equilibrium conditions.
+
+Objectives of the proposal:
+1.	Monitor transient low frequency spectra (0-300cm-1) during molecular recognition processes.  
+2.	Develop cutting edge experimental methods which allow the separation of protein and solvent modes under ambient conditions. Determine Delta S(protein(t)), Delta S(ligand(t)), Delta S(solvent(t)), thus specify the role of changes in the solvent entropy (hydrophobic effect) for biomolecular recognition. 
+3.	Apply ultrafast THz-calorimetry: Explore the entropy changes of the enzyme, the ligand and the solvent for a family of MMP enzymes and substrates and correlate these results with biological function. Deduce underlying molecular mechanisms.
+4.	Develop new models for molecular recognition processes which are quantitative and predictive.</objective>
+  <title>Time Resolved THz Calorimetry explores Molecular Recognition Processes</title>
+<identifier>ERC2015AdG</identifier>
+</project>

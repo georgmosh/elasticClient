@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211597</rcn>
+  <acronym>DRIVEMODE</acronym>
+  <objective>Within this project a new compact and efficient high speed 30-50 kW electrical machine will be integrated with an efficient fully SiC drive and a gearbox within a powertrain traction module. The electrical machine will have a dry rotor direct liquid cooling system integrated with the cooling system for the SiC drive. This traction module can be mechanically coupled with an axle of a low performance electric/hybrid vehicle, or several units could be coupled directly with the wheels for a high performance vehicle or a light-duty vehicle or a bus. Economic feasibility of mass-manufacturing of different electric machine topologies will be studied to choose the best trade-off between performance, manufacturing cost, and efficiency in the selected performance range. Feasibility of direct drive, single stage, and two-stage switchable high speed gearboxes will be studied as well. The resultant powertrain traction module will be an optimal trade-off between efficiency, manufacturability, and cost, utilizing newest technologies in electrical machines, power electronics, and high speed gearboxes. We will demonstrate the scalability of the solution by embedding several powertrain modules on board a test vehicle.</objective>
+  <title>Integrated Modular Distributed Drivetrain for Electric/Hybrid Vehicles</title>
+<identifier>H2020GV2017</identifier>
+</project>

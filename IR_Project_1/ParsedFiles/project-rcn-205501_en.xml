@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205501</rcn>
+  <acronym>MONSOON</acronym>
+  <objective>The MONSOON vision is to provide Process Industries with dependable tools to help achieving improvements in the efficient use and re-use of raw resources and energy.
+MONSOON aims at establishing a data-driven methodology supporting the exploitation of optimization potentials by applying multi-scale model based predictive controls in production processes.
+MONSOON features harmonized site-wide dynamic models and builds upon the concept of the cross-sectorial data lab, a collaborative environment where high amounts of data from multiple sites are collected and processed in a scalable way. The data lab enables multidisciplinary collaboration of experts allowing teams to jointly model, develop and evaluate distributed controls in rapid and cost-effective way. Hybrid simulation and seamless integration techniques are adopted for rapid prototyping and deployment in real conditions.
+MONSOON will be developed and evaluated in two sites from the aluminium and plastics domains. The aluminium scenario will be focused on predictive monitoring of potlines, targeting early detection of anomalies and identification of potential optimization gains. Aluminium cases will be implemented in the plant with the highest primary aluminium production in the EU-28, namely the AP Dunkerque smelter, France.  The plastics scenario will focus on fusing data from data-intensive in-mould sensors with information from higher SCADA levels, enabling early and precise identification of potential issues. This use case will be implemented in the GLN plant in Maceira-Leiria.
+MONSOON addresses the SPIRE vision, providing advantages for the European industry competitiveness and sustainability through the realization of an overarching monitoring and control infrastructure. MONSOON aims at creating synergies within and between the process industry sectors, boosting European industry in the worldwide race for competitiveness and sustainability.</objective>
+  <title>MOdel based coNtrol framework for Site-wide OptmizatiON of data-intensive processes</title>
+<identifier>H2020SPIRE2016</identifier>
+</project>

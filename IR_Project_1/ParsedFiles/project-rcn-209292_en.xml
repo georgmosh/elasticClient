@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>209292</rcn>
+  <acronym>SIMFREE</acronym>
+  <objective>To meet the constantly increasing traffic in optical networks due to ever growing requirements of society spectral efficiency should be increased by using, an advanced modulation formats and reduced channel spacing. This results in increased spectral power density and interferences with an adjacent channels. Furthermore, dynamic links switching in the network is foreseen. All this makes the physical layer simulations an important task in network modeling, helping to optimise the transmission range of individual optical paths. The commercial tools designed to simulate fiber optic systems, are rather expensive and there is no simpler alternative software of this type. 
+
+The ambition of this proposal is to develop intuitive software, which can be used as a support for research projects and most importantly in education. The basic Scilab open-source software simulator modules based on algorithms available in the literature will be developed and verified with the simulation results obtained using known commercial simulators. The aim of the project is create modules and combine techniques from digital signal processing and numerical modelling into the development of novel solutions for nonlinearity compensation in optically amplified optical transmission systems. The amplification based on advanced distributed Raman schemes can cope with the rapid development of optical telecommunication techniques and can be also applied to distributed sensing technology that enables continuous, real-time measurements along the entire length of a fibre optic cable.
+
+This fellowship is to provide the early career, but experienced researcher Paweł Rosa with an opportunity to expand his current experimental and theoretical knowledge in the field of distributed Raman technology and develop novel freeware open-source Scilab modules for optical communications and sensing applications.</objective>
+  <title>Open-source freeware for fiber optic communication and sensing simulations</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

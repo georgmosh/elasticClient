@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199353</rcn>
+  <acronym>DISTRACTION</acronym>
+  <objective>Thanks to the implementation of advanced CAD and topology optimisation, lighter and more efficient component designs can be conceived nowadays. However, current design tools and methodologies do not account for part distortions in manufacturing. Distortions are critical during prototyping and ramp up stages and they increase developing costs, times and generate wastes and scraps. Design against Distortion topic is focused on the development of numerical modelling strategies which can anticipate distortions even from the design stage. In this context, DISTRACTION project copes with the development and application of rapid distortion prediction numerical methodologies applicable to machining and additive layer manufacturing (ALM) of metallic parts and the development of concurrent topology optimisation codes capable of accounting for part distortion. Integration will be based on efficient adjoint sensitivities for simplified distortion prediction models. This will enable for first time to have optimised designs which are “ready-for-production” and robust against distortions. Developments will be applied to relevant use cases and will be based both on open source and commercial software. The following specific objectives are targeted:
+•A 30% weight reduction of fuselage component’s weight
+•Reduction of manufacturing costs of new fuselage parts by 20% 
+•Reduction of time-to-market of new fuselage parts by 25%
+•Reduction of computational times by 30% for predicting distortions 
+•Reducing scrap ratio of fuselage parts during prototyping and ramp up phases by 50%
+Consortium (IK4-LORTEK &amp; TU-DELFT) of DISTRACTION proposal will have as reference internal know-how related to all previous developments in simplified Finite Element methodologies. The working group will be composed by skilled researchers and technicians with extensive knowledge and expertise in numerical modelling, residual stresses and distortion engineering, additive manufacturing and topology optimisation.</objective>
+  <title>Design against DISTortion of metallic aerospace parts based on combination of numeRical modelling ACTivities and topology optimisatION</title>
+<identifier>H2020CS2CFP01201401</identifier>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>195274</rcn>
+  <acronym>SiCWIRE</acronym>
+  <objective>SiC nanowires (NWs) combine the properties of 1D materials with that of SiC and devices based on SiC NWs would present concrete advantages. The main objective of the project is to develop the technology of SiC nanowire field effect transistors (NWFETs) and demonstrate devices suitable for two areas of application:
+1) More Moore: Logic applications. SiC NWFETs have the potential of high temperature operation and eventually of efficient power dissipation and thus they can address main issues in semiconductor device scaling.
+2) More than Moore: Biosensor applications. SiC exhibits superior to Si chemical stability and biocompatibility and SiC NWFET-based biosensors can thus, exhibit challenging performances.
+Top-down technology approach (lithography and plasma etching) will employed to obtain, suitable material quality (residual doping lower than 1E17 cm-3, same carrier mobility as bulk material and if possible, in-situ doping for channel and contact regions).
+The targeted performance of the SiC NWFETs is 200ºC operation, an Ion/Ioff ratio above 1E6, a subthreshold swing less than 200mV/decade and an electron channel mobility above 200 cm2V-1s-1. These electrical characteristics address the needs of logic applications while for biosensor applications are largely enough and can be relaxed. 
+The biosensing operation of SiC NWFETs will be shown by detecting different substances (DNA, heavy ions, phenyl groups…). Towards this aim, a large part of the work will be devoted to the study of the relevant functionalization ways for SiC NW surfaces and stability of these surfaces to various aqueous solutions.
+The main research work will be conducted in INPG while industrialization issues will be investigated in partner organization (CEA-LETI).
+The fellowship will enhance the professional maturity of Dr. Zekentes with a consequent effect in his career by reaching a higher researcher-grade (“Research Director”, the highest one for Greek researcher) and higher academic positions.</objective>
+  <title>Silicon Carbide Nanowires for Electronic and biosensing applications</title>
+<identifier>H2020MSCAIF2014</identifier>
+</project>

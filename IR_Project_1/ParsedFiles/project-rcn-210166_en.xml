@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>210166</rcn>
+  <acronym>AutoCode</acronym>
+  <objective>Software synthesis aims to automate the creation of software by generating parts of software from a higher-level description. Until recently it was believed to be impossible to practically synthesize software beyond very small fragments. However, synthesis based on learning from existing large code-bases (“Big Code”) is making synthesis into a practical reality . The purpose of this PoC is to develop a platform that would lead to commercialization of our technology to improve programming productivity and code quality. We target two closely related applications: (1) Providing automatic assistance in programming tasks by learning from existing code, and (2) Providing on-line assessment of code quality as it is being developed using learned models. These applications have the potential to dramatically reduce time-to-market of new software, and improve its quality and security.</objective>
+  <title>Programming with Big Code</title>
+<identifier>ERC2016PoC</identifier>
+</project>

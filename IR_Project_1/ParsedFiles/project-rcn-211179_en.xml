@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211179</rcn>
+  <acronym>REDSENTRY</acronym>
+  <objective>REDSENTRY aims to provide a flexible, scalable and open solution to the ever-changing threat landscape faced by the financial services sector. The threats faced by the financial services industry are varied and constantly evolving and cybercrime is the 2nd most reported type of crime by financial institutions according to PWC.  The potential impact of cybersecurity incidents is tremendous as the sector accounts for €731 billion (5.9%) of the EU’s total GVA (Gross Value Added) and employs 6.4 million people.  The size, potential for monetary gain and overall societal disruption of make the financial services sector a prime target for cyber criminals using the latest techniques which are often undetectable with current solutions. A recent report by GreAT  found 140 enterprises, including banks, affected by “file-less attacks” which use the system’s RAM to execute malicious code and are currently undetectable through conventional means. This is only one example of the numerous ways in which cyber criminals are innovating and developing new means of bypassing cybersecurity measures. REDSENTRY will provide a real-time networking monitoring platform to provide the ability to detect and manage any type of threat. By focusing on network monitoring REDSENTRY will provide enable financial sector institutions to manage their infrastructure in real time, proactively and with automatic security response protocols.</objective>
+  <title>Proactive Operational Intelligence  Cybersecurity Platform for the Financial Services Industry</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

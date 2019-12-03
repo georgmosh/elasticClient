@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>193446</rcn>
+  <acronym>Manutelligence</acronym>
+  <objective>Manutelligence targets the product-service emerging trend; aiming at providing to EU manufacturing companies:
+- Efficiency in the design process, through ubiquitous cross-disciplinary collaborative management of P-S engineering knowledge across the entire life-cycle phases;
+- Complete integration of Product Lifecycle Management and Service Lifecycle Management, using methodologies and tools to support cross development;
+- Involvement of all the key partakers in the supply chain, including customers;
+- The ability to Search, retrieve and reuse data from heterogeneous data sources during design, manufacturing, testing and usage;
+- To manage, reuse and optimize designs, promoting modularity and Engineering Design Codified Knowledge, through KBE and design automation;
+- Close knowledge loop cycles between design, manufacturing, testing and use of products;
+- To extend and improve the use of Simulation and optimize it through comparison with test bench and real usage data;
+- Precise and quick measures and simulations of Cost and Sustainability issues, through Life Cycle Cost (LCC), Life Cycle Analysis (LCA) and CO2 footprint.
+To achieve these needs, ManuTelligence aims to integrate best in class methodology and tools from research and industry, resulting in a secure, cross disciplinary collaborative Product/Service Design and Manufacturing Engineering Platform. This platform will enable designers and engineers to access through natural 3D experiences to data from both the traditional enterprise IT systems (CAD, CAX, PLM, MES, etc.) and IoT enabled systems for physical products information and knowledge management. Such a platform, to have success on the market, needs to be inclusive, facilitating the cooperation and collaboration of enterprises. For this reason, it has been decided from the draft architecture, that it will have interfaces based on Open Standard (e.g. STEP and the OpenGroup QLM).</objective>
+  <title>Product Service Design and Manufacturing Intelligence Engineering Platform</title>
+<identifier>H2020FoF2014</identifier>
+</project>

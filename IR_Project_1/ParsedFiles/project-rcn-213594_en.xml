@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213594</rcn>
+  <acronym>PASSPORT</acronym>
+  <objective>Metal Additive Manufacturing (AM) technology has developed rapidly in the last decade and has demonstrated significant potential to reduce the costs and improve the quality and efficiency of aerospace components. This can be realised through improved design freedom and light-weighting via topology optimisation, improved buy-to-fly ratios, and a reduction of tooling cost – all of which have a demonstrable impact on the carbon footprint and waste in manufacture. 
+
+The “Holy Grail” of metal additive manufacturing is to manufacture reliable, high-performance metal parts with no or minimal need of post-processing. The key to unlocking this is achieving geometry-specific process parameters that enable a near-uniform thermal history and hence minimise post-processing requirements.
+
+As the European AM industry and design optimisation applications are growing, lead time and financial costs associated with optimising process parameters to ensure high-quality AlSi10Mg parts with complex geometry is a significant barrier to widespread adoption.
+
+PASSPORT seeks to remove this barrier and advance the state-of-the-art through the delivery of an ambitious experimental, analytical and software development programme. 
+
+PASSPORT will:
+
+(1) Undertake a detailed characterisation of AlSi10Mg SLM parts with a unique laboratory setup 
+(2)Employ advanced process simulations to understand and quantify the relationship between different scan strategies and part attributes.
+(3)Develop state-of-the-art, optimised process parameters that vary with local part topology and geometry characteristics to ensure homogeneous mechanical properties, high density and a smooth build surface.
+(4)Produce a bespoke, stand-alone process parameter selection software solution for AlSi10Mg SLM parts that can communicate with multiple vendors’ SLM machines.
+(5)Improve the time-to-market for SLM parts by removing significant cost and time-intensive burdens associated with optimising SLM builds</objective>
+  <title>Part Specific Process Optimization in SLM</title>
+<identifier>H2020CS2CFP06201701</identifier>
+</project>

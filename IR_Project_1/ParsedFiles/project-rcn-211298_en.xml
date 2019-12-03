@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211298</rcn>
+  <acronym>PROGRAMS</acronym>
+  <objective>The main objectives of this project are to develop a model-based prognostics method integrating the FMECA and PRM approaches for the smart prediction of equipment condition, a novel MDSS tool for smart industries maintenance strategy determination and resource management integrating ERP support, and the introduction of an MSP tool to share information between involved personnel. The proposers' approach is able to improve overall business effectiveness with respect to the following perspectives:
+• Increasing Availability and then Overall Equipment Effectiveness through increasing of MTBF, and reduction of MTTR and MDT. 
+• Continuously monitoring the criticality of system components by performing/updating the FMECA analysis at first implementation or whenever a variation in the system design or composition occurs. 
+• Building physical-based models of the components which have a higher criticality level or which status is difficult to monitor. 
+• Determining an optimal strategy for the maintenance activities. 
+• Creating a new schedule for the production activities that will optimize the overall system performance through a Smart Scheduling tool ensuring collaboration among the MDSS, the ERP and the RUL Estimation tool. 
+• Providing, in addition to traditional data acquisition and management functions in a machine condition monitoring system, robust and customizable data analysis services by a cloud-based platform. 
+• An Intra Factory Information Service will be developed to allow the company staff to be quickly informed of changes in the machine tool performances and to easily react to eventual production and maintenance activities rescheduling. 
+
+The production and maintenance schedule of complete production lines and entire plants will run with real-time flexibility in order to perform at the required level of efficiency, optimize resources and plan repair interventions.</objective>
+  <title>PROGnostics based Reliability Analysis for Maintenance Scheduling</title>
+<identifier>H2020FOF2017</identifier>
+</project>

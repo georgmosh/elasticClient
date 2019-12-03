@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213472</rcn>
+  <acronym>QUANtIC</acronym>
+  <objective>Semiconductor nanowires (NW) hold very strong potential to advance fundamental and applied research towards new classes of quantized heterostructures in an inherently one-dimensional (1D) geometry. As such, they offer unique possibilities for tunable charge carrier and optical confinement, as well as significant design freedom as optical resonators and waveguides for deterministic integration of isolated emitters into photonic and quantum optical circuits with widespread functionalities. The vast potential of deterministic and ultrascaled quantum-NW optical cavities linked with integrated photonic circuits has, however, remained a widely unexplored area.
+
+The vision of this project is to enter the ultimate regime of strongly confined semiconducting quantum NWs and exploit their advanced intrinsic properties to enable integrated photonic circuits with unprecedented functionalities in information technology and sensing. Based on  my strong track record in the field of NWs, my goals follow along the following foundational objectives: 
+
+(A)  Realize deterministic, monolithic NWs on integrated photonic hardware with tailored properties in the quantum-confinement regime (quantum-NWs) 
+(B)  Exploit quantum confinement phenomena to develop new and high-efficiency ultrascaled classical and non-classical emitters on-chip, including dielectric &amp; metal-cavity NW-lasers (photonics), NW-quantum cascade lasers (sensing) &amp; single and entangled photon emitters (quantum information processing).   
+(C)  Explore coupling and interaction effects of quantum NW emitters on integrated SOI-based waveguides and circuits for all-optical routing, feedback and switching. 
+
+This high-risk yet feasible project will allow for the first time to access ultra-precise semiconducting quantum NWs, where their quantized electronic structure can be mapped onto a specific quantum optical response, leading to unique discoveries in integrated photonics, quantum communication and sensing.</objective>
+  <title>Quantum Nanowire Integrated Photonic Circuits</title>
+<identifier>ERC2017COG</identifier>
+</project>

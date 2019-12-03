@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213202</rcn>
+  <acronym>WiNerve</acronym>
+  <objective>There is a strong demand for support tools that help surgeons avoid the accidental damage of nerves, which too frequently occurs during surgery. 
+
+The existing solution known as IntraOperative Neuromonitoring (ION) uses an amplifier, stimulator and a set of electrodes to test the propagation of electrical signals by a specific nerve while operating. Not surprisingly, the use of ION is being considered by surgical teams of virtually all specialties. The market size of ION, including the sales of ION equipment and associated supplies (mostly electrodes), surpassed the €1 milliard mark in 2016 and a CAGR of 9% is forecast for 2017.
+
+And yet the strong willingness to invest in ION by clinical customers is in stark contrast to the relative rudimentary technology offered by existing products.  Particularly harsh criticism by surgeons relates to connectivity in the Operating Room.
+
+In an already wire-crowded OR, surgical teams seeking to continuously monitor a nerve at risk, are asked to hook an electrode to the nerve and operate for hours while attempting not to inadvertently swing or pull the cable, and as a result damage the nerve that was to be protected by ION in the first place.
+
+This market opportunity can now be tackled with a wireless approach to ION, our experience in the development of electrodes, amplifiers and stimulators and recently developed miniaturized low-power RF electronics.
+
+In this Phase I project we wish to focus on a feasibility study to establish the customer-driven system specifications, acceptable end-customer price range, desirable distributor list price and sales forecast as well as IPR freedom-to-operate. Going forward these data will inform our Business Plan in the ongoing fundraising process prior to Phase II.</objective>
+  <title>Wireless Surgical Nerve Monitoring System</title>
+<identifier>H2020SMEINST120162017</identifier>
+</project>

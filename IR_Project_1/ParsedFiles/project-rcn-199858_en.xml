@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>199858</rcn>
+  <acronym>MuMMER</acronym>
+  <objective>"In MuMMER ("MultiModal Mall Entertainment Robot"), we propose to address the important and growing market of consumer entertainment robotics by advancing the technologies needed to support this area of robotics, and also by explicitly addressing issues of consumer acceptance, thus creating new European business and employment opportunities in consumer robotics. Specifically, we will develop a humanoid robot (based on Aldebaran's Pepper platform) able to engage and interact autonomously and naturally in the dynamic environments of a public shopping mall, providing an engaging and entertaining experience to the general public. Using co-design methods, we will work together with stakeholders including customers, retailers, and business managers, to develop truly engaging robot behaviours, including telling jokes or playing games, as well as providing guidance, information, and collecting customer feedback. Crucially, our robot will exhibit behaviour that is socially appropriate, combining speech-based interaction with non-verbal communication and human-aware navigation. To support this behaviour, we will develop and integrate new methods from audiovisual scene processing, social-signal processing, high-level action selection, and human-aware robot navigation.
+
+Throughout the project, the robot will be deployed in a large public shopping mall in Finland: initially for short visits to aid in collaborative scenario development, co-design, and system evaluation, and later for a long-term field study in the 4th year of the project. Through our co-design approach, we will both study and foster acceptance of consumer robots and thus positively influence the consumer markets of service robots."</objective>
+  <title>MultiModal Mall Entertainment Robot</title>
+<identifier>H2020ICT2015</identifier>
+</project>

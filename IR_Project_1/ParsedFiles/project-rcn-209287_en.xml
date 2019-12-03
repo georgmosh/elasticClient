@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>209287</rcn>
+  <acronym>PROIRICE</acronym>
+  <objective>Understanding radiation effects on different materials is of paramount importance for many scientific and technological fields like those related to nuclear energy, space industry, laser- and ion-based materials processing and therapeutic applications. The particular case of radiation effects on pure and mixed water ice is very important in Astrochemistry and Prebiotic Chemistry, being water ice present in cosmic dust grains and on the surface of many bodies in the Solar System like asteroids and several satellites (e.g. Europa, Callisto and Ganymede).
+Despite previous extensive experimental investigations, the mechanism by which radiation damage on solids occurs is still a matter of debate. Clearly, an accurate theoretical description from first-principles simulations is needed in order to rationalize the experimental results. However, performing such simulations is a challenging task because of the non-adiabatic nature of the interaction radiation-solid, and few of such studies exist to date.
+In the PROIRICE project (Proton-Irradiated Ice: Dynamics and Chemistry from First Principles) Dr. Daniel Muñoz-Santiburcio will study the process of proton irradiation on pure and mixed water ice at space conditions by means of state-of-the-art Molecular Dynamics simulations coupled to Real-Time Time-Dependent Density Functional Theory, thereby adequately describing in real-time the non-adiabatic process by which the proton interacts with the ice matrix, promoting electronic and structural changes and chemical reactions of possible prebiotic interest.
+He will be supervised by Prof. Emilio Artacho, one the leading and most experienced scientists on the field of first-principles studies of non-adabatic processes under ion irradiation. PROIRICE will be carried out at CIC nanoGUNE, one of the reference research centers for condensed matter physics and nanoscience in Europe, which offers a very rich environment plenty of research, training and networking opportunities.</objective>
+  <title>Proton-Irradiated Ice: Dynamics and Chemistry from First Principles</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>209363</rcn>
+  <acronym>APIP</acronym>
+  <objective>Stimulated Brillouin (SBS) and Raman Scattering (SRS) effects have led to numerous applications in fiber optics (e.g. tunable laser and amplifiers). In integrated photonics, recent progress in opto-mechanics have shown that artificial analogue to the Raman effect, namely mechanical structure resonances, can be engineered and could results in new applications. That said, a few challenges must still be addressed before fiber applications of SRS can be transposed in a µm size optical chip. In particular the frequency of the mechanical resonances -aka artificial phonons- is still too low (&lt;10Ghz) for most applications, and the light-phonon interaction is much weaker in waveguides compared to what is obtained in cavity opto-mechanics. Moreover current approaches relying on Radio-frequency measurements do not allow investigating high frequency (&gt;10GHz) resonances. 
+The APIP project proposes to adapt slotted waveguides structures to support controlled high frequency mechanical resonances. Such structures were created to set the light in strong interaction with the surrounding medium –mostly for sensing applications-, and then large part of the optical mode is confined at the dielectric interface, where the mechanical resonances are precisely also localized. Therefore such slotted structures are the best suited for the investigation of artificial SRS in integrated optics as a large light-phonon interaction is expected. 
+Moreover, experimental investigation during the APIP project -and this is the second originality of the project- will rely on all-optical measurements techniques, like the one used in material science to characterize natural Raman effect. Therefore high frequency (10GHz-1THz) resonance will be investigated, without being limited by the small bandwidth of RF measurement techniques that are currently used.</objective>
+  <title>Artificial engineered Phonons for application in Integrated Photonics</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

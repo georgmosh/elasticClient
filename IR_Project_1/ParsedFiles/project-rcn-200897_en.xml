@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>200897</rcn>
+  <acronym>NIOBE</acronym>
+  <objective>Tests of the Standard Model (SM) of Particle Physics and the search for New Physics (NP) is a central issue in the European program in High-Energy Physics. Weak decays of heavy hadrons have a unique potential for the extraction of SM parameters, the study of CP violation, and the search for NP. Among these, decays of B mesons into three final hadrons are of huge phenomenological interest. They have been studied experimentally at B factories and at the LHC, and will be a cornerstone in the physics program at Belle-II. However, the theoretical basis for such processes has yet not been developed. Through this project, we will establish the theoretical grounds for the description of non-leptonic three-body B decays, from basic principles to phenomenological applications.
+
+The theoretical description of three-body decays requires a generalization of the theory of non-leptonic two-body B decays, which is by now well established. It involves factorization of perturbative and non-perturbative physics --most conveniently achieved in the framework of Soft-Collinear Effective Theory (SCET)--, the calculation of perturbative kernels, and the study of non-perturbative matrix elements. However, this generalization is non-trivial and requires addressing new issues and facing new challenges, making this a highly innovative project.
+
+We are three the participants in this action:
+- Javier Virto (Main Researcher), with a wide experience in the theory and phenomenology of B decays, will be the driving force in this project, while receiving an intensive training from two of the developers of the theory of hadronic B decays.
+- Iain Stewart (US partner), developer of Soft-Collinear Effective Theory. 
+- Martin Beneke (EU Host), developer of the QCD Factorization approach and SCET in position space.</objective>
+  <title>Non-Leptonic Three-Body B Decays: Theory and Phenomenology</title>
+<identifier>H2020MSCAIF2015</identifier>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205483</rcn>
+  <acronym>HEPODIS</acronym>
+  <objective>The HEPODIS project aims to develop a new electrical power conversion and distribution system more efficient and reliable for High Voltage Direct Current (HVDC) for the electrical power supply of essential loads to be implemented and integrated in the Regional FTB2 Demonstrator. The main objectives of HEPODIS are to:
+-Design, manufacturing and qualification of new regulated Transformer Rectifier Unit (TRU) equipment to supply an HVDC distribution system in order to supply essential loads in the regional aircraft FT2B. This advance TRU system must be bench tested and later on integrat-ed on the aircraft itself.
+-Improve the characteristics of TRU in relation to the existing equipment: functionality, elec-trical efficiency, power density, safety, advance control and monitoring and use of advance semiconductor technologies.
+-Generate a realistic model of the TRU in order to be integrated with the rest of the models of the HVDC systems. The model must reproduce precisely the working conditions of the real system to avoid integration problems and support the permit to flight phase.
+-Specify, design, develop, manufacture, qualify and validate a HVDC Distribution Equipment for essential loads from Flight Control System for IADP Regional Aircraft FT2B.
+-Integrate power generation system and the electrical power distribution system.
+-Improve effectiveness (providing 270Vdc power to essential loads with high level of criticality into an electrical system based on 115Vac and 28Vdc), reliability (development and integration of System Bite, Protections, Redundancy for improving safety) and efficiency (new intelligent energy management concepts and processes to minimize global energy demand, including reconfigurations according load safety requirements) compared with current architectures.
+-Model and simulate electrical performance, compared with real system performance for supporting design, testing and certification strategies.</objective>
+  <title>HVDC Electrical Power cOnversion and DIstribution System</title>
+<identifier>H2020CS2CFP02201501</identifier>
+</project>

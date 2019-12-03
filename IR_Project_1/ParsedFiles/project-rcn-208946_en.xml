@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>208946</rcn>
+  <acronym>Q-ANNTENNA</acronym>
+  <objective>During the recent years, modern machine learning (ML) has sparked a revolution in areas so diverse as computer vision, voice recognition, medical diagnosis and finance. On its own, quantum information processing (QIP) has also gained tremendous momentum and a novel field, quantum machine learning (QML), has emerged from the intersection of the two disciplines. Interestingly, much of the understanding underlying the last revolution of ML is strongly connected to insights gained from condensed matter and statistical physics. It is then natural to use well-understood techniques to describe quantum many-body systems, namely, tensor networks (TN) in the context of ML.
+The objective of Q-ANNTENNA is to develop a thorough understanding between ML processes and TN. The action will involve state-of-the-art theoretical research at the frontiers of QIP, TN and ML: (1) describing ML processes within the TN formalism, (2) importing TN insights into ML, (3) studying the renormalization process and (4) assessing physical implementations.
+The experienced researcher, Dr. Jordi Tura, is an expert in QIP in many-body systems. The supervisor, Prof. J. I. Cirac, is a world-expert in QIP, TN and quantum computation, head of the Theory division of the Max Planck Institute of Quantum Optics (MPQ) since 2001.
+The combined expertise between the fellow and the host is uniquely suited to establish Q-ANNTENNA as a ground-breaking framework for understanding the connections between QIP, ML and TN. The action has a tremendous potential impact onto industry and prospects for patents are likely. In addition, it will contribute to EU’s excellence in QML research, where North America is leading industrial and scientific efforts –by far.
+The action will greatly increase the applicant’s mobility within EU, create a large network of collaborators for him and MPQ and shape his future career options, with the long-term goal of becoming an independent scientist and establishing his own research group.</objective>
+  <title>Quantum Artificial Neural Networks with Tensor Network Algorithmus</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

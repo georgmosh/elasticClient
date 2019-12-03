@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>205522</rcn>
+  <acronym>SAFIRE</acronym>
+  <objective>In traditional models of manufacturing, the information flow from product design, over production processes, to the manufactured product has been strictly unidirectional. The production equipment “blindly” executes tasks that have no direct relationship to the concepts that are present in the original design models and the product is used with little or no feedback concerning product use patterns. In order to enhance the manufacturability of products and at the same time the flexibility of both factory production systems and modern products, both effective configurability and feedback to design and production is required to assure their highest efficiency.
+
+The SAFIRE project will provide technology and infrastructure to enable Reconfiguration as a Service for dynamic smart factory systems and manufactured smart products that take advantage of cloud-based services and computing power to continually optimise the performance of manufacturing systems and products with respect to key performance characteristics including throughput, power consumption, utilisation, maintenance and other factors. 
+
+A key objective of the project is to develop cloud-based analytics and reconfiguration capabilities that extend the operating systems of smart factories with: 1) both reactive and predictive reconfiguration for production systems; 2) flexible run-time reconfiguration decisions during production rather than pre-planned at production planning time; 3) real-time reconfiguration decisions for optimisation of performance and real-time production functions. The advanced analytics and reconfiguration capabilities will be based on innovations in shared situational awareness and mastering the big data challenges associated with sensor, smart objects and process data from manufacturing, logistics and enterprise systems.</objective>
+  <title>Cloud-based Situational Analysis for Factories providing Real-time Reconfiguration Services</title>
+<identifier>H2020FOF2016</identifier>
+</project>

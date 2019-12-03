@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>209959</rcn>
+  <acronym>FOROIL</acronym>
+  <objective>Oil price volatility forecasting is of major importance due to the financialisation of the oil market and the fact that the oil market participants’ decisions are based on such forecasting (e.g. oil-intensive industries, policy makers, portfolio traders, etc). Currently, forecasters predict oil price volatility using GARCH and HAR models and evaluate the performance of these models using statistical loss-functions, such as the Mean Absolute Predictive Error. Even more, the literature concentrates mainly its attention on two measures of volatility, namely the conditional volatility and the realized volatility. 
+Nevertheless, oil price volatility users are faced with multiple volatility measures, multiple forecasting models and different reasons for which they use oil price volatility forecasts (e.g. policy making, portfolio allocation, risk management). Thus, in order for oil volatility users to make informed decisions, they need to know what the most appropriate volatility measure is and what the most accurate forecasting model is.
+This innovative project aims to lay the foundations for an advanced econometric model framework for the evaluation of the best oil volatility measures along with the best forecasting models, using objective-based loss functions.  
+The outcome of this fellowship will be a toolbox, containing the aforementioned framework. The project will have a great impact on the fellow as it will allow him to advance his existing scientific skills through the cutting-edge training in the state-of-the-art oil volatility forecasting techniques, in energy finance and in the field of consulting. Overall, the research training will allow the fellow to develop a pioneering research agenda in energy finance and will position him as an internationally recognised scholar that contributes further to the research excellence in Europe. Even more, this fellowship will have a great impact on the supervisor, the host institution and the European Research Area.</objective>
+  <title>Objective-based forecast evaluations for crude oil volatility.</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

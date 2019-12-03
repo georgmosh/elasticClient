@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>206181</rcn>
+  <acronym>QROWD</acronym>
+  <objective>Big Data integration in European cities is of utmost importance for municipalities and companies to offer effective information services, enable efficient data-driven transportation and mobility, reduce CO2 emissions, assess the efficiency of infrastructure, as well as enhance the quality of life of citizens. At present this integration is substantially limited due to the following factors: 1) Urban Big Data is locked in isolated industrial and public sectors, and 2) The actual Big Data integration is an extremely hard technical problem due to the heterogeneity of data sources, variety of formats, sizes, quality as well as update rates, such that the integration requires significant human intervention. 
+
+QROWD addresses these challenges by offering methods to perform cross-sectoral streaming Big Data integration including geographic, transport, meteorological, cross domain and news data, while capitalizing on human feedback channels. The main objectives of QROWD are: (1) Facilitating cross-sectoral Big Data stream integration for urban mobility including real-time data on individual and public transportation combined with further available sources, such as weather conditions and infrastructure information to create a comprehensive overview of the city traffic; (2) Supporting participation and feedback of various stakeholder groups to foster data-driven innovation in cities; and (3) Building a platform providing hybrid computational methods relying on efficient algorithms complemented with human computation and feedback. 
+
+The main outcomes of QROWD are: (1) Two data value chains in the sectors of urban mobility and public transportation using a mix of large scale heterogeneous multilingual datasets; and (2) Cross-sectoral and cross-lingual technology, including algorithms and tools covering all phases of the cross-sectoral Big Data Value Chain building on W3C standards and capitalizing on a flexible and efficient combination of human and machine-based computation.</objective>
+  <title>QROWD - Because Big Data Integration is Humanly Possible</title>
+<identifier>H2020ICT20161</identifier>
+</project>

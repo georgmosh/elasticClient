@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>209567</rcn>
+  <acronym>TEI</acronym>
+  <objective>Non DNA-sequence based inheritance has been observed in many organisms from microbes to man and likely impacts public health. The mechanisms of non DNA-sequence based inheritance remain largely unknown. However, some examples of non DNA-sequence based inheritance in mammals, plants and invertebrates are linked to the control of selfish, transposable elements in the genome. Here we propose to discover the mechanistic basis of multi-generational non DNA-sequence based inheritance, also referred to as transgenerational epigenetic inheritance (TEI), using the laboratory animal model Caenorhabditis elegans. Specifically, our goal is to identify chromatin and non-coding RNA “epigenetic” marks that transfer information from generation to generation in C. elegans. C. elegans is a great model for this work as it has a generation time of only three days, has a powerful genetics toolkit and its chromatin and RNA pathways are largely conserved in humans. Towards this goal we have established a novel assay we named piRNA-related insertional chromatin immunoprecipitation (piChIP). Using this piChIP system, our specific aims are:
+Aim-1: Identification of novel non-coding RNAs in the germline nuclear RNAi pathway
+-  Method: RNA-seq
+Aim-2: Identification of novel proteins and histone PTMs in the germline nuclear RNAi pathway
+-  Method: SILAC proteomics and Mass Spectrometry</objective>
+  <title>Development of a model system to study the role of chromatin factors during transgenerational epigenetic inheritance (TEI) in C. elegans</title>
+<identifier>H2020MSCAIF2016</identifier>
+</project>

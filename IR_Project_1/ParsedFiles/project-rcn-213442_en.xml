@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>213442</rcn>
+  <acronym>BirNonArchGeom</acronym>
+  <objective>Resolution of singularities is one of classical, central and difficult areas of algebraic geometry, with a centennial history of intensive research and contributions of such great names as Zariski, Hironaka and Abhyankar. Nowadays, desingularization of schemes of characteristic zero is very well understood, while semistable reduction of morphisms and desingularization in positive characteristic are still waiting for major breakthroughs. In addition to the classical techniques with their triumph in characteristic zero, modern resolution of singularities includes de Jong's method of alterations, toroidal methods, formal analytic and non-archimedean methods, etc.
+
+The aim of the proposed research is to study nearly all directions in resolution of singularities and semistable reduction, as well as the wild ramification phenomena, which are probably the main obstacle to transfer methods from characteristic zero to positive characteristic.
+
+The methods of algebraic and non-archimedean geometries are intertwined in the proposal, though algebraic geometry is somewhat dominating, especially due to the new stack-theoretic techniques. It seems very probable that increasing the symbiosis between birational and non-archimedean geometries will be one of by-products of this research.</objective>
+  <title>Birational and non-archimedean geometries</title>
+<identifier>ERC2017COG</identifier>
+</project>

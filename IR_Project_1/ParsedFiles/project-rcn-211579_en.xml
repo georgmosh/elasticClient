@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>211579</rcn>
+  <acronym>CITCOM</acronym>
+  <objective>For the latest generation of micro-fabricated devices that are currently being developed, no suitable in-line production inspection equipment is available, simply because current inspection equipment expects planar processing while most of the devices are often highly 3D in nature e.g. medical. This lack of automated processing feedback makes it difficult to steer process development towards higher yields in micro-components and MEMS production. Another visible problem is the need to document and record process data, even on the individual device level, with the degree of traceability as is required for example, for medical devices fabricated under ISO13485. Both factors in the end limit the possibility of reliable and cost effective manufacturing of MEMS and micro-components. 
+Thus, CITCOM has been proposed to address the industrial needs of MEMS and micro-manufacturing which will offer an in-line production inspection and measurement system for micro-components. The system will be developed and demonstrated at TRL7. The system will be based on optical and X-ray techniques combined with computer tomography and advance robotic system capable of analyzing defects that occur in production of micro components e.g. stains, debris, fracture, abnormal displacements, chemical composition of surface coatings, surface traces etc. enabling 98% yield and 100% reliability.
+Ultimately, CITCOM will cut such costs by 60% as it will offer a system with automated knowledge and inspection data based process feedback that will allow the detection and traceability of faults that may occur in MEMS production, especially for critical applications like aerospace, space and healthcare.
+CITCOM will give Europe a technological and competitive advantage in the growing manufacturing and production industry. The consortium behind this action is strongly driven by industrial need and problem having Philips and Microsemi as end users and validators of the technology.</objective>
+  <title>A Complimentary Inspection Technique based on Computer Tomography and Plenoptic Camera for MEMS Components</title>
+<identifier>H2020FOF2017</identifier>
+</project>

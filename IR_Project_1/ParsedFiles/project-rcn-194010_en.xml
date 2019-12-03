@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>194010</rcn>
+  <acronym>RAPID</acronym>
+  <objective>In RAPID, we propose to use a centralized radio access (C-RAN) architecture to support high-capacity heterogeneous (3g, 4G and 60 GHz) radio access technologies through low-cost, but ultra-high-bandwidth photonic techniques for the fibre distribution. To meet the requirement to transport the high-frequency (and wide-bandwidth) wireless signals at low-cost, a novel coherent radio-over-fiber (CRoF) scheme is proposed in RAPID. Furthermore, for the mobile receiver, novel extremely low-cost (&lt;10€) integrated transceivers will be developed based upon a SiGe technology. 
+The radio resource management of the heterogeneous network using the developed mm-wave and photonic technologies together with legacy 3G/4G wireless will be demonstrated in RAPID and the developed hardware will be tested in life-cycle assessments within different real life networks scenarios including a public stadium, an operators fiber-optic and wireless network, as well as in train, airport scenarios.</objective>
+  <title>Radio technologies for 5G using advanced photonic infrastructure for dense user environments</title>
+<identifier>H2020EUJ2014</identifier>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>198476</rcn>
+  <acronym>CyberCare</acronym>
+  <objective>This proposal addresses high-risk, high-reward research of integrated sensing and computing architectures, as well as of models, methods and tools for their design and operation. Such architectures provide the bridge between bio-systems and information processing systems, where a bio-system is an abstraction of a human in terms of biophysical parameters. Breakthroughs in data acquisition, processing and decision making support will enable new smart-health applications.
+
+The essential research goals of this proposal are: biophysical data acquisition by novel programmable integrated sensor arrays and their design and test using a modular and structured architecture; data processing in situ and/or remotely using application-specific hardware and/or embedded software; a new robust synthesis methodology for data processing units based on a new logic structure; models, abstractions and software tools for reasoning about the acquired data, to validate health conditions and/or to provide remedies (i.e., therapy). The results of this research will be embodied in a demonstrator showing the effectiveness of these combined technologies in first-aid medical care. 
+
+The outcome of this research will have a deep and broad impact on health care, because it will improve diagnosis and therapy in a variety of cases. Namely, it will boost the quality and quantity of the acquired biophysical data, possibly in real time, by leveraging multiple sensing modalities and dedicated computing architectures. The use of formal methods for design, data evaluation and decision making support will enhance the quality of the diagnostic platforms and will ease their qualification and adoption. Moreover, the integration of sensing and electronics and their in-field programmability will reduce production cost and lower the barrier of adoption, thus providing for better and more affordable health care means.</objective>
+  <title>Integrated Sensing Architectures and Tools for Health Care</title>
+<identifier>ERC2014ADG</identifier>
+</project>

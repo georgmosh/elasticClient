@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196978</rcn>
+  <acronym>CIRCLE</acronym>
+  <objective>In recent years, several research groups have been created in the emerging research area of molecular communications. This is seen as a fundamental enabler for nano-scale networked devices. The heterogeneity of the biological environments that can host nano-scale communications has produced different proposals (e.g. neuronal networks, molecular diffusion, flow-based carrier mobility) analyzed by means of different research approaches and tools (different analytical models, simulators, lab experiments). For this reason, the need of integrating research activities at an EU level has emerged. The main objective of the CIRCLE is to integrate islands of heterogeneous research activities in a common research framework. The nature of the proposal is therefore strategic for the EU research objectives, highly interdisciplinary, inclusive of any input coming from any research activities that can contribute to identifying a research roadmap for the future years and feasible future exploitation plans.
+
+In the short term, CIRCLE will facilitate the creation of an EU wide Molecular Communications (CIRCLE) forum and provide a support infrastructure for coordination of research across Europe. In the medium term, it will foster knowledge sharing via the CIRCLE forum and a dedicated web portal. This will focus on the sharing of both research methodologies and simulation code repositories. It will establish expert working groups in different research topics within the Molecular Communications domain and develop strategic Roadmaps for both academic research and industry involvement. In the long term, CIRCLE will push the Roadmaps at a Member State and EU level to ensure Molecular Communications research converges rapidly towards feasible products of interest in the marketplace.</objective>
+  <title>Coordinating European Research on Molecular Communications</title>
+<identifier>H2020FETOPEN2014CSA</identifier>
+</project>

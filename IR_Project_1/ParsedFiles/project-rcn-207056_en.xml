@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>207056</rcn>
+  <acronym>PATH</acronym>
+  <objective>PATH is intended to promote a collaborative researches focused in the development of high density plasma sources
+implemented with the Exchange of staff personnel between the partners of the network. The research will also address
+transfer of knowledge and training of the researchers in the specific field of plasma sources and its applications in the telecommunication sector.
+High density plasma sources find large number of industrial applications from material treatment to Telecommunication. Overcoming the density limit of current source will open new frontier in several technological field.
+PATH aims at cross linking different competences to study and develop prototype of plasma sources and plasma antenna based on hybrid technologies based on Radiofrequency and Hollow cathode technologies.
+A Gaseous Plasma Antenna (GPA) is a plasma discharge confined in a dielectric tube that uses partially or fully ionized gas to generate and receive electromagnetic waves; GPAs are virtually “transparent” above the plasma frequency and become “invisible” when turned off. Unlike ordinary metallic antennas, GPAs and Plasma Antenna Arrays can be reconfigured electrically (rather than mechanically) with respect to impedance, frequency, bandwidth and directivity on time scales the order of microseconds or milliseconds. It is also possible to stack arrays of GPAs designed to operate at different frequencies. A Plasma Antenna will be able to: (i) identifying the direction of incoming signal, (ii) tracking and locating the antenna beam on the mobile/target, (iii) beam-steering while minimizing interferences.
+Actual technology is based mainly on: (i) DC discharge, (ii) AC discharge, (iii) RF discharge, (iv) Microwaves, (v) Hollow cathode. Improvement of plasma source performances require a strong effort in term of modelling and technology. 
+The aim of PATH is to merge European competences to make a substantial step toward innovative hybrid plasma sources.</objective>
+  <title>Plasma Antenna Technologies</title>
+<identifier>H2020MSCARISE2016</identifier>
+</project>

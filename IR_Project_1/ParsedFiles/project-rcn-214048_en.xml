@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>214048</rcn>
+  <acronym>CIVICS</acronym>
+  <objective>A large social science literature tries to describe and understand the causes and consequences of crime, usually focusing on individuals’ criminal activity in isolation. The ambitious aim of this research project is to establish a broader perspective of crime that takes into account the social context in which it takes place. The findings will inform policymakers on how to better use funds both for crime prevention and the rehabilitation of incarcerated criminals. 
+
+Criminal activity is often a group phenomenon, yet little is known about how criminal networks form and what can be done to break them up or prevent them from forming in the first place. Overlooking victims of crime and their relationships to criminals has led to an incomplete and distorted view of crime and its individual and social costs. While a better understanding of these social interactions is crucial for designing more effective anti-crime policy, existing research in criminology, sociology and economics has struggled to identify causal effects due to data limitations and difficult statistical identification issues.
+
+This project will push the research frontier by combining register datasets that have never been merged before, and by using several state-of-the-art statistical methods to estimate causal effects related to criminal peer groups and their victims.  More specifically, we aim to do the following:
+
+-Use recent advances in network modelling to describe the structure and density of various criminal networks and study network dynamics following the arrest/incarceration or death of a central player in a network.
+-Obtain a more accurate measure of the societal costs of crime, including actual measures for lost earnings and physical and mental health problems, following victims and their offenders both before and after a crime takes place.
+-Conduct a randomized controlled trial within a prison system to better understand how current rehabilitation programs affect criminal and victim networks.</objective>
+  <title>Criminality, Victimization and Social Interactions</title>
+<identifier>ERC2017STG</identifier>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://cordis.europa.eu">
+  <rcn>196846</rcn>
+  <acronym>ZAS</acronym>
+  <objective>In ZAS the topic NMP-13-2014: "Storage of energy produced by decentralised sources" will be addressed in order to improve the performance of rechargeable zinc-air batteries as a promising option for stationary energy storage. 
+
+The overall objective of ZAS is to enable the use of distributed and intermittent renewable energy sources by further developing this type of battery technology. The new battery is expected to have an energy density higher than 250 Wh/kg and 300 Wh/L, and reversibility of more than 1000 cycles at 80 % DOD, good safety performance and a cost lower than 300 €/kWh.
+
+Through close interaction between computer simulations and experimental testing, ZAS will select and develop nanostructured electrode and electrolyte materials used in an innovative cell design. Modelling materials, structures, and dynamics on different length scales will contribute to a rational cell. After generation of the materials and validation of our full cell model, we will predict cell performance for a variety of cell designs and operating conditions, providing data into the technology validation by simulating different scenarios including hybrid systems in which zinc-air batteries are used as storage devices. The synergy with other technologies will be obtained through the strong experience the members of the consortium possess towards other types of metal-air batteries and in related technologies e.g. hydrogen fuel cells and water electrolyzers. The involvement of an end user in the consortium will ensure that the developed technology meets the requirements for hybrid constellations of energy storage. The exploitation and business plan developed in ZAS will be based explicitly on energy system simulation and validation of the feasibility of using zinc-air batteries for energy storage by performing life cycle assessment (LCA). Material selection, up-scalability, and innovative design will be crucial for identifying how any follow-up should be organized and financed.</objective>
+  <title>Zinc Air Secondary innovative nanotech based batteries for efficient energy storage</title>
+<identifier>H2020NMP2014twostage</identifier>
+</project>
